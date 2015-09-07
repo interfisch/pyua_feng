@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000685	20141213						2000526								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Bente Vollstedt			Ahlmannstraﬂe 14		DE	24118	Kiel	bente_vollstedt@hotmail.com																1
+ANR	 Bente Vollstedt			Ahlmannstraﬂe 14		DE	24118	Kiel	bente_vollstedt@hotmail.com																1
+P			ORDERS								20141213	20141213											EUR	1	4250804721168			1		336,09	199,97355									120															199,97355

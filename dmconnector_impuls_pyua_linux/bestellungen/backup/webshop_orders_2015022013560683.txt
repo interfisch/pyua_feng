@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000980	20150220						2000733								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Beate Wynands	BDS AG		Max-Planck-Str. 1		DE	40237	Düsseldorf	wynati@web.de																1
+ANR	 Beate Wynands			Behrenstraße 27		DE	40233	Düsseldorf	wynati@web.de																1
+P			ORDERS								20150220	20150220											EUR	1	4250804713637			1		462,14	274,9733									120															274,9733

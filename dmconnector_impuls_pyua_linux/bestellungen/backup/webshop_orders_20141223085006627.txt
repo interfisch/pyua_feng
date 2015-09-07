@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000761	20141223						2000585								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 torsten pöschel			hauptstraße 79		DE	01587	riesa	t.poesche@online.de																1
+ANR	 torsten pöschel			hauptstraße 79		DE	01587	riesa	t.poesche@online.de																1
+P			ORDERS								20141223	20141223											EUR	1	4250804720512			1		71,43	85,0017									120															85,0017

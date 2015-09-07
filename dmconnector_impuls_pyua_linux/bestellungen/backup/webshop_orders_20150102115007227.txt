@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000791	20150102						2000611								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Sven Wendlandt			Virchowstr. 35		DE	38118	Braunschweig	examenskandidat@web.de																1
+ANR	 Sven Wendlandt			Virchowstr. 35		DE	38118	Braunschweig	examenskandidat@web.de																1
+P			ORDERS								20150102	20150102											EUR	1	4250804715280			1		210,04	124,9738									120															124,9738
+P			ORDERS								20150102	20150102											EUR	2	4250804719387			1		50,38	29,9761									120															29,9761
+P			ORDERS								20150102	20150102											EUR	3	4250494021975			1		37,77	22,47315									120															22,47315

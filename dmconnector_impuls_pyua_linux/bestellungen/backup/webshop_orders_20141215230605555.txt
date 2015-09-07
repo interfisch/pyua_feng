@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000716	20141215						2000549								EUR										0										24		OS via pyua_de		0,0000	26			0
+ANL	 Sergio Blotti			Via Campagna 27		CH	6582	Pianezzo	sergio.blotti@gmail.com	0796744487															4
+ANR	 Sergio Blotti			Via Campagna 27		CH	6582	Pianezzo	sergio.blotti@gmail.com	0796744487															4
+P			ORDERS								20141215	20141215											EUR	1	4250804714061			1		231,09	231,09									120															231,09

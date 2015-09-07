@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000428	20141122						2000318								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Helge Meyn-Hellberg			Kirchstraﬂe 5		DE	31029	Banteln	helge.hellberg@gmx.de																1
+ANR	 Helge Meyn-Hellberg			Kirchstraﬂe 5		DE	31029	Banteln	helge.hellberg@gmx.de																1
+P			ORDERS								20141122	20141122											EUR	1	4250804718380			1		46,22	55,0018									120															55,0018

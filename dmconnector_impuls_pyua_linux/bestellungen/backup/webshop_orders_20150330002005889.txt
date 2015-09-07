@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001066	20150329						2000728								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Petra Reichert			Schnabelbrunnengasse 22		DE	67071	Ludwigshafen	petrareichert@web.de																1
+ANR	 Petra Reichert			Schnabelbrunnengasse 22		DE	67071	Ludwigshafen	petrareichert@web.de																1
+P			ORDERS								20150329	20150329											EUR	1	4250804721137			1		168,07	200,0033									120															200,0033

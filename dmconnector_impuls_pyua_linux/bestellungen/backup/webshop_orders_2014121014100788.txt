@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000651	20141210						2000331								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Steffen Hettler			Staudenweg 13		DE	68305	Mannheim	Steffen.hettler@outlook.com																1
+ANR	 Steffen Hettler			Staudenweg 13		DE	68305	Mannheim	Steffen.hettler@outlook.com																1
+P			ORDERS								20141210	20141210											EUR	1	4250804721113			1		33,57	39,9483									120															39,9483

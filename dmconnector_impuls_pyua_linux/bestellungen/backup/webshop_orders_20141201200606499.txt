@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000586	20141201						2000449								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Feodor von Wedel			Maßliebchenstrasse 3		DE	80935	München	f.vonwedel@yahoo.de																1
+ANR	 Feodor von Wedel			Maßliebchenstrasse 3		DE	80935	München	f.vonwedel@yahoo.de																1
+P			ORDERS								20141201	20141201											EUR	1	4250494010429			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141201	20141201											EUR	2	4250494013291			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141201	20141201											EUR	3	4250494019842			1		10,06	11,9714									120															11,9714

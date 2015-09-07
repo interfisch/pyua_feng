@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000810	20150104						2000616								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Benjamin Melzer			Goethestrasse 11		DE	61440	Oberursel	benjamin_melzer@yahoo.com																1
+ANR	 Benjamin Melzer			Goethestrasse 11		DE	61440	Oberursel	benjamin_melzer@yahoo.com																1
+P			ORDERS								20150104	20150104											EUR	1	4250804713484			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150104	20150104											EUR	2	4250804713279			1		420,13	249,97735									120															249,97735

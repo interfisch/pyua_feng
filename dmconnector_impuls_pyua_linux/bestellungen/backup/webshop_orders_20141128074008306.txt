@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000497	20141128						2000372								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Gabor Molnar			Danziger Str. 175		DE	10407	Berlin	iamgabormolnar@gmail.com	+4915140511084															1
+ANR	 Gabor Molnar			Danziger Str. 175		DE	10407	Berlin	iamgabormolnar@gmail.com	+4915140511084															1
+P			ORDERS								20141128	20141128											EUR	1	4250804720512			1		63,03	75,0057									120															75,0057

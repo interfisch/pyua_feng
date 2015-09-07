@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000354	20141116						2000263								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Antje Cramer			Düppelstrasse 70		DE	24105	Kiel	antje_cramer@web.de																1
+ANR	 Antje Cramer			Düppelstrasse 70		DE	24105	Kiel	antje_cramer@web.de																1
+P			ORDERS								20141116	20141116											EUR	1	4250804717826			1		210,04	249,9476									120															249,9476
+P			ORDERS								20141116	20141116											EUR	2	4250494020282			1		21,01	25,0019									120															25,0019

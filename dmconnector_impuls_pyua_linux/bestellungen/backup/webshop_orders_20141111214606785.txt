@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000246	20141111						2000166								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Stefan Walz			Sternstr. 11		DE	24103	Kiel	stefan.walz@web.de																1
+ANR	 Stefan Walz			Sternstr. 11		DE	24103	Kiel	stefan.walz@web.de																1
+P			ORDERS								20141111	20141111											EUR	1	4250494020794			1		29,41	13,99916									120															13,99916
+P			ORDERS								20141111	20141111											EUR	2	4250804713415			1		462,14	219,97864									120															219,97864

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000864	20150121						2000579								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Miriam Pfeiffer	Kinobar Prager Frühling		Bernhard Göring Straße 152		DE	04277	Leipzig	miriam.pfeiffer@kinobar-leipzig.de	00491792244870															1
+ANR	 Miriam Pfeiffer	Kinobar Prager Frühling		Bernhard Göring Straße 152		DE	04277	Leipzig	miriam.pfeiffer@kinobar-leipzig.de	00491792244870															1
+P			ORDERS								20150121	20150121											EUR	1	4250804720222			1		100	47,6									120															47,6

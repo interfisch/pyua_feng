@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000551	20141128						2000420								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Markus  Hiemeyer			Thann 39		DE	91572	Bechhofen	Markus-Hiemeyer@gmx.de																1
+ANR	 Markus  Hiemeyer			Thann 39		DE	91572	Bechhofen	Markus-Hiemeyer@gmx.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804717307			1		75,63	89,9997									120															89,9997

@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000433	20141123						2000320								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Frauke Knüppel			Stremelweg 4		DE	21149	Hamburg	F.Temme@gmx.de																1
+ANR	 Frauke Knüppel			Stremelweg 4		DE	21149	Hamburg	F.Temme@gmx.de																1
+P			ORDERS								20141123	20141123											EUR	1	4250804721151			1		336,09	279,96297									120															279,96297
+P			ORDERS								20141123	20141123											EUR	2	4250804721168			1		336,09	279,96297									120															279,96297
+P			ORDERS								20141123	20141123											EUR	3	4250804715235			1		252,06	209,96598									120															209,96598

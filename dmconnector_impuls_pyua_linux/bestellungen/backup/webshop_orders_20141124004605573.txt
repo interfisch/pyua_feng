@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000438	20141123						2000324								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Siegfried Flohr	804604377		Packstation 187		DE	22769	Hamburg	siegfried.flohr@outlook.com																1
+ANR	 Siegfried Flohr			Stresemannstraﬂe 73		DE	22769	Hamburg	siegfried.flohr@outlook.com	+4917624093578															1
+P			ORDERS								20141123	20141123											EUR	1	4250804713477			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141123	20141123											EUR	2	4250804713330			1		420,13	199,98188									120															199,98188
+P			ORDERS								20141123	20141123											EUR	3	4250804717574			1		100,8	47,9808									120															47,9808
+P			ORDERS								20141123	20141123											EUR	4	4250804718571			1		46,22	55,0018									120															55,0018

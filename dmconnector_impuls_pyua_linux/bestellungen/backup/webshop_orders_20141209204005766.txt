@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000641	20141209						2000494								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Johanna Stehrenberg			Hochwaldstr. 12		DE	92318	Neumarkt	jstehrenberg@web.de	09181466597															1
+ANR	 Johanna Stehrenberg			Hochwaldstr. 12		DE	92318	Neumarkt	jstehrenberg@web.de	09181466597															1
+P			ORDERS								20141209	20141209											EUR	1	4250804721151			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141209	20141209											EUR	2	4250804719523			1		40,33	47,9927									120															47,9927

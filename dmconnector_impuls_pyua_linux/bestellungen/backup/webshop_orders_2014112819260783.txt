@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000539	20141128						2000245								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martin Beck			Silberburgstraﬂe 136		DE	70176	Stuttgart	martinmichaelbeck@web.de																1
+ANR	 Martin Beck			Silberburgstraﬂe 136		DE	70176	Stuttgart	martinmichaelbeck@web.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804720550			1		63,03	75,0057									120															75,0057
+P			ORDERS								20141128	20141128											EUR	2	4250804720505			1		63,02	74,9938									120															74,9938
+P			ORDERS								20141128	20141128											EUR	3	4250804719165			1		33,61	39,9959									120															39,9959
+P			ORDERS								20141128	20141128											EUR	4	4250804719363			2		25,21	29,9999									120															29,9999
+P			ORDERS								20141128	20141128											EUR	5	4250804719356			1		25,21	29,9999									120															29,9999

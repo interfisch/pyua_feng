@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000868	20150122						2000669								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Wieland			Rathausstraﬂe 11		DE	82467	Garmisch-Partenkirchen	wielandgap@aol.com																1
+ANR	 Andreas Wieland			Rathausstraﬂe 11		DE	82467	Garmisch-Partenkirchen	wielandgap@aol.com																1
+P			ORDERS								20150122	20150122											EUR	1	4250804713446			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150122	20150122											EUR	2	4250804720598			1		100	59,5									120															59,5
+P			ORDERS								20150122	20150122											EUR	3	4250804719387			1		50,38	29,9761									120															29,9761

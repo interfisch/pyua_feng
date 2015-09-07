@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001056	20150328						2000594								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Beatrice  Ziller			Naumannstraﬂe 13		DE	98693	Ilmenau 	beaziller@gmx.de																1
+ANR	 Beatrice  Ziller			Naumannstraﬂe 13		DE	98693	Ilmenau 	beaziller@gmx.de																1
+P			ORDERS								20150328	20150328											EUR	1	4250804715266			1		105,04	124,9976									120															124,9976
+P			ORDERS								20150328	20150328											EUR	2	4250804717864			1		96,64	115,0016									120															115,0016

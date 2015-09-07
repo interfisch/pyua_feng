@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001139	20150515						2000859								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Dana Michaelis	Freiwilligen-Agentur Halle		Leipziger Str. 37		DE	06108	Halle	danamichaelis@hotmail.com																1
+ANR	 Dana Michaelis			Humboldtstraﬂe 3		DE	06114	Halle	danamichaelis@hotmail.com																1
+P			ORDERS								20150515	20150515											EUR	1	4250804720758			1		226,89	269,9991									120															269,9991

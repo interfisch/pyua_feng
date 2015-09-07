@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000456	20141125						2000337								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Franziska Schmuck			Ketschendorfer Str. 64		DE	96450	Coburg	simon.hofmann1@gmx.net																1
+ANR	 Simon Hofmann			Marktstraﬂe 33		DE	74172	Neckarsulm	simon.hofmann1@gmx.net																1
+P			ORDERS								20141125	20141125											EUR	1	4250804718366			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141125	20141125											EUR	2	4250804715761			1		29,37	34,9503									120															34,9503

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000451	20141125						2000334								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Torsten Staller			Kulenkampffallee 75		DE	28213	Bremen	t_staller@yahoo.de																1
+ANR	 Torsten Staller			Kulenkampffallee 75		DE	28213	Bremen	t_staller@yahoo.de																1
+P			ORDERS								20141125	20141125											EUR	1	4250804718359			1		46,22	55,0018									120															55,0018

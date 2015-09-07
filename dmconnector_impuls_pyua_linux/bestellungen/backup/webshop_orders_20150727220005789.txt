@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001160	20150727						2000875								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Frank Flesch			In den Rohrwiesen 19a		DE	55296	Harxheim	lisa.on@t-online.de																1
+ANR	 Frank Flesch			In den Rohrwiesen 19a		DE	55296	Harxheim	lisa.on@t-online.de																1
+P			ORDERS								20150727	20150727											EUR	1	4250804723780			1		37,77	44,9463									120															44,9463

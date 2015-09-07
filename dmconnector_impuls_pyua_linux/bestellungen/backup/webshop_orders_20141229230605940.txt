@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000776	20141229						2000599								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Anne Lautwein	Postnr. 34722272 		Packstation 119		DE	50674	Köln 	anni.lautwein@web.de																1
+ANR	 Anne Lautwein			Alexianerstrasse 2		DE	50676	Köln	anni.lautwein@web.de																1
+P			ORDERS								20141229	20141229											EUR	1	4250804720772			1		378,11	449,9509									120															449,9509

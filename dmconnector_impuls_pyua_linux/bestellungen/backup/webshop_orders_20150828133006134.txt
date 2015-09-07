@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001164	20150828						2000879								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Florian  Wohlgehagen			Frühlingstraße 2		DE	83607	Holzkirchen	psy1984@gmx.de																1
+ANR	 Florian  Wohlgehagen			Frühlingstraße 2		DE	83607	Holzkirchen	psy1984@gmx.de																1
+P			ORDERS								20150828	20150828											EUR	1	4250804723780			1		37,77	44,9463									120															44,9463
+P			ORDERS								20150828	20150828											EUR	2	4250804715839			1		29,37	34,9503									120															34,9503

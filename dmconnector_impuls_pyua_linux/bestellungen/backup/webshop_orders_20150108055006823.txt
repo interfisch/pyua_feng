@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000827	20150108						2000545								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Nadine  Kuntner 			Fallmerayerstraﬂe 5		AT	6020	Innsbruck 	kuntner.nadine@gmx.net	00436644373885															1
+ANR	 Nadine  Kuntner 			Fallmerayerstraﬂe 5		AT	6020	Innsbruck 	kuntner.nadine@gmx.net	00436644373885															1
+P			ORDERS								20150108	20150108											EUR	1	4250804713613			1		462,14	384,96262									120															384,96262

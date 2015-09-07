@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000471	20141126						2000350								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Nadine Kratz			Wiesecker Weg 38		DE	35396	Gieﬂen	laberfox@gmail.com																1
+ANR	 Christopher Polt			An den Ziegeleien 13		DE	63773	Goldbach	laberfox@gmail.com																1
+P			ORDERS								20141126	20141126											EUR	1	4250804720307			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141126	20141126											EUR	2	4250804720314			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141126	20141126											EUR	3	4250804718380			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141126	20141126											EUR	4	4250804719950			1		46,21	54,9899									120															54,9899

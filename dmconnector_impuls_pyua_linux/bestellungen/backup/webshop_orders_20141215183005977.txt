@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000715	20141215						2000544								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ellena Hönig			Gartenstraße 12		DE	73329	Kuchen	ellena.hoenig@gmx.de																1
+ANR	 Ellena Hönig			Gartenstraße 12		DE	73329	Kuchen	ellena.hoenig@gmx.de																1
+P			ORDERS								20141215	20141215											EUR	1	4250494019590			1		21,01	25,0019									120															25,0019

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000237	20141111						2000156								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Thorsten Schreiner	Debeka		Schloﬂstraﬂe 20		DE	66953	Pirmasens 	thorsten.schreiner1@gmx.de																1
+ANR	 Thorsten Schreiner	Debeka		Schloﬂstraﬂe 20		DE	66953	Pirmasens 	thorsten.schreiner1@gmx.de																1
+P			ORDERS								20141111	20141111											EUR	1	4250494021975			1		37,77	31,46241									120															31,46241
+P			ORDERS								20141111	20141111											EUR	2	4250804718564			1		75,59	62,96647									120															62,96647

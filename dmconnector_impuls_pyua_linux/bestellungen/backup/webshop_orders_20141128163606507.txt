@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000531	20141128						2000402								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Georg Bayerle			Hedwigstr.9		DE	D-80636	München	georg.bayerle@br.de																1
+ANR	 Georg Bayerle			Hedwigstr.9		DE	D-80636	München	georg.bayerle@br.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804715334			1		84,03	99,9957									120															99,9957
+P			ORDERS								20141128	20141128											EUR	2	4250804723780			1		16,81	20,0039									120															20,0039
+P			ORDERS								20141128	20141128											EUR	3	4250494019514			2		12,61	15,0059									120															15,0059
+P			ORDERS								20141128	20141128											EUR	4	4250804720536			1		63,03	75,0057									120															75,0057

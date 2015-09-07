@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001120	20150412						2000846								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Tom Klencke			höperhöfen 3		DE	27367	bötersen	klencke@gmx.de																1
+ANR	 Tom Klencke			höperhöfen 3		DE	27367	bötersen	klencke@gmx.de																1
+P			ORDERS								20150412	20150412											EUR	1	4250804719165			1		35,29	41,9951									120															41,9951

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001137	20150514						2000857								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Anika Christner			Glashütten Weg 15		DE	70567	Stuttgart	anika.christner@gmx.net	071172603327															1
+ANR	 Anika Christner			Glashütten Weg 15		DE	70567	Stuttgart	anika.christner@gmx.net	071172603327															1
+P			ORDERS								20150514	20150514											EUR	1	4250804721151			1		201,68	239,9992									120															239,9992

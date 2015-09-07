@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001018	20150228						2000777								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 andreas reischmann			remigiusstraﬂe 20		DE	78256	steiﬂlingen	as.reischmann@t-online.de																1
+ANR	 andreas reischmann			remigiusstraﬂe 20		DE	78256	steiﬂlingen	as.reischmann@t-online.de																1
+P			ORDERS								20150228	20150228											EUR	1	4250804718366			1		109,2	44,18232									120															44,18232

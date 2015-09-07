@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000439	20141124						2000325								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 marc naumann	SkiMagazin, Brinkman Henrich Fachmedien		Hohenlindener Str. 1		DE	81677	München	mail@marc-naumann.de																1
+ANR	 marc naumann			connollystr. 3m26		DE	80809	münchen	mail@marc-naumann.de																1
+P			ORDERS								20141124	20141124											EUR	1	4250804719288			1		50,38	41,96654									120															41,96654

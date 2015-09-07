@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000645	20141209						2000496								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Vera Sauter bei Bock			Unsöldstraße 7		DE	80538	München	vera.sauter@gmx.net	01745232858															1
+ANR	 Vera Sauter bei Bock			Unsöldstraße 7		DE	80538	München	vera.sauter@gmx.net	01745232858															1
+P			ORDERS								20141209	20141209											EUR	1	4250804721151			1		168,07	200,0033									120															200,0033

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000892	20150125						2000351								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Britta Uhl			Toemlingerstr. 33		DE	81375	München	britta.uhl@web.de	01739532682															1
+ANR	 Britta Uhl			Toemlingerstr. 33		DE	81375	München	britta.uhl@web.de	01739532682															1
+P			ORDERS								20150125	20150125											EUR	1	4250804717895			1		146,22	174,0018									120															174,0018

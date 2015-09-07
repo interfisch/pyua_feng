@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000112	20141004						2000269								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Baumgärtner			Kaiser-Ludwigstr.10		DE	82031	Grünwald	irmela.baumgaertner@googlemail.com	089/46205268															1
+ANR	 Andreas Baumgärtner			Kaiser-Ludwigstr.10		DE	82031	Grünwald	irmela.baumgaertner@googlemail.com	089/46205268															1
+P			ORDERS								20141004	20141004											EUR	1	4250804713439			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141004	20141004											EUR	2	4250804713422			1		462,15	549,9585									120															549,9585
+P			ORDERS								20141004	20141004											EUR	3	4250804713279			1		420,12	499,9428									120															499,9428
+P			ORDERS								20141004	20141004											EUR	4	4250804713286			1		420,13	499,9547									120															499,9547

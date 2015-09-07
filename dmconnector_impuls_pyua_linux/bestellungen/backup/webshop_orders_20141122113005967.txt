@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000416	20141122						2000053								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Axel Birk			Talstr. 170		DE	69198	Schriesheim	axelbirk@gmx.de																1
+ANR	 Axel Birk			Talstr. 170		DE	69198	Schriesheim	axelbirk@gmx.de																1
+P			ORDERS								20141122	20141122											EUR	1	4250804719936			1		46,22	55,0018									120															55,0018

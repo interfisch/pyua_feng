@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000620	20141207						2000478								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Helga Müller			Spitzbergenweg 81		DE	24109	Kiel	helga.mueller.kiel@freenet.de																1
+ANR	 Helga Müller			Spitzbergenweg 81		DE	24109	Kiel	helga.mueller.kiel@freenet.de																1
+P			ORDERS								20141207	20141207											EUR	1	4250804716478			1		96,64	115,0016									120															115,0016
+P			ORDERS								20141207	20141207											EUR	2	4250804719523			1		40,33	47,9927									120															47,9927
+P			ORDERS								20141207	20141207											EUR	3	4250804719622			1		40,34	48,0046									120															48,0046
+P			ORDERS								20141207	20141207											EUR	4	4250804704369			1		67,19	31,98244									120															31,98244

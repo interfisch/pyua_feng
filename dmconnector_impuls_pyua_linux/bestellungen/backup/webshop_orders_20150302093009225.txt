@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001028	20150302						2000784								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Johannes Fleckenstein			Steinlestr. 29		DE	60596	Frankfurt am Main	johfleckenstein@yahoo.de	+491637815230															1
+ANR	 Johannes Fleckenstein			Steinlestr. 29		DE	60596	Frankfurt am Main	johfleckenstein@yahoo.de	+491637815230															1
+P			ORDERS								20150302	20150302											EUR	1	4250804717376			1		125,21	148,9999									120															148,9999

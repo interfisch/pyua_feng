@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000697	20141213						2000535								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Bettina Stähle			Lindenallee 33		DE	20259	Hamburg	bettinastaehle@gmx.net																1
+ANR	 Bettina Stähle			Lindenallee 33		DE	20259	Hamburg	bettinastaehle@gmx.net																1
+P			ORDERS								20141213	20141213											EUR	1	4250804717338			1		193,24	91,98224									120															91,98224

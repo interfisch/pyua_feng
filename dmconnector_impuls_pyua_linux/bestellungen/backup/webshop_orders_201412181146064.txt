@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000738	20141218						2000568								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Franz Kilian			Schustermarter 23		DE	91330	Eggolsheim	wigald99@gmx.de	015140436867															1
+ANR	 Franz Kilian			Schustermarter 23		DE	91330	Eggolsheim	wigald99@gmx.de	015140436867															1
+P			ORDERS								20141218	20141218											EUR	1	4250804717376			1		193,24	137,97336									120															137,97336
+P			ORDERS								20141218	20141218											EUR	2	4250804713477			1		462,14	329,96796									120															329,96796

@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000254	20141112						2000175								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Ruben Ade			Eberhardstraﬂe 49		DE	70173	Stuttgart	ruben.ade@web.de	01727597142															1
+ANR	 Ruben Ade			Eberhardstraﬂe 49		DE	70173	Stuttgart	ruben.ade@web.de	01727597142															1
+P			ORDERS								20141112	20141112											EUR	1	4250804719189			1		58,78	27,97928									120															27,97928
+P			ORDERS								20141112	20141112											EUR	2	4250804713439			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141112	20141112											EUR	3	4250804719370			1		50,38	23,98088									120															23,98088

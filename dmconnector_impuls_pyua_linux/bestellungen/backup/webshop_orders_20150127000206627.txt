@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000900	20150126						2000693								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Daniella Iordanova			Bondorfer Strasse 8		DE	53604	Bad Honnef	daniella_mi@yahoo.com																1
+ANR	 Daniella Iordanova			Bondorfer Strasse 8		DE	53604	Bad Honnef	daniella_mi@yahoo.com																1
+P			ORDERS								20150126	20150126											EUR	1	4250804719059			1		53,78	63,9982									120															63,9982
+P			ORDERS								20150126	20150126											EUR	2	4250804719509			1		50,38	59,9522									120															59,9522
+P			ORDERS								20150126	20150126											EUR	3	4250804720734			1		301,68	358,9992									120															358,9992
+P			ORDERS								20150126	20150126											EUR	4	4250804714757			1		234,45	278,9955									120															278,9955
+P			ORDERS								20150126	20150126											EUR	5	4250804718953			1		74,79	89,0001									120															89,0001

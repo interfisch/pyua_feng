@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000861	20150121						2000664								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Claudia Wachter			In der au 31		DE	74743	Seckach	claudia@gefako-shop.de																1
+ANR	 Claudia Wachter			In der au 31		DE	74743	Seckach	claudia@gefako-shop.de																1
+P			ORDERS								20150121	20150121											EUR	1	4250804714764			1		234,45	139,49775									120															139,49775
+P			ORDERS								20150121	20150121											EUR	2	4250804720741			1		301,68	179,4996									120															179,4996
+P			ORDERS								20150121	20150121											EUR	3	4250804720895			1		200,84	119,4998									120															119,4998

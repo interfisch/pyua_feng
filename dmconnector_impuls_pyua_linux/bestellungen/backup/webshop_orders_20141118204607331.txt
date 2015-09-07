@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000377	20141118						2000282								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Arnold Rippen			An der Bäke 9		DE	27798	Hude	arnold.rippen@web.de																1
+ANR	 Arnold Rippen			An der Bäke 9		DE	27798	Hude	arnold.rippen@web.de																1
+P			ORDERS								20141118	20141118											EUR	1	4250804719271			1		50,38	29,9761									120															29,9761
+P			ORDERS								20141118	20141118											EUR	2	4250804715211			1		252,06	149,9757									120															149,9757
+P			ORDERS								20141118	20141118											EUR	3	4250804720512			1		142,81	84,97195									120															84,97195

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000599	20141203						2000013								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Runa Graeper			Schaardieksholt 1		DE	24226	Heikendorf	graeper@media4motion.com	01717130119															1
+ANR	 Runa Graeper			Schaardieksholt 1		DE	24226	Heikendorf	graeper@media4motion.com	01717130119															1
+P			ORDERS								20141203	20141203											EUR	1	4250804721151			1		336,09	159,97884									120															159,97884

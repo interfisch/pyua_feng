@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000313	20141113						2000226								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Alexander Göttsche			Looper Weg 47		DE	24644	Krogaspe	alexander.goettsche@gmx.de																1
+ANR	 Alexander Göttsche			Looper Weg 47		DE	24644	Krogaspe	alexander.goettsche@gmx.de																1
+P			ORDERS								20141113	20141113											EUR	1	4250804704192			1		83,99	39,97924									120															39,97924

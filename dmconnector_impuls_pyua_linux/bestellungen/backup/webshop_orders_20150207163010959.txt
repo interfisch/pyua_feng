@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000963	20150207						2000527								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ralph Weyer			Bremer Straﬂe 4		DE	91126	Schwabach	ralphweyer@googlemail.com																1
+ANR	 Ralph Weyer			Bremer Straﬂe 4		DE	91126	Schwabach	ralphweyer@googlemail.com																1
+P			ORDERS								20150207	20150207											EUR	1	4250494021753			1		21,01	25,0019									120															25,0019
+P			ORDERS								20150207	20150207											EUR	2	4250494020916			1		21,01	25,0019									120															25,0019
+P			ORDERS								20150207	20150207											EUR	3	4250494020817			1		24,37	29,0003									120															29,0003

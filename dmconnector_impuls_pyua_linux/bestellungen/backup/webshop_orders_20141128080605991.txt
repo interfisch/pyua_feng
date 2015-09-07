@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000498	20141128						2000374								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Martin Schwantner			Wildbadgasse 6		AT	1210	Wien	sporttechnik6767@gmail.com	+436644068475															1
+ANR	 Martin Schwantner			Wildbadgasse 6		AT	1210	Wien	sporttechnik6767@gmail.com	+436644068475															1
+P			ORDERS								20141128	20141128											EUR	1	4250804717567			1		42,02	50,0038									120															50,0038

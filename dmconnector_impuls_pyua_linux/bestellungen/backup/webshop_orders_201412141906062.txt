@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000705	20141214						2000517								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 magdalena broda			An der Bek 10		DE	24222	Schwentinental	magdalena_broda@gmx.de	043188984610															1
+ANR	 magdalena broda			An der Bek 10		DE	24222	Schwentinental	magdalena_broda@gmx.de	043188984610															1
+P			ORDERS								20141214	20141214											EUR	1	4250804716492			1		193,24	114,9778									120															114,9778

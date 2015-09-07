@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000545	20141128						2000415								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Marianne Lichtenegger			Klein Gaisfeld 63		AT	8564	Krottendorf	m.lichtenegger1@gmx.at																1
+ANR	 Marianne Lichtenegger			Klein Gaisfeld 63		AT	8564	Krottendorf	m.lichtenegger1@gmx.at																1
+P			ORDERS								20141128	20141128											EUR	1	4250804717925			1		75,63	89,9997									120															89,9997

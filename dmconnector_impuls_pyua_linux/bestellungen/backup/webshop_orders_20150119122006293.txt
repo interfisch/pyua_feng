@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000850	20150119						2000651								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Eva Koziol			Prenzlauer Allee 182		DE	10405	Berlin	evakoziol@web.de																1
+ANR	 Eva Koziol			Prenzlauer Allee 182		DE	10405	Berlin	evakoziol@web.de																1
+P			ORDERS								20150119	20150119											EUR	1	4250804721144			1		268,07	319,0033									120															319,0033

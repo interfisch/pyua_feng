@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000767	20141227						2000592								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Karola Thajer			Hohenstaufenstr. 8		DE	73349	Wiesensteig	k.thajer@gmx.de	07335/2288															1
+ANR	 Karola Thajer			Hohenstaufenstr. 8		DE	73349	Wiesensteig	k.thajer@gmx.de	07335/2288															1
+P			ORDERS								20141227	20141227											EUR	1	4250804713835			1		420,13	199,98188									120															199,98188
+P			ORDERS								20141227	20141227											EUR	2	4250804713682			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141227	20141227											EUR	3	4250804716485			1		193,23	91,97748									120															91,97748

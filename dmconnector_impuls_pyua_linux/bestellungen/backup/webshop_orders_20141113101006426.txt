@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000295	20141113						2000209								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marie Kohlschmidt			Groﬂ-Kielstein 4		DE	24118	Kiel	marie.kohlschmidt@gmail.com																1
+ANR	 Marie Kohlschmidt			Groﬂ-Kielstein 4		DE	24118	Kiel	marie.kohlschmidt@gmail.com																1
+P			ORDERS								20141113	20141113											EUR	1	4250804713569			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141113	20141113											EUR	2	4250804717864			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141113	20141113											EUR	3	4250804720741			1		378,11	179,98036									120															179,98036
+P			ORDERS								20141113	20141113											EUR	4	4250804714566			1		462,14	219,97864									120															219,97864

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000596	20141202						2000455								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Dirk Baumann	Matzen & Timm GmbH		Nordportbogen 2		DE	22848	Norderstedt	mmdbaumann@aol.com																1
+ANR	 Martina Baumann			Oldesloer Str. 2b		DE	23867	Sülfeld	mmdbaumann@aol.com																1
+P			ORDERS								20141202	20141202											EUR	1	4250804713637			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141202	20141202											EUR	2	4250804718083			1		71,41	84,9779									120															84,9779

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000871	20150123						2000672								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jessica Hain			Nebenstraﬂe 2		DE	35713	Eschenburg	jessica.hain@web.de																1
+ANR	 Jessica Hain			Nebenstraﬂe 2		DE	35713	Eschenburg	jessica.hain@web.de																1
+P			ORDERS								20150123	20150123											EUR	1	4250804719073			1		53,78	31,9991									120															31,9991
+P			ORDERS								20150123	20150123											EUR	2	4250804720321			1		74,79	44,50005									120															44,50005

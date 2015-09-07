@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000636	20141209						2000491								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ulrich Werenicz			Mühlenau 29		DE	25474	Ellerbek	werenicz@web.de	04101 839 60 70															1
+ANR	 Ulrich Werenicz			Mühlenau 29		DE	25474	Ellerbek	werenicz@web.de	04101 839 60 70															1
+P			ORDERS								20141209	20141209											EUR	1	4250804721175			1		168,07	200,0033									120															200,0033

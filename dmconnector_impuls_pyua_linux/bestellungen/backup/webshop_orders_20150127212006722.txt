@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000906	20150127						2000697								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Tobias Demmel			Dorfstr.22		DE	82401	Rottenbuch	aloholjonny@web.de																1
+ANR	 Tobias Demmel			Dorfstr.22		DE	82401	Rottenbuch	aloholjonny@web.de																1
+P			ORDERS								20150127	20150127											EUR	1	4250804713408			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150127	20150127											EUR	2	4250804714368			1		234,46	139,5037									120															139,5037

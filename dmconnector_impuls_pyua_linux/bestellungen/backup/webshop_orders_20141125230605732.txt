@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000460	20141125						2000341								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Carolin Huber			Silbersteinstraﬂe 116		DE	12051	Berlin	friedhuber@t-online.de																1
+ANR	 Carolin Huber			Silbersteinstraﬂe 116		DE	12051	Berlin	friedhuber@t-online.de																1
+P			ORDERS								20141125	20141125											EUR	1	4250804717826			1		210,04	124,9738									120															124,9738
+P			ORDERS								20141125	20141125											EUR	2	4250804716423			1		193,24	114,9778									120															114,9778

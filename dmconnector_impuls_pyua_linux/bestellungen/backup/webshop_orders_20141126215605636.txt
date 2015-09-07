@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000468	20141126						2000243								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Raphael Kammer			Alstertwiete 9		DE	20099	Hamburg	mail@raphaelkammer.de	015115775176															1
+ANR	 Raphael Kammer			Alstertwiete 9		DE	20099	Hamburg	mail@raphaelkammer.de	015115775176															1
+P			ORDERS								20141126	20141126											EUR	1	4250804717581			1		100,8	47,9808									120															47,9808

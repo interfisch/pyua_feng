@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000907	20150127						2000507								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Florian Wilke			Schloß-Berg-Str. 20		DE	81549	München	f.wilke@live.de																1
+ANR	 Florian Wilke			Schloß-Berg-Str. 20		DE	81549	München	f.wilke@live.de																1
+P			ORDERS								20150127	20150127											EUR	1	4250804719271			1		50,38	23,98088									120															23,98088
+P			ORDERS								20150127	20150127											EUR	2	4250804719363			1		50,38	23,98088									120															23,98088

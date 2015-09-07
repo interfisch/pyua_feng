@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000563	20141129						2000430								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christian Kunz	IGEL AG		Anton-Ditt-Bogen 27		DE	80939	München	christian.kunz@yahoo.de																1
+ANR	 Christian Kunz			Bruckmannstr 3		DE	80638	München	christian.kunz@yahoo.de																1
+P			ORDERS								20141129	20141129											EUR	1	4250494020800			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141129	20141129											EUR	2	4250494020459			1		11,32	13,4708									120															13,4708
+P			ORDERS								20141129	20141129											EUR	3	4250494020503			2		11,32	13,4708									120															13,4708
+P			ORDERS								20141129	20141129											EUR	4	4250494020350			1		11,32	13,4708									120															13,4708
+P			ORDERS								20141129	20141129											EUR	5	4250494010238			1		13,84	16,4696									120															16,4696

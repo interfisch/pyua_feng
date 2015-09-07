@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000609	20141206						2000469								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Moritz Rogenhofer			Bäckenluke 2		DE	97228	Rottendorf	moritz@rogenhofer.com																1
+ANR	 Moritz Rogenhofer			Bäckenluke 2		DE	97228	Rottendorf	moritz@rogenhofer.com																1
+P			ORDERS								20141206	20141206											EUR	1	4250804715037			1		168,07	200,0033									120															200,0033

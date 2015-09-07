@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000248	20141111						2000168								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Hauke Schauermann			Rohnsweg 56		DE	37085	Göttingen	haukeschauermann@web.de	0551 4926090															1
+ANR	 Hauke Schauermann			Rohnsweg 56		DE	37085	Göttingen	haukeschauermann@web.de	0551 4926090															1
+P			ORDERS								20141111	20141111											EUR	1	4250804719844			1		33,57	15,97932									120															15,97932
+P			ORDERS								20141111	20141111											EUR	2	4250804713422			1		462,14	219,97864									120															219,97864

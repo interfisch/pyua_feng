@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000830	20150109						2000635								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Weimper			Hohenstaufenstr. 8		DE	73349	Wiesensteig	aweimper@gmx.net	073352288															1
+ANR	 Andreas Weimper			Hohenstaufenstr. 8		DE	73349	Wiesensteig	aweimper@gmx.net	073352288															1
+P			ORDERS								20150109	20150109											EUR	1	4250804713224			1		420,13	199,98188									120															199,98188
+P			ORDERS								20150109	20150109											EUR	2	4250804715273			1		210,04	99,97904									120															99,97904
+P			ORDERS								20150109	20150109											EUR	3	4250804717529			1		142,81	67,97756									120															67,97756
+P			ORDERS								20150109	20150109											EUR	4	4250804719370			1		50,38	23,98088									120															23,98088
+P			ORDERS								20150109	20150109											EUR	5	4250804717574			1		100,8	47,9808									120															47,9808
+P			ORDERS								20150109	20150109											EUR	6	4250804717376			1		193,23	91,97748									120															91,97748

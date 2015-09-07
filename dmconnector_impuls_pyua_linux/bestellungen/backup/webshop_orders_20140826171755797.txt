@@ -1,0 +1,7 @@
+H	webshop_b2c		ORDERS					70	20140826						200011								EUR										0										35				0	11			0
+ANL		Corinna	Corinna2	Hamburger Landstrae 10			24113	Kiel	corinna@pniok.de	043152420499
+ANR		Corinna	Corinna2	Hamburger Landstrae 10			24113	Kiel	corinna@pniok.de	043152420499
+
+P								70			20140826	20140826												2		4250494013147		1.0000		0	0		0			0						0									
+P																								4		4250804713811		1.0000		100,84	119,9996		0			0						0									
+

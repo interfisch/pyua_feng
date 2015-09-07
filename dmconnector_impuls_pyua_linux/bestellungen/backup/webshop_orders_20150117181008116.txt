@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000838	20150117						2000308								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Reiner Theis			Moselstraﬂe. 6		DE	65555	Limburg	theis@uni-koblenz.de																1
+ANR	 Reiner Theis			Moselstraﬂe. 6		DE	65555	Limburg	theis@uni-koblenz.de																1
+P			ORDERS								20150117	20150117											EUR	1	4250804717574			1		74,79	89,0001									120															89,0001
+P			ORDERS								20150117	20150117											EUR	2	4250804717581			1		74,79	89,0001									120															89,0001

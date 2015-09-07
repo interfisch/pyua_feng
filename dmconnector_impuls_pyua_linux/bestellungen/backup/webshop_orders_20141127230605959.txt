@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000494	20141127						2000368								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Burkhard Lai			Blumenstr. 12a		DE	86438	Kissing	burkhard.lai+pyua@mailbox.org																1
+ANR	 Burkhard Lai			Blumenstr. 12a		DE	86438	Kissing	burkhard.lai+pyua@mailbox.org																1
+P			ORDERS								20141127	20141127											EUR	1	4250804715044			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141127	20141127											EUR	2	4250804715099			1		168,06	199,9914									120															199,9914
+P			ORDERS								20141127	20141127											EUR	3	4250804714047			1		210,09	250,0071									120															250,0071
+P			ORDERS								20141127	20141127											EUR	4	4250804714344			1		134,45	159,9955									120															159,9955
+P			ORDERS								20141127	20141127											EUR	5	4250804719974			1		46,22	55,0018									120															55,0018

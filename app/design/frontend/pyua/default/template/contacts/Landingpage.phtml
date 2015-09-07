@@ -1,0 +1,211 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     rwd_default
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+
+
+
+<style>
+    img {
+        border-radius:  5px;
+    }
+    .r{
+        color: red;
+    }
+
+    /*Positionierung Bild und Formular*/
+    #abwrackForm{
+        padding:    0px;
+        width:      400px;
+    }
+    .leftElement{
+        display:        inline-block;
+        float:          left;
+        text-align:     left;
+        width:          49%;
+    }
+    .rightElement{
+        display:        inline-block;
+        float:          left;
+        text-align:     left;
+        margin-left:    15px;
+        width:          49%;
+    }
+
+    ul.kacheln {
+        margin-top:             20px;
+        list-style-type:        none;
+        height:                 200px;
+    }
+
+    ul.kacheln li.right,
+    ul.kacheln li.right a,
+    ul.kacheln li.right a img {   
+        float:      right;
+    }
+    ul.kacheln li.left,
+    ul.kacheln li.left a,
+    ul.kacheln li.left a img {   
+        float:      left;
+    }
+
+    ul.kacheln li {  
+        display:            inline-block; 
+        width:              24%;
+        margin-left:        1%;
+        height:             auto;
+        background-color:   #fff;
+    }
+
+    ul.kacheln li span{  
+        width:              100%;
+        display:            inline-block;  
+        background-color:   #0077b3;
+        color:              #fff;
+        text-align:         center;
+        font-weight:        bold;
+        font-style:         normal;
+        font-size:          19px;
+        padding-top:        8px;
+        height:             40px;
+    }
+    
+    ul.kacheln li a,
+    ul.kacheln li a:first-child::before,
+    ul.kacheln li a:nth-child(2)::before,
+    ul.kacheln li a img.img_1,
+    ul.kacheln li a img.img_2,
+    ul.kacheln li a img.img_3  {  
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition:    all 0.2s ease-in-out;
+        -o-transition:      all 0.2s ease-in-out;
+        transition:         all 0.2s ease-in-out;
+    } 
+    ul.kacheln li a img{  
+        width:              100%;
+        height:             auto;
+        display:            inline-block;  
+        float:              left;
+        background-color:   #fff;
+        padding-top:        8px;
+    }
+    ul.kacheln li a img.img_1 {
+        display:            block;
+    }  
+    ul.kacheln li a img.img_3 {
+        display:            none;
+    }  
+    /*ul.kacheln li a{  
+        width:              48%;
+        display:            inline-block;  
+        background-color:   #fff;
+        padding-top:        8px;
+    }
+    ul.kacheln li a:first-child::after{
+        content:    "Herren";
+        color:      #000;
+        display:    block;
+        opacity:    0.7;
+    }
+    ul.kacheln li a:nth-child(2)::after{
+        content:    "Damen";
+        color:      #000;
+        display:    block;
+        opacity:    0.7;
+    }*/
+
+    ul.kacheln li a {
+        width:              55%;
+        display:            inline-block;
+        background-color:   #fff;
+        padding-top:        8px;
+        margin-left:        24%;
+    }
+    ul.kacheln li a.bst::after{
+        content:    "Barrier ST-Y";
+        color:      #000;
+        display:    block;
+        opacity:    0.7;
+    }
+    ul.kacheln li a.b::after{
+        content:    "Barrier";
+        color:      #000;
+        display:    block;
+        opacity:    0.7;
+    }
+    ul.kacheln li a.fue::after{
+        content:    "Fleece Übersicht";
+        color:      #000;
+        display:    block;
+        opacity:    0.7;
+    }
+    ul.kacheln li a:first-child:hover::after{
+        opacity:    1;
+    }
+    ul.kacheln li a:nth-child(2):hover::after{
+        opacity:    1;
+    }
+    ul.kacheln li a:hover {
+        text-decoration: none;
+    }
+    ul.kacheln li a:hover > img.img_1{
+        display:    none;
+    }
+    ul.kacheln li a:hover > img.img_2{
+        display:    block;
+        opacity:    0.7;
+    }
+    ul.kacheln li a:hover > img.img_3{
+        display:    block;
+        opacity:    0.7;
+    }
+
+    .grauebox200{
+        border-radius:          5px;
+        -webkit-border-radius:  5px;
+        -moz-border-radius:     5px;
+        border:                 1px solid #c0c0c0;
+        padding:                20px;
+        background-color:       #eeeeee;
+        margin-bottom:          20px;
+        text-align:             center;
+        min-height:             337px;
+    }
+    .grauebox200 h2{
+        font-size: 1.5em !important;
+        font-weight: 400;
+        font-style: normal;
+        line-height: 1.2;
+    }
+    .grauebox200 h3{
+        font-size: 1.4em !important; 
+        font-weight: 400;
+        font-style: normal;
+        line-height: 1.4;
+    }
+    h1:first-child {
+        display: none;
+    }
+</style>

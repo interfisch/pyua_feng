@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000182	20141030						2000101								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Annegret zickmantel			Gartenstraße 4		DE	04416	Markkleebeerg	zickmantel.annegret@gmail.com																1
+ANR	 Annegret zickmantel			Gartenstraße 4		DE	04416	Markkleebeerg	zickmantel.annegret@gmail.com																1
+P			ORDERS								20141030	20141030											EUR	1	4250494020893			1		29,41	17,49895									120															17,49895
+P			ORDERS								20141030	20141030											EUR	2	4250494021739			1		29,41	17,49895									120															17,49895
+P			ORDERS								20141030	20141030											EUR	3	4250804719844			1		33,57	19,97415									120															19,97415

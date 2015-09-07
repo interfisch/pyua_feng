@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000822	20150106						2000630								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Elisabeth  Wahl			Lange 73		DE	77855	Achern	al.wahl@t-online.de	07841 641385															1
+ANR	 Elisabeth  Wahl			Lange 73		DE	77855	Achern	al.wahl@t-online.de	07841 641385															1
+P			ORDERS								20150106	20150106											EUR	1	4250804713590			1		462,14	549,9466									120															549,9466

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000773	20141229						2000596								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Milena Biallowons			Obertalstraﬂe 22		DE	79295	Sulzburg	riedel@geldsparen.de	076346943022															1
+ANR	 Helga Riedel-Biallowons			Roseweg 2 a		DE	86938	Schondorf	riedel@geldsparen.de	08192998206															1
+P			ORDERS								20141229	20141229											EUR	1	4250804713569			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141229	20141229											EUR	2	4250804713576			1		462,15	549,9585									120															549,9585

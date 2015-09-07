@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000279	20141112						2000194								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Daniel Kremer			Obere Straﬂe 4a		DE	70190	Stuttgart	kremer.daniel@me.com	015122355938															1
+ANR	 Daniel Kremer			Obere Straﬂe 4a		DE	70190	Stuttgart	kremer.daniel@me.com	015122355938															1
+P			ORDERS								20141112	20141112											EUR	1	4250804715006			1		336,09	159,97884									120															159,97884
+P			ORDERS								20141112	20141112											EUR	2	4250804706806			1		83,99	39,97924									120															39,97924

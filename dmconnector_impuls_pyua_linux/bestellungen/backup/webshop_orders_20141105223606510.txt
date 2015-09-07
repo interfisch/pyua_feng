@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000212	20141105						2000132								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 uli schrempp			seydlitzstr. 27		DE	80992	münchen	ich@ulischrempp.de																1
+ANR	 uli schrempp			seydlitzstr. 27		DE	80992	münchen	ich@ulischrempp.de																1
+P			ORDERS								20141105	20141105											EUR	1	4250804719523			1		50,38	29,9761									120															29,9761
+P			ORDERS								20141105	20141105											EUR	2	4250804704215			1		83,99	49,97405									120															49,97405

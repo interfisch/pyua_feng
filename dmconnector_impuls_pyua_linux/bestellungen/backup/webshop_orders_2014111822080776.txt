@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000381	20141118						2000285								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Ferdinand Langnickel			Wilhemshavenerstr. 7		DE	24105	Kiel	f.langnickel@gmail.com	01777151272															1
+ANR	 Ferdinand Langnickel			Wilhemshavenerstr. 7		DE	24105	Kiel	f.langnickel@gmail.com	01777151272															1
+P			ORDERS								20141118	20141118											EUR	1	4250804714023			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141118	20141118											EUR	2	4250804714375			1		294,08	139,98208									120															139,98208
+P			ORDERS								20141118	20141118											EUR	3	4250804720574			1		142,81	67,97756									120															67,97756

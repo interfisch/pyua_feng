@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000836	20150115						2000642								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Susann Selig			Lutherweg 25		DE	71522	Backnang	susann@selig.de																1
+ANR	 Susann Selig			Lutherweg 25		DE	71522	Backnang	susann@selig.de																1
+P			ORDERS								20150115	20150115											EUR	1	4250804717376			1		193,24	229,9556									120															229,9556

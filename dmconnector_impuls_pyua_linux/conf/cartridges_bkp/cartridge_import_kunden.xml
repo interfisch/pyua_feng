@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<!-- Es sind 2 Dateien zu schreiben, Kunde und Normalbuchung für ADISSON -->
+<!-- ORDER.CSV = Auftragsdaten -->
+		    
+<Datei name="C:/Bestellungen/order.CSV" type="csv" ShowFirstRow="" id="1" belegAnzahl="2">	
+		<!-- (CSV)-Tabellen-Spalten sind die Tags (Belegtyp, Belegnummer etc) -->
+		<!-- die Attribute definieren wie folgt: -->
+		<!-- import="TAG_AUS_SCHNITTSTELLE/fixed-fester Wert, nicht aus Schnittstelle" -->
+		<!-- standard= Den Eintrag nehmen, wenn "fixed" oder kein Wert in TAG_AUS_SCHNITTSTELLE -->
+		<Art import="fixed" type="string" length="1" standard="K" update="false"/>
+		<Webshop-Kdnr import="CUSTOMER_ID" type="string" length="10" standard="" update="false"/>
+		<Konto1 import="fixed" type="string" length="1" standard="1200" update="false"/>
+		<Name1 import="BILLINGADDRESS_NAME" type="string" length="40" standard="" update="false"/>
+		<Name2 import="BILLINGADDRESS_NAME2" type="string" length="40" standard="" update="false"/>
+		<Zusatz import="BILLINGADDRESS_NAME3" type="string" length="40" standard="" update="false"/>
+		<Strasse import="BILLINGADDRESS_STREET" type="string" length="40" standard="" update="false"/>
+		<ISO import="BILLINGADDRESS_COUNTRY_CODE" type="string" length="40" standard="" update="false"/>
+		<Plz import="BILLINGADDRESS_ZIP" type="string" length="6" standard="" update="false"/>
+		<Ort import="BILLINGADDRESS_CITY" type="string" length="10" standard="" update="false"/>
+		<Konto2 import="fixed" type="string" length="1" standard="" update="false"/>
+		<ustid import="BILLINGADDRESS_VAT_ID" type="string" length="10" standard="" update="false"/>
+		<Anrede import="fixed" type="string" length="6" standard="Sehr geehrter Herr" update="false"/>
+</Datei>	
+
+<!-- orderp.CSV = Artikeldaten (die bestellten Artikel - je Besteller) -->
+<Datei name="C:/Bestellungen/orderp.CSV"  type="csv" ShowFirstRow="" id="2" belegAnzahl="2">
+		<Art import="fixed" type="string" length="1" standard="B" update="false"/>
+			
+</Datei>	
+
+</root>
+
+

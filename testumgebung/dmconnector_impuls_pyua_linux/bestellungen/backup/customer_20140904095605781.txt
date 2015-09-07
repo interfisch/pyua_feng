@@ -1,0 +1,1 @@
+WebShop_K	2000225				test test	teststr 2	12345	teststadt	0123456789	CUSTOMER_TAX_PERCENT		test@test.de	DE	Onlineueberweisung							24		

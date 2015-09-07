@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000625	20141208						2000483								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Julia Franzen			Alfredstr. 8		DE	45470	Mülheim	franzen.j.julia@gmail.com																1
+ANR	 Julia Franzen			Alfredstr. 8		DE	45470	Mülheim	franzen.j.julia@gmail.com																1
+P			ORDERS								20141208	20141208											EUR	1	4250804716423			1		96,64	115,0016									120															115,0016

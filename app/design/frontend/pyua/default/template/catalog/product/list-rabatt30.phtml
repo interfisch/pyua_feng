@@ -1,0 +1,129 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+<?php
+/**
+ * Product list template
+ *
+ * @see Mage_Catalog_Block_Product_List
+ */
+?>
+<?php
+$_productCollection     =   $this->getLoadedProductCollection();
+$_helper                =   $this->helper('catalog/output');
+if(!$_productCollection->count()){ 
+    echo "<p class=\"note-msg\">". $this->__('There are no products matching the selection.') ."</p>";
+}else{
+    $productsInLine     =   5;  // wie viele Produkte sollen in eine Reihe
+    $productsShow       =   5;  // wie viele Produkte sollen ausgelesen werden
+    $rabatt             =   30; // wie viel Prozent Rabatt soll es geben
+    $i                  =   0;
+    $List               =   "";
+    foreach ($_productCollection as $_product){
+        // Daten zusammensammeln
+        $image      =   $this->helper('catalog/image')->init($_product, 'small_image')->resize(135, 135);
+        $name       =   $this->htmlEscape($_product->getName());
+        $url        =   $_product->getProductUrl();
+        #$old_price  =   $this->getPriceHtml($_product, true);   
+        $old_price  =   round($_product->getPrice(),2);   
+        $new_price  =   round($old_price-($old_price/100*$rabatt),2);
+
+        $List       .=  "<div class=\"product\">";
+        $List       .=  "   <a href=\"".$url."\">";
+        $List       .=  "       <img src=\"".$image."\">";
+        $List       .=  "       <span class=\"name\">".$name."</span>";
+        $List       .=  "       <span class=\"priceOld\">Preis: ".$old_price."€</span>";
+        $List       .=  "       <span class=\"priceNew\"><b>abzgl. ".$rabatt."%: ".$new_price."€</b></span>";
+        $List       .=  "   </a>";
+        $List       .=  "</div>";
+
+
+        // Schleife hochzaehlen
+        $i++;
+        if($i == 5){ break; }
+    }
+
+    // AUSGABE
+        //CSS
+    echo "
+    <style>
+        .ProductLineView{
+            display:            block;
+            position:           relative;
+            border-bottom:      3px solid #0077B5;
+        }
+        .ProductLineView span.title {
+            position:           relative;
+            display:            block;
+            width:              100%;
+            height:             30px;
+            color:              #fff;
+            background-color:   #0077B5;
+            font-weight:        bold;
+            font-size:          22px;
+            padding-top:        5px;
+            float:              left;
+            padding-left:       31px;
+            text-transform:     uppercase;
+        }
+        .ProductLineView .product {
+            width:              20%;
+            position:           relative;
+            display:            inline-block;
+            border-radius:      5px;
+            border:             1px solid transparent;
+            padding:            5px;
+            margin-top:         5px;
+            margin-bottom:      5px;
+        }
+        .ProductLineView .product:hover{
+            border:             1px solid #000;
+        }
+
+        .ProductLineView .name,
+        .ProductLineView .priceOld{
+            color:              #666666;
+        }
+        .ProductLineView .priceOld{
+            text-decoration:    line-through;
+        }
+
+        .ProductLineView .name,
+        .ProductLineView .priceOld,
+        .ProductLineView .priceNew{
+            width:              100%;
+            position:           relative;
+            display:            inline-block;
+        }
+    </style>
+    ";
+        //Content
+    echo "<div class=\"ProductLineView\">".
+         "<span class=\"title\"><i class=\"fa fa-gift\"></i> Auszug aus unserem Produktsortiment</span>".
+        $List
+        ."</div>";    
+}
+?>

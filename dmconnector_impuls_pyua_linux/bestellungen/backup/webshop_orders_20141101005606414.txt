@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000197	20141031						2000116								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stephanie Fischer			Potsdamerstrasse 17		DE	80802	München	s.fischer@outlook.com																1
+ANR	 Stephanie Fischer			Potsdamerstrasse 17		DE	80802	München	s.fischer@outlook.com																1
+P			ORDERS								20141031	20141031											EUR	1	4250804704369			1		83,99	49,97405									120															49,97405
+P			ORDERS								20141031	20141031											EUR	2	4250804719424			1		58,78	34,9741									120															34,9741
+P			ORDERS								20141031	20141031											EUR	3	4250804719622			1		50,38	29,9761									120															29,9761
+P			ORDERS								20141031	20141031											EUR	4	4250804706776			1		83,99	49,97405									120															49,97405

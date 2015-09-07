@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000815	20150104						2000622								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Julia Schunck			Sternstraße 6		DE	48145	Münster	julia-schunck@web.de	015731365878															1
+ANR	 Julia Schunck			Sternstraße 6		DE	48145	Münster	julia-schunck@web.de	015731365878															1
+P			ORDERS								20150104	20150104											EUR	1	4250804713552			1		462,14	274,9733									120															274,9733

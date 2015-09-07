@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000488	20141127						2000364								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marc Häußinger			Volkartstr. 71		DE	80636	München	haeussinger@gmx.net																1
+ANR	 Marc Häußinger			Volkartstr. 71		DE	80636	München	haeussinger@gmx.net																1
+P			ORDERS								20141127	20141127											EUR	1	4250804714207			1		84,03	99,9957									120															99,9957

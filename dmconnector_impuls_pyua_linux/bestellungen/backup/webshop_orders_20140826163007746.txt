@@ -1,0 +1,19 @@
+H	webshop_b2c		ORDERS					67	20140821						-								EUR										0										36				0	6			0
+ANL		test	test2	testatr. 3			68161	Mannheim	test@test.de	0171-23165487
+ANR		test	test2	testatr. 3			68161	Mannheim	test@test.de	0171-23165487
+
+P								67			20140821	20140821												2		4250804713828		2.0000		100,84	119,9996		0			0						0									
+P																								4		4250804713781		1.0000		100,84	119,9996		0			0						0									
+
+H	webshop_b2c		ORDERS					68	20140821						200011								EUR										0										36				0	6			0
+ANL		Corinna	Corinna2	Hamburger Landstrae 10			24113	Kiel	corinna@pniok.de	043152420499
+ANR		Corinna	Corinna2	Hamburger Landstrae 10			24113	Kiel	corinna@pniok.de	043152420499
+P								68			20140821	20140821												2		4250804721113		1.0000		68,03	80,9557		0			0						0									
+
+
+H	webshop_b2c		ORDERS					69	20140821						-								EUR										0										36				0	6			0
+ANL		test	test2	teststr. 3			68161	Mannheim	test@test.de	0171-298371654
+ANR		test	test2	teststr. 3			68161	Mannheim	test@test.de	0171-298371654
+P								69			20140821	20140821												2		4250804713767		1.0000		100,84	119,9996		0			0						0									
+
+

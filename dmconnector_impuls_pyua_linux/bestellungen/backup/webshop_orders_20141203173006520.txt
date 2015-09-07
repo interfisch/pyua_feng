@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000597	20141203						2000456								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Zaïra Teuber			Obermatten 6		CH	8735	Rüeterswil	zte@gmx.ch	0041 55 284 54 15															4
+ANR	 Zaïra Teuber			Obermatten 6		CH	8735	Rüeterswil	zte@gmx.ch	0041 55 284 54 15															4
+P			ORDERS								20141203	20141203											EUR	1	4250804717215			1		210,04	210,04									120															210,04
+P			ORDERS								20141203	20141203											EUR	2	4250494020282			1		10,06	10,06									120															10,06
+P			ORDERS								20141203	20141203											EUR	3	4250494021104			1		11,32	11,32									120															11,32
+P			ORDERS								20141203	20141203											EUR	4	4250494020145			1		10,06	10,06									120															10,06

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000825	20150107						2000633								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Lena Vieweg			Münchener Strasse 77		DE	85748	Garching	dcg-lena@gmx.de																1
+ANR	 Lena Vieweg			Münchener Strasse 77		DE	85748	Garching	dcg-lena@gmx.de																1
+P			ORDERS								20150107	20150107											EUR	1	4250804713774			1		420,13	499,9547									120															499,9547

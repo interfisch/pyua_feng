@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000231	20141111						2000152								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Florian Kehl			Ostendstraﬂe 3		DE	76131	Karlsruhe	kehl.florian@gmail.com	016096572098															1
+ANR	 Florian Kehl			Ostendstraﬂe 3		DE	76131	Karlsruhe	kehl.florian@gmail.com	016096572098															1
+P			ORDERS								20141111	20141111											EUR	1	4250804713361			1		462,14	219,97864									120															219,97864

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000978	20150219						2000757								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christine  Listl			Bergwerkstr 52		DE	83471	Berchtegaden	christinelistl@t-online.de	+491717494836															1
+ANR	 Christine  Listl			Bergwerkstr 52		DE	83471	Berchtegaden	christinelistl@t-online.de	+491717494836															1
+P			ORDERS								20150219	20150219											EUR	1	4250804717567			1		74,79	53,40006									120															53,40006

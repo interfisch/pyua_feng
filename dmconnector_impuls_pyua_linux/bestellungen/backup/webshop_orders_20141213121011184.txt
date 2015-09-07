@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000679	20141213						2000055								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Franz Graf			Siebending 14		AT	9433	St.Andrä	bobglas@aon.at	+43535855255															1
+ANR	 Franz Graf			Siebending 14		AT	9433	St.Andrä	bobglas@aon.at	+43535855255															1
+P			ORDERS								20141213	20141213											EUR	1	4250494020817			1		24,37	29,0003									120															29,0003
+P			ORDERS								20141213	20141213											EUR	2	4250804720581			1		71,43	85,0017									120															85,0017

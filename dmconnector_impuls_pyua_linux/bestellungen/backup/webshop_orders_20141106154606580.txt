@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000217	20141106						2000135								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Claudia Gagel	Federkiel & Partner GmbH		Salzburger Straﬂe 13		DE	83071	Schloﬂberg	cl.gagel82@googlemail.com																1
+ANR	 Claudia Gagel			Klaus-Honauer-Straﬂe 12		DE	83512	Wasserburg	cl.gagel82@googlemail.com																1
+P			ORDERS								20141106	20141106											EUR	1	4250494020305			1		21,01	15,00114									120															15,00114
+P			ORDERS								20141106	20141106											EUR	2	4250804716898			1		29,37	20,97018									120															20,97018

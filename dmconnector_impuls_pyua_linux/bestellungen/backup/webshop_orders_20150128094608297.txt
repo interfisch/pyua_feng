@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000909	20150128						2000699								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Peter Lecour	GYMONDO GMBH		Paul-Lincke-Ufer 39/40, Hof 3 Aufgang 4, Stock 4		DE	10999	Berlin	peter.lecour@gymondo.de	017632737926															1
+ANR	 Peter Lecour			Paul-Lincke-Ufer 39/40		DE	Griebenowstraﬂe 17	Berlin	peter.lecour@gymondo.de	+4917632737926															1
+P			ORDERS								20150128	20150128											EUR	1	4250804714016			1		368,91	439,0029									120															439,0029

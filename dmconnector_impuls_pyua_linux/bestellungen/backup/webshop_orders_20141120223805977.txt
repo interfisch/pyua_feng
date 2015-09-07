@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000395	20141120						2000297								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Nadja Siegert			Weinbergsweg 36		DE	61348	Bad Homburg	nadjasiegert@web.de																1
+ANR	 Nadja Siegert			Weinbergsweg 36		DE	61348	Bad Homburg	nadjasiegert@web.de																1
+P			ORDERS								20141120	20141120											EUR	1	4250804721168			1		336,09	399,9471									120															399,9471

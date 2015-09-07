@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000194	20141031						2000114								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Martin Bruecher			Hofweg 77		DE	22085	Hamburg	m_bruecher@web.de																1
+ANR	 Martin Bruecher			Hofweg 77		DE	22085	Hamburg	m_bruecher@web.de																1
+P			ORDERS								20141031	20141031											EUR	1	4250804717215			1		210,04	124,9738									120															124,9738
+P			ORDERS								20141031	20141031											EUR	2	4250804719165			1		58,78	34,9741									120															34,9741
+P			ORDERS								20141031	20141031											EUR	3	4250804719417			1		58,79	34,98005									120															34,98005

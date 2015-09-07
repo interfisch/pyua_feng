@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000462	20141126						2000343								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael Schmidt			Falkensteiner Weg 3 a		DE	61389	Schmitten	mschmidt@de.amadeus.com	0171-4863584															1
+ANR	 Michael Schmidt			Falkensteiner Weg 3 a		DE	61389	Schmitten	mschmidt@de.amadeus.com	0171-4863584															1
+P			ORDERS								20141126	20141126											EUR	1	4250804717215			1		210,04	174,96332									120															174,96332

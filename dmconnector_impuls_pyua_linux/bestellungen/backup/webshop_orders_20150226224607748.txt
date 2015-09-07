@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001013	20150226						2000775								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christian Wohlgemuth			Am Kurpark 6B		DE	35619	Braunfels	chtlat@web.de	015208606743															1
+ANR	 Christian Wohlgemuth			Am Kurpark 6B		DE	35619	Braunfels	chtlat@web.de	015208606743															1
+P			ORDERS								20150226	20150226											EUR	1	4250494010245			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150226	20150226											EUR	2	4250804719295			1		50,38	59,9522									120															59,9522

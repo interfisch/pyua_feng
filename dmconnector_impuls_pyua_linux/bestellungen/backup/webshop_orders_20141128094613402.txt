@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000503	20141128						2000380								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Klaudia Schwarz	Grazer Wechselseitige Versicherung AG		Herrengasse 18-20		AT	8010	Graz	krauchleitner@hotmail.com																1
+ANR	 Klaudia Schwarz			Fichtestraﬂe 75/15		AT	8020	Graz	krauchleitner@hotmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250494020213			1		12,61	15,0059									120															15,0059
+P			ORDERS								20141128	20141128											EUR	2	4250804706776			1		42,01	49,9919									120															49,9919
+P			ORDERS								20141128	20141128											EUR	3	4250804720857			1		84,04	100,0076									120															100,0076

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000820	20150105						2000627								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Wolfgang Will			Heppstädter Weg 35		DE	91334	Hemhofen	wolfgang.j.will@t-online.de	0151 51030902															1
+ANR	 Wolfgang Will			Heppstädter Weg 35		DE	91334	Hemhofen	wolfgang.j.will@t-online.de	0151 51030902															1
+P			ORDERS								20150105	20150105											EUR	1	4250804713446			1		462,14	549,9466									120															549,9466

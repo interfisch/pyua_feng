@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000243	20141111						2000161								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 felix schumann			sudetenstrasse 1A		DE	87527	sonthofen	felixschumann@gmx.net																1
+ANR	 felix schumann			sudetenstrasse 1A		DE	87527	sonthofen	felixschumann@gmx.net																1
+P			ORDERS								20141111	20141111											EUR	1	4250494019750			1		21,01	10,00076									120															10,00076
+P			ORDERS								20141111	20141111											EUR	2	4250804716461			1		193,23	91,97748									120															91,97748
+P			ORDERS								20141111	20141111											EUR	3	4250494020275			1		21,01	10,00076									120															10,00076
+P			ORDERS								20141111	20141111											EUR	4	4250804719844			1		33,57	15,97932									120															15,97932
+P			ORDERS								20141111	20141111											EUR	5	4250804719271			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141111	20141111											EUR	6	4250804721113			1		33,57	15,97932									120															15,97932

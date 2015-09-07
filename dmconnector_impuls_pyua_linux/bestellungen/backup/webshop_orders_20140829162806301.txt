@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					83	20140829						200165								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 timo perschke			baumannskamp 7		DE	24248	mönkeberg	tp@pyua.de	015140420907															1
+ANR	 timo perschke			baumannskamp 7		DE	24248	mönkeberg	tp@pyua.de	015140420907															1
+P			ORDERS								20140829	20140829											EUR	1	4250804715020			1.0000		336,09	399,9471									120															399,9471

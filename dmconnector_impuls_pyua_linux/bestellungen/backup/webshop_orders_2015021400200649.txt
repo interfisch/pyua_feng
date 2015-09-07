@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000976	20150213						2000654								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Norbert Koke			Hörder Str. 144		DE	44892	Bochum	norbert.koke@web.de	01722827454															1
+ANR	 Norbert Koke			Hörder Str. 144		DE	44892	Bochum	norbert.koke@web.de	01722827454															1
+P			ORDERS								20150213	20150213											EUR	1	4250804713361			1		462,14	274,9733									120															274,9733

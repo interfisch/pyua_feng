@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000996	20150223						2000221								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Nicole Hartings	E-Plus Retail GmbH		E-Plus Strasse 1		DE	40472	Düsseldorf	iv.ro@mailbox.org																1
+ANR	 Nicole Hartings	E-Plus Retail GmbH		E-Plus Strasse 1		DE	40472	Düsseldorf	iv.ro@mailbox.org																1
+P			ORDERS								20150223	20150223											EUR	1	4250804713989			1		378,11	152,983306									120															152,983306

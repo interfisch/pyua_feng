@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001057	20150328						2000802								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Rainer Dörfler			Georg-Mechtersheimer-Str.5		DE	69126	Heidelberg	doerfler.rainer@gmail.com	06221-618180															1
+ANR	 Rainer Dörfler			Georg-Mechtersheimer-Str.5		DE	69126	Heidelberg	doerfler.rainer@gmail.com	06221-618180															1
+P			ORDERS								20150328	20150328											EUR	1	4250804719363			1		25,21	29,9999									120															29,9999
+P			ORDERS								20150328	20150328											EUR	2	4250804719165			1		29,41	34,9979									120															34,9979

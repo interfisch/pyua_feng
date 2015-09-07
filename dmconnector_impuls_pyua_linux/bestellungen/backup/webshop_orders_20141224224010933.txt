@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000764	20141224						2000589								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Luisa  Neugebauer			Erich-Kästner-Straße 21		DE	80976	München	luisa.neugebauer@googlemail.com																1
+ANR	 Luisa  Neugebauer			Erich-Kästner-Straße 21		DE	80976	München	luisa.neugebauer@googlemail.com																1
+P			ORDERS								20141224	20141224											EUR	1	4250804720154			1		46,22	55,0018									120															55,0018

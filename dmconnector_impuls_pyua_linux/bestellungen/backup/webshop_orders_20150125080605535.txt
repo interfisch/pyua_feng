@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000884	20150125						2000682								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Tobias  Schlegel 			An der Arche 5		DE	79183	Waldkirvh	t.schlegel@vodafone.de	01736735861															1
+ANR	 Tobias  Schlegel 			An der Arche 5		DE	79183	Waldkirvh	t.schlegel@vodafone.de	01736735861															1
+P			ORDERS								20150125	20150125											EUR	1	4250804713408			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150125	20150125											EUR	2	4250804713354			1		462,15	274,97925									120															274,97925
+P			ORDERS								20150125	20150125											EUR	3	4250804714054			1		368,9	219,4955									120															219,4955
+P			ORDERS								20150125	20150125											EUR	4	4250804717352			1		146,22	87,0009									120															87,0009
+P			ORDERS								20150125	20150125											EUR	5	4250804717550			1		74,79	44,50005									120															44,50005

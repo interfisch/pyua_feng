@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000138	20141021						2000057								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jan Turek			Haseldorfer Strasse 12		DE	25492	Heist	jan.turek@gmx.de																1
+ANR	 Jan Turek			Haseldorfer Strasse 12		DE	25492	Heist	jan.turek@gmx.de																1
+P			ORDERS								20141021	20141021											EUR	1	4250494021975			1		37,77	22,47315									120															22,47315

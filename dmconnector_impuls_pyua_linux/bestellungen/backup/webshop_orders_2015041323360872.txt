@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100001122	20150413						2000848								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Julia Messerer			Kaemmererufer 13		DE	22303	Hamburg	julia.messerer@posteo.de																1
+ANR	 Julia Messerer			Kaemmererufer 13		DE	22303	Hamburg	julia.messerer@posteo.de																1
+P			ORDERS								20150413	20150413											EUR	1	4250804720840			1		151,26	179,9994									120															179,9994
+P			ORDERS								20150413	20150413											EUR	2	4250804721137			1		201,68	239,9992									120															239,9992
+P			ORDERS								20150413	20150413											EUR	3	4250804720833			1		151,26	179,9994									120															179,9994

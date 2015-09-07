@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000407	20141121						2000306								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Fiona Thut			Neubiberger Str. 48		DE	81737	München	fionathut@web.de																1
+ANR	 Fiona Thut			Neubiberger Str. 48		DE	81737	München	fionathut@web.de																1
+P			ORDERS								20141121	20141121											EUR	1	4250804720321			1		46,22	55,0018									120															55,0018

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000841	20150117						2000256								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marco Vollmar	WWF Deutschland		Reinhardtstr.18		DE	10117	Berlin	mvollmar@gmx.net																1
+ANR	 Marco Vollmar	WWF Deutschland		Reinhardtstr.18		DE	10117	Berlin	mvollmar@gmx.net																1
+P			ORDERS								20150117	20150117											EUR	1	4250804713989			1		301,68	358,9992									120															358,9992

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000263	20141112						2000183								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marc Ölschläger			Eisenlohrstr. 7		DE	76135	Karlsruhe	oelschlaeger.marc@gmail.com																1
+ANR	 Marc Ölschläger			Eisenlohrstr. 7		DE	76135	Karlsruhe	oelschlaeger.marc@gmail.com																1
+P			ORDERS								20141112	20141112											EUR	1	4250804719363			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141112	20141112											EUR	2	4250804719271			1		50,38	23,98088									120															23,98088

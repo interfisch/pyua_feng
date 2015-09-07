@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000750	20141221						2000578								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Sebastian Paul			Crellestr. 19 VH		DE	10827	Berlin	sebastianpaul@gmx.net																1
+ANR	 Sebastian Paul			Crellestr. 19 VH		DE	10827	Berlin	sebastianpaul@gmx.net																1
+P			ORDERS								20141221	20141221											EUR	1	4250804715013			1		336,09	399,9471									120															399,9471
+P			ORDERS								20141221	20141221											EUR	2	4250804715020			1		336,09	399,9471									120															399,9471

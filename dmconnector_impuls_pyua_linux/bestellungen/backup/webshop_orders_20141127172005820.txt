@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000480	20141127						2000356								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 alexandra harms			kieler str. 23		DE	26382	wilhelmshaven	mordsbraut79@googlemail.com																1
+ANR	 alexandra harms			kieler str. 23		DE	26382	wilhelmshaven	mordsbraut79@googlemail.com																1
+P			ORDERS								20141127	20141127											EUR	1	4250804721175			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141127	20141127											EUR	2	4250804716492			1		84,03	99,9957									120															99,9957

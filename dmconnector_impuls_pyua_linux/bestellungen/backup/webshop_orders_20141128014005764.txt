@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000495	20141128						2000369								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Robert Krause			Jägerstr. 34, Horthaus		DE	01099	Dresden	rob.krause@web.de	03515636358															1
+ANR	 Robert Krause			Jägerstr. 34, Horthaus		DE	01099	Dresden	rob.krause@web.de	03515636358															1
+P			ORDERS								20141128	20141128											EUR	1	4250804715280			1		84,03	99,9957									120															99,9957

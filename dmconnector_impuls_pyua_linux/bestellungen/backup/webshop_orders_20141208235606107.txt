@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000632	20141208						2000488								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Nicolai Lindemeier			Adolfstr. 17		DE	24105	Kiel	nicolai.lindemeier@googlemail.com	017699814938															1
+ANR	 Nicolai Lindemeier			Adolfstr. 17		DE	24105	Kiel	nicolai.lindemeier@googlemail.com	017699814938															1
+P			ORDERS								20141208	20141208											EUR	1	4250804713453			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141208	20141208											EUR	2	4250804713408			1		462,15	219,9834									120															219,9834
+P			ORDERS								20141208	20141208											EUR	3	4250804714009			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141208	20141208											EUR	4	4250804720550			1		142,81	67,97756									120															67,97756

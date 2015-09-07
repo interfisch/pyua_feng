@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000653	20141210						2000503								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Luca Vanoli			Fuchsloch 10		CH	6317	Oberwil	luca.vanoli@datazug.ch																4
+ANR	 Luca Vanoli			Fuchsloch 10		CH	6317	Oberwil	luca.vanoli@datazug.ch																4
+P			ORDERS								20141210	20141210											EUR	1	4250804714078			1		462,14	184,856									120															184,856
+P			ORDERS								20141210	20141210											EUR	2	4250804714320			1		294,08	117,632									120															117,632
+P			ORDERS								20141210	20141210											EUR	3	4250804720574			1		142,82	57,128									120															57,128

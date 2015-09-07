@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000335	20141115						2000244								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Gerhard Schober			Am Wiesenhang 15		DE	85283	Wolnzach	gschobe@web.de	08442679992															1
+ANR	 Gerhard Schober			Am Wiesenhang 15		DE	85283	Wolnzach	gschobe@web.de	08442679992															1
+P			ORDERS								20141115	20141115											EUR	1	4250494010443			2		29,41	34,9979									120															34,9979
+P			ORDERS								20141115	20141115											EUR	2	4250494020817			1		29,42	35,0098									120															35,0098

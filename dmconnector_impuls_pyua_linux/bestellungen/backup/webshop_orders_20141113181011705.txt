@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000303	20141113						2000218								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Marina Meierle			Sierichstraﬂe 98		DE	22299	Hamburg	marinameierle@gmx.de																1
+ANR	 Marina Meierle			Sierichstraﬂe 98		DE	22299	Hamburg	marinameierle@gmx.de																1
+P			ORDERS								20141113	20141113											EUR	1	4250804719622			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141113	20141113											EUR	2	4250804713613			1		462,14	219,97864									120															219,97864

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000268	20141112						2000189								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 lisa frederike lamtzsch			ranhartweg 9		DE	83627	warngau	lisa.lantzsch@gmx.de																1
+ANR	 lisa frederike lamtzsch			ranhartweg 9		DE	83627	warngau	lisa.lantzsch@gmx.de																1
+P			ORDERS								20141112	20141112											EUR	1	4250804719417			1		58,78	27,97928									120															27,97928
+P			ORDERS								20141112	20141112											EUR	2	4250494022071			1		29,37	13,98012									120															13,98012

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000883	20150124						2000681								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Henkelmann			Kaiserswerther Str. 77b		DE	47809	Krefeld	ahenkelmann@web.de																1
+ANR	 Andreas Henkelmann			Kaiserswerther Str. 77b		DE	47809	Krefeld	ahenkelmann@web.de																1
+P			ORDERS								20150124	20150124											EUR	1	4250804717321			1		146,22	174,0018									120															174,0018

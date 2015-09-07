@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001016	20150227						2000776								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christian Dieterrshagen			Bismarckallee 28		DE	63739	Aschaffenburg	dietershagen@gmx.de																1
+ANR	 Christian Dieterrshagen			Bismarckallee 28		DE	63739	Aschaffenburg	dietershagen@gmx.de																1
+P			ORDERS								20150227	20150227											EUR	1	4250804717581			1		74,79	89,0001									120															89,0001
+P			ORDERS								20150227	20150227											EUR	2	4250804718533			1		75,59	30,583714									120															30,583714

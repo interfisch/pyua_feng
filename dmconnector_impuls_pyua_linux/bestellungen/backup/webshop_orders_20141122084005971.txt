@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000413	20141122						2000230								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Oliver Brunner			Wienerstrasse 15/7a		AT	2340	Mödling	oliver.brunner@drei.at	066020148006															1
+ANR	 Oliver Brunner			Wienerstrasse 15/7a		AT	2340	Mödling	oliver.brunner@drei.at	066020148006															1
+P			ORDERS								20141122	20141122											EUR	1	4250804719967			1		46,22	55,0018									120															55,0018

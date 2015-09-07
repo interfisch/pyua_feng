@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000485	20141127						2000360								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Dominique Köppe	48448610 		Packstation 102		DE	24937	Flensburg	Dominique.Koeppe@web.de																1
+ANR	 Dominique Köppe			Hafermarkt 13		DE	24943	Flensburg	Dominique.Koeppe@web.de																1
+P			ORDERS								20141127	20141127											EUR	1	4250804721137			1		168,07	200,0033									120															200,0033

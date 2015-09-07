@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000512	20141128						2000387								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Constanze Raff			Alte Weinsteige 56		DE	70176 	Stuttgart	conni@oraff.de																1
+ANR	 Constanze Raff			Alte Weinsteige 56		DE	70176 	Stuttgart	conni@oraff.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804717864			1		75,63	89,9997									120															89,9997

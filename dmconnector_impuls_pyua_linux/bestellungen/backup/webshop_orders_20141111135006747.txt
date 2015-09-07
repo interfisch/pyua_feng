@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000229	20141111						2000150								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Matthias Zientek			Karl-Wilhelm-Str. 8 / Steuer WG9		DE	76131	Karlsruhe	matthias.zientek@gmail.com	015111687340															1
+ANR	 Matthias Zientek			Karl-Wilhelm-Str. 8 / Steuer WG9		DE	76131	Karlsruhe	matthias.zientek@gmail.com	015111687340															1
+P			ORDERS								20141111	20141111											EUR	1	4250804713422			1		462,14	219,97864									120															219,97864

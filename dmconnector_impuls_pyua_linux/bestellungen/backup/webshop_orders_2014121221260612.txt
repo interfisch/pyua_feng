@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000676	20141212						2000522								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Michael Stern			Michaelsweg 13		DE	94345	Niedermotzing	ignatzstern@googlemail.com	94299499595															1
+ANR	 Michael Stern			Michaelsweg 13		DE	94345	Niedermotzing	ignatzstern@googlemail.com	94299499595															1
+P			ORDERS								20141212	20141212											EUR	1	4250804706790			1		67,19	79,9561									120															79,9561

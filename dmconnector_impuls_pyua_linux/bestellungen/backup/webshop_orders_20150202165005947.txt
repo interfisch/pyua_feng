@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000947	20150202						2000724								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Benedikt Pieper			Kampstraße 31		DE	59602	Rüthen	benne.p@gmx.de	01712996147															1
+ANR	 Benedikt Pieper			Kampstraße 31		DE	59602	Rüthen	benne.p@gmx.de	01712996147															1
+P			ORDERS								20150202	20150202											EUR	1	4250804704215			1		83,99	49,97405									120															49,97405
+P			ORDERS								20150202	20150202											EUR	2	4250804704222			1		83,99	49,97405									120															49,97405

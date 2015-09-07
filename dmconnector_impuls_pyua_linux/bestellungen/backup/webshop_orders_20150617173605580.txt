@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001156	20150617						2000871								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Katrin Büttner			Spirgelbachstrasse 1b		DE	63637	Jossgrund	katrin.buettner@web.de																1
+ANR	 Katrin Büttner			Spirgelbachstrasse 1b		DE	63637	Jossgrund	katrin.buettner@web.de																1
+P			ORDERS								20150617	20150617											EUR	1	4250804716409			1		193,24	229,9556									120															229,9556

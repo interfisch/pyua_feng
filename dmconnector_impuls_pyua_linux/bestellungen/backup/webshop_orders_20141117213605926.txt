@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000369	20141117						2000274								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Susanne Schewe			Chodowieckistr. 22		DE	10405	Berlin	sanne@schewe.com																1
+ANR	 Susanne Schewe			Chodowieckistr. 22		DE	10405	Berlin	sanne@schewe.com																1
+P			ORDERS								20141117	20141117											EUR	1	4250804713408			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141117	20141117											EUR	2	4250804720550			1		142,82	67,98232									120															67,98232
+P			ORDERS								20141117	20141117											EUR	3	4250804721144			1		336,09	159,97884									120															159,97884

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000374	20141118						2000252								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Hans-Hermann Riese			Saarbrückenstr. 54		DE	24114	Kiel	hhriese@web.de																1
+ANR	 Hans-Hermann Riese			Saarbrückenstr. 54		DE	24114	Kiel	hhriese@web.de																1
+P			ORDERS								20141118	20141118											EUR	1	4250804715846			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141118	20141118											EUR	2	4250804723797			1		37,77	17,97852									120															17,97852

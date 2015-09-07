@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					72	20140827						200011								EUR										0										35		OS via pyua_de		0,0000	11			0
+ANL	 Corinna Pniok	media4motion Werbeagentur		Hamburger Landstraße 10		DE	24113	Kiel	corinna@pniok.de	043152420499
+ANR	 Corinna Pniok	media4motion Werbeagentur		Hamburger Landstraße 10		DE	24113	Kiel	corinna@pniok.de	043152420499
+P			ORDERS								20140827	20140827											EUR	1	4250494022071			5.0000		29,37	34,9503									120															34,9503
+P			ORDERS								20140827	20140827											EUR	2	4250494020442			2.0000		37,73	44,8987									120															44,8987

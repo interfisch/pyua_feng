@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000930	20150131						2000712								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Kathy Albrecht			Kieler Straﬂe 19g		DE	24631	Langwedel	kathy.albrecht@web.de																1
+ANR	 Kathy Albrecht			Kieler Straﬂe 19g		DE	24631	Langwedel	kathy.albrecht@web.de																1
+P			ORDERS								20150131	20150131											EUR	1	4250804716423			1		133,61	79,49795									120															79,49795
+P			ORDERS								20150131	20150131											EUR	2	4250804713408			1		462,15	274,97925									120															274,97925

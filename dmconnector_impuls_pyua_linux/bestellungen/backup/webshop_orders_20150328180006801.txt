@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100001061	20150328						2000593								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Florian  Lindenthal 			An der Säge 13		DE	79837	St. Blasien - Menzenschwand	florian_doelzer@gmx.de																1
+ANR	 Florian  Lindenthal 			An der Säge 13		DE	79837	St. Blasien - Menzenschwand	florian_doelzer@gmx.de																1
+P			ORDERS								20150328	20150328											EUR	1	4250804719073			1		37,82	45,0058									120															45,0058
+P			ORDERS								20150328	20150328											EUR	2	4250804719530			1		25,21	29,9999									120															29,9999
+P			ORDERS								20150328	20150328											EUR	3	4250804720284			1		71,42	84,9898									120															84,9898
+P			ORDERS								20150328	20150328											EUR	4	4250804715280			1		105,05	125,0095									120															125,0095
+P			ORDERS								20150328	20150328											EUR	5	4250804718533			1		37,81	44,9939									120															44,9939

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001080	20150402						2000801								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Waltinger			Schweinfurter Straﬂe 133		DE	97464 	Niederwerrn	thomas.waltinger@dvag.de																1
+ANR	 Thomas Waltinger			Schweinfurter Straﬂe 133		DE	97464 	Niederwerrn	thomas.waltinger@dvag.de																1
+P			ORDERS								20150402	20150402											EUR	1	4250804713958			1		189,08	225,0052									120															225,0052
+P			ORDERS								20150402	20150402											EUR	2	4250804714351			1		147,05	174,9895									120															174,9895

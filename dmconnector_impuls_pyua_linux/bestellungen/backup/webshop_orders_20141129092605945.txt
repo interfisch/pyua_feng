@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000561	20141129						2000428								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christine Hoffmann			Rudolfstr. 5		DE	38114	Braunschweig	c.ho@gmx.net																1
+ANR	 Christine Hoffmann			Rudolfstr. 5		DE	38114	Braunschweig	c.ho@gmx.net																1
+P			ORDERS								20141129	20141129											EUR	1	4250804718175			1		50,4	59,976									120															59,976

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000522	20141128						2000395								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Mario Taboga			Dürergasse 14-16, 22		AT	1060	Wien	mario.taboga@gmail.com																1
+ANR	 Mario Taboga			Dürergasse 14-16, 22		AT	1060	Wien	mario.taboga@gmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804720512			1		63,03	75,0057									120															75,0057
+P			ORDERS								20141128	20141128											EUR	2	4250804721113			1		16,8	19,992									120															19,992

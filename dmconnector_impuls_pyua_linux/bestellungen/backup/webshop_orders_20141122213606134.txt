@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000425	20141122						2000316								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Markus Engelhaupt			Johanne-Walhorn-Weg 22		DE	48147	Münster	mengelhaupt@yahoo.de	01775719909															1
+ANR	 Markus Engelhaupt			Johanne-Walhorn-Weg 22		DE	48147	Münster	mengelhaupt@yahoo.de	01775719909															1
+P			ORDERS								20141122	20141122											EUR	1	4250804718373			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141122	20141122											EUR	2	4250494020909			1		29,41	34,9979									120															34,9979
+P			ORDERS								20141122	20141122											EUR	3	4250804718977			1		46,22	55,0018									120															55,0018

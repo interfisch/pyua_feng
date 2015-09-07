@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000687	20141213						2000528								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Thorsten Sender			Herbststrasse 27		DE	13409	Berlin	t.sender@me.com																1
+ANR	 Thorsten Sender			Herbststrasse 27		DE	13409	Berlin	t.sender@me.com																1
+P			ORDERS								20141213	20141213											EUR	1	4250804720574			1		71,43	85,0017									120															85,0017
+P			ORDERS								20141213	20141213											EUR	2	4250804719271			1		50,38	41,96654									120															41,96654

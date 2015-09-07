@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000731	20141217						2000561								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Ellen Brodt			Höchststrasse 13		DE	71083	Herrenberg	ellen.brodt@web.de																1
+ANR	 Ellen Brodt			Höchststrasse 13		DE	71083	Herrenberg	ellen.brodt@web.de																1
+P			ORDERS								20141217	20141217											EUR	1	4250804716461			1		193,24	91,98224									120															91,98224

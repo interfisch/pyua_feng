@@ -1,0 +1,1293 @@
+Okt 16, 2014 3:32:01 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:32:01 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:32:01 PM  
+STDERR: 883
+Okt 16, 2014 3:32:01 PM  
+STDERR: 885
+Okt 16, 2014 3:32:01 PM  
+STDERR: 901
+Okt 16, 2014 3:32:01 PM  
+STDERR: 906
+Okt 16, 2014 3:32:01 PM  
+STDERR: 911
+Okt 16, 2014 3:32:02 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿2
+Okt 16, 2014 3:32:02 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿2
+Okt 16, 2014 3:32:02 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿2*
+Okt 16, 2014 3:32:02 PM  
+STDERR: Warenwirtschaft: lexware
+Okt 16, 2014 3:32:02 PM  
+STDERR: Shopsystem gem. conf.xml: magento
+Okt 16, 2014 3:32:02 PM  
+STDERR: durchlaeufe laut conf.xml: 1
+Okt 16, 2014 3:32:02 PM  
+STDERR: *** From ReadCartridge: ***
+Okt 16, 2014 3:32:02 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:32:02 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:32:02 PM  
+STDERR: 883
+Okt 16, 2014 3:32:02 PM  
+STDERR: 885
+Okt 16, 2014 3:32:02 PM  
+STDERR: 901
+Okt 16, 2014 3:32:02 PM  
+STDERR: 906
+Okt 16, 2014 3:32:02 PM  
+STDERR: 911
+Okt 16, 2014 3:32:03 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿2
+Okt 16, 2014 3:32:03 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿2
+Okt 16, 2014 3:32:03 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿2*
+Okt 16, 2014 3:32:03 PM  
+STDERR: BestellungenImport Anzahl abzurufender Bestellungen: 2 Split 2 durchlaeufe = 1
+Okt 16, 2014 3:32:03 PM  
+STDERR: 890 Bestellabruf in 1 Durchlaeufen mit url=http://www.pyua.de/dmc_mag_2014s/dmconnector_export.php?action=orders_export&user=dmc&password=dmc1308
+Okt 16, 2014 3:32:03 PM  
+STDERR: Durchlauf = 1
+Okt 16, 2014 3:32:04 PM  
+STDERR: xmlFile./temp/temp.xml
+Okt 16, 2014 3:32:04 PM  
+STDERR: xslFile./conf/cartridges/cartridge_import_kunden.xml
+Okt 16, 2014 3:32:04 PM  
+STDERR: writeToXML... alt=./temp/temp.xml trans=./conf/cartridges/magento2temp.xsl zu ./temp/magento_temp.xml
+Okt 16, 2014 3:32:05 PM  
+STDERR: ERROR:  'Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.'
+Okt 16, 2014 3:32:05 PM  
+STDERR: ERROR:  'com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.'
+Okt 16, 2014 3:32:05 PM  
+STDERR: javax.xml.transform.TransformerException: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:758)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: Caused by: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:587)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	... 4 more
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: Caused by: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	... 5 more
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:587)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: Caused by: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	... 5 more
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: org.xml.sax.SAXParseException; systemId: file:/var/www/pyua/dmconnector_impuls_pyua_linux/./temp/temp_order.xml; lineNumber: 21; columnNumber: 43; Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1749)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2973)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:458)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: org.xml.sax.SAXParseException; systemId: file:/var/www/pyua/dmconnector_impuls_pyua_linux/./temp/temp_order.xml; lineNumber: 21; columnNumber: 43; Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1749)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2973)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:458)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:32:05 PM  
+STDERR: ... transformiert...
+Okt 16, 2014 3:32:05 PM  
+STDERR: java.lang.NullPointerException
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToCSV2013(BestellungenImport.java:1852)
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:546)
+Okt 16, 2014 3:32:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+Okt 16, 2014 3:32:05 PM  
+STDERR: exportAction = ErpDetails -> Mode  bzw. null fuer WaWi =easywinart
+Okt 16, 2014 3:32:05 PM  
+STDERR: getNewestFile - pathToFolder ./csv kennung .csv
+Okt 16, 2014 3:32:06 PM  
+STDERR: Verbindung zur Datenbank wurde hergestellt.
+Okt 16, 2014 3:32:06 PM  
+STDERR: (JDBC) Datenbanktreiber org.relique.jdbc.csv.CsvDriver
+Okt 16, 2014 3:32:06 PM  
+STDERR: Warenwirtschaft: lexware
+Okt 16, 2014 3:32:06 PM  
+STDERR: Shopsystem: ystem=magento
+Okt 16, 2014 3:32:06 PM  
+STDERR: Cartridge: cartridge_csv.xml
+Okt 16, 2014 3:32:06 PM  
+STDERR: Auswahl=50
+Okt 16, 2014 3:32:06 PM  
+STDERR:  SQL Konfigurationsdatei einlesen=./conf/cartridges/cartridge_csv.xml
+Okt 16, 2014 3:32:06 PM  
+STDERR:  SQL Konfigurationsdatei gelesen
+Okt 16, 2014 3:32:06 PM  
+STDERR:  ErpDetails 1275
+Okt 16, 2014 3:32:06 PM  
+STDERR: Statements ermitteln Ende
+Okt 16, 2014 3:32:06 PM  
+STDERR: Statements ausfuehren 
+Okt 16, 2014 3:32:06 PM  
+STDERR: Zeit und Datum : 16.10.2014 15:32:06/
+Okt 16, 2014 3:32:06 PM  
+STDERR: Daten zum Senden vorbereitet action=Status&user=dmc&password=dmc1308&Status=ErpDetails_end
+Okt 16, 2014 3:32:06 PM  
+STDERR: Uebertragung erfolgt an den Shop: http://www.pyua.de/dmc_mag_2014s/dmconnector_magento.php
+Okt 16, 2014 3:32:06 PM  
+STDERR: ﻿﻿
+Okt 16, 2014 3:32:06 PM  
+STDERR: 	
+Okt 16, 2014 3:32:06 PM  
+STDERR: 		
+Okt 16, 2014 3:32:06 PM  
+STDERR: 		
+Okt 16, 2014 3:32:06 PM  
+STDERR: 		
+Okt 16, 2014 3:32:06 PM  
+STDERR: 	﻿	﻿
+Okt 16, 2014 3:32:06 PM  
+STDERR: null
+Okt 16, 2014 3:32:06 PM  
+STDERR: Daten zum Senden vorbereitet action=Status&user=dmc&password=dmc1308&Status=ErpDetails_details_end
+Okt 16, 2014 3:32:06 PM  
+STDERR: Uebertragung erfolgt an den Shop: http://www.pyua.de/dmc_mag_2014s/dmconnector_magento.php
+Okt 16, 2014 3:32:07 PM  
+STDERR: ﻿﻿
+Okt 16, 2014 3:32:07 PM  
+STDERR: 	
+Okt 16, 2014 3:32:07 PM  
+STDERR: 		
+Okt 16, 2014 3:32:07 PM  
+STDERR: 		
+Okt 16, 2014 3:32:07 PM  
+STDERR: 		
+Okt 16, 2014 3:32:07 PM  
+STDERR: 	﻿	﻿
+Okt 16, 2014 3:32:07 PM  
+STDERR: null
+Okt 16, 2014 3:32:07 PM  
+STDERR: ****************
+Uebertragung abgeschlossen.
+Okt 16, 2014 3:32:07 PM  
+STDERR: Vergangene Zeit: 1 Sekunden
+Okt 16, 2014 3:34:02 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:34:02 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:34:02 PM  
+STDERR: 883
+Okt 16, 2014 3:34:02 PM  
+STDERR: 885
+Okt 16, 2014 3:34:02 PM  
+STDERR: 901
+Okt 16, 2014 3:34:02 PM  
+STDERR: 906
+Okt 16, 2014 3:34:02 PM  
+STDERR: 911
+Okt 16, 2014 3:34:02 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿2
+Okt 16, 2014 3:34:02 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿2
+Okt 16, 2014 3:34:02 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿2*
+Okt 16, 2014 3:34:02 PM  
+STDERR: Warenwirtschaft: lexware
+Okt 16, 2014 3:34:02 PM  
+STDERR: Shopsystem gem. conf.xml: magento
+Okt 16, 2014 3:34:02 PM  
+STDERR: durchlaeufe laut conf.xml: 1
+Okt 16, 2014 3:34:02 PM  
+STDERR: *** From ReadCartridge: ***
+Okt 16, 2014 3:34:02 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:34:02 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:34:02 PM  
+STDERR: 883
+Okt 16, 2014 3:34:02 PM  
+STDERR: 885
+Okt 16, 2014 3:34:02 PM  
+STDERR: 901
+Okt 16, 2014 3:34:02 PM  
+STDERR: 906
+Okt 16, 2014 3:34:02 PM  
+STDERR: 911
+Okt 16, 2014 3:34:03 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿2
+Okt 16, 2014 3:34:03 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿2
+Okt 16, 2014 3:34:03 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿2*
+Okt 16, 2014 3:34:03 PM  
+STDERR: BestellungenImport Anzahl abzurufender Bestellungen: 2 Split 2 durchlaeufe = 1
+Okt 16, 2014 3:34:03 PM  
+STDERR: 890 Bestellabruf in 1 Durchlaeufen mit url=http://www.pyua.de/dmc_mag_2014s/dmconnector_export.php?action=orders_export&user=dmc&password=dmc1308
+Okt 16, 2014 3:34:03 PM  
+STDERR: Durchlauf = 1
+Okt 16, 2014 3:34:05 PM  
+STDERR: xmlFile./temp/temp.xml
+Okt 16, 2014 3:34:05 PM  
+STDERR: xslFile./conf/cartridges/cartridge_import_kunden.xml
+Okt 16, 2014 3:34:05 PM  
+STDERR: writeToXML... alt=./temp/temp.xml trans=./conf/cartridges/magento2temp.xsl zu ./temp/magento_temp.xml
+Okt 16, 2014 3:34:06 PM  
+STDERR: ERROR:  'Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.'
+Okt 16, 2014 3:34:06 PM  
+STDERR: ERROR:  'com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.'
+Okt 16, 2014 3:34:06 PM  
+STDERR: javax.xml.transform.TransformerException: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:758)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: Caused by: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:587)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	... 4 more
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: Caused by: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	... 5 more
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:587)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: Caused by: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	... 5 more
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: org.xml.sax.SAXParseException; systemId: file:/var/www/pyua/dmconnector_impuls_pyua_linux/./temp/temp_order.xml; lineNumber: 21; columnNumber: 43; Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1749)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2973)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:458)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: org.xml.sax.SAXParseException; systemId: file:/var/www/pyua/dmconnector_impuls_pyua_linux/./temp/temp_order.xml; lineNumber: 21; columnNumber: 43; Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1749)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2973)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:458)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:34:06 PM  
+STDERR: ... transformiert...
+Okt 16, 2014 3:34:06 PM  
+STDERR: java.lang.NullPointerException
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToCSV2013(BestellungenImport.java:1852)
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:546)
+Okt 16, 2014 3:34:06 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+Okt 16, 2014 3:34:06 PM  
+STDERR: exportAction = ErpDetails -> Mode  bzw. null fuer WaWi =easywinart
+Okt 16, 2014 3:34:06 PM  
+STDERR: getNewestFile - pathToFolder ./csv kennung .csv
+Okt 16, 2014 3:34:06 PM  
+STDERR: Verbindung zur Datenbank wurde hergestellt.
+Okt 16, 2014 3:34:06 PM  
+STDERR: (JDBC) Datenbanktreiber org.relique.jdbc.csv.CsvDriver
+Okt 16, 2014 3:34:06 PM  
+STDERR: Warenwirtschaft: lexware
+Okt 16, 2014 3:34:06 PM  
+STDERR: Shopsystem: ystem=magento
+Okt 16, 2014 3:34:06 PM  
+STDERR: Cartridge: cartridge_csv.xml
+Okt 16, 2014 3:34:06 PM  
+STDERR: Auswahl=50
+Okt 16, 2014 3:34:06 PM  
+STDERR:  SQL Konfigurationsdatei einlesen=./conf/cartridges/cartridge_csv.xml
+Okt 16, 2014 3:34:06 PM  
+STDERR:  SQL Konfigurationsdatei gelesen
+Okt 16, 2014 3:34:06 PM  
+STDERR:  ErpDetails 1275
+Okt 16, 2014 3:34:06 PM  
+STDERR: Statements ermitteln Ende
+Okt 16, 2014 3:34:06 PM  
+STDERR: Statements ausfuehren 
+Okt 16, 2014 3:34:06 PM  
+STDERR: Zeit und Datum : 16.10.2014 15:34:06/
+Okt 16, 2014 3:34:06 PM  
+STDERR: Daten zum Senden vorbereitet action=Status&user=dmc&password=dmc1308&Status=ErpDetails_end
+Okt 16, 2014 3:34:06 PM  
+STDERR: Uebertragung erfolgt an den Shop: http://www.pyua.de/dmc_mag_2014s/dmconnector_magento.php
+Okt 16, 2014 3:34:07 PM  
+STDERR: ﻿﻿
+Okt 16, 2014 3:34:07 PM  
+STDERR: 	
+Okt 16, 2014 3:34:07 PM  
+STDERR: 		
+Okt 16, 2014 3:34:07 PM  
+STDERR: 		
+Okt 16, 2014 3:34:07 PM  
+STDERR: 		
+Okt 16, 2014 3:34:07 PM  
+STDERR: 	﻿	﻿
+Okt 16, 2014 3:34:07 PM  
+STDERR: null
+Okt 16, 2014 3:34:07 PM  
+STDERR: Daten zum Senden vorbereitet action=Status&user=dmc&password=dmc1308&Status=ErpDetails_details_end
+Okt 16, 2014 3:34:07 PM  
+STDERR: Uebertragung erfolgt an den Shop: http://www.pyua.de/dmc_mag_2014s/dmconnector_magento.php
+Okt 16, 2014 3:34:07 PM  
+STDERR: ﻿﻿
+Okt 16, 2014 3:34:07 PM  
+STDERR: 	
+Okt 16, 2014 3:34:07 PM  
+STDERR: 		
+Okt 16, 2014 3:34:07 PM  
+STDERR: 		
+Okt 16, 2014 3:34:07 PM  
+STDERR: 		
+Okt 16, 2014 3:34:07 PM  
+STDERR: 	﻿	﻿
+Okt 16, 2014 3:34:07 PM  
+STDERR: null
+Okt 16, 2014 3:34:07 PM  
+STDERR: ****************
+Uebertragung abgeschlossen.
+Okt 16, 2014 3:34:07 PM  
+STDERR: Vergangene Zeit: 1 Sekunden
+Okt 16, 2014 3:36:01 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:36:01 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:36:01 PM  
+STDERR: 883
+Okt 16, 2014 3:36:01 PM  
+STDERR: 885
+Okt 16, 2014 3:36:01 PM  
+STDERR: 901
+Okt 16, 2014 3:36:01 PM  
+STDERR: 906
+Okt 16, 2014 3:36:01 PM  
+STDERR: 911
+Okt 16, 2014 3:36:02 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿1
+Okt 16, 2014 3:36:02 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿1
+Okt 16, 2014 3:36:02 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿1*
+Okt 16, 2014 3:36:02 PM  
+STDERR: Warenwirtschaft: lexware
+Okt 16, 2014 3:36:02 PM  
+STDERR: Shopsystem gem. conf.xml: magento
+Okt 16, 2014 3:36:02 PM  
+STDERR: durchlaeufe laut conf.xml: 1
+Okt 16, 2014 3:36:02 PM  
+STDERR: *** From ReadCartridge: ***
+Okt 16, 2014 3:36:02 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:36:02 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:36:02 PM  
+STDERR: 883
+Okt 16, 2014 3:36:02 PM  
+STDERR: 885
+Okt 16, 2014 3:36:02 PM  
+STDERR: 901
+Okt 16, 2014 3:36:02 PM  
+STDERR: 906
+Okt 16, 2014 3:36:02 PM  
+STDERR: 911
+Okt 16, 2014 3:36:02 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿1
+Okt 16, 2014 3:36:02 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿1
+Okt 16, 2014 3:36:02 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿1*
+Okt 16, 2014 3:36:02 PM  
+STDERR: BestellungenImport Anzahl abzurufender Bestellungen: 1 Split 1 durchlaeufe = 1
+Okt 16, 2014 3:36:02 PM  
+STDERR: 888 Einzelbestellabruf mit url=http://www.pyua.de/dmc_mag_2014s/dmconnector_export.php?action=orders_export&user=dmc&password=dmc1308
+Okt 16, 2014 3:36:02 PM  
+STDERR: Durchlauf = 1
+Okt 16, 2014 3:36:04 PM  
+STDERR: xmlFile./temp/temp.xml
+Okt 16, 2014 3:36:04 PM  
+STDERR: xslFile./conf/cartridges/cartridge_import_kunden.xml
+Okt 16, 2014 3:36:04 PM  
+STDERR: writeToXML... alt=./temp/temp.xml trans=./conf/cartridges/magento2temp.xsl zu ./temp/magento_temp.xml
+Okt 16, 2014 3:36:05 PM  
+STDERR: ERROR:  'Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.'
+Okt 16, 2014 3:36:05 PM  
+STDERR: ERROR:  'com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.'
+Okt 16, 2014 3:36:05 PM  
+STDERR: javax.xml.transform.TransformerException: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:758)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: Caused by: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:587)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	... 4 more
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: Caused by: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	... 5 more
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:587)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: Caused by: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	... 5 more
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: org.xml.sax.SAXParseException; systemId: file:/var/www/pyua/dmconnector_impuls_pyua_linux/./temp/temp_order.xml; lineNumber: 21; columnNumber: 43; Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1749)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2973)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:458)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:464)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: ---------
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: org.xml.sax.SAXParseException; systemId: file:/var/www/pyua/dmconnector_impuls_pyua_linux/./temp/temp_order.xml; lineNumber: 21; columnNumber: 43; Elementtyp "br" muss mit dem entsprechenden Endtag "</br>" beendet werden.
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1749)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2973)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:458)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.dom.XSLTCDTMManager.getDTM(XSLTCDTMManager.java:252)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.getDOM(TransformerImpl.java:565)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:748)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl.transform(TransformerImpl.java:359)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToXML(BestellungenImport.java:1261)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:531)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+
+Okt 16, 2014 3:36:05 PM  
+STDERR: ... transformiert...
+Okt 16, 2014 3:36:05 PM  
+STDERR: java.lang.NullPointerException
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.writeToCSV2013(BestellungenImport.java:1852)
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BestellungenImport.doImport(BestellungenImport.java:546)
+Okt 16, 2014 3:36:05 PM  
+STDERR: 	at dmConnect.operations.BatchStart.main(BatchStart.java:346)
+Okt 16, 2014 3:36:05 PM  
+STDERR: exportAction = ErpDetails -> Mode  bzw. null fuer WaWi =easywinart
+Okt 16, 2014 3:36:05 PM  
+STDERR: getNewestFile - pathToFolder ./csv kennung .csv
+Okt 16, 2014 3:36:05 PM  
+STDERR: Verbindung zur Datenbank wurde hergestellt.
+Okt 16, 2014 3:36:05 PM  
+STDERR: (JDBC) Datenbanktreiber org.relique.jdbc.csv.CsvDriver
+Okt 16, 2014 3:36:05 PM  
+STDERR: Warenwirtschaft: lexware
+Okt 16, 2014 3:36:05 PM  
+STDERR: Shopsystem: ystem=magento
+Okt 16, 2014 3:36:05 PM  
+STDERR: Cartridge: cartridge_csv.xml
+Okt 16, 2014 3:36:05 PM  
+STDERR: Auswahl=50
+Okt 16, 2014 3:36:05 PM  
+STDERR:  SQL Konfigurationsdatei einlesen=./conf/cartridges/cartridge_csv.xml
+Okt 16, 2014 3:36:05 PM  
+STDERR:  SQL Konfigurationsdatei gelesen
+Okt 16, 2014 3:36:05 PM  
+STDERR:  ErpDetails 1275
+Okt 16, 2014 3:36:05 PM  
+STDERR: Statements ermitteln Ende
+Okt 16, 2014 3:36:05 PM  
+STDERR: Statements ausfuehren 
+Okt 16, 2014 3:36:05 PM  
+STDERR: Zeit und Datum : 16.10.2014 15:36:05/
+Okt 16, 2014 3:36:05 PM  
+STDERR: Daten zum Senden vorbereitet action=Status&user=dmc&password=dmc1308&Status=ErpDetails_end
+Okt 16, 2014 3:36:05 PM  
+STDERR: Uebertragung erfolgt an den Shop: http://www.pyua.de/dmc_mag_2014s/dmconnector_magento.php
+Okt 16, 2014 3:36:06 PM  
+STDERR: ﻿﻿
+Okt 16, 2014 3:36:06 PM  
+STDERR: 	
+Okt 16, 2014 3:36:06 PM  
+STDERR: 		
+Okt 16, 2014 3:36:06 PM  
+STDERR: 		
+Okt 16, 2014 3:36:06 PM  
+STDERR: 		
+Okt 16, 2014 3:36:06 PM  
+STDERR: 	﻿	﻿
+Okt 16, 2014 3:36:06 PM  
+STDERR: null
+Okt 16, 2014 3:36:06 PM  
+STDERR: Daten zum Senden vorbereitet action=Status&user=dmc&password=dmc1308&Status=ErpDetails_details_end
+Okt 16, 2014 3:36:06 PM  
+STDERR: Uebertragung erfolgt an den Shop: http://www.pyua.de/dmc_mag_2014s/dmconnector_magento.php
+Okt 16, 2014 3:36:06 PM  
+STDERR: ﻿﻿
+Okt 16, 2014 3:36:06 PM  
+STDERR: 	
+Okt 16, 2014 3:36:06 PM  
+STDERR: 		
+Okt 16, 2014 3:36:06 PM  
+STDERR: 		
+Okt 16, 2014 3:36:06 PM  
+STDERR: 		
+Okt 16, 2014 3:36:06 PM  
+STDERR: 	﻿	﻿
+Okt 16, 2014 3:36:06 PM  
+STDERR: null
+Okt 16, 2014 3:36:06 PM  
+STDERR: ****************
+Uebertragung abgeschlossen.
+Okt 16, 2014 3:36:06 PM  
+STDERR: Vergangene Zeit: 1 Sekunden

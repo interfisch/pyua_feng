@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000668	20141211						2000515								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Rudolf Kaiser			Marienplatz 14		AT	7021	Drassburg	dr.kai@netway.at	436764238803															1
+ANR	 Rudolf Kaiser			Marienplatz 14		AT	7021	Drassburg	dr.kai@netway.at	436764238803															1
+P			ORDERS								20141211	20141211											EUR	1	4250804713491			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141211	20141211											EUR	2	4250804713293			1		420,13	499,9547									120															499,9547

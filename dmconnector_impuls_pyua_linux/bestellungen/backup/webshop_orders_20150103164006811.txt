@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000803	20150103						2000613								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Philipp Schodl			Schlossergasse 9 / 3.Stock		AT	6020	Innsbruck	p.schodl@gmx.net	06643908900															1
+ANR	 Philipp Schodl			Schlossergasse 9 / 3.Stock		AT	6020	Innsbruck	p.schodl@gmx.net	06643908900															1
+P			ORDERS								20150103	20150103											EUR	1	4250804719844			1		33,57	19,97415									120															19,97415
+P			ORDERS								20150103	20150103											EUR	2	4250804719813			1		29,37	17,47515									120															17,47515

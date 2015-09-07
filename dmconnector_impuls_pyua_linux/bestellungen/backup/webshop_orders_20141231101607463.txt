@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000781	20141231						2000604								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Jens Groﬂe-Kreul			Goethestr. 57		DE	45964	Gladbeck	jgk@schuh-grosse-kreul.de	02043 920015															1
+ANR	 Jens Groﬂe-Kreul			Goethestr. 57		DE	45964	Gladbeck	jgk@schuh-grosse-kreul.de	02043 920015															1
+P			ORDERS								20141231	20141231											EUR	1	4250804713392			1		462,14	219,97864									120															219,97864

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001012	20150226						2000774								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Andre Dulleck			Paracelsusstraße 127		DE	90431	Nürnberg	andre_dulleck@web.de	01728949358															1
+ANR	 Andre Dulleck			Paracelsusstraße 127		DE	90431	Nürnberg	andre_dulleck@web.de	01728949358															1
+P			ORDERS								20150226	20150226											EUR	1	4250804717307			1		125,21	148,9999									120															148,9999

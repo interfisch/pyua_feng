@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000340	20141115						2000249								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Siegfried Sonntag			Lammersstr. 8		DE	49076	Osnabrück	helgasonntag@gmx.de																1
+ANR	 Siegfried Sonntag			Lammersstr. 8		DE	49076	Osnabrück	helgasonntag@gmx.de																1
+P			ORDERS								20141115	20141115											EUR	1	4250804719967			1		109,2	129,948									120															129,948
+P			ORDERS								20141115	20141115											EUR	2	4250494021166			1		21,01	25,0019									120															25,0019
+P			ORDERS								20141115	20141115											EUR	3	4250494020817			1		29,41	34,9979									120															34,9979
+P			ORDERS								20141115	20141115											EUR	4	4250494010795			1		29,41	34,9979									120															34,9979
+P			ORDERS								20141115	20141115											EUR	5	4250804714283			1		126,04	149,9876									120															149,9876
+P			ORDERS								20141115	20141115											EUR	6	4250494021975			1		37,77	44,9463									120															44,9463

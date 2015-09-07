@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000189	20141031						2000106								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 André Philipp			Langebrücker Straße 125		DE	01454	Radeberg	poseidonxxl@gmx.de																1
+ANR	 André Philipp			Langebrücker Straße 125		DE	01454	Radeberg	poseidonxxl@gmx.de																1
+P			ORDERS								20141031	20141031											EUR	1	4250804720581			1		142,82	118,96906									120															118,96906
+P			ORDERS								20141031	20141031											EUR	2	4250804720598			1		142,81	118,96073									120															118,96073

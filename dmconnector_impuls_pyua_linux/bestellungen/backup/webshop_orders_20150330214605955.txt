@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001070	20150330						2000810								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Michael Diefenbach	med call GmbH		Black u. Decker Str. 1-3		DE	65510	Idstein	michael@med-call.de																1
+ANR	 Michael Diefenbach			Black u. Decker Sr. 1-3		DE	65510	Idstein	michael@med-call.de	01726133389															1
+P			ORDERS								20150330	20150330											EUR	1	4250804720529			1		71,43	85,0017									120															85,0017

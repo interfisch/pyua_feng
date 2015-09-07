@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000099	20140910						2000243								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Nils Graeper			Hamburger Landstraße 10		DE	24113	Molfsee	ng@media4motion.com	043153420499															1
+ANR	 Nils Graeper			Hamburger Landstraße 10		DE	24113	Molfsee	ng@media4motion.com	043153420499															1
+P			ORDERS								20140910	20140910											EUR	1	4250804718366			1		109,2	129,948									120															129,948

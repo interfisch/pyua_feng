@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000444	20141124						2000330								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Karsten Rosche / 21207136			Eichbergstraﬂe 29		DE	04349	Leipzig	shop.rokar@icloud.com	015161414145															1
+ANR	 Karsten Rosche / 21207136			Eichbergstraﬂe 29		DE	04349	Leipzig	shop.rokar@icloud.com	015161414145															1
+P			ORDERS								20141124	20141124											EUR	1	4250494021173			1		21,01	25,0019									120															25,0019
+P			ORDERS								20141124	20141124											EUR	2	4250804718397			1		46,22	55,0018									120															55,0018

@@ -1,0 +1,94 @@
+<XML>
+
+<!-- Carridge zum Direktzugriff auf CSVs mit CsvJDBC Treiber -->
+
+<Kategorien>
+<!-- Hauptkategorien  id, name, fatherid -->
+Sselect '_'+p.HWG_NR AS KatId, p.HWG AS Bezeichnung, '2' AS FatherID, '' AS Langtext, '1' AS Status, '' AS Kategorie_Bild, '' AS Kategorie_Sortierung, '' AS Kategorie_MetaKeywords, '' AS Kategorie_MetaDesc, '' AS Kategorie_MetaTitle, '' AS Kategorie_Suchbegriffe, '' AS Kategorie_SEO, '' AS Kategorie_Sprache_Store, '' AS KategorieFF1, '' AS KategorieFF2,  '' AS Test  FROM Export_artikel AS p
+<!-- unterkategorien -->
+Sselect '_'+p.HWG_NR+'_'+p.WG_NR AS KatId, p.WG AS Bezeichnung, '_'+p.HWG_NR AS FatherID, '' AS Langtext, '1' AS Status, '' AS Kategorie_Bild, '' AS Kategorie_Sortierung, '' AS Kategorie_MetaKeywords, '' AS Kategorie_MetaDesc, '' AS Kategorie_MetaTitle, '' AS Kategorie_Suchbegriffe, '' AS Kategorie_SEO, '' AS Kategorie_Sprache_Store, '' AS KategorieFF1, '' AS KategorieFF2,  '' AS Test  FROM Export_artikel AS p
+</Kategorien>
+
+<!-- HIER Artikel wird nach Farben und Groessen uebergeben -->
+<Artikel>
+<!-- Conf^ -->
+<!-- '_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID -->
+Sselect distinct 'configurable' as Artikel_ID, 'neu' as Artikel_Kategorie_ID, '' as Hersteller_ID, p._ARTIKEL_NR as Artikel_Artikelnr, '0' AS Artikel_Menge, p.PRICE as Artikel_Preis, p.PRICE as Artikel_Preis1, p.PRICE as Artikel_Preis2, '' as Artikel_Preis3, '' as Artikel_Preis4, p.WEIGHT as Artikel_Gewicht, '4' as Artikel_Status, '1' as Artikel_Steuersatz, p._ARTIKEL_NR as Artikel_Bilddatei, 'Stück' as Artikel_Einheit_Wert, '1' as Artikel_Lieferstatus, p.TOPARTIKEL as Artikel_Startseite, '' as SkipImages, p.NAME as Artikel_Bezeichnung, '' AS Artikel_Text, '' as Artikel_Kurztext, '2' as Artikel_TextLanguage, '' as Artikel_MetaTitle, '' as Artikel_MetaDescription, '' as Artikel_MetaKeywords, 'f_farbe@f_groesse' AS SuperAttribute, '1' AS Aktiv,  '9' AS Attribute_Set, '' as Artikel_Variante_Von, '' as Merkmal, '' AS Auspraegung FROM Export_artikel AS p WHERE p._ARTIKEL_NR <> '' AND p._ARTIKEL_NR IS NOT NULL 
+<!-- Varianten  mit ehemaliger ArtNr p._ARTIKEL_NR+'|'+p.PYUA_COLOR+'|'+p.PYUA_COLOR_NAME+'|'+p.PYUA_SIZE  -->
+<!-- '_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID -->
+select distinct 'simple' as Artikel_ID, 'neu' as Artikel_Kategorie_ID, '' as Hersteller_ID, p.SKU as Artikel_Artikelnr, p.QTY AS Artikel_Menge, p.PRICE as Artikel_Preis, p.PRICE as Artikel_Preis1, p.PRICE as Artikel_Preis2, '' as Artikel_Preis3, '' as Artikel_Preis4, p.WEIGHT as Artikel_Gewicht, '1' as Artikel_Status, '1' as Artikel_Steuersatz, p._ARTIKEL_NR as Artikel_Bilddatei, 'St' as Artikel_Einheit_Wert, '1' as Artikel_Lieferstatus, p.TOPARTIKEL as Artikel_Startseite, '' as SkipImages, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_Bezeichnung, p.PYUA_SIZE AS Artikel_Text, p.PYUA_COLOR_NAME as Artikel_Kurztext, '2' as Artikel_TextLanguage, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_MetaTitle, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_MetaDescription, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_MetaKeywords, '' AS Artikel_Super_Attribute, '1' AS Aktiv,  '9' AS Artikel_Attributeset, p._ARTIKEL_NR as Artikel_Variante_Von, 'f_groesse@f_farbe' as Merkmal, p.PYUA_SIZE+'@'+p.PYUA_COLOR_NAME AS Auspraegung FROM Export_artikel AS p WHERE p._ARTIKEL_NR <> '' AND p._ARTIKEL_NR IS NOT NULL AND (p._ARTIKEL_NR like '%$variable1%' OR p.SKU like '%$variable1%')
+</Artikel>
+
+<!-- HIER Artikel wird nach Farben uebergeben -->
+<ArtikelNachFarbe>
+<!-- Conf^ -->
+<!-- '_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID -->
+select distinct 'configurable' as Artikel_ID, '_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID, '' as Hersteller_ID, p._ARTIKEL_NR as Artikel_Artikelnr, '0' AS Artikel_Menge, p.PRICE as Artikel_Preis, p.PRICE as Artikel_Preis1, p.PRICE as Artikel_Preis2, '' as Artikel_Preis3, '' as Artikel_Preis4, p.WEIGHT as Artikel_Gewicht, '4' as Artikel_Status, '1' as Artikel_Steuersatz, p._ARTIKEL_NR as Artikel_Bilddatei, 'St' as Artikel_Einheit_Wert, '1' as Artikel_Lieferstatus, p.TOPARTIKEL as Artikel_Startseite, '' as SkipImages, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_Bezeichnung, '' AS Artikel_Text, p.PYUA_COLOR_NAME as Artikel_Kurztext, '2' as Artikel_TextLanguage, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_MetaTitle, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_MetaDescription, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_MetaKeywords, 'groesse' AS SuperAttribute, '1' AS Aktiv,  '9' AS Attribute_Set, '' as Artikel_Variante_Von, 'f_farbe' as Merkmal, p.PYUA_COLOR_NAME AS Auspraegung FROM Export_artikel AS p WHERE p._ARTIKEL_NR <> '' AND p._ARTIKEL_NR IS NOT NULL AND (p._ARTIKEL_NR like '%$variable1%' OR p.SKU like '%$variable1%')
+<!-- Varianten  mit ehemaliger ArtNr p._ARTIKEL_NR+'|'+p.PYUA_COLOR+'|'+p.PYUA_COLOR_NAME+'|'+p.PYUA_SIZE  -->
+<!-- '_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID -->
+select distinct 'simple' as Artikel_ID, '_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID, '' as Hersteller_ID, p.SKU as Artikel_Artikelnr, p.QTY AS Artikel_Menge, p.PRICE as Artikel_Preis, p.PRICE as Artikel_Preis1, p.PRICE as Artikel_Preis2, '' as Artikel_Preis3, '' as Artikel_Preis4, p.WEIGHT as Artikel_Gewicht, '1' as Artikel_Status, '1' as Artikel_Steuersatz, p._ARTIKEL_NR as Artikel_Bilddatei, 'St' as Artikel_Einheit_Wert, '1' as Artikel_Lieferstatus, p.TOPARTIKEL as Artikel_Startseite, '' as SkipImages, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_Bezeichnung, p.PYUA_SIZE AS Artikel_Text, p.PYUA_COLOR_NAME as Artikel_Kurztext, '2' as Artikel_TextLanguage, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_MetaTitle, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_MetaDescription, p.NAME+' '+p.PYUA_COLOR_NAME as Artikel_MetaKeywords,'9' as Artikel_Attributeset, '1' AS Aktiv,  '' AS AKTUALISIERT, p._ARTIKEL_NR as Artikel_Variante_Von, 'groesse@f_farbe' as Merkmal, p.PYUA_SIZE+'@'+p.PYUA_COLOR_NAME AS Auspraegung FROM Export_artikel AS p WHERE p._ARTIKEL_NR <> '' AND p._ARTIKEL_NR IS NOT NULL AND (p._ARTIKEL_NR like '%$variable1%' OR p.SKU like '%$variable1%')
+</ArtikelNachFarbe>
+
+<ArtikelStandardGroesseFarbe>  
+<!--  Hauptartikel mit empfohlenen VK - VK1 wird als Aktionspreis uebergeben p.WG_NR -->
+select distinct '0' as Artikel_ID,'_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID, '' as Hersteller_ID, p._ARTIKEL_NR as Artikel_Artikelnr, '0' AS Artikel_Menge, p.PRICE as Artikel_Preis, p.PRICE as Artikel_Preis1, p.PRICE as Artikel_Preis2, '' as Artikel_Preis3, '' as Artikel_Preis4, p.WEIGHT as Artikel_Gewicht, '1' as Artikel_Status, '1' as Artikel_Steuersatz, p.PFAD_BILD as Artikel_Bilddatei, 'St' as Artikel_Einheit_Wert, '1' as Artikel_Lieferstatus, TOPARTIKEL as Artikel_Startseite, '' as SkipImages, p.NAME as Artikel_Bezeichnung, left( p.INFOTEXT,255) AS Artikel_Text, '' as Artikel_Kurztext, '2' as Artikel_TextLanguage, '' as Artikel_MetaTitle, '' as Artikel_MetaDescription, '' as Artikel_MetaKeywords,'' as Artikel_URL, '1' AS Aktiv,  '' AS AKTUALISIERT, '' as Artikel_Variante_Von, '' as Merkmal, '' AS Auspraegung FROM Export_artikel AS p WHERE p._ARTIKEL_NR like '%' AND p._ARTIKEL_NR <> '' AND p._ARTIKEL_NR IS NOT NULL ORDER BY p._ARTIKEL_NR  
+<!-- Groessenartikel alle mit Bestand 0 zur Initialisierung -->
+SElect distinct '0' as Artikel_ID,'_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID, '' as Hersteller_ID, p._ARTIKEL_NR+'|'+p.PYUA_SIZE+'|'+PYUA_COLOR_NAME as Artikel_Artikelnr, '0' AS Artikel_Menge, p.PRICE AS Artikel_Preis, p.PRICE AS Artikel_Preis1, p.PRICE as Artikel_Preis2, '' as Artikel_Preis3, '' as Artikel_Preis4, p.WEIGHT as Artikel_Gewicht, '1' as Artikel_Status, '1' as Artikel_Steuersatz, p.PFAD_BILD as Artikel_Bilddatei, 'St' as Artikel_Einheit_Wert, '1' as Artikel_Lieferstatus, TOPARTIKEL as Artikel_Startseite, '' as SkipImages, p.NAME as Artikel_Bezeichnung, left( p.INFOTEXT,255) AS Artikel_Text, PYUA_COLOR_NAME as Artikel_Kurztext, '2' as Artikel_TextLanguage, '' as Artikel_MetaTitle, '' as Artikel_MetaDescription, '' as Artikel_MetaKeywords,'' as Artikel_URL, '1' AS Aktiv,  '' AS AKTUALISIERT, p._ARTIKEL_NR as Artikel_Variante_Von, 'Grösse@Farbe' as Merkmal, p.PYUA_SIZE+'@'+PYUA_COLOR_NAME AS Auspraegung FROM Export_artikel AS p WHERE p._ARTIKEL_NR <> '' AND p._ARTIKEL_NR IS NOT NULL AND p._ARTIKEL_NR like '%$variable1%' 
+<!-- Groessenartikel nur lieferbar mit korrektem Bestand -->
+select distinct '0' as Artikel_ID,'_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID, '' as Hersteller_ID, p._ARTIKEL_NR+'|'+p.PYUA_SIZE+'|'+PYUA_COLOR_NAME as Artikel_Artikelnr, qty.LAGERBESTAND AS Artikel_Menge, p.PRICE AS Artikel_Preis, p.PRICE AS Artikel_Preis1, p.PRICE as Artikel_Preis2, '' as Artikel_Preis3, '' as Artikel_Preis4, p.WEIGHT as Artikel_Gewicht, '1' as Artikel_Status, '1' as Artikel_Steuersatz, p.PFAD_BILD as Artikel_Bilddatei, 'St' as Artikel_Einheit_Wert, '1' as Artikel_Lieferstatus, TOPARTIKEL as Artikel_Startseite, '' as SkipImages, p.NAME as Artikel_Bezeichnung, left( p.INFOTEXT,255) AS Artikel_Text, PYUA_COLOR_NAME as Artikel_Kurztext, '2' as Artikel_TextLanguage, '' as Artikel_MetaTitle, '' as Artikel_MetaDescription, '' as Artikel_MetaKeywords,'' as Artikel_URL, '1' AS Aktiv,  '' AS AKTUALISIERT, p._ARTIKEL_NR as Artikel_Variante_Von, 'Grösse@Farbe' as Merkmal, p.PYUA_SIZE+'@'+PYUA_COLOR_NAME AS Auspraegung FROM Export_artikel AS p, Export_lager AS qty WHERE qty.´++'_ARTIKEL_ID=p.´++'ARTIKEL_ID AND qty.GROESSE=p.PYUA_SIZE AND qty.FARBE=p.PYUA_COLOR AND p._ARTIKEL_NR <> '' AND p._ARTIKEL_NR IS NOT NULL AND p._ARTIKEL_NR like '%$variable1%' 
+<!-- Groessenartikel alle (funktioniert irgendweshalb nicht)-->
+SElect distinct '0' as Artikel_ID,'_'+p.HWG_NR+'_'+p.WG_NR as Artikel_Kategorie_ID, '' as Hersteller_ID, p._ARTIKEL_NR+'|'+p.PYUA_SIZE+'|'+PYUA_COLOR_NAME as Artikel_Artikelnr, (SELECT LAGERBESTAND FROM Export_lager AS qty WHERE qty.´++'_ARTIKEL_ID=p.´++'ARTIKEL_ID AND qty.GROESSE=p.PYUA_SIZE AND qty.FARBE=p.PYUA_COLOR) AS Artikel_Menge, p.PRICE AS Artikel_Preis, p.PRICE AS Artikel_Preis1, p.PRICE as Artikel_Preis2, '' as Artikel_Preis3, '' as Artikel_Preis4, p.WEIGHT as Artikel_Gewicht, '1' as Artikel_Status, '1' as Artikel_Steuersatz, p.PFAD_BILD as Artikel_Bilddatei, 'St' as Artikel_Einheit_Wert, '1' as Artikel_Lieferstatus, TOPARTIKEL as Artikel_Startseite, '' as SkipImages, p.NAME as Artikel_Bezeichnung, left( p.INFOTEXT,255) AS Artikel_Text, PYUA_COLOR_NAME as Artikel_Kurztext, '2' as Artikel_TextLanguage, '' as Artikel_MetaTitle, '' as Artikel_MetaDescription, '' as Artikel_MetaKeywords,'' as Artikel_URL, '1' AS Aktiv,  '' AS AKTUALISIERT, p._ARTIKEL_NR as Artikel_Variante_Von, 'Grösse@Farbe' as Merkmal, p.PYUA_SIZE+'@'+PYUA_COLOR_NAME AS Auspraegung FROM Export_artikel AS p WHERE p._ARTIKEL_NR <> '' AND p._ARTIKEL_NR IS NOT NULL AND p._ARTIKEL_NR like '%$variable1%' 
+</ArtikelStandardGroesseFarbe>
+
+<ArtikelChanged>
+</ArtikelChanged>
+
+<ArtikelUpdate>
+<!-- Lagerbestand -->
+select  '0' as Artikel_ID, "ï»¿'sku'" as Artikel_Artikelnr, QTY AS Artikel_Menge, '' AS Artikel_Preis, 1 as Artikel_Status, '' AS Artikel_Steuersatz, 1 as Artikel_Lieferstatus, '' as Datum1 FROM Export_lager WHERE "ï»¿'sku'" <> ''
+<!-- Preise -->
+Sselect distinct '0' as Artikel_ID, p.SKU as Artikel_Artikelnr, qty.LAGERBESTAND AS Artikel_Menge, p.PRICE AS Artikel_Preis, 1 as Artikel_Status, '1' AS Artikel_Steuersatz, 1 as Artikel_Lieferstatus, '' as Datum1 FROM Export_artikel AS p LEFT OUTER JOIN Export_lager AS qty ON (qty.´++'_ARTIKEL_ID=p.´++'ARTIKEL_ID) WHERE p._ARTIKEL_NR <> '' AND p._ARTIKEL_NR IS NOT NULL AND qty.GROESSE=p.PYUA_SIZE AND qty.FARBE=p.PYUA_COLOR  AND p._ARTIKEL_NR like '%$variable1%' 
+</ArtikelUpdate>
+
+<ArtikelXSell>
+<!-- Possible  Xsell_Type, for Magento: cross_sell, up_sell, related -->
+<!-- Zubehör Einzel-Artikel (ZubehoerArt=1) -->
+</ArtikelXSell>
+
+<Aktionen>
+<!-- Sonderangebote, bzw Preise die <> UVP -->
+select DISTINCT p._ARTIKEL_NR AS Artikel_ID, p._ARTIKEL_NR+'|'+p.PYUA_COLOR+'|'+p.PYUA_COLOR_NAME AS Artikel_Artikelnr, '0' AS Menge, preis.VK_PREIS AS Aktionspreis, '' AS DatumAB, '' AS DatumBis, '' AS FF11, '' AS FF12, '' AS FF13 FROM export_preisliste AS preis, Export_artikel AS p WHERE p.´++'ARTIKEL_ID = preis.ARTIKEL_ID
+Select DISTINCT (SELECT TOP 1 p._ARTIKEL_NR  FROM Export_artikel AS p WHERE p.´++'ARTIKEL_ID = preis.ARTIKEL_ID) AS Artikel_Nummer, preis.VK_PREIS AS SONDERPREIS from export_preisliste AS preis
+</Aktionen>
+
+<Kunden>
+<!-- Kunden in DE-->
+</Kunden>	             		
+
+<KundenChanged>
+</KundenChanged>	
+
+<Details>
+<!-- Englisch -->
+</Details>
+
+<KundenDetails>
+<!-- Kundenpreis  über Rabattlisten  , wobei der Kundenpreis vom Standardpris (ListeID=1 abweicht -->
+</KundenDetails>
+
+<ArtikelDetails>
+<!-- Artikel Langtexte CSV -->
+Select 'csvlangtext' AS uebertragungsart, p.P_MODEL AS Artikel_Artikelnr, '2' AS sprache_id, left( p.P_DESC#DE,255) AS Artikel_Text, MID( p.P_DESC#DE,255,510) as Artikel_Text2, MID( p.P_DESC#DE,510,765) AS Artikel_Text3, MID( p.P_DESC#DE,765,1020) as Artikel_Text4, MID( p.P_DESC#DE,1020,1275) as Artikel_Text5, MID( p.P_DESC#DE,1275,1530) as Artikel_Text6, MID( p.P_DESC#DE,1530,1785) as Artikel_Text7, MID( p.P_DESC#DE,1785,2040) as Artikel_Text8, MID( p.P_DESC#DE,2040,2295) as Artikel_Text9, MID( p.P_DESC#DE,2295,2550) as Artikel_Text10, MID( p.P_DESC#DE,2550,2805) as Artikel_Text11 FROM artikel.csv AS p WHERE p.P_MODEL like '%' ORDER BY p.P_MODEL ASC
+</ArtikelDetails>
+
+<ArtikelChangedDetails>
+<!-- Artikel Langtexte CSV -->
+Select 'csvlangtext' AS uebertragungsart, p.P_MODEL AS Artikel_Artikelnr, '2' AS sprache_id, left( p.P_DESC#DE,255) AS Artikel_Text, MID( p.P_DESC#DE,255,510) as Artikel_Text2, MID( p.P_DESC#DE,510,765) AS Artikel_Text3, MID( p.P_DESC#DE,765,1020) as Artikel_Text4, MID( p.P_DESC#DE,1020,1275) as Artikel_Text5, MID( p.P_DESC#DE,1275,1530) as Artikel_Text6, MID( p.P_DESC#DE,1530,1785) as Artikel_Text7, MID( p.P_DESC#DE,1785,2040) as Artikel_Text8, MID( p.P_DESC#DE,2040,2295) as Artikel_Text9, MID( p.P_DESC#DE,2295,2550) as Artikel_Text10, MID( p.P_DESC#DE,2550,2805) as Artikel_Text11 FROM artikel.csv AS p WHERE p.P_MODEL like '%' ORDER BY p.P_MODEL ASC
+</ArtikelChangedDetails>
+
+<ArtikelUpdateDetails>
+<!-- Kundenpreis  über Rabattlisten  , wobei der Kundenpreis vom Standardpris (ListeID=1 abweicht -->
+</ArtikelUpdateDetails>
+
+
+</XML>

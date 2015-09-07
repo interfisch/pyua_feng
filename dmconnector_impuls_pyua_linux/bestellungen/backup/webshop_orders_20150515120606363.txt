@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001138	20150515						2000858								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Judith Schauer			Bäckergasse 3		DE	87452	Altusried	schauerjudith@gmx.de																1
+ANR	 Judith Schauer			Bäckergasse 3		DE	87452	Altusried	schauerjudith@gmx.de																1
+P			ORDERS								20150515	20150515											EUR	1	4250804720734			1		226,89	269,9991									120															269,9991

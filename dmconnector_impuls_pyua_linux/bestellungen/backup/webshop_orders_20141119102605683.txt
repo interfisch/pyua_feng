@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000387	20141119						2000290								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Inga-Kristin Schröder	25512779		Packstation 196		DE	22089	Hamburg	vosskate@web.de																1
+ANR	 Inga Schröder			Eilbeker Weg 27		DE	22089	Hamburg	vosskate@web.de																1
+P			ORDERS								20141119	20141119											EUR	1	4250804716478			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141119	20141119											EUR	2	4250804721151			1		336,09	159,97884									120															159,97884
+P			ORDERS								20141119	20141119											EUR	3	4250804706776			1		83,99	39,97924									120															39,97924

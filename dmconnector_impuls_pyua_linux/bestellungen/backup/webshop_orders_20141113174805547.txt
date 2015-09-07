@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000302	20141113						2000217								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marcel Schwinger	26898801		Packstation 144		DE	91052	Erlangen	Marcel.Schwinger@coof.de																1
+ANR	 Marcel Schwinger			Hogmannstr. 11 F		DE	91052	Erlangen	Marcel.Schwinger@coof.de																1
+P			ORDERS								20141113	20141113											EUR	1	4250804713408			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141113	20141113											EUR	2	4250804713255			1		420,13	199,98188									120															199,98188

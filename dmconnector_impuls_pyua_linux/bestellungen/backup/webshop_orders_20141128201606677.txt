@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000541	20141128						2000412								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Claus Lind			Frederiksvej 47  3 sal		DE	2000	Frederiksberg	clauslind@live.dk																1
+ANR	 Claus Lind			Frederiksvej 47  3 sal		DE	2000	Frederiksberg	clauslind@live.dk																1
+P			ORDERS								20141128	20141128											EUR	1	4250494021975			1		16,81	20,0039									120															20,0039
+P			ORDERS								20141128	20141128											EUR	2	4250804721083			1		16,8	19,992									120															19,992

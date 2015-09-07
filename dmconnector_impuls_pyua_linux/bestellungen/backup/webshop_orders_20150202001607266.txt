@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000938	20150201						2000720								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Daniel Koehler	Gothaer Bezirksdirektion 		Zum Schiersteiner Grund 10		DE	55127	Mainz	supadan711@gmail.com																1
+ANR	 Daniel Koehler			Zum Schiersteiner Grund 10		DE	55127	Mainz	supadan711@gmail.com																1
+P			ORDERS								20150201	20150201											EUR	1	4250494010177			2		24,37	29,0003									120															29,0003
+P			ORDERS								20150201	20150201											EUR	2	4250494020442			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150201	20150201											EUR	3	4250494020497			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150201	20150201											EUR	4	4250804718564			1		53,78	63,9982									120															63,9982
+P			ORDERS								20150201	20150201											EUR	5	4250804718366			1		74,79	89,0001									120															89,0001
+P			ORDERS								20150201	20150201											EUR	6	4250494010078			1		24,37	29,0003									120															29,0003

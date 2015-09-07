@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000406	20141121						2000229								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Oliver  Cartellieri 			Rohrwiesenweg 5		DE	65812	Bad Soden	ocartellieri@yahoo.de																1
+ANR	 Oliver  Cartellieri 			Rohrwiesenweg 5		DE	65812	Bad Soden	ocartellieri@yahoo.de																1
+P			ORDERS								20141121	20141121											EUR	1	4250804719943			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141121	20141121											EUR	2	4250804718557			1		46,22	55,0018									120															55,0018

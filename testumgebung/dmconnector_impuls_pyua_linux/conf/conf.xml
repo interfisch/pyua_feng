@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration>
+
+<debugger>
+debugger=false
+sqldebugger=false
+sqlSelect=
+sqlInsert=
+sqlDelete=
+<!-- magento, xtc etc -->
+</debugger>
+
+
+<transferart>
+type=sql2sql
+</transferart>
+
+<warenwirtschaftssystem>
+<!-- wawi=gs2008 -->
+wawi=lexware
+<!-- möglich: sage_ol_evo, exact, selectlinebde, selectlinesql, gs2007, gs2007bde, gs2008, gs2008bde, sage_ol_evo etc -->
+</warenwirtschaftssystem>
+
+<shop>
+shopsystem=magento
+</shop>
+
+<export_cartridge>
+input=cartridge_csv.xml
+<!-- input=cartridge_gs08_shop28.xml -->
+<!-- input=cartridge_all4sat.xml -->
+<!-- input=cartridge_sage_ol_evo.xml -->
+</export_cartridge>
+
+<import_cartridge>
+<!-- fuer csv und sql -->
+orders=./conf/cartridges/cartridge_import.xml
+<!-- orders=./conf/cartridges/magento2OLevo_db.xml -->
+<!-- durchlaeufe=* bedeutet jede Bestellung einzeln =1 wäre alle auf einmal -->
+durchlaeufe=1
+<!-- orders=./conf/cartridges/magento2temp.xml -->
+<!-- orders=./conf/cartridges/shop2gs_database.xml -->
+<!-- Import Format = re, an, li, au --> 
+</import_cartridge>
+
+<bestellkopf_cartridge>
+<!-- fuer xml -->
+orderkopf=./conf/cartridges/cartridge_import_kunden.xml
+<!-- orderkopf=./conf/cartridges/magento2e3000_db.xml -->
+<!-- orderkopf=./conf/cartridges/magento2temp.xml -->
+<!-- orderkopf=./conf/cartridges/shop2gsauftrag08_sch_shop28.xsl -->
+</bestellkopf_cartridge>
+
+<bestellpos_cartridge>
+<!-- fuer xml, Wenn nur 1 XML-File erzeugt werden soll: * -->
+orderpos=./conf/cartridges/cartridge_import_all.xml
+</bestellkopf_cartridge>
+
+<insert_database_cartridge>
+insert=magento2OLevo_db.xml
+<!-- insert=magento2e3000_db.xml -->
+<!-- insert=shop2gs_database.xml -->
+</insert_database_cartridge>
+
+</Configuration>

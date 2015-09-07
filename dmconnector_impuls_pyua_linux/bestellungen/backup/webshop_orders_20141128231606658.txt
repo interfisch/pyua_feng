@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000556	20141128						2000423								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Nadja Schnell			Köfels 138		AT	6481	St. Leonhard im Pitztal	nadja.schnell@hotmail.com																1
+ANR	 Nadja Schnell			Köfels 138		AT	6481	St. Leonhard im Pitztal	nadja.schnell@hotmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804717857			1		75,63	89,9997									120															89,9997

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001144	20150523						2000862								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 aline cuillierier			märchenweg 25		DE	34134	kassel	aline@el-naranjo.de																1
+ANR	 aline cuillierier			märchenweg 25		DE	34134	kassel	aline@el-naranjo.de																1
+P			ORDERS								20150523	20150523											EUR	1	4250804716409			1		115,97	138,0043									120															138,0043

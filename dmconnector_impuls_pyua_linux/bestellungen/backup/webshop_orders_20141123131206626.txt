@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000431	20141123						2000093								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Rudolf Scheffer			Goldammerweg 1		DE	59846	Sundern	rulexa@aol.com	004917648009418															1
+ANR	 Rudolf Scheffer			Goldammerweg 1		DE	59846	Sundern	rulexa@aol.com	004917648009418															1
+P			ORDERS								20141123	20141123											EUR	1	4250804718373			1		46,22	55,0018									120															55,0018

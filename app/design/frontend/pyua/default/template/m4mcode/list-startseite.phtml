@@ -1,0 +1,55 @@
+<?php 
+$categoryId = 26; 
+$category = Mage::getModel('catalog/category')->load($categoryId);
+ 
+$_productCollection = Mage::getModel('catalog/product')
+	->getCollection()
+	->addCategoryFilter($category)
+	->load();
+
+
+?>
+
+hier02
+<?php if (($_productCollection=$this->getLoadedProductCollection()) && $_productCollection->count()): ?>
+<div class="listing-type-grid catalog-listing">
+ 
+<?php $_collectionSize = $_productCollection->count() ?>
+    <table cellspacing="0" cellpadding="0" class="generic-product-grid" id="product-list-table">
+    <?php $i=0; foreach ($_productCollection as $_product): ?>
+    <?php if ($i++%6==0): ?>
+    <tr>
+    <?php endif ?>
+        <td>
+        <a href="<?php echo $_product->getProductUrl() ?>" title="<?php echo $this->htmlEscape($_product->getName()) ?>">
+            <p class="product-image">
+                
+                    <img src="<?php echo $this->helper('catalog/image')->init($_product, 'small_image')->resize(135, 135); ?>" width="135" height="135" alt="<?php echo $this->htmlEscape($_product->getName()) ?>" />
+                
+            </p>
+            <?php echo $this->htmlEscape($_product->getName()) ?>
+            <?php // if($_product->getRatingSummary()): ?>
+            <?php //echo $this->getReviewsSummaryHtml($_product, 'short') ?>
+            <?php // endif; ?>
+            <?php echo $this->getPriceHtml($_product, true) ?>
+            <?php if($_product->isSaleable()): ?>
+            <!--<input class="button" type="image" src="<?php echo $this->getSkinUrl() ?>/images/shopping_cart.gif" alt="<?php echo $this->__('Add to Cart') ?>" onclick="setLocation('<?php echo $this->getAddToCartUrl($_product) ?>')" />-->
+            <?php else: ?>
+            <div class="out-of-stock"><?php echo $this->__('Out of stock') ?></div>
+            </a>
+            <?php endif; ?>
+        </td>
+    <?php if ($i%6==0 && $i!=$_collectionSize): ?>
+    </tr>
+    <?php endif ?>
+    <?php endforeach ?>
+    <?php for($i;$i%3!=0;$i++): ?>
+          <td class="empty-product">&nbsp;</td>
+    <?php endfor ?>
+    <?php if ($i%3==0): ?>
+    </tr>
+    <?php endif ?>
+  </table>
+  <script type="text/javascript">decorateTable('product-list-table')</script>
+</div>
+<?php endif; ?>

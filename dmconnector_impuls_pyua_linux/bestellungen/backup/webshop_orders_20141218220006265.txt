@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000740	20141218						2000570								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Franz Stender			Brahmsstraﬂe 15		DE	91052	Erlangen	franz_stender@web.de																1
+ANR	 Franz Stender			Brahmsstraﬂe 15		DE	91052	Erlangen	franz_stender@web.de																1
+P			ORDERS								20141218	20141218											EUR	1	4250804720529			1		71,43	85,0017									120															85,0017

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000315	20141114						2000228								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Andrea Altmeier			Aspergstr. 20		DE	70186	Stuttgart	altmeier@gmx.de	+491714826951															1
+ANR	 Andrea Altmeier			Aspergstr. 20		DE	70186	Stuttgart	altmeier@gmx.de	+491714826951															1
+P			ORDERS								20141114	20141114											EUR	1	4250804717246			1		210,04	99,97904									120															99,97904
+P			ORDERS								20141114	20141114											EUR	2	4250804721090			1		37,78	17,98328									120															17,98328

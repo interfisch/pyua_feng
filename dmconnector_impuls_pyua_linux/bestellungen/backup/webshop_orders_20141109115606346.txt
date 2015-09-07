@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000222	20141109						2000145								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Henrike Klingenberg			Heitmannshausen 118		DE	21614	Buxtehude	henrikeklingenberg@gmx.de																1
+ANR	 Henrike Klingenberg			Heitmannshausen 118		DE	21614	Buxtehude	henrikeklingenberg@gmx.de																1
+P			ORDERS								20141109	20141109											EUR	1	4250804706776			1		83,99	49,97405									120															49,97405
+P			ORDERS								20141109	20141109											EUR	2	4250804706769			1		83,99	49,97405									120															49,97405
+P			ORDERS								20141109	20141109											EUR	3	4250804704314			1		83,99	49,97405									120															49,97405
+P			ORDERS								20141109	20141109											EUR	4	4250804704307			1		84	49,98									120															49,98

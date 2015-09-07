@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000288	20141112						2000202								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Matthias  Radbruch			Hauptstraﬂe 17		DE	24214	Neuwittenbek	matthias.radbruch@gmx.de																1
+ANR	 Matthias  Radbruch			Hauptstraﬂe 17		DE	24214	Neuwittenbek	matthias.radbruch@gmx.de																1
+P			ORDERS								20141112	20141112											EUR	1	4250804715037			1		336,09	159,97884									120															159,97884
+P			ORDERS								20141112	20141112											EUR	2	4250804715266			1		210,04	99,97904									120															99,97904

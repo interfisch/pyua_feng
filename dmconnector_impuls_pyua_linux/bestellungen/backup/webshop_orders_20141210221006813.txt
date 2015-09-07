@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000657	20141210						2000506								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Radu Engelbrecht			Kunigundenstr. 8		DE	91056	Erlangen	radubejan78@yahoo.de																1
+ANR	 Radu Engelbrecht			Kunigundenstr. 8		DE	91056	Erlangen	radubejan78@yahoo.de																1
+P			ORDERS								20141210	20141210											EUR	1	4250804720536			1		142,82	67,98232									120															67,98232

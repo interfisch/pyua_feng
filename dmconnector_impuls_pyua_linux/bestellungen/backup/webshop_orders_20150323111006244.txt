@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001040	20150323						2000794								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Hannelore Stratz			Ruschbückle 11		DE	79235	Vogtsburg	hstratz@web.de																1
+ANR	 Hannelore Stratz			Ruschbückle 11		DE	79235	Vogtsburg	hstratz@web.de																1
+P			ORDERS								20150323	20150323											EUR	1	4250494020909			1		21,01	25,0019									120															25,0019

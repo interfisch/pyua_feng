@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000181	20141030						2000100								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Michael Conin			Robert-Koch-Straße 17 C		DE	65520	Bad Camberg	mitchco@gmx.net																1
+ANR	 Michael Conin			Robert-Koch-Straße 17 C		DE	65520	Bad Camberg	mitchco@gmx.net																1
+P			ORDERS								20141030	20141030											EUR	1	4250494019606			1		21,01	17,50133									120															17,50133

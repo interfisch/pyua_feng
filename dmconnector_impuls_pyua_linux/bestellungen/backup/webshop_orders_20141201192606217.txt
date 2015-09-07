@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000583	20141201						2000447								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Felix Schormann			Lupinenkamp 46		DE	22339	Hamburg	felix.schormann@yahoo.com	015156012380															1
+ANR	 Felix Schormann			Lupinenkamp 46		DE	22339	Hamburg	felix.schormann@yahoo.com	015156012380															1
+P			ORDERS								20141201	20141201											EUR	1	4250494010429			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141201	20141201											EUR	2	4250494020794			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141201	20141201											EUR	3	4250494020497			1		11,32	13,4708									120															13,4708

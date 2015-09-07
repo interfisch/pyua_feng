@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000602	20141204						2000459								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christian Garlet			Lindenstrasse 3		DE	55257	Budenheim	garlet@sent.com																1
+ANR	 Christian Garlet			Lindenstrasse 3		DE	55257	Budenheim	garlet@sent.com																1
+P			ORDERS								20141204	20141204											EUR	1	4250804715020			1		336,09	399,9471									120															399,9471

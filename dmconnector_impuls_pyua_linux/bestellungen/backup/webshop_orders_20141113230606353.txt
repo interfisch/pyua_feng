@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000314	20141113						2000227								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Mona Zoua			Kienbachstr. 55		DE	70374	Stuttgart	mona-zoua@hotmail.de	01713679179															1
+ANR	 Mona Zoua			Kienbachstr. 55		DE	70374	Stuttgart	mona-zoua@hotmail.de	01713679179															1
+P			ORDERS								20141113	20141113											EUR	1	4250804719608			1		50,38	23,98088									120															23,98088

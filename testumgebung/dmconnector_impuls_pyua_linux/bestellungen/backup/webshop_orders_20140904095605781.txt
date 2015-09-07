@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000092	20140904						2000225								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 test test			teststr 2		DE	12345	teststadt	test@test.de	0123456789															1
+ANR	 test test			teststr 2		DE	12345	teststadt	test@test.de	0123456789															1
+P			ORDERS								20140904	20140904											EUR	1	4250804720987			1		193,24	229,9556									120															229,9556

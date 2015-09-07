@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001109	20150406						2000837								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Diana Kern 			Herraschaftsgartenstr. 53		DE	71032	Böblingen	diana.kern.95@web.de																1
+ANR	 Diana Kern 			Herraschaftsgartenstr. 53		DE	71032	Böblingen	diana.kern.95@web.de																1
+P			ORDERS								20150406	20150406											EUR	1	4250804719424			1		29,41	34,9979									120															34,9979
+P			ORDERS								20150406	20150406											EUR	2	4250804717970			1		96,64	115,0016									120															115,0016

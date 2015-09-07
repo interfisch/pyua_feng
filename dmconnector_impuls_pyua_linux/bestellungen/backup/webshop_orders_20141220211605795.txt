@@ -1,0 +1,10 @@
+H	Web_Pyua		ORDERS					100000749	20141220						2000537								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Robert Gabler			Margeritenstr. 33		DE	83052	Bruckmühl-Götting	gabler.robert@googlemail.com	+4915115738517															1
+ANR	 Robert Gabler			Margeritenstr. 33		DE	83052	Bruckmühl-Götting	gabler.robert@googlemail.com	+4915115738517															1
+P			ORDERS								20141220	20141220											EUR	1	4250804719622			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141220	20141220											EUR	2	4250804719516			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141220	20141220											EUR	3	4250804716874			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141220	20141220											EUR	4	4250804716829			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141220	20141220											EUR	5	4250494021326			1		24,37	11,60012									120															11,60012
+P			ORDERS								20141220	20141220											EUR	6	4250804723667			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141220	20141220											EUR	7	4250804723674			1		29,37	13,98012									120															13,98012

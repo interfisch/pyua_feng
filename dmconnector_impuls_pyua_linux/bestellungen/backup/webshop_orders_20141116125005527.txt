@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000350	20141116						2000259								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Petra Sinterhauf			Pfälzer-Wald-Str. 46		DE	90469	Nürnberg	petra.sinterhauf@kabelmail.de																1
+ANR	 Petra Sinterhauf			Pfälzer-Wald-Str. 46		DE	90469	Nürnberg	petra.sinterhauf@kabelmail.de																1
+P			ORDERS								20141116	20141116											EUR	1	4250804720802			1		189,06	224,9814									120															224,9814
+P			ORDERS								20141116	20141116											EUR	2	4250804720901			1		126,03	149,9757									120															149,9757

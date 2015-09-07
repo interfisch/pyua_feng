@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001106	20150405						2000835								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Mark Ellrichmann			Kleiststr. 20		DE	24105	Kiel	mark.ellrichmann@icloud.com																1
+ANR	 Mark Ellrichmann			Kleiststr. 20		DE	24105	Kiel	mark.ellrichmann@icloud.com																1
+P			ORDERS								20150405	20150405											EUR	1	4250804717550			1		50,42	59,9998									120															59,9998
+P			ORDERS								20150405	20150405											EUR	2	4250804718557			1		37,82	45,0058									120															45,0058

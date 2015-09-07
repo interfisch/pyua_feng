@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000639	20141209						2000492								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sophie von Borstel			Karlstraﬂe 90		DE	76137	Karlsruhe	gonzottel@googlemail.com	+491602346685															1
+ANR	 Sophie von Borstel			Karlstraﬂe 90		DE	76137	Karlsruhe	gonzottel@googlemail.com	+491602346685															1
+P			ORDERS								20141209	20141209											EUR	1	4250804721168			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141209	20141209											EUR	2	4250804720185			1		92,39	109,9441									120															109,9441
+P			ORDERS								20141209	20141209											EUR	3	4250804716430			1		96,64	115,0016									120															115,0016

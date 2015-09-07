@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000290	20141112						2000204								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Kai Matz			Haydnstrasse 15		DE	76571	Gaggenau	kai.c.matz@gmail.com																1
+ANR	 Kai Matz			Haydnstrasse 15		DE	76571	Gaggenau	kai.c.matz@gmail.com																1
+P			ORDERS								20141112	20141112											EUR	1	4250804713477			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141112	20141112											EUR	2	4250804720574			1		142,82	67,98232									120															67,98232

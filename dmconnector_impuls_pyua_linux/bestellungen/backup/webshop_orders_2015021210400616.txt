@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000971	20150212						2000754								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Anett Gisa			Hottengrundweg 13		DE	14089	Berlin	anettgisa@gmx.de																1
+ANR	 Anett Gisa			Hottengrundweg 13		DE	14089	Berlin	anettgisa@gmx.de																1
+P			ORDERS								20150212	20150212											EUR	1	4250804721144			1		336,09	399,9471									120															399,9471
+P			ORDERS								20150212	20150212											EUR	2	4250804721151			1		336,09	399,9471									120															399,9471

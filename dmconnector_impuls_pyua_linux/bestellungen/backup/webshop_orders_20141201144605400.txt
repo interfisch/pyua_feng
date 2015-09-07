@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000582	20141201						2000446								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martijn Boedeker			Rößlinweg 6		DE	70184	Stuttgart	martijn.boedeker@gmail.com																1
+ANR	 Martijn Boedeker			Rößlinweg 6		DE	70184	Stuttgart	martijn.boedeker@gmail.com																1
+P			ORDERS								20141201	20141201											EUR	1	4250804716485			1		193,24	114,9778									120															114,9778

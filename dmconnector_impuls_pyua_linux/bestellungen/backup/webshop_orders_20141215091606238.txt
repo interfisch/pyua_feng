@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000712	20141215						2000546								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Ina Schönfeld	Postnr. 22224923		Packstation 246		DE	10589	Berlin	ina.schoenfeld@gmx.com	030-64835446															1
+ANR	 Ina Schönfeld			Mierendorffstr. 21		DE	10589	Berlin	ina.schoenfeld@gmx.com	030-64835446															1
+P			ORDERS								20141215	20141215											EUR	1	4250804717215			1		210,04	174,96332									120															174,96332
+P			ORDERS								20141215	20141215											EUR	2	4250804717314			1		193,24	160,96892									120															160,96892

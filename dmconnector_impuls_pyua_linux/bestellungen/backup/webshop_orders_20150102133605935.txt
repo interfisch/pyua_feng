@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000793	20150102						2000476								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jonathan Pfeiffer			Gottfried-Renn-Weg 4a		DE	67346	Speyer	jonathanp@posteo.de																1
+ANR	 Jonathan Pfeiffer			Gottfried-Renn-Weg 4a		DE	67346	Speyer	jonathanp@posteo.de																1
+P			ORDERS								20150102	20150102											EUR	1	4250804715020			1		336,09	199,97355									120															199,97355

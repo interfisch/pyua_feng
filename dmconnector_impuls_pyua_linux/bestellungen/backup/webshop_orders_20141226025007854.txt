@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000765	20141226						2000590								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Nico Karnatz	46415106		Packstation 109		DE	44227	Dortmund	nico@eretz.de																1
+ANR	 Nico Karnatz			Glückaufstr. 13		DE	59425	Unna	nico@eretz.de																1
+P			ORDERS								20141226	20141226											EUR	1	4250494020893			1		21,01	25,0019									120															25,0019
+P			ORDERS								20141226	20141226											EUR	2	4250804718366			1		54,62	64,9978									120															64,9978
+P			ORDERS								20141226	20141226											EUR	3	4250804721113			1		33,57	39,9483									120															39,9483
+P			ORDERS								20141226	20141226											EUR	4	4250804721090			1		37,77	44,9463									120															44,9463

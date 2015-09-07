@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000743	20141219						2000536								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Annika Schulz			Bismarckstraﬂe 30		DE	91054	Erlangen	annika.schulz@hotmail.de	015221351812															1
+ANR	 Annika Schulz			Bismarckstraﬂe 30		DE	91054	Erlangen	annika.schulz@hotmail.de	015221351812															1
+P			ORDERS								20141219	20141219											EUR	1	4250804716423			1		193,24	91,98224									120															91,98224

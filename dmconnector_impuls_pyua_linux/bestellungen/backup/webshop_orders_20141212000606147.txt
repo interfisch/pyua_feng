@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000667	20141211						2000514								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Sven Niemax			Schillerstraﬂe 12a		DE	21407	Deutsch Evern	sven@niemax.com	01702223382															1
+ANR	 Sven Niemax			Schillerstraﬂe 12a		DE	21407	Deutsch Evern	sven@niemax.com	01702223382															1
+P			ORDERS								20141211	20141211											EUR	1	4250804713484			1		462,14	219,97864									120															219,97864

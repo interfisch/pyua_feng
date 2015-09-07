@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000951	20150202						2000727								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Markus Zabel			Martlbauerfeld 9		DE	82065	Baierbrunn	markuszabel@mac.com	+4915117449426															1
+ANR	 Markus Zabel			Martlbauerfeld 9		DE	82065	Baierbrunn	markuszabel@mac.com	+4915117449426															1
+P			ORDERS								20150202	20150202											EUR	1	4250804719271			1		50,38	59,9522									120															59,9522

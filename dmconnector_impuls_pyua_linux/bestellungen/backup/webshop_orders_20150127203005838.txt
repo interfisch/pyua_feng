@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000904	20150127						2000695								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Stephan Korte			Ernst-Thälmann-Str. 60 A		DE	14532	Kleinmachnow	stephan.korte@gmx.de																1
+ANR	 Stephan Korte			Ernst-Thälmann-Str. 60 A		DE	14532	Kleinmachnow	stephan.korte@gmx.de																1
+P			ORDERS								20150127	20150127											EUR	1	4250804719271			1		50,38	29,9761									120															29,9761
+P			ORDERS								20150127	20150127											EUR	2	4250804719516			1		50,38	29,9761									120															29,9761

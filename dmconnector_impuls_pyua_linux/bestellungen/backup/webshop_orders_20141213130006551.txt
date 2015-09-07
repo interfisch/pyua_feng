@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000682	20141213						2000029								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 jeannine grabolle			schulhausstrasse 23		CH	5612	villmergen	jgrabolle@yahoo.de	0041 79 223 39 11															4
+ANR	 jeannine grabolle			schulhausstrasse 23		CH	5612	villmergen	jgrabolle@yahoo.de	0041 79 223 39 11															4
+P			ORDERS								20141213	20141213											EUR	1	4250804720512			1		71,43	71,43									120															71,43
+P			ORDERS								20141213	20141213											EUR	2	4250804720284			1		71,43	71,43									120															71,43
+P			ORDERS								20141213	20141213											EUR	3	4250804720239			1		71,43	71,43									120															71,43

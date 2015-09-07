@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001096	20150404						2000829								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jana Gerwers			Kolpingstraﬂe 49		DE	46483	Wesel 	janagerwers@me.com																1
+ANR	 Jana Gerwers			Kolpingstraﬂe 49		DE	46483	Wesel 	janagerwers@me.com																1
+P			ORDERS								20150404	20150404											EUR	1	4250804713590			1		231,09	274,9971									120															274,9971

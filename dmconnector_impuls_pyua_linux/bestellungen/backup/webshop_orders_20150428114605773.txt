@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001130	20150428						2000851								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Eve Jansen			Mozartstraﬂe 58		DE	53115	Bonn	eve-jansen@gmx.de																1
+ANR	 Eve Jansen			Mozartstraﬂe 58		DE	53115	Bonn	eve-jansen@gmx.de																1
+P			ORDERS								20150428	20150428											EUR	1	4250804719189			1		35,29	41,9951									120															41,9951

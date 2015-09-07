@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000440	20141124						2000326								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ennio Zientarra	Büchel & Schöncke		Sophienstr. 2		DE	80333	München	antikreativ@web.de																1
+ANR	 Ennio Zientarra			Kolumbusstr. 7		DE	81543	München	antikreativ@web.de																1
+P			ORDERS								20141124	20141124											EUR	1	4250804718366			1		46,22	55,0018									120															55,0018

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000621	20141207						2000479								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Miriam Gallistl			Unterlimpurger Strasse 49		DE	74523	Schwäbisch Hall	miriam.anna@gmx.de																1
+ANR	 Miriam Gallistl			Unterlimpurger Strasse 49		DE	74523	Schwäbisch Hall	miriam.anna@gmx.de																1
+P			ORDERS								20141207	20141207											EUR	1	4250804721151			1		168,07	200,0033									120															200,0033

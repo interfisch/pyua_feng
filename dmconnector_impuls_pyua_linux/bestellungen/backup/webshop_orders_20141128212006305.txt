@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000549	20141128						2000405								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Eisemann	KET		An der Schanz 2		DE	50735	Köln	teisemann0608@aol.com	0171 6561667															1
+ANR	 Thomas Eisemann	KET		An der Schanz 2		DE	50735	Köln	teisemann0608@aol.com	0171 6561667															1
+P			ORDERS								20141128	20141128											EUR	1	4250804704215			1		42,02	50,0038									120															50,0038
+P			ORDERS								20141128	20141128											EUR	2	4250804720536			1		63,02	74,9938									120															74,9938
+P			ORDERS								20141128	20141128											EUR	3	4250804720277			1		63,03	75,0057									120															75,0057

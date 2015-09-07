@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000301	20141113						2000216								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Mareike Hahn			Am Anger 3		DE	96135	Stegaurach	mattkarl@gmx.de																1
+ANR	 Matthias Karl			Oswald-Merz-Str. 10		DE	95444	Bayreuth	mattkarl@gmx.de																1
+P			ORDERS								20141113	20141113											EUR	1	4250804717314			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141113	20141113											EUR	2	4250804716461			1		193,23	91,97748									120															91,97748

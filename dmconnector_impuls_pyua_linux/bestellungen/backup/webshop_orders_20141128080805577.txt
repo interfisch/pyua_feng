@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000499	20141128						2000375								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jana Ecke			Am Güterbahnhof 25		DE	15366	Hoppegarten	jana.ecke@bbr.bund.de																1
+ANR	 Jana Ecke			Am Güterbahnhof 25		DE	15366	Hoppegarten	jana.ecke@bbr.bund.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804719417			1		33,61	39,9959									120															39,9959
+P			ORDERS								20141128	20141128											EUR	2	4250804719615			1		25,21	29,9999									120															29,9999

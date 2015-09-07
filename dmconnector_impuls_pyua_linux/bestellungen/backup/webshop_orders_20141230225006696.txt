@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000780	20141230						2000603								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Oliver Petters			Comeniusstr. 40		DE	01309	Dresden	iltiz@online.de																1
+ANR	 Oliver Petters			Comeniusstr. 40		DE	01309	Dresden	iltiz@online.de																1
+P			ORDERS								20141230	20141230											EUR	1	4250494022132			1		29,37	24,46521									120															24,46521
+P			ORDERS								20141230	20141230											EUR	2	4250804716812			1		29,37	24,46521									120															24,46521
+P			ORDERS								20141230	20141230											EUR	3	4250494020909			1		21,01	25,0019									120															25,0019

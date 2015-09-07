@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000332	20141114						2000241								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Klaus Dittko			Kastanienallee 26		DE	10435	Berlin	klaus.dittko@mail.de																1
+ANR	 Klaus Dittko			Kastanienallee 26		DE	10435	Berlin	klaus.dittko@mail.de																1
+P			ORDERS								20141114	20141114											EUR	1	4250804715266			1		210,04	99,97904									120															99,97904
+P			ORDERS								20141114	20141114											EUR	2	4250804720512			1		142,82	67,98232									120															67,98232
+P			ORDERS								20141114	20141114											EUR	3	4250804716492			1		193,23	91,97748									120															91,97748
+P			ORDERS								20141114	20141114											EUR	4	4250494021487			1		37,73	17,95948									120															17,95948

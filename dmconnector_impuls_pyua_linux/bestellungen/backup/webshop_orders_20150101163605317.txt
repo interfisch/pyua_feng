@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000783	20150101						2000606								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Günter Ebmer			Ölbergweg 7		AT	4463	Großraming	guenter.ebmer@gmx.at																1
+ANR	 Günter Ebmer			Ölbergweg 7		AT	4463	Großraming	guenter.ebmer@gmx.at																1
+P			ORDERS								20150101	20150101											EUR	1	4250804713491			1		462,14	549,9466									120															549,9466

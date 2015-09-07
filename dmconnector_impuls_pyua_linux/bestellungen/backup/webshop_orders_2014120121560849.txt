@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000587	20141201						2000450								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Andreas Macho			Waldgasse 27		AT	3400	Klosterneuburg/Weidling	andreas.macho@a1.net																1
+ANR	 Andreas Macho			Waldgasse 27		AT	3400	Klosterneuburg/Weidling	andreas.macho@a1.net																1
+P			ORDERS								20141201	20141201											EUR	1	4250804713620			1		462,14	549,9466									120															549,9466

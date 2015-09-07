@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000404	20141121						2000305								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jutta Klett			Ginsterweg 15		DE	42651	Solingen	linus.xx@gmx.de	02128818666															1
+ANR	 Jutta Klett			Ginsterweg 15		DE	42651	Solingen	linus.xx@gmx.de	02128818666															1
+P			ORDERS								20141121	20141121											EUR	1	4250804718960			1		46,22	55,0018									120															55,0018

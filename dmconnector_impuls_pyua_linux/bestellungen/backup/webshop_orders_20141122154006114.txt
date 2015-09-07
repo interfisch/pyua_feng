@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000420	20141122						2000314								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Tanja Hoier			Gut Rohlstorf 12		DE	23821	Rohlstorf	ditzzz@gmx.de																1
+ANR	 Tanja Hoier			Gut Rohlstorf 12		DE	23821	Rohlstorf	ditzzz@gmx.de																1
+P			ORDERS								20141122	20141122											EUR	1	4250804721151			1		336,09	199,97355									120															199,97355

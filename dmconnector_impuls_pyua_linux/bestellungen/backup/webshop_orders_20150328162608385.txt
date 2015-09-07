@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001060	20150328						2000804								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 daniel bertram			paulstrasse23		DE	90459	nürnberg	danielbertram1976@gmx.de	017632984717															1
+ANR	 daniel bertram			paulstrasse23		DE	90459	nürnberg	danielbertram1976@gmx.de	017632984717															1
+P			ORDERS								20150328	20150328											EUR	1	4250804715082			1		168,07	200,0033									120															200,0033

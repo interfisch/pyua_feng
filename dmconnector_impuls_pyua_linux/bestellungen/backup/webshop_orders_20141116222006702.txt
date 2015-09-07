@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000362	20141116						2000267								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Katharina Lehmann			Jahnstr.34		DE	60318	Frankfurt	katharina.lehmann@ymail.com	01636557505															1
+ANR	 Katharina Lehmann			Jahnstr.34		DE	60318	Frankfurt	katharina.lehmann@ymail.com	01636557505															1
+P			ORDERS								20141116	20141116											EUR	1	4250804720741			1		189,06	157,48698									120															157,48698

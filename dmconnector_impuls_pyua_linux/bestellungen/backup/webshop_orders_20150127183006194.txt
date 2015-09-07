@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000902	20150127						2000670								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sophia Mertens			Adamsstrasse 55		DE	51063	Köln	sophia-m@web.de	017672283668															1
+ANR	 Sophia Mertens			Adamsstrasse 55		DE	51063	Köln	sophia-m@web.de	017672283668															1
+P			ORDERS								20150127	20150127											EUR	1	4250804720765			1		301,68	179,4996									120															179,4996

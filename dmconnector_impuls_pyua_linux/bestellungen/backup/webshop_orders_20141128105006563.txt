@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000506	20141128						2000383								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Belinda Stajan			T. Wölbitsch Gasse 7		AT	8605	Kapfenberg	belinda.stajan@hotmail.com																1
+ANR	 Belinda Stajan			T. Wölbitsch Gasse 7		AT	8605	Kapfenberg	belinda.stajan@hotmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804719813			1		16,81	20,0039									120															20,0039
+P			ORDERS								20141128	20141128											EUR	2	4250804716805			1		16,8	19,992									120															19,992
+P			ORDERS								20141128	20141128											EUR	3	4250494020190			1		12,61	15,0059									120															15,0059

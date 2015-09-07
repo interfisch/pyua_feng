@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000394	20141120						2000296								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christina Scharf			Beundstraﬂe 13		DE	69469	Weinheim	christina.scharf1@web.de																1
+ANR	 Christina Scharf			Beundstraﬂe 13		DE	69469	Weinheim	christina.scharf1@web.de																1
+P			ORDERS								20141120	20141120											EUR	1	4250804714719			1		294,08	349,9552									120															349,9552

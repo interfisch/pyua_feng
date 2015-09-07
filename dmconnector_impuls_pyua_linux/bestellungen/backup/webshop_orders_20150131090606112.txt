@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000925	20150131						2000709								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Matthias Duschanek			Keplerstr. 24		DE	92224	Amberg	matthias_duschanek@gmx.de	+499621782434															1
+ANR	 Matthias Duschanek			Keplerstr. 24		DE	92224	Amberg	matthias_duschanek@gmx.de	+499621782434															1
+P			ORDERS								20150131	20150131											EUR	1	4250804714269			1		200,84	119,4998									120															119,4998
+P			ORDERS								20150131	20150131											EUR	2	4250804714719			1		234,45	139,49775									120															139,49775

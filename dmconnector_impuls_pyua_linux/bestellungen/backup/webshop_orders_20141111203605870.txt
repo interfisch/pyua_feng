@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000245	20141111						2000164								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Madeleine Kirschner			Cherisy-Str. 10		DE	78467	Konstanz	madeleine.kirschner@gmail.com																1
+ANR	 Madeleine Kirschner			Cherisy-Str. 10		DE	78467	Konstanz	madeleine.kirschner@gmail.com																1
+P			ORDERS								20141111	20141111											EUR	1	4250804721144			1		336,09	159,97884									120															159,97884

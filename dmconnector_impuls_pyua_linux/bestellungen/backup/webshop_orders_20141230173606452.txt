@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000778	20141230						2000601								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Lilly Krichbaumer			Buchrain		DE	83109	Groﬂkarolinenfeld	lilly.krichbaumer@gmx.de																1
+ANR	 Lilly Krichbaumer			Buchrain		DE	83109	Groﬂkarolinenfeld	lilly.krichbaumer@gmx.de																1
+P			ORDERS								20141230	20141230											EUR	1	4250804716416			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141230	20141230											EUR	2	4250804719622			1		50,37	23,97612									120															23,97612

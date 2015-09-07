@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001086	20150403						2000702								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Hans Werner Timm			Hauptstrasse 4c		DE	25767	Offenbüttel	christophtimm@gmail.com	048351300															1
+ANR	 Hans Werner Timm			Hauptstrasse 4c		DE	25767	Offenbüttel	christophtimm@gmail.com	048351300															1
+P			ORDERS								20150403	20150403											EUR	1	4250804713446			1		231,09	137,49855									120															137,49855

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000722	20141216						2000554								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christian Bergmann			Hauptstr.11		DE	97258	Gollhofen	chris@boarderpool.com	+491739844528															1
+ANR	 Christian Bergmann			Hauptstr.11		DE	97258	Gollhofen	chris@boarderpool.com	+491739844528															1
+P			ORDERS								20141216	20141216											EUR	1	4250494022132			1		29,37	34,9503									120															34,9503

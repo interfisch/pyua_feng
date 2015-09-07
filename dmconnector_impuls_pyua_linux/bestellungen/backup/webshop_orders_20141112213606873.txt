@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000273	20141112						2000192								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Harald Ahrendt			Clausewitzstraﬂe 13		DE	24105	Kiel	haerry1109@gmx.de	015141969261															1
+ANR	 Harald Ahrendt			Clausewitzstraﬂe 13		DE	24105	Kiel	haerry1109@gmx.de	015141969261															1
+P			ORDERS								20141112	20141112											EUR	1	4250804713385			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141112	20141112											EUR	2	4250804716423			1		193,24	91,98224									120															91,98224

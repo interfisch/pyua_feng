@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000684	20141213						2000281								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Gina Leonie Flick			Eierkampstr. 23		DE	44225	Dortmund	wilfert@top-event.net	0177 7519339															1
+ANR	 Gina Leonie Flick			Eierkampstr. 23		DE	44225	Dortmund	wilfert@top-event.net	0177 7519339															1
+P			ORDERS								20141213	20141213											EUR	1	4250804713552			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141213	20141213											EUR	2	4250804720895			1		252,06	299,9514									120															299,9514
+P			ORDERS								20141213	20141213											EUR	3	4250804717963			1		193,24	229,9556									120															229,9556

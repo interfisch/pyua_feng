@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000614	20141206						2000473								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Stephan Effert			Kuhbergstrasse 27		DE	34131	Kassel	stephan.effert@gmail.com																1
+ANR	 Stephan Effert			Kuhbergstrasse 27		DE	34131	Kassel	stephan.effert@gmail.com																1
+P			ORDERS								20141206	20141206											EUR	1	4250804713415			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141206	20141206											EUR	2	4250804717215			1		210,04	99,97904									120															99,97904

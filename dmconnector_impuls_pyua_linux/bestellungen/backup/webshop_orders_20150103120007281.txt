@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000800	20150103						2000096								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Philipp Strayle			Zollernstrasse 1		DE	72644	Oberboihingen	p.strayle@ntz.de																1
+ANR	 Philipp Strayle			Zollernstrasse 1		DE	72644	Oberboihingen	p.strayle@ntz.de																1
+P			ORDERS								20150103	20150103											EUR	1	4250804714221			1		252,06	149,9757									120															149,9757

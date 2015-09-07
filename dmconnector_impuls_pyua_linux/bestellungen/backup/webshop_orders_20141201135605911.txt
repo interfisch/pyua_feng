@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000581	20141201						2000445								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Margret Scheibelhofer			Attemsallee 36		AT	8472	Straﬂ	margret.scheibelhofer@gmx.at	00436769237196															1
+ANR	 Margret Scheibelhofer			Attemsallee 36		AT	8472	Straﬂ	margret.scheibelhofer@gmx.at	00436769237196															1
+P			ORDERS								20141201	20141201											EUR	1	4250494010429			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141201	20141201											EUR	2	4250494020794			1		13,84	16,4696									120															16,4696

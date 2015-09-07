@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000514	20141128						2000389								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Dirksen	pharma mall		Westerwaldstr. 10		DE	53757	Sankt Augustin	adirksen@gmx.de																1
+ANR	 Andreas Dirksen			Ettenhausener Str. 6a		DE	53229	Bonn	adirksen@gmx.de	+492282806904															1
+P			ORDERS								20141128	20141128											EUR	1	4250494020787			1		12,61	15,0059									120															15,0059
+P			ORDERS								20141128	20141128											EUR	2	4250494010368			1		12,6	14,994									120															14,994

@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000733	20141217						2000563								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Johann Hermann			Thalkirchnerstr. 31		DE	80337	München	johann.hermann@gmail.com																1
+ANR	 Johann Hermann			Thalkirchnerstr. 31		DE	80337	München	johann.hermann@gmail.com																1
+P			ORDERS								20141217	20141217											EUR	1	4250804719615			1		50,38	35,97132									120															35,97132
+P			ORDERS								20141217	20141217											EUR	2	4250804719417			1		58,78	41,96892									120															41,96892
+P			ORDERS								20141217	20141217											EUR	3	4250804720260			1		71,43	85,0017									120															85,0017
+P			ORDERS								20141217	20141217											EUR	4	4250804718564			1		75,59	53,97126									120															53,97126

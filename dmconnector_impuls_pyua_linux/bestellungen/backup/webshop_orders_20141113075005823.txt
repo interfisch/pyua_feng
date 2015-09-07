@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000293	20141113						2000207								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Mathias Fischer	Kathmann Holz-Bauelemente		Nutzhorner Landstr. 50		DE	27777	Ganderkesee	fischer_mathias@web.de	0151 67311670															1
+ANR	 mathias Fischer			Pappelstr. 125		DE	28199	Bremen	fischer_mathias@web.de	0151 67311670															1
+P			ORDERS								20141113	20141113											EUR	1	4250804713385			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141113	20141113											EUR	2	4250804714030			1		462,15	219,9834									120															219,9834
+P			ORDERS								20141113	20141113											EUR	3	4250804713286			1		420,12	199,97712									120															199,97712
+P			ORDERS								20141113	20141113											EUR	4	4250804714283			1		252,06	119,98056									120															119,98056
+P			ORDERS								20141113	20141113											EUR	5	4250804719189			1		58,78	27,97928									120															27,97928
+P			ORDERS								20141113	20141113											EUR	6	4250804719387			2		50,38	23,98088									120															23,98088

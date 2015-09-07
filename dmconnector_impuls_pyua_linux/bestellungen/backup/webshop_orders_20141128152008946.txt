@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000528	20141128						2000401								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Karin Mähr			Torkelweg		AT	6832	Röthis	karin.maehr@gmail.com																1
+ANR	 Karin Mähr			Torkelweg		AT	6832	Röthis	karin.maehr@gmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804713620			1		378,15	449,9985									120															449,9985
+P			ORDERS								20141128	20141128											EUR	2	4250804713828			1		294,12	350,0028									120															350,0028
+P			ORDERS								20141128	20141128											EUR	3	4250804717826			1		100,84	119,9996									120															119,9996
+P			ORDERS								20141128	20141128											EUR	4	4250804719424			1		33,61	39,9959									120															39,9959

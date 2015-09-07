@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000669	20141212						2000516								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Liz Kristoferitsch			Postfeld 4		AT	6752	Dalaas	liz.kristoferitsch@gmx.net	00436502165716															1
+ANR	 Liz Kristoferitsch			Postfeld 4		AT	6752	Dalaas	liz.kristoferitsch@gmx.net	00436502165716															1
+P			ORDERS								20141212	20141212											EUR	1	4250804718175			1		100,8	47,9808									120															47,9808

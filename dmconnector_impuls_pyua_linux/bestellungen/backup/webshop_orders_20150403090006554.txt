@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100001085	20150403						2000821								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Hilke Thissen			Schmidt-Scholl-Weg 42		DE	59757	Arnsberg	h2ojthissen@gmail.com	0152-31088436															1
+ANR	 Hilke Thissen			Schmidt-Scholl-Weg 42		DE	59757	Arnsberg	h2ojthissen@gmail.com	0152-31088436															1
+P			ORDERS								20150403	20150403											EUR	1	4250804720758			1		189,08	225,0052									120															225,0052
+P			ORDERS								20150403	20150403											EUR	2	4250804720901			1		126,05	149,9995									120															149,9995
+P			ORDERS								20150403	20150403											EUR	3	4250804721090			1		28,57	33,9983									120															33,9983

@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000391	20141119						2000294								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Katja Stolzenburg			Lerchengrund 16a		DE	04158	Leipzig	katja.stolzenburg@gmx.de																1
+ANR	 Katja Stolzenburg			Lerchengrund 16a		DE	04158	Leipzig	katja.stolzenburg@gmx.de																1
+P			ORDERS								20141119	20141119											EUR	1	2024238000098			1		29,41	34,9979									120															34,9979
+P			ORDERS								20141119	20141119											EUR	2	4250804719424			1		58,78	34,9741									120															34,9741
+P			ORDERS								20141119	20141119											EUR	3	4250804719622			1		50,38	29,9761									120															29,9761

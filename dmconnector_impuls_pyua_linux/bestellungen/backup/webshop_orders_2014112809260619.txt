@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000502	20141128						2000379								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Susanne Fink			Pflaster‰ckerstraﬂe 34		DE	70186	Stuttgart	sanne.fink@freenet.de	0172-7793895															1
+ANR	 Susanne Fink			Pflaster‰ckerstraﬂe 34		DE	70186	Stuttgart	sanne.fink@freenet.de	0172-7793895															1
+P			ORDERS								20141128	20141128											EUR	1	4250804717956			1		75,63	89,9997									120															89,9997

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>   
+<layout version="0.1.0">   
+  <default>
+    <reference name="head">
+        <block type="page/html_header" name="ga_header1" template="SaveTheMage/GoogleUniversalAnalytics/index.phtml"/>
+    </reference>
+</default>
+</layout>   
+	

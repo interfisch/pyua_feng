@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000870	20150123						2000671								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Christian Goelz	Neue Bewegung GmbH		Eberhardstrasse 69-71		DE	70173	Stuttgart	christian.goelz@neue-bewegung.com	01723065407															1
+ANR	 Christian Goelz			Tübingerstrasse 25		DE	70178	Stuttgart	christian.goelz@neue-bewegung.com	01723065407															1
+P			ORDERS								20150123	20150123											EUR	1	4250804713422			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150123	20150123											EUR	2	4250804713330			1		420,13	249,97735									120															249,97735

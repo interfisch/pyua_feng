@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001105	20150405						2000834								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Helge Kleindienst			Ewaldstr. 13		DE	44789	Bochum	helge.kleindienst@gmx.de	01724022323															1
+ANR	 Helge Kleindienst			Ewaldstr. 13		DE	44789	Bochum	helge.kleindienst@gmx.de	01724022323															1
+P			ORDERS								20150405	20150405											EUR	1	4250804720901			1		126,05	149,9995									120															149,9995

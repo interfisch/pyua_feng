@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000866	20150122						2000667								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Natalie Szopa			Lotzestraße 33		DE	37083	Göttingen 	natalie.szopa@posteo.de																1
+ANR	 Natalie Szopa			Lotzestraße 33		DE	37083	Göttingen 	natalie.szopa@posteo.de																1
+P			ORDERS								20150122	20150122											EUR	1	4250804721144			1		268,07	319,0033									120															319,0033

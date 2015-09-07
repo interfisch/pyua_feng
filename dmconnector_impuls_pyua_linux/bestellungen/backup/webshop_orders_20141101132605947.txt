@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000200	20141101						2000118								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Elisabeth Apel-Isbarn			Georgenborner Straﬂe 20		DE	65201	Wiesbaden	e.apel-isbarn@posteo.de	01759283159															1
+ANR	 Elisabeth Apel-Isbarn			Georgenborner Straﬂe 20		DE	65201	Wiesbaden	e.apel-isbarn@posteo.de	01759283159															1
+P			ORDERS								20141101	20141101											EUR	1	4250804714771			1		294,08	244,96864									120															244,96864

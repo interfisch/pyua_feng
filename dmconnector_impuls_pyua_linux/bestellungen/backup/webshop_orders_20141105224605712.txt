@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000213	20141105						2000133								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Dirk Hartmann			Bergische Landstr.79		DE	40629	Düsseldorf 	dirksurf13@icloud.com	0160 555 36 55															1
+ANR	 Dirk Hartmann			Bergische Landstr.79		DE	40629	Düsseldorf 	dirksurf13@icloud.com	0160 555 36 55															1
+P			ORDERS								20141105	20141105											EUR	1	4250494021753			1		29,41	34,9979									120															34,9979
+P			ORDERS								20141105	20141105											EUR	2	4250494019620			1		21,01	25,0019									120															25,0019

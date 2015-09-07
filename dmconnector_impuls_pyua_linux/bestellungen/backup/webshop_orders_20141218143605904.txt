@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000739	20141218						2000569								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Ulrike Hollerauer-Bielmeier			Feichteckstr. 19		DE	83122	Samerberg	hollerauer@me.com																1
+ANR	 Ulrike Hollerauer-Bielmeier			Feichteckstr. 19		DE	83122	Samerberg	hollerauer@me.com																1
+P			ORDERS								20141218	20141218											EUR	1	4250804715013			1		336,09	159,97884									120															159,97884

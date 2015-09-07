@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000814	20150104						2000621								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Hanna Greve			Marchlewskistraﬂe 35		DE	10243	Berlin	greve.hanna@gmail.com	017664120636															1
+ANR	 Hanna Greve			Marchlewskistraﬂe 35		DE	10243	Berlin	greve.hanna@gmail.com	017664120636															1
+P			ORDERS								20150104	20150104											EUR	1	4250804721168			1		336,09	399,9471									120															399,9471

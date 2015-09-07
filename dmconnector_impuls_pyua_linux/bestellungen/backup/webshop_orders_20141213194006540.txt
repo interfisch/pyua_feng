@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000691	20141213						2000467								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Anna Weiﬂenborn			Simildenstr. 2		DE	04277	Leipzig	anna.weissenborn@posteo.de																1
+ANR	 Anna Weiﬂenborn			Simildenstr. 2		DE	04277	Leipzig	anna.weissenborn@posteo.de																1
+P			ORDERS								20141213	20141213											EUR	1	4250804719516			1		50,38	29,9761									120															29,9761
+P			ORDERS								20141213	20141213											EUR	2	4250804719523			1		50,38	29,9761									120															29,9761

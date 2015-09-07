@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000287	20141112						2000201								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stefan Heczko			Lange Reihe 94		DE	20099	Hamburg	stefan.heczko@gmx.de	015114553300															1
+ANR	 Stefan Heczko			Lange Reihe 94		DE	20099	Hamburg	stefan.heczko@gmx.de	015114553300															1
+P			ORDERS								20141112	20141112											EUR	1	4250804715860			1		29,37	13,98012									120															13,98012

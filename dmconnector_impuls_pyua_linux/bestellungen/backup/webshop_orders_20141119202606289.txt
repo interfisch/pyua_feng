@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000390	20141119						2000293								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Eva  Engelke			Ophagen 8		DE	20257	Hamburg	nieke.rai@alice-dsl.net	040 8515454															1
+ANR	 Eva  Engelke			Ophagen 8		DE	20257	Hamburg	nieke.rai@alice-dsl.net	040 8515454															1
+P			ORDERS								20141119	20141119											EUR	1	4250804721137			1		336,09	399,9471									120															399,9471

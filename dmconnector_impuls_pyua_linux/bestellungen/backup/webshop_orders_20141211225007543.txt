@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000665	20141211						2000511								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Conny Söhlemann-Mangold			Ofengasse 1		DE	73529	Schwäbish Gmünd	Kabbr@t-online.de																1
+ANR	 Conny Söhlemann-Mangold			Ofengasse 1		DE	73529	Schwäbish Gmünd	Kabbr@t-online.de																1
+P			ORDERS								20141211	20141211											EUR	1	4250804713620			1		462,14	549,9466									120															549,9466

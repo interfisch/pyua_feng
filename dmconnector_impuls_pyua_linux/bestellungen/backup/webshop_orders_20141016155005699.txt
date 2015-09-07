@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000119	20141016						2000291								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Philipp Rhode	Pro Food GmbH		Heinrich- Hertzstr. 11- 13		DE	45657	Recklinghausen	philipp@profood.org																1
+ANR	 Philipp Rhode			Oskar- Hoffmannstr. 42a		DE	44789	Bochum	philipp@profood.org	01701851911															1
+P			ORDERS								20141016	20141016											EUR	1	4250804717222			1		210,04	249,9476									120															249,9476

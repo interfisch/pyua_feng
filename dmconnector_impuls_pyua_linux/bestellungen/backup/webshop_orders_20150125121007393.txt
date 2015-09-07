@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000885	20150125						2000684								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martin Dürrfeld	Jakobs Apotheke		Planegger Strasse 5		DE	81241	München	duerrfeld@outlook.de	089 81029703															1
+ANR	 Martin Dürrfeld	Jakobs Apotheke		Planegger Strasse 5		DE	81241	München	duerrfeld@outlook.de	089 81029703															1
+P			ORDERS								20150125	20150125											EUR	1	4250804713330			1		420,13	249,97735									120															249,97735

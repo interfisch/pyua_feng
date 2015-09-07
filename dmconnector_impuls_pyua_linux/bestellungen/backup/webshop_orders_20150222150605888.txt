@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000991	20150222						2000763								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Anette Wilson			Defreggerstr.1		DE	45147	Essen	thomaswilson@arcor.de																1
+ANR	 Anette Wilson			Defreggerstr.1		DE	45147	Essen	thomaswilson@arcor.de																1
+P			ORDERS								20150222	20150222											EUR	1	4250804717994			1		125,21	148,9999									120															148,9999

@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000201	20141101						2000119								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael Müller			Russeer Weg 69 a		DE	24111	Kiel	nomit@t-online.de	0431697079															1
+ANR	 Michael Müller			Russeer Weg 69 a		DE	24111	Kiel	nomit@t-online.de	0431697079															1
+P			ORDERS								20141101	20141101											EUR	1	4250804713415			1		462,14	384,96262									120															384,96262
+P			ORDERS								20141101	20141101											EUR	2	4250804713316			1		420,13	349,96829									120															349,96829
+P			ORDERS								20141101	20141101											EUR	3	4250804713217			1		420,12	349,95996									120															349,95996

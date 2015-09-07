@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000964	20150207						2000632								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Bernd  Eichwalder 			Strass 389		AT	6764	Lech 	Berndsnow@Gmail.com	004369915333033															1
+ANR	 Bernd  Eichwalder 			Strass 389		AT	6764	Lech 	Berndsnow@Gmail.com	004369915333033															1
+P			ORDERS								20150207	20150207											EUR	1	4250494021739			1		21,01	25,0019									120															25,0019
+P			ORDERS								20150207	20150207											EUR	2	4250804717550			1		100,8	119,952									120															119,952

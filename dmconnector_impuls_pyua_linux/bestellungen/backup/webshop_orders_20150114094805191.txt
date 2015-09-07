@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000721	20141216						2000553								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Fabian Bihler			Am Hochgericht 27		DE	79618	Rheinfelden	annaschwaer@web.de																1
+ANR	 Anna Schwär			Am Hochgericht 27		DE	79618	Rheinfelden	annaschwaer@web.de																1
+P			ORDERS								20141216	20141216											EUR	1	4250804720758			1		378,11	449,9509									120															449,9509
+P			ORDERS								20141216	20141216											EUR	2	4250804720901			1		252,06	299,9514									120															299,9514

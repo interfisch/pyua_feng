@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000337	20141115						2000246								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marisa Hoffmann	Conference & Touring GmbH		Bogenstraﬂe 54a		DE	20144	Hamburg	marisa.h@gmx.de	017664371247															1
+ANR	 Marisa Hoffmann			Grindelhof 83, Haus 3		DE	20146	Hamburg	marisa.h@gmx.de																1
+P			ORDERS								20141115	20141115											EUR	1	4250804720840			1		126,03	149,9757									120															149,9757
+P			ORDERS								20141115	20141115											EUR	2	4250804720758			1		189,06	224,9814									120															224,9814

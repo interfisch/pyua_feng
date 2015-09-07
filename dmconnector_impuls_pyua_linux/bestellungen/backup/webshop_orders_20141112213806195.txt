@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000274	20141112						2000162								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Anne Habermehl			Kaiserstr. 26		DE	76133	Karlsruhe	annehabermehl@gmx.de																1
+ANR	 Anne Habermehl			Kaiserstr. 26		DE	76133	Karlsruhe	annehabermehl@gmx.de																1
+P			ORDERS								20141112	20141112											EUR	1	4250804719622			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141112	20141112											EUR	2	4250804719615			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141112	20141112											EUR	3	4250494020275			2		21,01	10,00076									120															10,00076
+P			ORDERS								20141112	20141112											EUR	4	4250804719516			1		50,38	23,98088									120															23,98088

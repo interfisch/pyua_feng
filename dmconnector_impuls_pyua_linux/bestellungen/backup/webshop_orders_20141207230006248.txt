@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000624	20141207						2000482								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Tobias Letsche			Uhlandstraﬂe 30		DE	01069	Dresden	tobias_letsche@posteo.de																1
+ANR	 Tobias Letsche			Uhlandstraﬂe 30		DE	01069	Dresden	tobias_letsche@posteo.de																1
+P			ORDERS								20141207	20141207											EUR	1	4250804715334			1		105,04	124,9976									120															124,9976
+P			ORDERS								20141207	20141207											EUR	2	4250804719295			1		40,34	48,0046									120															48,0046
+P			ORDERS								20141207	20141207											EUR	3	4250804719387			1		40,33	47,9927									120															47,9927
+P			ORDERS								20141207	20141207											EUR	4	4250804720536			1		142,82	84,9779									120															84,9779

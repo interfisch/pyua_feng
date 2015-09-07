@@ -1,0 +1,62 @@
+<?php
+/**
+ * @category    Fishpig
+ * @package     Fishpig_Wordpress
+ * @license     http://fishpig.co.uk/license.txt
+ * @author      Ben Tideswell <help@fishpig.co.uk>
+ */
+?>
+
+
+
+<?php $posts = $this->getPosts() ?>
+<?php if (count($posts) > 0): ?>
+	<div class="block block-blog block-recent-posts pyua-news">
+	<a href="http://www.pyua.de/index.php/news/" id="news-archiv-link"><span>News Archiv</span></a>
+
+		<?php if ($title = $this->getTitle()): ?>
+			
+			<?php //echo $post->getPostContent(); ?>
+	
+		<?php endif; ?>
+		<div class="block-content">
+			<div id="<?php echo $this->getListId() ?>">
+			<?php foreach($posts as $post): ?>
+			<div class="news-block">
+				
+				<?php //echo $post->getPostContent(); ?>
+				
+				<div class="post-entry entry std<?php if ($post->getFeaturedImage()): ?> post-entry-with-image<?php endif; ?>">
+			<?php if ($post->isViewableForVisitor()): ?>
+				<?php if ($featuredImage = $post->getFeaturedImage()): ?>
+					<div class="featured-image left"><a href="<?php echo $post->getPermalink() ?>"><img src="<?php echo $featuredImage->getAvailableImage() ?>" alt="<?php echo $this->escapeHtml($post->getPostTitle()) ?>"/></a></div>
+				<?php endif; ?>
+				<h2>
+					<a href="<?php echo $post->getPermalink() ?>" title="<?php echo $this->htmlEscape($post->getPostTitle()) ?>"><?php echo $this->htmlEscape($post->getPostTitle()) ?></a>
+				</h2>
+				
+				
+				<?php //echo $post->getPostContent() ?>
+				<?php if ($this->canDisplayExcerpt()): ?>
+						<p class="post-excerpt"><?php echo $post->getPostExcerpt() ?></p>
+					<?php else: ?>
+					<?php $content = $post->getPostExcerpt(); $content = strip_tags($content); echo substr($content, 0, 140); ?>...<br />
+					<a href="<?php echo $post->getPermalink() ?>">Weiterlesen ></a>
+					<?php //echo $post->getPostContent() ?>
+
+					<?php endif; ?>
+	
+			
+			<?php else: ?>
+				<?php echo $this->getPasswordProtectHtml() ?>
+			<?php endif; ?>
+		</div>
+		</div>
+				
+				
+			<?php endforeach; ?>
+			</div>
+			<script type="text/javascript">decorateList('<?php echo $this->getListId() ?>')</script>
+		</div>
+	</div>
+<?php endif; ?>

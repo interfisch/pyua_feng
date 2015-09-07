@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000677	20141212						2000523								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 David Frauenkron 			Adalbertstr. 44		DE	80799	München	dave-home@freenet.de																1
+ANR	 David Frauenkron 			Adalbertstr. 44		DE	80799	München	dave-home@freenet.de																1
+P			ORDERS								20141212	20141212											EUR	1	4250804713484			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141212	20141212											EUR	2	4250804713279			1		420,13	199,98188									120															199,98188

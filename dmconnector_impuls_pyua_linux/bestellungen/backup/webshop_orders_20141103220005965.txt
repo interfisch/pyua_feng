@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000208	20141103						2000126								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Klaus Fürnschuß	Kristl, Seibt		Harterstrasse 4		AT	8053	Graz	klaus.fuernschuss@gmx.at	004366488507666															1
+ANR	 Klaus Fürnschuß			Königshoferstrasse 25/7		AT	8020	Graz	klaus.fuernschuss@gmx.at	004366488507666															1
+P			ORDERS								20141103	20141103											EUR	1	4250804713224			1		420,13	499,9547									120															499,9547

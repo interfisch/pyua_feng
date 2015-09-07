@@ -1,0 +1,477 @@
+###---------------------------------------------------------------------------###
+# Anpassungen, welche von Hand und nicht durch Merch durchgeführt werden können #
+###---------------------------------------------------------------------------###
+
+1. Suche entfernen:
+	/pyua/app/design/frontend/pyua/default/template/page/html/header.phtml
+	Hier die Zeilen
+	|98
+	|99	
+	|100
+	auskommentieren
+
+###---------------------------------------------------------------------------###
+
+2. link neben dem WKO "zur Kasse" mit link zum Checkout
+	/pyua/app/design/frontend/pyua/default/template/page/html/header.phtml
+	|84 <!-- Flemming | M4M | Checkout Link-->
+	|85 <span class="goToCheckout"><a href="http://www.pyua.de/index.php/checkout/onepage/">zur Kasse</a> <i class="fa fa-gift"></i></span>
+
+Sowie in der css Datei folgendes hinterlegen:
+	/pyua/skin/frontend/pyua/default/css/styles.css
+
+	/*Zur Kasse*/
+	header span.goToCheckout {
+		font-size: 16px;
+		width: 100px;
+		position: relative;
+		margin-left: -20px;
+	}
+	header a:hover,
+	header span.goToCheckout:hover > a {
+		text-decoration: none;
+		color:        #0077b3;
+	}
+
+###---------------------------------------------------------------------------###
+
+3. Breadcrumbs größer und weiter nach unten:
+	/pyua/skin/frontend/pyua/default/css/styles.css
+
+	Zeile 10329 anpassen:
+	.breadcrumbs {
+		position: absolute;
+		top: 95px;
+		font-size: 14px;
+		color: #666666;
+		left: 183px;
+		z-index: 999999;
+	}
+
+###---------------------------------------------------------------------------###
+
+4. Checkout anpassung...
+
+###### CODE  ######
+Die Datei mit meiner (offline) ersetzen:
+
+
+
+##### DESIGN ######
+
+	/pyua/skin/frontend/pyua/default/css/styles.css
+
+	## Zeile 7305
+		.opc .buttons-set button.button {
+			float: right;
+			margin-left: 0;
+			margin-right: 10px;
+			margin-bottom: 0;
+			border-radius: 6px;
+			-webkit-border-radius: 6px;
+			-moz-border-radius: 6px;
+		} 
+
+	## Einfach hinzufügen:
+
+/*Nachtraegliche Checkout anpassungen*/
+
+/* HAUPTTEILUNG START*/
+.checkout-onepage-index .col-main {
+  position: relative;
+  top: 40px;
+  padding-bottom: 70px;
+  width: 100%;
+}
+
+.checkout-onepage-index  .step-title {
+  position: absolute !important;
+  display: inline-block;
+  top: -50px;
+  z-index: 2;
+  width: 225px !important;
+  height: 35px;
+  padding-left: 10px;
+  background-color: rgba(0, 119, 179, 1);
+  color: #fff !important; 
+}
+
+
+.checkout-onepage-index  .step-title .number{
+  display:none !important;
+}
+.checkout-onepage-index  .step-title h2{
+  color: #fff;
+  width: 100%;
+  margin: -3px 0px 0px 0px !important;
+}
+.checkout-onepage-index .step-title h2:after{
+  content: "\f138";
+  font-family: FontAwesome;
+  color: #fff;
+  font-size: 20px;
+  float: right;
+  right: 5px;
+  top: -3px;
+  position: absolute;
+}
+.checkout-onepage-index  .step-title a{
+  display:none !important;
+}
+
+
+.checkout-onepage-index .section.allow.active .step-title {
+  background-color: rgba(0, 119, 179, 0.8);
+}
+.checkout-onepage-index .section.allow.active .step-title h2 {
+  color: #fff !important;
+}
+.checkout-onepage-index .section.allow.active .step-title h2:after{
+  content: "\f138";
+  font-family: FontAwesome;
+  font-size: 20px;
+  color: #FFFFFF;
+  float: right;
+  right: 5px;
+  top: -3px;
+  position: absolute;
+}
+
+
+.checkout-onepage-index .section.allow .step-title h2 .step-title {
+  background-color: rgba(0, 119, 179, 0.8);
+}
+.checkout-onepage-index .section.allow .step-title h2 {
+  color: #fff !important;
+}
+.checkout-onepage-index .section.allow .step-title h2:after{
+  content: "\f14a";
+  font-family: FontAwesome;
+  font-size: 20px;
+  color: #69FF8D;
+  float: right;
+  right: 5px;
+  top: -3px;
+  position: absolute;
+}
+
+.checkout-onepage-index #opc-login .step-title {
+  display:none;
+}
+.checkout-onepage-index #opc-billing .step-title {
+  left: 0px;
+}
+.checkout-onepage-index #opc-shipping .step-title {
+  left: 229px;
+}
+.checkout-onepage-index #opc-shipping_method .step-title {
+  display: none;
+}
+.checkout-onepage-index #opc-payment .step-title {
+  left: 458px;
+}
+.checkout-onepage-index #opc-review .step-title {
+  left: 687px;
+} 
+
+.checkout-onepage-index .col-right.sidebar {
+  display: none;
+}
+
+.checkout-onepage-index .page-title {
+  display: none;
+}
+
+p.back-link{
+  display:none;
+}
+/* HAUPTTEILUNG ENDE*/
+
+/*SCHRITT 1 - Userauswahl :: START*/
+#checkout-step-login .col-2,
+#checkout-step-login .col-1{
+  width: 50%;
+  border: 2px solid #0077b3;
+  height: 290px;
+  padding-left: 15px;
+}
+#checkout-step-login .col-2 {
+  margin-left: 3px;
+  margin-right: -3px;
+}
+#checkout-step-login .col-1 {
+  margin-left: -3px;
+  margin-right: 3px;
+}
+
+.checkout-onepage-index .col-1 ul.form-list {
+  top: 22px;
+  position: relative;
+}
+
+.checkout-onepage-index .col-1 .form-list li.control {
+  background-color: transparent !important;
+  height: 30px;
+  border-radius: 0px;
+  width: 350px;
+}
+.checkout-onepage-index .col-1 .form-list .control label {
+  width: 100%;
+}
+
+
+.checkout-onepage-index .col-1 .form-list input[type="radio"] {
+  display: none;
+}
+.checkout-onepage-index .col-1 .form-list label {
+  background-color: rgba(0, 119, 179, 0.05);
+  cursor: pointer;
+}
+.checkout-onepage-index .col-1 .form-list label:before{
+  content:"\f096";
+  font-family: FontAwesome;
+  font-size:  20px;
+  padding-right:  10px;
+}
+.checkout-onepage-index .col-1 .form-list input[type="radio"]:checked + label:before{
+  content:"\f046";
+  font-family: FontAwesome;
+  font-size:  20px;
+  padding-right:  7px;
+}
+
+.checkout-onepage-index .col-2 input#login-email,
+.checkout-onepage-index .col-2 input#login-password {
+  height: 30px;
+  border-radius: 0px;
+  width: 350px;
+}
+
+.checkout-onepage-index .col-2 .fieldset {
+  height: 218px;
+}
+
+.checkout-onepage-index .col-2 button.button {
+  bottom: 10px;
+  position: relative;
+  display: block;
+  float: right;
+}
+
+.checkout-onepage-index button{
+  border-radius: 0px !important;
+  border: 1px solid #fff; 
+}
+.checkout-onepage-index button#onepage-guest-register-button {
+  bottom: -127px;
+  position: relative;
+  display: block;
+  float: right;
+}
+/*SCHRITT 1 - Userauswahl :: ENDE*/
+
+/*SCHRITT 2 - RG Adresse :: START*/
+#checkout-step-billing{
+  border: 2px solid #0077b3;
+  padding: 10px;
+}
+
+#checkout-step-billing .field {
+  width: 50%;
+  height: 60px;
+  display: inline-block;
+  position: relative;
+  float: left;
+}
+
+#checkout-step-billing .field.name-lastname {
+  margin-left: 0px;
+}
+
+#checkout-step-billing input {
+  height: 30px;
+}
+#checkout-step-billing li.control {
+  width: 50%;
+  height: 60px;
+  display: inline-block;
+  position: relative;
+  float: left;
+}
+#checkout-step-billing li.control input[type="radio"] {
+  display: none;
+}
+#checkout-step-billing li.control label {
+  background-color: rgba(0, 119, 179, 0.05);
+  cursor: pointer;
+}
+#checkout-step-billing li.control label:before{
+  content:"\f096";
+  font-family: FontAwesome;
+  font-size:  20px;
+  padding-right:  10px;
+}
+#checkout-step-billing li.control input[type="radio"]:checked + label:before{
+  content:"\f046";
+  font-family: FontAwesome;
+  font-size:  20px;
+  padding-right:  7px;
+}
+
+/*SCHRITT 2 - RG Adresse :: ENDE*/
+
+/*SCHRITT 3 - LieferAdresse :: START*/
+#checkout-step-shipping{
+  border: 2px solid #0077b3;
+  padding: 10px;
+}
+
+#checkout-step-shipping .field {
+  width: 50%;
+  height: 60px;
+  display: inline-block;
+  position: relative;
+  float: left;
+}
+
+#checkout-step-shipping .field.name-lastname {
+  margin-left: 0px;
+}
+
+#checkout-step-shipping input {
+  height: 30px;
+}
+#checkout-step-shipping li.control {
+  width: 50%;
+  height: 60px;
+  display: inline-block;
+  position: relative;
+  float: left;
+}
+#checkout-step-shipping li.control input[type="checkbox"] {
+  display: none;
+}
+#checkout-step-shipping li.control label {
+  background-color: rgba(0, 119, 179, 0.05);
+  cursor: pointer;
+}
+#checkout-step-shipping li.control label:before{
+  content:"\f096";
+  font-family: FontAwesome;
+  font-size:  20px;
+  padding-right:  10px;
+}
+#checkout-step-shipping li.control input[type="checkbox"]:checked + label:before{
+  content:"\f046";
+  font-family: FontAwesome;
+  font-size:  20px;
+  padding-right:  7px;
+}
+
+/*SCHRITT 3 - LieferAdresse :: START*/
+
+/*SCHRITT 4: LieferArt :: START*/
+
+#checkout-step-shipping_method{
+  border: 2px solid #0077b3;
+  padding: 10px;
+}
+
+/*SCHRITT 4: LieferArt :: ENDE*/
+
+/*SCHRITT 4: ZahlungsArt :: START*/
+
+#checkout-step-payment{
+  border: 2px solid #0077b3;
+  padding: 10px;
+}
+
+#checkout-step-payment dt {
+  width: 100%;
+}
+#checkout-step-payment dt label {
+  width: 100% !important;
+  position: relative;
+}
+
+#checkout-step-payment dt input[type="radio"] {
+  display: none;
+}
+#checkout-step-payment dt label {
+  background-color: rgba(0, 119, 179, 0.05);
+  cursor: pointer;
+}
+#checkout-step-payment dt input[type="radio"]:checked + label:before{
+  color: rgba(0, 119, 179, 1) !important;
+}
+
+
+/*SCHRITT 4: ZahlungsArt :: ENDE*/
+
+/*SCHRITT 5: BestellungAufgeben :: START*/
+
+#checkout-step-review{
+  border: 2px solid #0077b3;
+  padding: 10px;
+}
+
+#checkout-step-review li p.agree input[type="checkbox"] {
+  display: none;
+}
+#checkout-step-review li p.agree label {
+  background-color: rgba(0, 119, 179, 0.05);
+  cursor: pointer;
+}
+#checkout-step-review li p.agree label:before{
+  content:"\f096";
+  font-family: FontAwesome;
+  font-size:  20px;
+  padding-right:  10px;
+}
+#checkout-step-review li p.agree input[type="checkbox"]:checked + label:before{
+  content:"\f046";
+  font-family: FontAwesome;
+  font-size:  20px;
+  padding-right:  7px;
+}
+/*SCHRITT 4: BestellungAufgeben :: ENDE*/
+
+###---------------------------------------------------------------------------###
+
+Schrift dunkler und größer:
+	Datei: styles.css
+	Zeile: 3553
+
+	.nav-primary a {
+		text-decoration: none;
+		position: relative;
+		font-size: 16px;
+		display: block;
+		color: #575757;
+		line-height: 30px;
+		font-family: Blender-Book, "Helvetica Neue", Verdana, Arial, sans-serif;
+	}
+
+###---------------------------------------------------------------------------###
+
+Registration Fix:
+	Datei: styles.css
+	Zeile: 1587
+  ADD:
+.customer-account-create .col-main {
+  float: left;
+  width: 520px !important;
+}
+
+###---------------------------------------------------------------------------###
+
+Schloss Icon nach dem Login/Logout:
+
+#logout-pyua label:after{
+  content:"\f023";
+  font-family: FontAwesome;
+  font-size:  20px;
+  padding-right:  10px;
+}
+
+###---------------------------------------------------------------------------###

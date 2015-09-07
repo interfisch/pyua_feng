@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000125	20141028						2000044								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Viviane Sagorz			Haitzingallee 3		AT	5630	Bad Hofgastein	vivi.sagorz@gmail.com																1
+ANR	 Viviane Sagorz			Gewerbestraße 6		AT	5621	Sankt Veit im Pongau	vivi.sagorz@gmail.com																1
+P			ORDERS								20141028	20141028											EUR	1	4250804713668			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141028	20141028											EUR	2	4250804721113			1		33,57	39,9483									120															39,9483

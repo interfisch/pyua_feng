@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100001099	20150404						2000831								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Simone Bärthele			Oberzellerstr.13		DE	78479	Reichenau	s.baerthele@web.de																1
+ANR	 Simone Bärthele			Oberzellerstr.13		DE	78479	Reichenau	s.baerthele@web.de																1
+P			ORDERS								20150404	20150404											EUR	1	4250804719523			1		25,21	29,9999									120															29,9999
+P			ORDERS								20150404	20150404											EUR	2	4250804719615			1		25,21	29,9999									120															29,9999
+P			ORDERS								20150404	20150404											EUR	3	4250804721083			1		28,57	33,9983									120															33,9983
+P			ORDERS								20150404	20150404											EUR	4	4250804720215			1		71,43	85,0017									120															85,0017

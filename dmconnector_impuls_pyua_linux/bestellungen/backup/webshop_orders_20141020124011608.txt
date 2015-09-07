@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000135	20141020						2000054								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jörg Wieneke			Höhe 23		DE	38533	Vordorf	j.wieneke@freenet.de	+491711163176															1
+ANR	 Jörg Wieneke			Höhe 23		DE	38533	Vordorf	j.wieneke@freenet.de	+491711163176															1
+P			ORDERS								20141020	20141020											EUR	1	4250494021050			1		21,01	12,50095									120															12,50095
+P			ORDERS								20141020	20141020											EUR	2	4250494019620			1		21,01	12,50095									120															12,50095

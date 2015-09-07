@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000694	20141213						2000532								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 t. hering			frankenallee 108		DE	60326	frankfurt	eyerkaufer@gmx.de																1
+ANR	 t. hering			frankenallee 108		DE	60326	frankfurt	eyerkaufer@gmx.de																1
+P			ORDERS								20141213	20141213											EUR	1	4250804714054			1		231,09	274,9971									120															274,9971

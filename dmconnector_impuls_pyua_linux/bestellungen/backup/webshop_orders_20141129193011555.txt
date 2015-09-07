@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000566	20141129						2000431								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael Schulz			Gartenstr. 1		DE	30890	Barsinghausen	michaelschulz.hm@t-online.de																1
+ANR	 Michael Schulz			Gartenstr. 1		DE	30890	Barsinghausen	michaelschulz.hm@t-online.de																1
+P			ORDERS								20141129	20141129											EUR	1	4250494013222			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141129	20141129											EUR	2	4250494021517			1		11,32	13,4708									120															13,4708
+P			ORDERS								20141129	20141129											EUR	3	4250494021746			1		16,36	19,4684									120															19,4684
+P			ORDERS								20141129	20141129											EUR	4	4250494010085			1		11,32	13,4708									120															13,4708
+P			ORDERS								20141129	20141129											EUR	5	4250494020350			1		11,32	13,4708									120															13,4708
+P			ORDERS								20141129	20141129											EUR	6	4250804721137			1		336,09	399,9471									120															399,9471

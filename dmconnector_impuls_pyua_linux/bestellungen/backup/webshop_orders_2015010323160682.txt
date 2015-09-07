@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000808	20150103						2000136								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Niklas Braun			Parsifalstr. 28		DE	95445	Bayreuth	n_braun@gmx.de																1
+ANR	 Niklas Braun			Parsifalstr. 28		DE	95445	Bayreuth	n_braun@gmx.de																1
+P			ORDERS								20150103	20150103											EUR	1	4250804719073			1		75,59	44,97605									120															44,97605
+P			ORDERS								20150103	20150103											EUR	2	4250804719080			1		75,59	44,97605									120															44,97605
+P			ORDERS								20150103	20150103											EUR	3	4250494021203			1		24,37	29,0003									120															29,0003

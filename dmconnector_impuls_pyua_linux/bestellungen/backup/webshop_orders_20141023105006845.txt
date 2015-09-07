@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000155	20141023						2000072								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 less'n'more gmbh Kai Steffens			Rommerskirchener Str. 21		DE	50259	Pulheim	info@fiuri.de	02238 9699558															1
+ANR	 less'n'more gmbh Kai Steffens			Rommerskirchener Str. 21		DE	50259	Pulheim	info@fiuri.de	02238 9699558															1
+P			ORDERS								20141023	20141023											EUR	1	4250804713279			1		420,13	499,9547									120															499,9547

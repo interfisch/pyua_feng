@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001159	20150718						2000874								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Frisch			Berner Strasse 40 D		DE	12205	Berlin	thomas.frisch@gmx.net																1
+ANR	 Thomas Frisch			Berner Strasse 40 D		DE	12205	Berlin	thomas.frisch@gmx.net																1
+P			ORDERS								20150718	20150718											EUR	1	4250494013000			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150718	20150718											EUR	2	4250494009997			1		24,37	29,0003									120															29,0003

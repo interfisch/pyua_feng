@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000728	20141217						2000559								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Georgi Tomev			Jacquingasse 23/1/4		AT	1030	Wien	g.tomev@gmail.com	00436646266196															1
+ANR	 Georgi Tomev			Jacquingasse 23/1/4		AT	1030	Wien	g.tomev@gmail.com	00436646266196															1
+P			ORDERS								20141217	20141217											EUR	1	4250804714382			1		147,06	175,0014									120															175,0014

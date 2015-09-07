@@ -1,0 +1,10 @@
+H	Web_Pyua		ORDERS					100000576	20141130						2000440								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Sandra Segura			An der Lorze 25		DE	6300	Zug	imagine_sand@hotmail.com																4
+ANR	 Sandra Segura			An der Lorze 25		DE	6300	Zug	imagine_sand@hotmail.com																4
+P			ORDERS								20141130	20141130											EUR	1	4250804719400			1		58,78	23,512									120															23,512
+P			ORDERS								20141130	20141130											EUR	2	4250804716805			1		29,37	11,748									120															11,748
+P			ORDERS								20141130	20141130											EUR	3	4250804720208			1		142,82	57,128									120															57,128
+P			ORDERS								20141130	20141130											EUR	4	4250494022095			1		29,37	11,748									120															11,748
+P			ORDERS								20141130	20141130											EUR	5	4250804719615			1		50,38	20,152									120															20,152
+P			ORDERS								20141130	20141130											EUR	6	4250804721090			1		37,77	15,108									120															15,108
+P			ORDERS								20141130	20141130											EUR	7	4250494022071			1		29,37	11,748									120															11,748

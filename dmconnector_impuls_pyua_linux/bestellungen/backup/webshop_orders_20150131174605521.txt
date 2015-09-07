@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000931	20150131						2000713								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Lioba Hagedorn			Naumburger Straﬂe 43		DE	04229	Leipzig	liobahagedorn@web.de	017662442243															1
+ANR	 Lioba Hagedorn			Naumburger Straﬂe 43		DE	04229	Leipzig	liobahagedorn@web.de	017662442243															1
+P			ORDERS								20150131	20150131											EUR	1	4250804721137			1		268,07	319,0033									120															319,0033

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000678	20141213						2000524								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Timo Woitaschek 	47590729		Packstation 174		DE	22765	Hamburg 	timo.woitaschek@gmx.de																1
+ANR	 Timo Woitaschek 			Groﬂe Brunnenstraﬂe 52		DE	22763	Hamburg 	timo.woitaschek@gmx.de																1
+P			ORDERS								20141213	20141213											EUR	1	4250804714078			1		231,09	274,9971									120															274,9971

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000442	20141124						2000328								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Antje Wahlen-Rabbel			Dorfstr. 13		DE	24220	Böhnhusen	antje.wahlen-rabbel@web.de																1
+ANR	 Antje Wahlen-Rabbel			Dorfstr. 13		DE	24220	Böhnhusen	antje.wahlen-rabbel@web.de																1
+P			ORDERS								20141124	20141124											EUR	1	4250804713620			1		462,14	274,9733									120															274,9733

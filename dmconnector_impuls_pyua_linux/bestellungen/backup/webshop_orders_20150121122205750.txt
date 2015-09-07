@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000863	20150121						2000665								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Kai Steinhorst			Am Hollm 6		DE	24631	Langwedel	kaisteinhorst@hotmail.com	00 49 172 4192757															1
+ANR	 Kai Steinhorst			Am Hollm 6		DE	24631	Langwedel	kaisteinhorst@hotmail.com	00 49 172 4192757															1
+P			ORDERS								20150121	20150121											EUR	1	4250804721113			1		33,57	19,97415									120															19,97415

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000529	20141128						2000378								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Erika Klein			Bahnstraﬂe 135		DE	40764	Langenfeld	sabineklein@posteo.de	0173/2776565															1
+ANR	 Erika Klein			Bahnstraﬂe 135		DE	40764	Langenfeld	sabineklein@posteo.de	0173/2776565															1
+P			ORDERS								20141128	20141128											EUR	1	4250804716423			1		84,03	99,9957									120															99,9957

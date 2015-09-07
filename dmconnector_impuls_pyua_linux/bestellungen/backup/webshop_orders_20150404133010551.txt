@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001093	20150404						2000746								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Alexander Ohrt			Fraunhoferstraﬂe 13		DE	24118	Kiel	alexander.ohrt@opencampus.sh	01706270931															1
+ANR	 Alexander Ohrt			Fraunhoferstraﬂe 13		DE	24118	Kiel	alexander.ohrt@opencampus.sh	01706270931															1
+P			ORDERS								20150404	20150404											EUR	1	4250804706813			1		58,82	69,9958									120															69,9958

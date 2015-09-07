@@ -1,0 +1,317 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     rwd_default
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+
+
+
+<?php 
+    ##
+    # Pruefen ob die Pflichtfelder auch gesetzt sind
+    ##
+    if($_POST['weltspartag'] > 0){
+        if(isset($_POST['email']) && isset($_POST['name']) && !empty($_POST['email']) && !empty($_POST['name'])){
+            //root_id der einzelnen Elemente
+            $weltspartag    =   28;
+            $Key_praefix =   "";
+            $Keys        =   "";
+            $Email       =   $_POST['email'];
+
+            $EmailText   =  "
+                <br>wir freuen uns, dass Du an unserer exklusiven Rabatt-Aktion teilnimmst. 
+                <br>
+                <br>Hier ist Dein Gutscheincode*, mit welchem Du 30% Rabatt auf alle Produkte im PYUA Onlineshop erhältst.
+                <ol>
+                    [[CODES]]
+                </ol>
+                Der Gutschein ist sofort und für 24 Stunden im PYUA Onlineshop für den Erwerb von Kleidungsstücken gültig. Du löst ihn einfach im Warenkorb beim normalen Bestellprozess ein. 
+                <br>
+                <br>Solltest Du noch Fragen zum Ablauf haben, wende Dich gerne an unseren Kundenservice unter 
+                <br>
+                <br>+49 (0)431 5708334-0 oder welcome@pyua.de.
+                <br>
+                <br>Viel Spaß mit Deiner neuen Ausrüstung!
+                <br>Dein PYUA-Team
+                <br>
+                <br>* Die Gutscheine gelten nur in dem PYUA Onlineshop der Sportsman’s Delight GmbH. Sie stellen keinen allgemeinen Warenwertgutschein dar, sondern gelten nur für den Kauf eines neuen PYUA-Kleidungsstücks. Eine Auszahlung des Gutscheinwertes ist ausgeschlossen. Eine Kombination von mehreren Gutscheinen und/oder mit anderen Rabatt- und/oder Sonderaktionen ist ausgeschlossen. Gutscheine sind nicht übertragbar.
+            ";
+
+            $EmailDesign    = "
+                    <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">
+                    <html xmlns=\"http://www.w3.org/1999/xhtml\">
+                    <head><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\" />
+                    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>
+                    <title>Pyua Ecorrect Outerwear Newsletter Ausgabe #01</title>
+                    <style type=\"text/css\">
+                    html,body{background-color: #666;}
+                    img{border: 0px;border: 0px!important;}
+                    a{border: 0px;border: 0px!important;}
+                    table#wrapper{width: 511px;background-color: #fff;margin: 0 auto;font-family: helvetica;font-size: 11px;color: #666666;line-height: 1.2em;-webkit-border-radius: 50px 50px 0 0;-moz-border-radius: 50px 50px 0 0;border-radius: 50px 50px 0 0;-webkit-box-shadow: 0 0 5px 1px #515151;-moz-box-shadow: 0 0 5px 1px #515151;box-shadow: 0 0 5px 1px #515151;}
+                    hr{background-color: #747474;height: 2px;border-bottom: 1px solid #848484;border-top: 0;border-left: 0;border-right: 0;}
+                    h1{font-weight: bold;font-size: 13px;margin-bottom: 10px;}
+                    h2{font-weight: bold;font-size: 13px;margin-bottom: 10px;}
+                    table#wrapper tr td{padding: 12px;vertical-align: top;}
+                    table#wrapper tr td p{margin: 0;}
+                    table#wrapper tr td table tr td{padding: 0px;}
+                    img.alignleft{padding-right: 10px;}
+                    /*Style 01*/
+                    div.style01{background-color: #eeeeee;border: 1px solid #bbbbbb;padding: 10px;}
+                    div.style01 h1{background-color: #0075af;color: #fff;width: auto;padding: 10px;padding-bottom: 7px;}
+                    /*Style 02*/
+                    div.style02{background-color: #e4eaed;font-size: 9px;}
+                    div.style02 table{padding: 10px;}
+                    table#wrapper div.style02 table tr td.border-right{border-right: 1px solid #9fa3a5;padding-left: 5px;}
+                    table#wrapper div.style02 table tr td{vertical-align: middle;}
+                    table#wrapper div.style02 table tr td.leftpadding{padding-left: 0px!important;}
+                    table#wrapper div.style02 table tr td.leftpadding10{padding-left: 5px;}
+                    table#wrapper div.style02 table tr td.rightpadding{padding-right: 5px;}
+                    table#wrapper div.style02 table tr.darkbg td{background-color: #abb3b6;}
+                    /*Style 03*/
+                    div.style03 table{font-size: 9px;width: 100%;padding: 10px;background-color: #abb3b6;}
+                    a{color: #0075af;text-decoration: none;}
+                    a:hover{text-decoration: underline;}
+                    strong{font-weight: bold;color: #0075af;}
+                    div.header{margin-bottom: 10px;}
+                    table#wrapper div.header table tr div.borderbottom { border-bottom: 1px solid #b2b2b2; padding-bottom: 6px; padding-left: 10px; padding-top: 50px;width: 424px;}
+                    div.header img.paddingright{margin-left: 6px;padding-right: 2px;}
+                    div.header a{border-right: 1px solid #c1c1c1;color: #666666;font-size: 11px;padding-right: 4px;}
+                    div.header a.logo{display: block;padding: 0;border: 0;}
+                    div.header a:hover{text-decoration: none;}
+                     div.header a:hover{text-decoration: none;}
+                    </style>
+                    </head>
+                    <body>
+                    <table id=\"wrapper\">
+                        <tr>
+                            <td>                        
+                    <div class=\"header\">
+                    <table>
+                    <tr>
+                    <td>
+                    <a href=\"http://www.pyua.de\" class=\"logo\"><img src=\"http://www.pyua.de/newsletter/images/pyua-logo.jpg\" alt=\"PYUA Logo\" title=\"PYUA Logo\" /></a>
+                    </td>
+                    <td>
+                    <div class=\"borderbottom\">
+                    <a href=\"http://www.pyua.de/men\"><img src=\"http://www.pyua.de/newsletter/images/pyua-men.jpg\" alt=\"PYUA Men\" title=\"PYUA Men\" class=\"paddingright\" />MEN</a>
+                    <a href=\"http://www.pyua.de/women\"><img src=\"http://www.pyua.de/newsletter/images/pyua-women.jpg\" alt=\"PYUA Women\" title=\"PYUA Women\" class=\"paddingright\" />WOMEN</a>
+                    <a href=\"http://www.pyua.de/kundenservice\"><img src=\"http://www.pyua.de/newsletter/images/pyua-kundenservice.jpg\" alt=\"PYUA Kundenservice\" title=\"PYUA Kundenservice\" class=\"paddingright\" />KUNDENSERVICE</a>
+                    <a href=\"https://de-de.weltspartag.com/pyua.freeridesportswear\" style=\"padding-right: 0;border-right: 0;\"><img src=\"http://www.pyua.de/newsletter/images/pyua-facebook.jpg\" alt=\"PYUA facebook\" title=\"PYUA facebook\" class=\"paddingright\" />facebook</a>
+                    <div stye=\"clear:both;\"></div></div></td></tr></table>
+                    </div>          
+                    <div>   
+                    <a href=\"http://www.pyua.de/index.php\"><img src=\"http://www.pyua.de/M4M_Modules/img/wst_header.jpg\" alt=\"PYUA o2 Rabatt Aktion\" width=\"100%\" title=\"PYUA Rabattaktion\" /></a><br />
+                    <h1>Hallo ".$_POST['name'].",</h1>
+                    [[TEXT]]
+                    </div>      
+                    <div class=\"style01\">
+                    <div class=\"style02\">
+                    <table>
+                        <tr class=\"fixwidth\">
+                            <td class=\"border-right leftpadding\">Alle Bestellungen sind versandkostenfrei</td>
+                            <td class=\"border-right\">kein Mindestbestellwert &nbsp;</td>
+                            <td class=\"border-right\">Sicheres Bestellen & Bezahlen dank SSL-Verschl&uuml;sselung</td>
+                            <td class=\"leftpadding10\">Kostenfreie R&uuml;cksendung innerhalb von 14 Tagen</td>
+                        </tr>
+                        <tr><td colspan=\"4\"><img src=\"http://www.pyua.de/newsletter/images/linie.gif\" alt=\"Linie\" title=\"Linie\" width=\"489\" height=\"7px\"/></td></tr>
+                    <tr>
+                    <td colspan=\"1\" class=\"border-right leftpadding rightpadding\">
+                    <h2>Kundenservice</h2>
+                    PYUA Fulfillment<br />
+                    (Sportsman's Delight GmbH)<br />
+                    Am Kiel-Kanal 2, 24106 Kiel<br />
+                    </td>
+                    <td colspan=\"3\" class=\"leftpadding10\">
+                    <div class=\"style03\">
+                    Impressum:<br />Sportsman´s Delight GmbH (c/o PYUA)<br />Langer Segen 8-10 | 24105 Kiel<br />Gesch&auml;ftsf&uuml;hrer: Timo Perschke<br />
+                    Sitz der Gesellschaft Kiel | Amtsgericht Kiel, HRB 14571<br />Steuernummer: 99065/08701 | Umst.-ID: DE 815 380 610
+                    </div>
+                    </td>
+                    </tr>
+                    </table>
+                    </div>
+                        </tr>
+                    </table>
+                    </body></html>
+            ";
+            // Klasse einlesen    
+            include_once("M4M_Modules/gutscheinGenerate.php");
+            $cls = new GutscheinGenerate();
+
+            // Keys generieren
+            $code  =    $cls -> start(1, $weltspartag, "WST", "", 1, $_POST['weltspartag']);
+            $Keys  =    "Dein pers&ouml;nlicher Gutscheincode <b>".$code."</b></li>";
+
+            // Email zusammenbauen und versenden
+            $EmailText      =   str_replace("[[CODES]]", $Keys, $EmailText);
+            $EmailDesign    =   str_replace("[[TEXT]]", $EmailText, $EmailDesign);
+
+            $cls -> setSendMail($Email, $EmailDesign);
+            // POST entfernen
+            $url = $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+            header("Location:http://".$url."?complete");
+            exit();
+        } else {
+            // POST entfernen
+            $url = $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+            header("Location:http://".$url."?error");
+            exit();
+        }
+    }
+?>
+
+<div id="messages_product_view"><?php echo $this->getMessagesBlock()->getGroupedHtml() ?></div>
+
+<?php if(isset($_GET['complete'])){ ?>
+    <ul class="messages"><li class="success-msg"><ul><li><span>Der Gutschein wurde Dir per E-Mail zugesendet.</span></li></ul></li></ul>
+<?php } ?>
+<?php if(isset($_GET['error'])){ ?>
+    <ul class="messages"><li class="error-msg"><ul><li><span>Bitte gib Deinen Namen und Deine E-Mail-Adresse an.</span></li></ul></li></ul>
+<?php } ?>
+
+<form action="<?php echo $this->getFormAction(); ?>" id="abwrackForm" method="post" class="scaffold-form">
+    <div class="fieldset">
+        <ul class="form-list">
+            <?php //Hidden Field weltspartag ?>
+             <input name="weltspartag" id="jackehide" type="hidden" value="1">
+            <?php // EMAIL und NAME ?>
+            <li class="fields">
+                <div class="field">
+                    <label for="name" class="required"><?php echo Mage::helper('contacts')->__('Name') ?></label>
+                    <div class="input-box">
+                        <input name="name" id="name" title="<?php echo Mage::helper('contacts')->__('Name') ?>" value="<?php echo $this->escapeHtml($this->helper('contacts')->getUserName()) ?>" class="input-text required-entry" type="text" />
+                    </div>
+                </div>
+                <div class="field">
+                    <label for="email" class="required"><?php echo Mage::helper('contacts')->__('Email') ?></label>
+                    <div class="input-box">
+                        <input name="email" id="email" title="<?php echo Mage::helper('contacts')->__('Email') ?>" value="<?php echo $this->escapeHtml($this->helper('contacts')->getUserEmail()) ?>" class="input-text required-entry validate-email" type="email" autocapitalize="off" autocorrect="off" spellcheck="false" />
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="buttons-set">
+        <input type="text" name="hideit" id="hideit" value="" style="display:none !important;" />
+        <button type="submit" title="<?php echo Mage::helper('contacts')->__('Submit') ?>" class="button"><span><span><?php echo Mage::helper('contacts')->__('Submit') ?></span></span></button>
+    </div>
+</form>
+<p class="required"><?php echo Mage::helper('contacts')->__('* Die Gutscheine gelten nur in dem PYUA Onlineshop der Sportsman’s Delight GmbH. Sie stellen keinen allgemeinen Warenwertgutschein dar, sondern gelten nur für den Kauf eines neuen PYUA-Kleidungsstücks. Eine Auszahlung des Gutscheinwertes ist ausgeschlossen. Eine Kombination von mehreren Gutscheinen und/oder mit anderen Rabatt- und/oder Sonderaktionen ist ausgeschlossen. Gutscheine sind nicht übertragbar.') ?></p>
+<style>
+    /*Positionierung Bild und Formular*/
+    #abwrackForm{
+        padding:    0px;
+        width:      400px;
+    }
+    .leftElement{
+        display:        inline-block;
+        float:          left;
+        text-align:     left;
+        width:          49%;
+    }
+    .rightElement{
+        display:        inline-block;
+        float:          left;
+        text-align:     left;
+        margin-left:    15px;
+        width:          49%;
+    }
+    .rightElement ul{
+        list-style-type:        decimal;
+    }
+
+    .rightElement ul li{
+        list-style-type:        none;
+        counter-increment:      item;
+        font-weight:            700;
+    }
+
+    .rightElement ul>li:before {
+        display:                inline-block;
+        width:                  1.5em;
+        padding-right:          0.5em;
+        font-weight:            bold;
+        color:                  #0077b3;
+        text-align:             right;
+        content:                counter(item) ".";
+    }
+
+    .rightElement a {
+        font-size:              35px;
+        font-weight:            700;
+        position:               relative;
+        float:                  right;
+        top:                    72px;
+        right:                  38px;
+    }
+
+    .rightElement a:hover, .rightElement a:active, .rightElement a:focus  {
+        font-weight:            500;
+        text-decoration:        none;
+    }
+
+    .rightElement a::after {
+        position:               absolute;
+        content:                "\f054\f054";
+        font-family:            fontawesome;
+        color:                  #0077b3;
+        margin-left:            1px;
+        letter-spacing:         -9px;
+        font-weight:            lighter;
+        top:                    5px;
+    }
+
+    .grauebox200{
+        border-radius:          5px;
+        -webkit-border-radius:  5px;
+        -moz-border-radius:     5px;
+        border:                 1px solid #c0c0c0;
+        padding:                20px;
+        background-color:       #eeeeee;
+        margin-bottom:          20px;
+        text-align:             center;
+        min-height:             580px;
+    }
+   
+    /*Form Fields*/
+    .field.intForm {
+        margin-bottom: 30px !important;
+    }
+    label[for=name],
+    label[for=email]{
+        font-weight:    normal; 
+        float:          left;
+        
+    }
+    #name,
+    #email{
+        width:          400px !important;
+    }
+</style>
+
+<script type="text/javascript">
+//<![CDATA[
+    var contactForm = new VarienForm('contactForm', true);
+//]]>
+</script>

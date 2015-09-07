@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000732	20141217						2000562								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Annegret Wolf			Giesestr. 51		DE	22607	Hamburg	annegret@wolf-hamburg.de	+49408902532															1
+ANR	 Annegret Wolf			Giesestr. 51		DE	22607	Hamburg	annegret@wolf-hamburg.de	+49408902532															1
+P			ORDERS								20141217	20141217											EUR	1	4250804719165			1		58,78	27,97928									120															27,97928
+P			ORDERS								20141217	20141217											EUR	2	4250804719288			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141217	20141217											EUR	3	4250804719363			2		50,38	23,98088									120															23,98088
+P			ORDERS								20141217	20141217											EUR	4	4250804720574			1		71,42	84,9898									120															84,9898

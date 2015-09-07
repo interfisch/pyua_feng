@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000128	20141018						2000048								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Ellen Kessler			Naheweinstraße 94a		DE	55452	Guldental	ellen.kessler@gmx.net	067071876															1
+ANR	 Ellen Kessler			Naheweinstraße 94a		DE	55452	Guldental	ellen.kessler@gmx.net	067071876															1
+P			ORDERS								20141018	20141018											EUR	1	4250804720802			1		378,11	449,9509									120															449,9509

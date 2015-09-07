@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000443	20141124						2000329								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Heiter Schlenker	Olympia-Apotheke		Raiffeisenplatz 4b		DE	76448	Durmersheim	heiter@schlenker08.de	0724592480															1
+ANR	 Heiter Schlenker	Olympia-Apotheke		Raiffeisenplatz 4b		DE	76448	Durmersheim	heiter@schlenker08.de	0724592480															1
+P			ORDERS								20141124	20141124											EUR	1	4250804720321			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141124	20141124											EUR	2	4250804719950			2		46,22	55,0018									120															55,0018

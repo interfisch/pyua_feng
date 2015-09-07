@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000417	20141122						2000311								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael  Baumann			Schmiedgasse 1		DE	83623	Dietramszell	m.s.baumann@gmx.de																1
+ANR	 Michael  Baumann			Schmiedgasse 1		DE	83623	Dietramszell	m.s.baumann@gmx.de																1
+P			ORDERS								20141122	20141122											EUR	1	4250804718380			1		46,22	55,0018									120															55,0018

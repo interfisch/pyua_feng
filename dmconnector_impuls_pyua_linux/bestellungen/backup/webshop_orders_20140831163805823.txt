@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					106	20140831						200211								EUR										0										24		OS via pyua_de		5,4600	11			0
+ANL	 Henning Tovar			Rathausstr. 5		DE	49186	Bad Iburg	henning.tovar@ibt-web.de	01759676226															1
+ANR	 Henning Tovar			Rathausstr. 5		DE	49186	Bad Iburg	henning.tovar@ibt-web.de	01759676226															1
+P			ORDERS								20140831	20140831											EUR	1	4250804719288			1.0000		50,38	59,9522									120															59,9522

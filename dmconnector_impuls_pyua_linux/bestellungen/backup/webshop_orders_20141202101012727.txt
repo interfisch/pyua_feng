@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000590	20141202						2000452								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Linda Fritzsche			Arndtstr. 6		DE	64390	Erzhausen	linda.fritzsche@web.de																1
+ANR	 Linda Fritzsche			Arndtstr. 6		DE	64390	Erzhausen	linda.fritzsche@web.de																1
+P			ORDERS								20141202	20141202											EUR	1	4250494019514			1		10,06	11,9714									120															11,9714
+P			ORDERS								20141202	20141202											EUR	2	4250494021463			1		11,32	13,4708									120															13,4708
+P			ORDERS								20141202	20141202											EUR	3	4250494019835			1		10,06	11,9714									120															11,9714
+P			ORDERS								20141202	20141202											EUR	4	4250494019859			1		10,06	11,9714									120															11,9714
+P			ORDERS								20141202	20141202											EUR	5	4250494009782			1		11,32	13,4708									120															13,4708

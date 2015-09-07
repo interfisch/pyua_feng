@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000547	20141128						2000416								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Stefanie Bähler			St.-Jürgen-Str. 107a		DE	24937	Flensburg	stefanie.baehler@gmx.de																1
+ANR	 Stefanie Bähler			St.-Jürgen-Str. 107a		DE	24937	Flensburg	stefanie.baehler@gmx.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804717826			1		100,84	119,9996									120															119,9996
+P			ORDERS								20141128	20141128											EUR	2	4250804718182			1		42,02	50,0038									120															50,0038
+P			ORDERS								20141128	20141128											EUR	3	4250804706776			1		42,01	49,9919									120															49,9919

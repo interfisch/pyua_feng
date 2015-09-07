@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001076	20150401						2000813								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Otto  Regnat			Bayernstrasse 5		DE	92348	Berg	theresia.regnat@gmx.de																1
+ANR	 Otto  Regnat			Bayernstrasse 5		DE	92348	Berg	theresia.regnat@gmx.de																1
+P			ORDERS								20150401	20150401											EUR	1	4250804715075			1		168,07	200,0033									120															200,0033

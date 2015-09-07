@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000328	20141114						2000239								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Anne-Lena Wahl			29 BIS cours jean jaurès		DE	38000	Grenoble	annelenawahl@hotmail.de	004915779274562															4
+ANR	 Anne-Lena Wahl			29 BIS cours jean jaurès		DE	38000	Grenoble	annelenawahl@hotmail.de	004915779274562															4
+P			ORDERS								20141114	20141114											EUR	1	4250804720802			1		189,06	224,9814									120															224,9814

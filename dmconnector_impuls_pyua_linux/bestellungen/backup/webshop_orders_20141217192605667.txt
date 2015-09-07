@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000736	20141217						2000566								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Alexandra Bongers			Waldhofstr. 124		DE	47800	Krefeld	alexandra.bongers@me.com																1
+ANR	 Alexandra Bongers			Waldhofstr. 124		DE	47800	Krefeld	alexandra.bongers@me.com																1
+P			ORDERS								20141217	20141217											EUR	1	4250804720901			1		252,06	299,9514									120															299,9514
+P			ORDERS								20141217	20141217											EUR	2	4250804714566			1		231,09	274,9971									120															274,9971

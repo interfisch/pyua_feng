@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000458	20141125						2000339								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Birgit Enzmann			Grieﬂbacher Hauptstr. 54		DE	09430	Drebach OT Grieﬂbach	birgit.enzmann@gmx.de	+491723710874															1
+ANR	 Birgit Enzmann			Grieﬂbacher Hauptstr. 54		DE	09430	Drebach OT Grieﬂbach	birgit.enzmann@gmx.de	+491723710874															1
+P			ORDERS								20141125	20141125											EUR	1	4250804718977			1		46,22	55,0018									120															55,0018

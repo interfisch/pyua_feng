@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001149	20150605						2000867								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Thilo Eckardt			Schlimbachallee 12		DE	24159	KIEL	thilo.eckardt@icloud.com																1
+ANR	 Thilo Eckardt			Schlimbachallee 12		DE	24159	KIEL	thilo.eckardt@icloud.com																1
+P			ORDERS								20150605	20150605											EUR	1	4250494021753			1		21,01	25,0019									120															25,0019
+P			ORDERS								20150605	20150605											EUR	2	4250494021197			1		24,37	29,0003									120															29,0003

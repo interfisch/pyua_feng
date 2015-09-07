@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000987	20150221						2000761								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Tobias Böckmann			Dreuge Mesk 17		DE	49434	Neuenkirchen	boeckmann.t@gmail.com																1
+ANR	 Tobias Böckmann			Dreuge Mesk 17		DE	49434	Neuenkirchen	boeckmann.t@gmail.com																1
+P			ORDERS								20150221	20150221											EUR	1	4250804713972			1		378,11	152,983306									120															152,983306
+P			ORDERS								20150221	20150221											EUR	2	4250804713927			1		378,11	152,983306									120															152,983306
+P			ORDERS								20150221	20150221											EUR	3	4250804714276			1		252,06	101,983476									120															101,983476

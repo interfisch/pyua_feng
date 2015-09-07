@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000994	20150222						2000764								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Patrick Weber			Amselweg 26		DE	41540	Dormagen	patweb@gmx.net	01721564960															1
+ANR	 Patrick Weber			Amselweg 26		DE	41540	Dormagen	patweb@gmx.net	01721564960															1
+P			ORDERS								20150222	20150222											EUR	1	4250804713484			1		462,14	549,9466									120															549,9466
+P			ORDERS								20150222	20150222											EUR	2	4250804713491			1		462,15	549,9585									120															549,9585

@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000788	20150102						2000610								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marcus Hoppe			Baggesenstieg 11a		DE	22393	Hamburg	marcihoppe@gmx.de																1
+ANR	 Marcus Hoppe			Baggesenstieg 11a		DE	22393	Hamburg	marcihoppe@gmx.de																1
+P			ORDERS								20150102	20150102											EUR	1	4250804714511			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150102	20150102											EUR	2	4250804713408			1		462,15	274,97925									120															274,97925
+P			ORDERS								20150102	20150102											EUR	3	4250804717208			1		210,04	124,9738									120															124,9738

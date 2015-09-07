@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000540	20141128						2000410								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jessica Gaedeke			Herrenweg 12		DE	36304	Alsfeld	gaedeke-jessi@gmx.de	01734283452															1
+ANR	 Jessica Gaedeke			Herrenweg 12		DE	36304	Alsfeld	gaedeke-jessi@gmx.de	01734283452															1
+P			ORDERS								20141128	20141128											EUR	1	4250804720758			1		168,07	200,0033									120															200,0033

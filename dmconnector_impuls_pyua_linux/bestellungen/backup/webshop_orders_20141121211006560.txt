@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000403	20141121						2000304								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Siegmund Fitza			Dr.Nicolas-Str. 2		DE	25980	Sylt Westerland	SFitza@t-online.de	04651 5360															1
+ANR	 Siegmund Fitza			Dr.Nicolas-Str. 2		DE	25980	Sylt Westerland	SFitza@t-online.de	04651 5360															1
+P			ORDERS								20141121	20141121											EUR	1	4250804714030			1		462,14	274,9733									120															274,9733

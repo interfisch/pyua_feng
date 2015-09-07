@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001037	20150308						2000790								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Inga Drees			An der Silbergrub 2		DE	76229	Karlsruhe	Inga.Drees@t-online.de																1
+ANR	 Inga Drees			An der Silbergrub 2		DE	76229	Karlsruhe	Inga.Drees@t-online.de																1
+P			ORDERS								20150308	20150308											EUR	1	4250804720543			1		142,82	57,784972									120															57,784972

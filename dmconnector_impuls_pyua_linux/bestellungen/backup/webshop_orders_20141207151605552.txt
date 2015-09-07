@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000618	20141207						2000476								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jonathan Pfeiffer			Josef-Kindshoven-Straﬂe 5		DE	96052	Bamberg	jonathanp@posteo.de																1
+ANR	 Jonathan Pfeiffer			Josef-Kindshoven-Straﬂe 5		DE	96052	Bamberg	jonathanp@posteo.de																1
+P			ORDERS								20141207	20141207											EUR	1	4250804715020			1		168,07	200,0033									120															200,0033

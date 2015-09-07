@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000973	20150212						2000754								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Anett Gisa			Kleestraﬂe 25		DE	30625	Hannover	anettgisa@gmx.de																1
+ANR	 Anett Gisa			Hottengrundweg 13		DE	14089	Berlin	anettgisa@gmx.de																1
+P			ORDERS								20150212	20150212											EUR	1	4250804718953			1		109,2	129,948									120															129,948
+P			ORDERS								20150212	20150212											EUR	2	4250804713705			1		420,13	499,9547									120															499,9547
+P			ORDERS								20150212	20150212											EUR	3	4250804713569			1		462,14	549,9466									120															549,9466

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000487	20141127						2000363								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Julien -noss	Tchibo GmbH HRC		‹berseering 18		DE	22297	Hamburg	1404noss@gmx.de																1
+ANR	 Julien Noss			Himmelstraﬂe 33		DE	22299	Hamburg	1404noss@gmx.de																1
+P			ORDERS								20141127	20141127											EUR	1	4250804706813			1		42,02	50,0038									120															50,0038

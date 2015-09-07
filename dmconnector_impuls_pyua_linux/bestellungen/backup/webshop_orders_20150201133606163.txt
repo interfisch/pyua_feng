@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000934	20150201						2000716								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 larissa rotter	47430783		packstation 196		DE	22089	hamburg	borisvc@t-online.de																1
+ANR	 boris von chrzanowski			salingtwiete 7		DE	20535	hamburg	borisvc@t-online.de																1
+P			ORDERS								20150201	20150201											EUR	1	4250804714573			1		368,91	219,50145									120															219,50145

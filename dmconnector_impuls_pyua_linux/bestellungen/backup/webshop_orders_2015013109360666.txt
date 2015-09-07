@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000928	20150131						2000165								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sascha Zimmermann	Postnummer 803542344		Postfiliale 506		DE	50129	Bergheim	s.zimmermann@email.de	015233767854															1
+ANR	 Sascha Zimmermann	Postnummer 803542344		Postfiliale 506		DE	50129	Bergheim	s.zimmermann@email.de	015233767854															1
+P			ORDERS								20150131	20150131											EUR	1	4250804704192			1		83,99	69,96367									120															69,96367

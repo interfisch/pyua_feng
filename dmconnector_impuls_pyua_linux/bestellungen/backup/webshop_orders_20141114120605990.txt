@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000318	20141114						2000231								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Sören Wallmen			Mevissenstrasse 2b		DE	50668	Köln	soeren.wallmen@gmx.de	00491749339919															1
+ANR	 Sören Wallmen			Mevissenstrasse 2b		DE	50668	Köln	soeren.wallmen@gmx.de	00491749339919															1
+P			ORDERS								20141114	20141114											EUR	1	4250804717208			1		210,04	99,97904									120															99,97904
+P			ORDERS								20141114	20141114											EUR	2	4250804717314			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141114	20141114											EUR	3	4250804713460			1		462,14	219,97864									120															219,97864

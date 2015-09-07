@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000117	20141011						2000283								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Josefine Günther			Arthur-Hoffmann-Str. 65		DE	04275	Leipzig	JosefineG@web.de																1
+ANR	 Josefine Günther			Arthur-Hoffmann-Str. 65		DE	04275	Leipzig	JosefineG@web.de																1
+P			ORDERS								20141011	20141011											EUR	1	4250804716478			1		193,24	229,9556									120															229,9556

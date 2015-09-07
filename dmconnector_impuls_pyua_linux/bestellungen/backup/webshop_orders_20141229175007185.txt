@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000775	20141229						2000598								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 melanie weikert			Ch de l'Epenay 17		CH	1270	Trelex	melanie.weikert@inventages.com	0041763243316															4
+ANR	 melanie weikert			Ch de l'Epenay 17		CH	1270	Trelex	melanie.weikert@inventages.com	0041763243316															4
+P			ORDERS								20141229	20141229											EUR	1	4250804713422			1		462,14	462,14									120															462,14

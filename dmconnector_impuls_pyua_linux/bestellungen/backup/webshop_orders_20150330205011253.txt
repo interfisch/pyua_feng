@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001069	20150330						2000809								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jörg Homberger			Subbelrather Str. 142		DE	50823	Köln	j.hombi@gmx.de																1
+ANR	 Jörg Homberger			Subbelrather Str. 142		DE	50823	Köln	j.hombi@gmx.de																1
+P			ORDERS								20150330	20150330											EUR	1	4250804714269			1		126,05	149,9995									120															149,9995
+P			ORDERS								20150330	20150330											EUR	2	4250804714214			1		126,05	149,9995									120															149,9995

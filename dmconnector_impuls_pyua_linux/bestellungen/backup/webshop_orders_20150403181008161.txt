@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001089	20150403						2000825								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Knut Weineck			Lerchenweg 5		DE	14656	Brieselang	k.weineck@gmx.de																1
+ANR	 Knut Weineck			Lerchenweg 5		DE	14656	Brieselang	k.weineck@gmx.de																1
+P			ORDERS								20150403	20150403											EUR	1	4250804713972			1		189,08	225,0052									120															225,0052

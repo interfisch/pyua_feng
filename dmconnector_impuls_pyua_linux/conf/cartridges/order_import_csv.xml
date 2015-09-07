@@ -1,0 +1,3 @@
+<!-- Kundendaten mit TAB "->" getrennt -->
+<!-- Satzart->Kunden-Nr(zwischen 200.000 und 250.000)->kurzname->Firmenname->Anrede{Herr, Frau}->Name(Vorname + Nachname, sonst Firmenname)->Strasse->plz->Ort->Telefon->mwst->Fax->email->iso_3166_A2Land->Zahlungsart->Bank->Blz->Konto->username->password->customers_hash->zahlungsart_id->->vorname->webshopname -->
+WebShop_K->CUSTOMER_ID->->->BILLINGADDRESS_TITLE->BILLINGADDRESS_NAME4->BILLINGADDRESS_STREET->BILLINGADDRESS_ZIP->BILLINGADDRESS_CITY->BILLINGADDRESS_PHONE->CUSTOMER_TAX_PERCENT->->BILLINGADDRESS_EMAIL->BILLINGADDRESS_COUNTRY_CODE->PAYMENTMETHOD->->->->->->->PAYMENT_METHOD_ID->->

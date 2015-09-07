@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000123	20141016						2000035								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Kirsten Fischer			Zenettistr. 37		DE	80337	München	kirsten.noah.fischer@zwick.de	49 (0)151 54 29 55 91															1
+ANR	 Dr. Jan Stefan Roell			Ehrensteiner Feld 6		DE	89075	Ulm	kirsten.noah.fischer@zwick.de																1
+P			ORDERS								20141016	20141016											EUR	1	4250804715280			1		210,04	174,96332									120															174,96332
+P			ORDERS								20141016	20141016											EUR	2	4250804715235			1		252,06	209,96598									120															209,96598

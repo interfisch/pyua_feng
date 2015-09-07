@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000660	20141210						2000508								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Florian Rauer			Valpichlerstr. 60		DE	80686	München	rauer.f@gmail.com																1
+ANR	 Florian Rauer			Valpichlerstr. 60		DE	80686	München	rauer.f@gmail.com																1
+P			ORDERS								20141210	20141210											EUR	1	4250804715044			1		168,07	80,00132									120															80,00132

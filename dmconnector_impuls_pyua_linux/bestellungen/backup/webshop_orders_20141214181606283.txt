@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000703	20141214						2000540								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Torsten Jegminat			Reetwerder 25e		DE	21029	Hamburg	privat@torsten-jegminat.de	01757222966															1
+ANR	 Torsten Jegminat			Reetwerder 25e		DE	21029	Hamburg	privat@torsten-jegminat.de	01757222966															1
+P			ORDERS								20141214	20141214											EUR	1	4250804720512			1		71,43	85,0017									120															85,0017

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000111	20141001						2000267								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Martin Huber			Dorfstrasse 25		DE	8247	Flurlingen	holamuede@yahoo.de	0041796895336															4
+ANR	 Martin Huber			Dorfstrasse 25		DE	8247	Flurlingen	holamuede@yahoo.de	0041796895336															4
+P			ORDERS								20141001	20141001											EUR	1	4250804720567			1		142,82	142,82									120															142,82

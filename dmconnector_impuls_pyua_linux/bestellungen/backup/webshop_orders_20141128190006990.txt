@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000537	20141128						2000408								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jasmin  Häfner 			Eisinger Landstrasse 56		DE	75177	Pforzheim 	jt.koeppe@gmx.net																1
+ANR	 Jasmin  Häfner 			Eisinger Landstrasse 56		DE	75177	Pforzheim 	jt.koeppe@gmx.net																1
+P			ORDERS								20141128	20141128											EUR	1	4250804717871			1		75,63	89,9997									120															89,9997

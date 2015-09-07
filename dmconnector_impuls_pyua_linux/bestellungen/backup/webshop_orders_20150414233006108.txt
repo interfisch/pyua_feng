@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001125	20150414						2000850								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Stefan Scholz	49190424		Packstation 102		DE	78464	Konstanz	mail@stefan-scholz.eu																1
+ANR	 Stefan Scholz			Schellingstr. 6		DE	71088	Holzgerlingen	mail@stefan-scholz.eu																1
+P			ORDERS								20150414	20150414											EUR	1	4250804713965			1		226,89	269,9991									120															269,9991
+P			ORDERS								20150414	20150414											EUR	2	4250804714313			1		176,47	209,9993									120															209,9993

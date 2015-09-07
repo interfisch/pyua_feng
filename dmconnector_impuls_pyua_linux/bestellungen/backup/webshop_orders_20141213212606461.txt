@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000693	20141213						2000531								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Christopher  Erz			Justinus-Kerner-Str. 14		DE	74395	Mundelsheim	christopher.erz@gmx.ch																1
+ANR	 Christopher Erz			Bachmattenstrasse 78		DE	5630	Muri	christopher.erz@gmx.ch																1
+P			ORDERS								20141213	20141213											EUR	1	4250804714078			1		231,09	231,09									120															231,09
+P			ORDERS								20141213	20141213											EUR	2	4250804714375			1		147,06	147,06									120															147,06

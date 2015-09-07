@@ -1,0 +1,7 @@
+# /etc/cron.d/dmcorderscron: crontab fragment for orderimport impuls
+# Look for and import magento orders every 2 minutes
+# Anzulegen zB ueber da Linux Kommando crontab -e
+
+*/2 * * * *   /var/www/pyua/dmconnector_impuls_pyua_linux/dmc_bestellimport.sh 
+
+exit 0

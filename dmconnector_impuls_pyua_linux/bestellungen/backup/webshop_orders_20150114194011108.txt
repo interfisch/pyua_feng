@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000835	20150114						2000640								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Engler			Agilolfingerstraße 4		DE	94094	Rotthalmünster	info@all-about-events.eu	015115224924															1
+ANR	 Thomas Engler			Agilolfingerstraße 4		DE	94094	Rotthalmünster	info@all-about-events.eu	015115224924															1
+P			ORDERS								20150114	20150114											EUR	1	4250804715266			1		210,04	99,97904									120															99,97904
+P			ORDERS								20150114	20150114											EUR	2	4250494021975			1		37,78	17,98328									120															17,98328
+P			ORDERS								20150114	20150114											EUR	3	4250804704215			1		83,99	39,97924									120															39,97924
+P			ORDERS								20150114	20150114											EUR	4	4250804723773			1		37,77	17,97852									120															17,97852
+P			ORDERS								20150114	20150114											EUR	5	4250804715327			1		210,04	99,97904									120															99,97904

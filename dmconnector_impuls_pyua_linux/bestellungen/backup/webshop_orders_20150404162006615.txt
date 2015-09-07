@@ -1,0 +1,11 @@
+H	Web_Pyua		ORDERS					100001094	20150404						2000720								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Daniel Koehler			Zum Schiersteiner Grund 10		DE	55127	Mainz	supadan711@gmail.com																1
+ANR	 Daniel Koehler			Zum Schiersteiner Grund 10		DE	55127	Mainz	supadan711@gmail.com																1
+P			ORDERS								20150404	20150404											EUR	1	4250804720512			1		71,43	85,0017									120															85,0017
+P			ORDERS								20150404	20150404											EUR	2	4250804719943			1		54,62	64,9978									120															64,9978
+P			ORDERS								20150404	20150404											EUR	3	4250804717413			1		71,43	85,0017									120															85,0017
+P			ORDERS								20150404	20150404											EUR	4	4250494010184			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150404	20150404											EUR	5	4250494021159			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150404	20150404											EUR	6	4250804719165			2		29,41	34,9979									120															34,9979
+P			ORDERS								20150404	20150404											EUR	7	4250804714214			1		126,05	149,9995									120															149,9995
+P			ORDERS								20150404	20150404											EUR	8	4250804717512			1		71,43	85,0017									120															85,0017

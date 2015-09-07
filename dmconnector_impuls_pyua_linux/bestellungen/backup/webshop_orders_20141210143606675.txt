@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000652	20141210						2000502								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martin Thielmann			Lagerstraﬂe 14		DE	18055	Rostock	martinxschneider@yahoo.de																1
+ANR	 Martin Thielmann			Lagerstraﬂe 14		DE	18055	Rostock	martinxschneider@yahoo.de																1
+P			ORDERS								20141210	20141210											EUR	1	4250804715013			1		168,07	200,0033									120															200,0033

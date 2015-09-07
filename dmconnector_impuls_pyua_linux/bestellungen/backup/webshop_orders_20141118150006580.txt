@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000372	20141118						2000277								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sebastian Muschler			Tübinger Strße.82		DE	70178	Stuttgart	basti.muschler@gmx.de	+4915784669478															1
+ANR	 Sebastian Muschler			Tübinger Strße.82		DE	70178	Stuttgart	basti.muschler@gmx.de	+4915784669478															1
+P			ORDERS								20141118	20141118											EUR	1	4250804714313			1		294,08	139,98208									120															139,98208

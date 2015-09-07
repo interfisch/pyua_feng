@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000615	20141206						2000474								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Norgall	wirDesign communications AG		Sophienstraße 40		DE	38118	Braunschweig	th.norgall@t-online.de																1
+ANR	 Thomas Norgall			Gut Vellbrüggen 17		DE	41469	Neuss	th.norgall@t-online.de																1
+P			ORDERS								20141206	20141206											EUR	1	4250804713460			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141206	20141206											EUR	2	4250804713453			1		462,15	549,9585									120															549,9585

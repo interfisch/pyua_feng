@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000264	20141112						2000184								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Henning Steffen			Daimlerstraﬂe 7		DE	22763	Hamburg	henning.steffen@yahoo.de																1
+ANR	 Henning Steffen			Daimlerstraﬂe 7		DE	22763	Hamburg	henning.steffen@yahoo.de																1
+P			ORDERS								20141112	20141112											EUR	1	4250804717321			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141112	20141112											EUR	2	4250804720529			1		142,81	67,97756									120															67,97756

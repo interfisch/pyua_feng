@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001078	20150402						2000814								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sören Pohlmann			Harckesheyde 132		DE	22844	Norderstedt	pohlmann@wtnet.de																1
+ANR	 Sören Pohlmann			Harckesheyde 132		DE	22844	Norderstedt	pohlmann@wtnet.de																1
+P			ORDERS								20150402	20150402											EUR	1	4250804717574			1		50,42	59,9998									120															59,9998

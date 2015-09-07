@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000623	20141207						2000481								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 koloman  watzek	orf b		buchgraben 52		AT	7000	eisenstadt	k.watzek@a1.net																1
+ANR	 koloman watzek			zum guten hirten 68		AT	7081	schützen am gebirge	k.watzek@a1.net																1
+P			ORDERS								20141207	20141207											EUR	1	4250804715068			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141207	20141207											EUR	2	4250494021968			1		37,77	44,9463									120															44,9463

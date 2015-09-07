@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000745	20141219						2000575								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Anna Biedersberger			Fraunhofen 6		DE	84307	Eggenfelden	anna_b1@web.de																1
+ANR	 Anna Biedersberger			Fraunhofen 6		DE	84307	Eggenfelden	anna_b1@web.de																1
+P			ORDERS								20141219	20141219											EUR	1	4250804719073			1		37,82	45,0058									120															45,0058

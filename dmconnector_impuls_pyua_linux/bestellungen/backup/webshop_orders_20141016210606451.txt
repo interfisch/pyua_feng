@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000124	20141016						2000036								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Petra Zerbes			Gewerbestraße 26e		DE	83404	Ainring	p.zerbes@web.de																1
+ANR	 Petra Zerbes			Gewerbestraße 26e		DE	83404	Ainring	p.zerbes@web.de																1
+P			ORDERS								20141016	20141016											EUR	1	4250804720321			1		109,2	129,948									120															129,948
+P			ORDERS								20141016	20141016											EUR	2	4250804719844			1		33,57	39,9483									120															39,9483
+P			ORDERS								20141016	20141016											EUR	3	4250804719523			1		50,38	59,9522									120															59,9522
+P			ORDERS								20141016	20141016											EUR	4	4250804719622			1		50,38	59,9522									120															59,9522
+P			ORDERS								20141016	20141016											EUR	5	4250494022095			1		29,37	34,9503									120															34,9503

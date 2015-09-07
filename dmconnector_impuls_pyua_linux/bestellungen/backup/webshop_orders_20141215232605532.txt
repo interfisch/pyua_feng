@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000717	20141215						2000550								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Alf-Tobias Zahn			Fuldastr. 46		DE	12045	Berlin	alf.zahn@googlemail.com	+4917621692061															1
+ANR	 Alf-Tobias Zahn			Fuldastr. 46		DE	12045	Berlin	alf.zahn@googlemail.com	+4917621692061															1
+P			ORDERS								20141215	20141215											EUR	1	4250804719363			1		50,38	59,9522									120															59,9522

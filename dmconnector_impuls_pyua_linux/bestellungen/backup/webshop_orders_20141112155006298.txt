@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000258	20141112						2000179								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Julia Guenster	Postnummer 37620788		Packstation 164		DE	45130	Essen	jguenster@gmail.com																1
+ANR	 Julia Guenster			Fridtjof Nansen Str 10		DE	45131	Essen	jguenster@gmail.com																1
+P			ORDERS								20141112	20141112											EUR	1	4250804720758			1		378,11	179,98036									120															179,98036

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001154	20150612						2000869								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Saskia Koch			Sedanstr.93		DE	42281	Wuppertal	saskia_koch@yahoo.de																1
+ANR	 Saskia Koch			Sedanstr.93		DE	42281	Wuppertal	saskia_koch@yahoo.de																1
+P			ORDERS								20150612	20150612											EUR	1	4250494021807			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150612	20150612											EUR	2	4250494020084			1		21,01	25,0019									120															25,0019

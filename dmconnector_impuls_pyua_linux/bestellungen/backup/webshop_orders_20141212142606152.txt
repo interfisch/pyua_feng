@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000670	20141212						2000518								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Simone Waigel			Virchow Str.7		DE	91154	Roth	simonewaigel@googlemail.com																1
+ANR	 Simone Waigel			Virchow Str.7		DE	91154	Roth	simonewaigel@googlemail.com																1
+P			ORDERS								20141212	20141212											EUR	1	4250804720178			1		92,39	43,97764									120															43,97764
+P			ORDERS								20141212	20141212											EUR	2	4250804706776			1		67,2	31,9872									120															31,9872
+P			ORDERS								20141212	20141212											EUR	3	4250804720222			1		71,43	85,0017									120															85,0017
+P			ORDERS								20141212	20141212											EUR	4	4250804720536			1		71,43	85,0017									120															85,0017
+P			ORDERS								20141212	20141212											EUR	5	4250494022132			1		29,37	13,98012									120															13,98012

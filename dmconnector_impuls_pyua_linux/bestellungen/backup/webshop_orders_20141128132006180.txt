@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000516	20141128						2000391								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Dirk Zimmermann	37054313		Postfiliale 516		DE	21107	Hamburg	dirkzimm42@gmx.de																1
+ANR	 Dirk Zimmermann			Bauvereinsweg 4		DE	21107	Hamburg	dirkzimm42@gmx.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804715228			1		84,03	99,9957									120															99,9957
+P			ORDERS								20141128	20141128											EUR	2	4250804715235			1		84,04	100,0076									120															100,0076
+P			ORDERS								20141128	20141128											EUR	3	4250804715273			1		84,03	99,9957									120															99,9957
+P			ORDERS								20141128	20141128											EUR	4	4250804715334			1		84,03	99,9957									120															99,9957
+P			ORDERS								20141128	20141128											EUR	5	4250804719370			1		25,21	29,9999									120															29,9999
+P			ORDERS								20141128	20141128											EUR	6	4250804720536			1		63,03	75,0057									120															75,0057

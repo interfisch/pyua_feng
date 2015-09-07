@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000160	20141025						2000075								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 julian cremer			hungerburgweg 8		AT	6020	innsbruck	jn.cremer@gmx.de																1
+ANR	 julian cremer			hungerburgweg 8		AT	6020	innsbruck	jn.cremer@gmx.de																1
+P			ORDERS								20141025	20141025											EUR	1	4250804721120			1		29,37	34,9503									120															34,9503

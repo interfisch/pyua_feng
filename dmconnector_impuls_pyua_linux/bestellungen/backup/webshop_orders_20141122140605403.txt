@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000419	20141122						2000313								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Martin  Willeke			Christine Koch Straﬂe 14		DE	57413	Finnentrop	martin.willeke@freenet.de																1
+ANR	 Martin  Willeke			Christine Koch Straﬂe 14		DE	57413	Finnentrop	martin.willeke@freenet.de																1
+P			ORDERS								20141122	20141122											EUR	1	4250494020893			1		29,41	34,9979									120															34,9979
+P			ORDERS								20141122	20141122											EUR	2	4250494021142			1		21,01	25,0019									120															25,0019

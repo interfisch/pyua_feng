@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000195	20141031						2000115								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Taner  Sezgin	Mobilcom		Holtenauerstr. 67		DE	24105	Kiel	selma.sezgin@gmx.de	015122392144															1
+ANR	 Taner  Sezgin	Mobilcom		Holtenauerstr. 67		DE	24105	Kiel	selma.sezgin@gmx.de	015122392144															1
+P			ORDERS								20141031	20141031											EUR	1	4250804721137			1		336,09	199,97355									120															199,97355
+P			ORDERS								20141031	20141031											EUR	2	4250804721144			1		336,09	199,97355									120															199,97355
+P			ORDERS								20141031	20141031											EUR	3	4250804715006			1		336,1	199,9795									120															199,9795
+P			ORDERS								20141031	20141031											EUR	4	4250804715013			1		336,09	199,97355									120															199,97355

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000490	20141127						2000366								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Jürgen Bierbaumer-Polly			Forstnerweg 18/2		AT	2630	Ternitz	juergen@bierbaumer-polly.com																1
+ANR	 Jürgen Bierbaumer-Polly			Forstnerweg 18/2		AT	2630	Ternitz	juergen@bierbaumer-polly.com																1
+P			ORDERS								20141127	20141127											EUR	1	4250804717321			1		75,63	89,9997									120															89,9997

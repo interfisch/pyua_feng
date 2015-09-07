@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000774	20141229						2000597								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stefan Münz			Allgäuer Straße 1		DE	87459	Pfronten	stefan.muenz@t-online.de																1
+ANR	 Stefan Münz			Allgäuer Straße 1		DE	87459	Pfronten	stefan.muenz@t-online.de																1
+P			ORDERS								20141229	20141229											EUR	1	4250494010221			1		24,37	29,0003									120															29,0003
+P			ORDERS								20141229	20141229											EUR	2	4250494020794			1		24,37	29,0003									120															29,0003

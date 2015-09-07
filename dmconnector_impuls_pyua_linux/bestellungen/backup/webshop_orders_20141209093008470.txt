@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000633	20141209						2000489								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Katharina Hanzal	WUK Monopoli		Pachmüllergasse 22		AT	1120	Wien	k.hanzal@gmx.at	+4969918244067															1
+ANR	 Katharina Hanzal			Wimbergergasse		AT	1070	Wien	k.hanzal@gmx.at	+4969918244067															1
+P			ORDERS								20141209	20141209											EUR	1	4250804721175			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141209	20141209											EUR	2	4250804716492			1		96,64	115,0016									120															115,0016
+P			ORDERS								20141209	20141209											EUR	3	4250804716447			1		96,63	114,9897									120															114,9897

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000265	20141112						2000185								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Nicolai Vogt			Franckestrasse 14a		DE	24118	Kiel	nicolai.vogt@onlinehome.de																1
+ANR	 Nicolai Vogt			Franckestrasse 14a		DE	24118	Kiel	nicolai.vogt@onlinehome.de																1
+P			ORDERS								20141112	20141112											EUR	1	4250804717871			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141112	20141112											EUR	2	4250804717314			1		193,23	91,97748									120															91,97748

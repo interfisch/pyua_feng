@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000144	20141022						2000064								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Christoph Roick			Dammtorstraße 30		DE	20354	Hamburg	cr@performance-advertising.de																1
+ANR	 Christoph Roick			Dammtorstraße 30		DE	20354	Hamburg	cr@performance-advertising.de																1
+P			ORDERS								20141022	20141022											EUR	1	4250804720550			1		142,82	169,9558									120															169,9558

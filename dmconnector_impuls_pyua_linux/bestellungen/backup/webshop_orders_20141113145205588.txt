@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000298	20141113						2000213								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marten  Riese	Tivoli Film		Behringstraﬂe 16a		DE	22765 	Hamburg	marten.riese@web.de																1
+ANR	 Marten Riese			Stresemannstraﬂe 73		DE	22769 	Hamburg	marten.riese@web.de																1
+P			ORDERS								20141113	20141113											EUR	1	4250804713422			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141113	20141113											EUR	2	4250804719288			1		50,38	23,98088									120															23,98088

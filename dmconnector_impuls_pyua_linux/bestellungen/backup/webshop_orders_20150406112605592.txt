@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001108	20150406						2000836								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Zepf			Ziegetsdorfer Str. 103		DE	93051	Regensburg	thomas.zepf@gmail.com																1
+ANR	 Thomas Zepf			Ziegetsdorfer Str. 103		DE	93051	Regensburg	thomas.zepf@gmail.com																1
+P			ORDERS								20150406	20150406											EUR	1	4250804713446			1		231,09	274,9971									120															274,9971
+P			ORDERS								20150406	20150406											EUR	2	4250804713293			1		210,09	250,0071									120															250,0071

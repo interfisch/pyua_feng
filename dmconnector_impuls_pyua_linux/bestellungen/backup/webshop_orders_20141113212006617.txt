@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000305	20141113						2000203								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Julian Weick			Dorfstrasse 3		DE	79591	Eimeldingen	don1chulio@gmail.com																1
+ANR	 Julian Weick			Dorfstrasse 3		DE	79591	Eimeldingen	don1chulio@gmail.com																1
+P			ORDERS								20141113	20141113											EUR	1	4250804713477			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141113	20141113											EUR	2	4250804715273			1		210,04	99,97904									120															99,97904

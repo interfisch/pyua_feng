@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000096	20140905						200020								EUR										0										24		OS via pyua_de		5,4600	11			0
+ANL	 Martin Aegerter			Langer Segen 8-10		DE	24105	Kiel	ma@pyua.de	0431/5708334-12															1
+ANR	 Martin Aegerter			Langer Segen 8-10		DE	24105	Kiel	ma@pyua.de	0431/5708334-12															1
+P			ORDERS								20140905	20140905											EUR	1	4250494022095			2		29,37	34,9503									120															34,9503

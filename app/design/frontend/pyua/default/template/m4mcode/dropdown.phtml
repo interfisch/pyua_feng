@@ -1,0 +1,159 @@
+
+<script>
+
+function toggleMsg01(){
+   $('dropdown_01').toggle();
+}
+
+function toggleMsg02(){
+   $('dropdown_02').toggle();
+}
+
+function toggleMsg03(){
+   $('dropdown_03').toggle();
+}
+
+function toggleMsg04(){
+   $('dropdown_04').toggle();
+}
+
+function toggleMsg05(){
+   $('dropdown_05').toggle();
+}
+
+
+function toggleMsg06(){
+   $('dropdown_06').toggle();
+}
+
+
+function toggleMsg07(){
+   $('dropdown_07').toggle();
+}
+
+
+function toggleMsg08(){
+   $('dropdown_08').toggle();
+}
+
+
+function toggleMsg09(){
+   $('dropdown_09').toggle();
+}
+
+
+function toggleMsg10(){
+   $('dropdown_10').toggle();
+}
+
+
+</script>
+
+<div id="dropdown">
+
+
+
+
+
+
+<?php
+// Load your block by blockid. To get your blockid you must log in backend,
+// menu -> static blocks -> identifier. Replace 'blockid' with identifier.
+$staticBlock = Mage::getModel('cms/block')->load('dropdown1');
+// Check if block is active, if active echo title and content
+if($staticBlock->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg01();"><?php echo $staticBlock->getTitle()?></h1>
+  <div id="dropdown_01" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown1')->toHTML();?>
+  </div>
+<?php } ?>
+
+
+
+<?php
+$staticBlock2 = Mage::getModel('cms/block')->load('dropdown2');
+if($staticBlock2->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg02();"><?php echo $staticBlock2->getTitle()?></h1>
+  <div id="dropdown_02" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown2')->toHTML();?>
+  </div>
+<?php } ?>
+
+
+<?php
+$staticBlock3 = Mage::getModel('cms/block')->load('dropdown3');
+if($staticBlock3->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg03();"><?php echo $staticBlock3->getTitle()?></h1>
+  <div id="dropdown_03" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown3')->toHTML();?>
+  </div>
+<?php } ?>
+
+<?php
+$staticBlock4 = Mage::getModel('cms/block')->load('dropdown4');
+if($staticBlock4->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg04();"><?php echo $staticBlock4->getTitle()?></h1>
+  <div id="dropdown_04" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown4')->toHTML();?>
+  </div>
+<?php } ?>
+
+<?php
+$staticBlock5 = Mage::getModel('cms/block')->load('dropdown5');
+if($staticBlock5->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg05();"><?php echo $staticBlock5->getTitle()?></h1>
+  <div id="dropdown_05" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown5')->toHTML();?>
+  </div>
+<?php } ?>
+
+<?php
+$staticBlock6 = Mage::getModel('cms/block')->load('dropdown6');
+if($staticBlock6->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg06();"><?php echo $staticBlock6->getTitle()?></h1>
+  <div id="dropdown_06" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown6')->toHTML();?>
+  </div>
+<?php } ?>
+
+<?php
+$staticBlock7 = Mage::getModel('cms/block')->load('dropdown7');
+if($staticBlock7->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg07();"><?php echo $staticBlock7->getTitle()?></h1>
+  <div id="dropdown_07" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown7')->toHTML();?>
+  </div>
+<?php } ?>
+
+<?php
+$staticBlock8 = Mage::getModel('cms/block')->load('dropdown8');
+if($staticBlock8->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg08();"><?php echo $staticBlock8->getTitle()?></h1>
+  <div id="dropdown_08" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown8')->toHTML();?>
+  </div>
+<?php } ?>
+
+<?php
+$staticBlock9 = Mage::getModel('cms/block')->load('dropdown9');
+if($staticBlock9->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg09();"><?php echo $staticBlock9->getTitle()?></h1>
+  <div id="dropdown_09" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown9')->toHTML();?>
+  </div>
+<?php } ?>
+
+<?php
+$staticBlock10 = Mage::getModel('cms/block')->load('dropdown10');
+if($staticBlock10->getIsActive() == 1) { ?>
+<h1 type="button" onclick="toggleMsg10();"><?php echo $staticBlock10->getTitle()?></h1>
+  <div id="dropdown_10" class="dropdown_content" style="display:none;">
+	<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('dropdown10')->toHTML();?>
+  </div>
+<?php } ?>
+
+
+  
+
+  
+</div>

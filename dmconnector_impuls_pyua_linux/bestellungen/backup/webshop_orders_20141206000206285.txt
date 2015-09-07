@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000608	20141205						2000468								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Roberto Pizza	IB Dr. Schöppel		Perhamerstr. 86a		DE	80687	München	robertopizza@web.de																1
+ANR	 Roberto Pizza			Ettenhueberstr. 4		DE	80687	München	robertopizza@web.de																1
+P			ORDERS								20141205	20141205											EUR	1	4250804715013			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141205	20141205											EUR	2	4250494019842			1		10,06	11,9714									120															11,9714

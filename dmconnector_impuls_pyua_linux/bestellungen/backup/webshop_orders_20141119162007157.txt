@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000388	20141119						2000291								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 felix hosie			isestr. 125		DE	20149	hamburg	felix@hosie.de																1
+ANR	 felix hosie			isestr. 125		DE	20149	hamburg	felix@hosie.de																1
+P			ORDERS								20141119	20141119											EUR	1	4250804717215			1		210,04	124,9738									120															124,9738

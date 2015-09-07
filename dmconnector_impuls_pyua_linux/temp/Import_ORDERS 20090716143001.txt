@@ -1,0 +1,5 @@
+H	webshop		ORDERS					135	20090716						35566								EUR																				45				2,94	14
+ANL		Marion	Test	Teststr. 79		DE	30625	Hannover													
+ANR		Marion	Test	Teststr. 79		DE	30625	Hannover													
+P																								1	4304986001003	12345		1		6.6387	7.9000					407	OG						
+P																								2	4304986123456	55555		1		10.8403	12.9000					407	OG						

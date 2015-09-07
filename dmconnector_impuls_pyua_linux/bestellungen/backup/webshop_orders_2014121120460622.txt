@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000664	20141211						2000510								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Peter Meierle			Stockhanstr. 6		DE	51709	Marienheide	pm111@web.de																1
+ANR	 Peter Meierle			Stockhanstr. 6		DE	51709	Marienheide	pm111@web.de																1
+P			ORDERS								20141211	20141211											EUR	1	4250804720574			1		71,43	85,0017									120															85,0017
+P			ORDERS								20141211	20141211											EUR	2	4250494020800			1		24,37	29,0003									120															29,0003

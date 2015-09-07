@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000592	20141202						2000454								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jens  Wagner			Schöffauer Straße 12		DE	82449	Uffing am Staffelsee	jotweo@gmx.de	0171 1427908															1
+ANR	 Jens  Wagner			Schöffauer Straße 12		DE	82449	Uffing am Staffelsee	jotweo@gmx.de	0171 1427908															1
+P			ORDERS								20141202	20141202											EUR	1	4250804717307			1		96,62	114,9778									120															114,9778
+P			ORDERS								20141202	20141202											EUR	2	4250804717314			1		96,62	114,9778									120															114,9778

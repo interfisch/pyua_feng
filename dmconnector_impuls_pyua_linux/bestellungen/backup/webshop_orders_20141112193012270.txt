@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000266	20141112						2000186								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Steffen Riese	Sportsman's Delight GmbH		Langer Segen 8-10		DE	24105	Kiel	J_welti@hotmail.com																1
+ANR	 Julia Welti			Sternstr. 14		DE	24116	Kiel	J_welti@hotmail.com																1
+P			ORDERS								20141112	20141112											EUR	1	4250494019866			1		21,01	10,00076									120															10,00076
+P			ORDERS								20141112	20141112											EUR	2	4250494013291			2		29,41	13,99916									120															13,99916
+P			ORDERS								20141112	20141112											EUR	3	4250494020282			2		21,01	10,00076									120															10,00076
+P			ORDERS								20141112	20141112											EUR	4	4250494020213			2		21,01	10,00076									120															10,00076

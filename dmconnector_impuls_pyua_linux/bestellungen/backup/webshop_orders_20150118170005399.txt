@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000845	20150118						2000645								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Lisa Mansour			162 rue Eleonore Jarry		FR	78670	Villennes	lisa.c.m.w@gmail.com																4
+ANR	 Lisa Mansour			162 rue Eleonore Jarry		FR	78670	Villennes	lisa.c.m.w@gmail.com																4
+P			ORDERS								20150118	20150118											EUR	1	4250804720901			1		200,84	238,9996									120															238,9996

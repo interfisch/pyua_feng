@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001047	20150327						2000390								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Nadine Rathofer			Lützowstr. 2		DE	50674	Köln	nadine_rathofer@web.de	0179.9255635															1
+ANR	 Nadine Rathofer			Lützowstr. 2		DE	50674	Köln	nadine_rathofer@web.de	0179.9255635															1
+P			ORDERS								20150327	20150327											EUR	1	4250804721175			1		168,07	200,0033									120															200,0033

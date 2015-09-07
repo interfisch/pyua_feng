@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001113	20150406						2000839								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sebastian Stepfer			Herzog-Arnulf-Str. 9a		DE	84503	Altötting	sebastian@stepfer.net																1
+ANR	 Sebastian Stepfer			Herzog-Arnulf-Str. 9a		DE	84503	Altötting	sebastian@stepfer.net																1
+P			ORDERS								20150406	20150406											EUR	1	4250804718526			1		37,82	45,0058									120															45,0058

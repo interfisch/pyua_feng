@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000429	20141123						2000281								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Wilfert	Top Event Team GmbH & Co.KG		Felicitasstr. 7		DE	44263	Dortmund	wilfert@top-event.net	0177 7519339															1
+ANR	 Andreas Wilfert	Top Event Team GmbH & Co.KG		Felicitasstr. 7		DE	44263	Dortmund	wilfert@top-event.net	0177 7519339															1
+P			ORDERS								20141123	20141123											EUR	1	4250804719950			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141123	20141123											EUR	2	4250494020909			1		29,41	34,9979									120															34,9979
+P			ORDERS								20141123	20141123											EUR	3	4250804720574			1		142,82	67,98232									120															67,98232
+P			ORDERS								20141123	20141123											EUR	4	4250804713378			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141123	20141123											EUR	5	4250804713460			1		462,14	219,97864									120															219,97864

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000570	20141130						2000436								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Malte Simon			Westerlandstraﬂe 12		DE	13189	Berlin	maltes_post@hotmail.com																1
+ANR	 Malte Simon			Westerlandstraﬂe 12		DE	13189	Berlin	maltes_post@hotmail.com																1
+P			ORDERS								20141130	20141130											EUR	1	4250804715013			1		336,09	399,9471									120															399,9471

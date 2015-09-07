@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+    <default>
+            <reference name="root">    
+                <!--<block type="checkout/cart_minicart" name="minicart_head" template="checkout/cart/m4m-minicart.phtml" before="-" as="outfit">-->
+                	<block type="checkout/cart_sidebar" name="minicart_content" template="checkout/cart/minicart/m4m-sidebar-items.phtml" as="outfit">
+                    	<action method="addItemRender"><type>default</type><block>checkout/cart_item_renderer</block><template>checkout/cart/minicart/m4m-sidebar-minicart-default.phtml</template></action>
+                    	<action method="addItemRender"><type>simple</type><block>checkout/cart_item_renderer</block><template>checkout/cart/minicart/m4m-sidebar-minicart-default.phtml</template></action>
+                    	<action method="addItemRender"><type>grouped</type><block>checkout/cart_item_renderer_grouped</block><template>checkout/cart/minicart/m4m-sidebar-minicart-default.phtml</template></action>
+                    	<action method="addItemRender"><type>configurable</type><block>checkout/cart_item_renderer_configurable</block><template>checkout/cart/minicart/m4m-sidebar-minicart-default.phtml</template></action>
+                	</block>
+                <!--</block>-->
+            </reference>   
+            <reference name="root">  
+            <block type="core/text_list" name="top.menu" as="topMenu" translate="label">
+                    <label>Navigation Bar</label>
+                    <block type="page/html_topmenu" name="catalog.topnav" template="page/html/topmenu.phtml">
+                        <block type="page/html_topmenu_renderer" name="catalog.topnav.renderer" template="page/html/topmenu/renderer.phtml"/>
+                    </block>
+                </block>
+            </reference>  
+         	<reference name="root">  
+                     <block type="catalog/product_list_upsell" name="product.info.upsell" as="upsell_products" template="catalog/product/list/upsell.phtml">
+                    <action method="setColumnCount"><columns>6</columns></action>
+                    <action method="setItemLimit"><type>upsell</type><limit>6</limit></action>
+                </block>
+            </reference>   
+            <reference name="root">  
+            <block type="checkout/cart_totals" name="checkout.cart.totals" as="totals" template="checkout/cart/totals.phtml"/>
+            <block type="checkout/cart_totals" name="totals" />
+            <block type="checkout/cart_totals" name="checkout.onepage.review.info.totals" as="totals" template="checkout/onepage/review/totals.phtml"/>
+            </reference>   
+<remove name="catalog.compare.sidebar"/> 
+<remove name="right.reports.product.compared"/>
+<reference name="root"> 
+	<block type="page/html_breadcrumbs" name="breadcrumbs" as="breadcrumbs"/>
+</reference>  
+        
+    </default>
+</layout>

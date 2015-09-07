@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000535	20141128						2000407								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Tanja Wolf			Augustenstraﬂe 14		DE	04317	Leipzig	tgwolf@gmail.com																1
+ANR	 Tanja Wolf			Augustenstraﬂe 14		DE	04317	Leipzig	tgwolf@gmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804720246			1		63,03	75,0057									120															75,0057

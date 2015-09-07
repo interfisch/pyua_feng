@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000933	20150201						2000715								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 KLaus  Rohrbach			Jahnstr. 26		DE	35423	Lich	dolli1492@t-online.de	06404666911															1
+ANR	 KLaus  Rohrbach			Jahnstr. 26		DE	35423	Lich	dolli1492@t-online.de	06404666911															1
+P			ORDERS								20150201	20150201											EUR	1	4250494021906			1		37,77	44,9463									120															44,9463
+P			ORDERS								20150201	20150201											EUR	2	4250804717321			1		146,22	174,0018									120															174,0018

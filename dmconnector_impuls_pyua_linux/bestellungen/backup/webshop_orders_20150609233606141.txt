@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001151	20150609						2000868								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Teemu Hupponen			Hiekkakuja 2 A 12		FI	33230	Tampere	huppote@gmail.com	+358407093180															1
+ANR	 Teemu Hupponen			Hiekkakuja 2 A 12		FI	33230	Tampere	huppote@gmail.com	+358407093180															1
+P			ORDERS								20150609	20150609											EUR	1	4250494020381			1		29,33	34,9027									120															34,9027

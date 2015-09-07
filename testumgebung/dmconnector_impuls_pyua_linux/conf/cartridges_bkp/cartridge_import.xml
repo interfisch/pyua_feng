@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<!-- Es sind 2 Dateien zu schreiben, Kunde und Normalbuchung für ADISSON -->
+<!-- ORDER.CSV = Auftragsdaten -->
+		    
+<Datei name="C:/Bestellungen/kunde.CSV" type="csv" ShowFirstRow="" id="1" belegAnzahl="2">	
+		<!-- (CSV)-Tabellen-Spalten sind die Tags (Belegtyp, Belegnummer etc) -->
+		<!-- die Attribute definieren wie folgt: -->
+		<!-- import="TAG_AUS_SCHNITTSTELLE/fixed-fester Wert, nicht aus Schnittstelle" -->
+		<!-- standard= Den Eintrag nehmen, wenn "fixed" oder kein Wert in TAG_AUS_SCHNITTSTELLE -->
+		<Satzart import="fixed" type="string" length="1" standard="WebShop_K" update="false"/>
+		<!-- Kundennummer muss bei Impuls zwischen 200.000 und 250.000 liegen -->
+		<Kunden-Nr import="CUSTOMER_ID" type="string" length="10" standard="" update="false"/>
+		<!-- kurzname zB Titel -->
+		<kurzname import="fixed" type="string" length="60" standard="" update="false"/>
+		<!-- z.Z. unbenutzt -->
+		<Firmenname import="fixed" type="string" length="40" standard="" update="false"/>
+		<!-- {Herr, Frau} -->
+		<Anrede import="ANREDE" type="string" length="60" standard="" update="false"/>
+		<!-- Vorname + Nachname, sonst Firmenname -->
+		<Name import="BILLINGADDRESS_NAME4" type="string" length="40" standard="" update="false"/>
+		<Strasse import="BILLINGADDRESS_STREET" type="string" length="40" standard="" update="false"/>
+		<plz import="BILLINGADDRESS_ZIP" type="string" length="6" standard="" update="false"/>
+		<Ort import="BILLINGADDRESS_CITY" type="string" length="10" standard="" update="false"/>
+		<Telefon import="BILLINGADDRESS_PHONE" type="string" length="1" standard="" update="false"/>
+		<mwst import="fixed" type="string" length="40" standard="" update="false"/>
+		<Fax import="fixed" type="string" length="40" standard="" update="false"/>
+		<email import="BILLINGADDRESS_EMAIL" type="string" length="1" standard="50" update="false"/>
+		<iso_3166_A2Land import="BILLINGADDRESS_COUNTRY_CODE" type="string" length="40" standard="" update="false"/>
+		<Zahlungsart import="PAYMENT_METHOD" type="string" length="40" standard="" update="false"/>
+		<Bank import="fixed" type="string" length="40" standard="" update="false"/>
+		<Blz import="fixed" type="string" length="40" standard="" update="false"/>
+		<Konto import="fixed" type="string" length="40" standard="" update="false"/>
+		<username import="fixed" type="string" length="40" standard="" update="false"/>
+		<password import="fixed" type="string" length="40" standard="" update="false"/>
+		<customers_hash import="fixed" type="string" length="40" standard="" update="false"/>
+		<zahlungsart_id import="PAYMENT_METHOD_ID" type="string" length="40" standard="" update="false"/>
+		<vorname import="fixed" type="string" length="40" standard="" update="false"/>
+		<webshopname import="fixed" type="string" length="40" standard="" update="false"/>
+</Datei>	
+
+<!-- orderp.CSV = Artikeldaten (die bestellten Artikel - je Besteller) -->
+<Datei name="C:/Bestellungen/Bestellung.CSV"  type="csv" ShowFirstRow="" id="2" belegAnzahl="2">
+		<!-- Lieferadresse oder Rechnungsadresse {ANL,ANR} -->
+		<Kennzeichen import="fixed" type="string" length="1" standard="ANL" update="false"/>
+		<!-- Vorname + Nachname, sonst Firmenname -->
+		<Name_1 import="SHIPPINGADDRESS_NAME4" type="string" length="40" standard="" update="false"/>
+		<Name_2 import="fixed" type="string" length="40" standard="" update="false"/>
+		<Name_3 import="fixed" type="string" length="40" standard="" update="false"/>
+		<Straße import="SHIPPINGADDRESS_STREET" type="string" length="40" standard="" update="false"/>
+		<Länderkennzeichen import="fixed" type="string" length="40" standard="" update="false"/>
+		<ISO-LAND import="SHIPPINGADDRESS_COUNTRY_CODE" type="string" length="40" standard="" update="false"/>
+		<PLZ import="SHIPPINGADDRESS_ZIP" type="string" length="6" standard="" update="false"/>
+		<Ort import="SHIPPINGADDRESS_CITY" type="string" length="10" standard="" update="false"/>
+		<Email import="SHIPPINGADDRESS_EMAIL" type="string" length="1" standard="50" update="false"/>
+		<Telefon import="SHIPPINGADDRESS_PHONE" type="string" length="1" standard="" update="false"/>
+		<Telefax import="fixed" type="string" length="40" standard="" update="false"/>
+		<PLZ-Postfach import="fixed" type="string" length="40" standard="" update="false"/>
+		<Postfach import="fixed" type="string" length="40" standard="" update="false"/>
+		<Hinweis import="ORDER_TEXT1" type="string" length="60" standard="" update="false"/>
+		<ILN import="fixed" type="string" length="40" standard="" update="false"/>
+		<Bank import="fixed" type="string" length="40" standard="" update="false"/>
+		<BLZ import="fixed" type="string" length="40" standard="" update="false"/>
+		<Konto-NR import="fixed" type="string" length="40" standard="" update="false"/>
+		<UST_ID_NR import="BILLINGADDRESS_VAT_ID" type="string" length="40" standard="" update="false"/>
+		<Steuernummer import="fixed" type="string" length="40" standard="" update="false"/>
+		<!-- 'L'=Lieferanschrift, 'R'=Rechnungsanschrift -->
+		<Art import="fixed" type="string" length="40" standard="L" update="false"/>
+		<Landname import="fixed" type="string" length="40" standard="" update="false"/>
+		<Land-ID import="fixed" type="string" length="40" standard="" update="false"/>
+</Datei>	
+
+</root>
+
+

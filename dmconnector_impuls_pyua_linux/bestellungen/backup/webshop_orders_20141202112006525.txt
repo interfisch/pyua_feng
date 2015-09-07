@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000591	20141202						2000453								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Hubert Langnickel			Gänsewiese 10		DE	24107	Kiel	hubert.langnickel@gmx.de	043159255501															1
+ANR	 Hubert Langnickel			Gänsewiese 10		DE	24107	Kiel	hubert.langnickel@gmx.de	043159255501															1
+P			ORDERS								20141202	20141202											EUR	1	4250804717321			1		96,62	114,9778									120															114,9778
+P			ORDERS								20141202	20141202											EUR	2	4250804714221			1		252,06	119,98056									120															119,98056

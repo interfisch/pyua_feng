@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000755	20141222						2000581								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Matthias Pocher			Leipzigerstr. 39		DE	04668	Grimma	m.pocher@gmx.de																1
+ANR	 Matthias Pocher			Leipzigerstr. 39		DE	04668	Grimma	m.pocher@gmx.de																1
+P			ORDERS								20141222	20141222											EUR	1	4250494019842			1		21,01	25,0019									120															25,0019
+P			ORDERS								20141222	20141222											EUR	2	4250494020794			1		24,37	29,0003									120															29,0003
+P			ORDERS								20141222	20141222											EUR	3	4250804715815			1		29,37	34,9503									120															34,9503

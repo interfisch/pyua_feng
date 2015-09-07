@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000741	20141218						2000571								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Elias Riether			Brückenwiesen 12		DE	74937	Spechbach	elias.riether@gmail.com																1
+ANR	 Elias Riether			Brückenwiesen 12		DE	74937	Spechbach	elias.riether@gmail.com																1
+P			ORDERS								20141218	20141218											EUR	1	4250804719288			1		50,38	59,9522									120															59,9522
+P			ORDERS								20141218	20141218											EUR	2	4250804719370			1		50,38	59,9522									120															59,9522

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000345	20141115						2000253								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stephanie Paulus			Doverhahn 30		DE	41836	Hückelhoven	dregiffets@t-online.de																1
+ANR	 Stephanie Paulus			Doverhahn 30		DE	41836	Hückelhoven	dregiffets@t-online.de																1
+P			ORDERS								20141115	20141115											EUR	1	4250804720901			1		126,03	149,9757									120															149,9757
+P			ORDERS								20141115	20141115											EUR	2	4250804720741			1		189,06	224,9814									120															224,9814

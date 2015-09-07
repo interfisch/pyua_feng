@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000484	20141127						2000361								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Martin Reininger			Rossbach 1		AT	4975	Suben	martin.reininger@inext.at																1
+ANR	 Martin Reininger			Rossbach 1		AT	4975	Suben	martin.reininger@inext.at																1
+P			ORDERS								20141127	20141127											EUR	1	4250804717314			1		75,63	89,9997									120															89,9997

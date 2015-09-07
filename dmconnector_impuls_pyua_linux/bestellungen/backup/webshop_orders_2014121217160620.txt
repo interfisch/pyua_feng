@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000673	20141212						2000493								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sybille Holzwarth			Narzissenstr. 2		DE	47495	Rheinberg	sybille.holzwarth@web.de																1
+ANR	 Sybille Holzwarth			Narzissenstr. 2		DE	47495	Rheinberg	sybille.holzwarth@web.de																1
+P			ORDERS								20141212	20141212											EUR	1	4250804720222			1		71,43	85,0017									120															85,0017

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000786	20150102						2000144								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 frank bramlage			wassermühlenweg 75		DE	26203	wardenburg	frank.bramlage@web.de	044079139993															1
+ANR	 frank bramlage			wassermühlenweg 75		DE	26203	wardenburg	frank.bramlage@web.de	044079139993															1
+P			ORDERS								20150102	20150102											EUR	1	4250804720543			1		142,82	84,9779									120															84,9779

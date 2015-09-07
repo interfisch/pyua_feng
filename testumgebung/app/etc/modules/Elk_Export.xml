@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Elk_Export>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Elk_Export>
+	</modules>
+</config>

@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000163	20141027						2000079								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Nicole Löcher			Rehefelder Str. 86		DE	01127	Dresden	nicole.loecher@gmx.de																1
+ANR	 Nicole Löcher			Rehefelder Str. 86		DE	01127	Dresden	nicole.loecher@gmx.de																1
+P			ORDERS								20141027	20141027											EUR	1	4250804720253			1		142,82	169,9558									120															169,9558
+P			ORDERS								20141027	20141027											EUR	2	4250494020121			1		21	24,99									120															24,99
+P			ORDERS								20141027	20141027											EUR	3	4250494020053			1		21,01	25,0019									120															25,0019
+P			ORDERS								20141027	20141027											EUR	4	4250494019989			1		21,01	25,0019									120															25,0019

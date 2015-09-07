@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000828	20150108						2000564								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Desiree Modic			Marie-Luise-Kaschnitz-Straﬂe 12		DE	76199	Karlsruhe	desiree.modic@googlemail.com																1
+ANR	 Desiree Modic			Marie-Luise-Kaschnitz-Straﬂe 12		DE	76199	Karlsruhe	desiree.modic@googlemail.com																1
+P			ORDERS								20150108	20150108											EUR	1	4250804719424			1		58,78	34,9741									120															34,9741
+P			ORDERS								20150108	20150108											EUR	2	4250804719417			1		58,78	34,9741									120															34,9741

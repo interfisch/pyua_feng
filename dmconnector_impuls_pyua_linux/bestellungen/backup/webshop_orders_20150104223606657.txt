@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000816	20150104						2000623								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 eva persy			braungasse 8		AT	1170	wien	e.persy@hotmail.com																1
+ANR	 eva persy			braungasse 8		AT	1170	wien	e.persy@hotmail.com																1
+P			ORDERS								20150104	20150104											EUR	1	4250804721151			1		336,09	399,9471									120															399,9471

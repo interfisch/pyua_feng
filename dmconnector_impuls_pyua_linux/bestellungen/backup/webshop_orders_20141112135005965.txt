@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000257	20141112						2000178								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Julia Evers			Alsenstr. 29		DE	24768	Rendsburg	evers.julia@gmail.com	01752345102															1
+ANR	 Julia Evers			Alsenstr. 29		DE	24768	Rendsburg	evers.julia@gmail.com	01752345102															1
+P			ORDERS								20141112	20141112											EUR	1	4250804704314			1		83,99	39,97924									120															39,97924
+P			ORDERS								20141112	20141112											EUR	2	4250804721090			1		37,77	17,97852									120															17,97852

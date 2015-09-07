@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100001090	20150403						2000824								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Manuel Meidl			Enge Gasse 25		AT	4400	Steyr	manuelmeidl@gmx.at	+436763210315															1
+ANR	 Manuel Meidl			Enge Gasse 25		AT	4400	Steyr	manuelmeidl@gmx.at	+436763210315															1
+P			ORDERS								20150403	20150403											EUR	1	4250804713965			1		189,08	225,0052									120															225,0052
+P			ORDERS								20150403	20150403											EUR	2	4250804713972			1		189,07	224,9933									120															224,9933
+P			ORDERS								20150403	20150403											EUR	3	4250804714313			1		147,06	175,0014									120															175,0014
+P			ORDERS								20150403	20150403											EUR	4	4250804714320			1		147,06	175,0014									120															175,0014

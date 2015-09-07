@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000747	20141220						2000577								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ronny Asmus	c/o Nord-Ostsee Automobile GmbH & Co. KG		Schulstr.  34		DE	24866	Busdorf	asmusronny@hotmail.com																1
+ANR	 Ronny Asmus			Theodor-Storm-Str.  11		DE	24850	Schuby	asmusronny@hotmail.com																1
+P			ORDERS								20141220	20141220											EUR	1	4250804720222			1		71,43	85,0017									120															85,0017
+P			ORDERS								20141220	20141220											EUR	2	4250804720239			1		71,43	85,0017									120															85,0017

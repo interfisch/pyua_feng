@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000858	20150120						2000661								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Olaf Jäger-Roschko			Auf der Tenne 12		DE	24119	Kronshagen	ojr@gmx.com																1
+ANR	 Olaf Jäger-Roschko			Auf der Tenne 12		DE	24119	Kronshagen	ojr@gmx.com																1
+P			ORDERS								20150120	20150120											EUR	1	4250804715020			1		268,07	159,50165									120															159,50165

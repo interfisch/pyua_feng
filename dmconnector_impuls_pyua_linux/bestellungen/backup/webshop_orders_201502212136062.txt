@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000986	20150221						2000760								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Birgit Böckmann			Dreuge Mesk 17		DE	49434	Neuenkirchen-Vörden 	birgitmzd@gmail.com	0175/6530031															1
+ANR	 Birgit Böckmann			Dreuge Mesk 17		DE	49434	Neuenkirchen-Vörden 	birgitmzd@gmail.com	0175/6530031															1
+P			ORDERS								20150221	20150221											EUR	1	4250804720826			1		378,11	152,983306									120															152,983306
+P			ORDERS								20150221	20150221											EUR	2	4250804719097			1		75,59	89,9521									120															89,9521
+P			ORDERS								20150221	20150221											EUR	3	4250804720871			1		252,06	101,983476									120															101,983476
+P			ORDERS								20150221	20150221											EUR	4	4250804718199			1		74,79	89,0001									120															89,0001
+P			ORDERS								20150221	20150221											EUR	5	4250804720925			1		252,06	101,983476									120															101,983476

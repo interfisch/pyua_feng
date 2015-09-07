@@ -1,0 +1,159 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     rwd_default
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+/**
+ * @var Mage_Page_Block_Html_Header $this
+ */
+ 
+    /*
+ m4m Doku
+ Breadcrumb hinzugefügt siehe auch page.xml | Dort wurde der gesamte Block in den Header verschoben.
+ */
+ 
+?>
+<header id="header" class="page-header">    
+    <div class="page-header-container">
+        <a class="logo" href="<?php echo $this->getUrl('') ?>">
+            <img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" class="large" />
+        </a>
+
+        <?php // In order for the language switcher to display next to logo on smaller viewports, it will be moved here.
+              // See app.js for details ?>      
+
+        <!-- Skip Links -->
+        <div class="pyua_header_options">
+        <?php /*
+            <a href="#header-nav" class="skip-link skip-nav">
+                <span class="label"><?php echo $this->__('Menu'); ?></span>
+            </a>*/?>
+
+            <?php /*<a href="#header-search" class="skip-link skip-search">
+                <span class="label"><?php echo $this->__('Search'); ?></span>
+            </a> */?>
+
+            <!--<a href="#header-account" class="skip-link skip-account">
+                <span class="label"><?php echo $this->__('Account'); ?></span>
+            </a>-->
+            
+			<?php if ($this->helper('customer')->isLoggedIn() ) {?>
+				<a href="<?php Mage::getBaseUrl();?>/index.php/customer/account/logout/" id="logout-pyua">
+					<span class="label">Abmelden</span>
+				</a>
+			<?php }else{?>
+				<a href="<?php Mage::getBaseUrl();?>/index.php/customer/account/login/" id="login-pyua">
+		    		<span class="label">Anmelden</span>
+				</a>
+			<?php } ?>
+        
+           <a href="<?php Mage::getBaseUrl();?>/index.php/customer/account/login/" id="account-pyua">
+                <span class="label"><?php echo $this->__('Account'); ?></span>
+            </a>     
+            
+            <!-- 
+            http://www.media4motion.com/pyua/index.php/customer/account/
+            http://www.media4motion.com/pyua/index.php/checkout/cart/
+            http://www.media4motion.com/pyua/index.php/checkout/
+            http://www.media4motion.com/pyua/index.php/customer/account/logout/
+            http://www.media4motion.com/pyua/index.php/blog/
+            -->
+            
+            <!-- Flemming | M4M | Checkout Link-->
+            <span class="goToCheckout"><a href="http://www.pyua.de/index.php/checkout/cart/">zur Kasse</a> <i class="fa fa-gift"></i></span>
+            <!-- Cart -->
+            <div class="header-minicart">
+                <?php echo $this->getChildHtml('minicart_head'); ?>
+            </div>
+
+
+        </div>
+
+        <!-- Navigation -->
+        <div id="header-nav" class="skip-content">
+            <?php echo $this->getChildHtml('topMenu') ?>
+        </div>
+
+        <!-- Search -->
+        <!-- <div id="header-search" class="skip-content">
+            <?php echo $this->getChildHtml('topSearch') ?>
+        </div> -->
+
+        <!-- Account -->
+        <div id="header-account" class="skip-content">
+            <?php echo $this->getChildHtml('topLinks') ?>
+        </div>
+
+        <!-- Cart -->
+        <!-- <div id="header-cart" class="skip-content">
+            <div class="mini-cart">
+                <div class="menu-wrapper">
+                    <div class="menu cart-menu">
+                        <div class="empty">Your cart is empty.</div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+</header>
+
+<!-- Abwrackpraemie Button -->
+
+<?php
+if(isset($_GET['utm_campaign'])){
+    $Sessionvalue   =   $_GET['utm_campaign'];
+    // Set value in session
+    Mage::getSingleton('core/session')->setLandingPage($Sessionvalue);
+}
+?>
+<?php $Landingpage =  Mage::getSingleton('core/session')->getLandingPage(); ?>
+<?php if($Landingpage != ""){ ?>
+<?php/*
+      *   MID SEASON SALE 
+      */?>
+    <?php if($Landingpage == "Mid Season SALE"){?>
+        <div id="red_box" class="top_right">
+            <span class="h3">50% auf ALLES <br> mit dem Code</span>
+            <span class="h1">SALE2015</span>
+        </div>    
+    <?php } else {
+         /*
+          *  ABWRACKPRAEMIE
+          */?>
+        <a href="http://www.pyua.de/index.php/catalog/category/view/s/abwrackpraemie/id/78/" id="blue_box" class="top_right">
+            <span class="h3">sichere Dir Deine</span>
+            <span class="h1">100€</span>
+        </a>
+    <?php } ?>
+<?php } else {?>
+<?php/*
+      *  ABWRACKPRAEMIE
+      */?>
+    <a href="http://www.pyua.de/index.php/catalog/category/view/s/abwrackpraemie/id/78/" id="blue_box" class="top_right">
+        <span class="h3">sichere Dir Deine</span>
+        <span class="h1">100€</span>
+    </a>
+<?php } ?>
+
+
+<?php echo $this->getChildHtml('topContainer'); ?>

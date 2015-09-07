@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001001	20150224						2000326								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Zientarra  c/o büchel & Schöncke			sophienstr. 2		DE	80333	München	antikreativ@web.de																1
+ANR	 Zientarra  c/o büchel & Schöncke			sophienstr. 2		DE	80333	München	antikreativ@web.de																1
+P			ORDERS								20150224	20150224											EUR	1	4250804714276			1		252,06	101,983476									120															101,983476

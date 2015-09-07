@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000979	20150219						2000471								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Gerhild Baumeister			Hauptstraﬂe 20		DE	54558	Strohn	mail@gerhild-baumeister.de																1
+ANR	 Gerhild Baumeister			Hauptstraﬂe 20		DE	54558	Strohn	mail@gerhild-baumeister.de																1
+P			ORDERS								20150219	20150219											EUR	1	4250804719394			1		50,38	59,9522									120															59,9522
+P			ORDERS								20150219	20150219											EUR	2	4250494020305			1		21,01	25,0019									120															25,0019
+P			ORDERS								20150219	20150219											EUR	3	4250494020237			1		21	24,99									120															24,99
+P			ORDERS								20150219	20150219											EUR	4	4250494021340			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150219	20150219											EUR	5	4250494020510			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150219	20150219											EUR	6	4250494020411			1		24,37	29,0003									120															29,0003

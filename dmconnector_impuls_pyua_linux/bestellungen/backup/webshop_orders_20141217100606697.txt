@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000725	20141217						2000556								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Barbara Wöckinger			Weigersdorf 15		AT	A-4312 	Ried in der Riedmark	b.woeckinger@aon.at																1
+ANR	 Barbara Wöckinger			Weigersdorf 15		AT	A-4312 	Ried in der Riedmark	b.woeckinger@aon.at																1
+P			ORDERS								20141217	20141217											EUR	1	4250804714542			1		231,09	274,9971									120															274,9971
+P			ORDERS								20141217	20141217											EUR	2	4250804714740			1		147,06	175,0014									120															175,0014

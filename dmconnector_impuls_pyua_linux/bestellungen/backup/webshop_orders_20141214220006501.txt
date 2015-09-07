@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000710	20141214						2000543								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Mareike Seelinger			an der sandbeune 4a		DE	68623	Lampertheim	mareike.seelinger@yahoo.com																1
+ANR	 Mareike Seelinger			an der sandbeune 4a		DE	68623	Lampertheim	mareike.seelinger@yahoo.com																1
+P			ORDERS								20141214	20141214											EUR	1	4250804713682			1		462,14	549,9466									120															549,9466

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000358	20141116						2000264								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Mona Elobeid	Grey		Platz der Ideen 1		DE	40476	Düsseldorf	christian.kakas@googlemail.com																1
+ANR	 Mona Elobeid	Grey		Platz der Ideen 1		DE	40476	Düsseldorf	christian.kakas@googlemail.com																1
+P			ORDERS								20141116	20141116											EUR	1	4250804714269			1		126,03	149,9757									120															149,9757

@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000662	20141211						2000509								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Richard Stadler	werbehaus digital		Hauptstr. 23		DE	83112	Frasdorf	rs@vier-gestalten.de																1
+ANR	 Richard Stadler			Kirchbachlweg 7 B		DE	83083	Riedering	rs@vier-gestalten.de																1
+P			ORDERS								20141211	20141211											EUR	1	4250804721113			1		33,57	15,97932									120															15,97932
+P			ORDERS								20141211	20141211											EUR	2	4250804720260			1		142,82	67,98232									120															67,98232
+P			ORDERS								20141211	20141211											EUR	3	4250494021456			1		37,73	17,95948									120															17,95948
+P			ORDERS								20141211	20141211											EUR	4	4250804716812			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141211	20141211											EUR	5	4250804715822			2		29,37	13,98012									120															13,98012
+P			ORDERS								20141211	20141211											EUR	6	4250804717222			1		210,04	99,97904									120															99,97904

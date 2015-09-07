@@ -1,0 +1,249 @@
+/* ####################################### */
+/* ########### STANDARD SETUP ############ */
+/* ####################################### */
+
+.protoshow,
+.protoshow .show {
+	position: relative;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 930px;
+	height: 295px;
+	overflow: hidden;
+}
+
+.slide {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 90;
+	height: 100%;
+}
+
+.active-slide {
+	z-index: 100;
+}
+
+.protoshow .slide-caption {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	z-index: 100;
+	padding: 1em 10px;
+	background-color: #000;
+	background-color: rgba(0,0,0,.4);
+	color:#fff;
+}
+
+.proto-progress-timer {
+	position: absolute;
+	top: 7px;
+	right: 7px;
+	z-index: 9999;
+}
+
+
+/* TRANSITION SLIDE
+------------------------------------------------*/
+
+.transition-slide .show-window {
+	overflow: hidden;
+	position: relative;
+}
+
+.transition-slide .show {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 999999px;
+}
+
+.transition-slide .slide {
+	position: static; /*overide*/
+	float: left;
+	display: block;
+}
+
+
+
+/* PROTO NAVIGATION
+------------------------------------------------*/
+
+.proto-navigation {
+    float: right;
+    position: absolute;
+    right: 13%;
+    top: 0;
+    z-index: 120;
+    top: 5px;
+}
+
+.proto-navigation li {
+    float: left;
+    left: 50%;
+    padding: 12px 6px;
+    position: relative;
+
+}
+
+.proto-navigation a {
+	background-color: #fff;
+  	background-color: rgba(0,0,0,.2);
+    height: 8px;
+    text-decoration: none;
+  	 width: 8px;
+	-moz-border-radius:30px;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	-moz-box-shadow:    inset 0 1px 0 1px rgba(0,0,0,.1);
+	-webkit-box-shadow:    inset 0 1px 0 1px rgba(0,0,0,.1);
+	box-shadow:    inset 0 1px 0 1px rgba(0,0,0,.1);
+}
+
+.proto-navigation a:hover,
+.proto-navigation a:focus {
+	background-color: #0379b4;
+}
+
+.proto-navigation .current-slide a {
+	background-color: #0379b4;
+}
+
+
+.show{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	border-radius: 10px;
+	border: 1px solid #b2b2b2;
+}
+
+
+.show li{
+margin: 0;
+padding: 0;
+width: 100%;
+}
+
+.show li img{
+width: 100%;
+min-width: 100%;
+}
+
+
+
+
+/* PROTO CONTROLS
+------------------------------------------------*/
+
+#myshow1{
+	position: relative;
+	left: -2px;
+	z-index: 1;
+}
+
+
+.show li div{
+	display: block;
+	background-color: #fff;
+	padding: 5px;
+		padding-top: 3px;
+		padding-bottom: 3px;
+	border-radius: 5px;
+	color: #666666!important;
+	height: auto!important;
+	width: auto!important;
+	/*background-image: url('white-oparc-70.png');
+	background-position: left top;
+	background-repeat: repeat;*/
+	border: 1px solid #c0c0c0;
+}
+
+
+
+div.col-main .show strong{
+		color: #666666;
+
+}
+
+.show li div b,
+.show li div strong{
+	font-size: 1.2em;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.show li div a{
+	color: #666666;
+	text-decoration: none;
+}
+
+
+ol.proto-controls li {
+	position: absolute;
+	bottom: 135px;
+	width: 30px;
+	height: 30px;
+	z-index: 9999;
+	display: block;
+	background-image: url('../m4mcode/buttons-slider.png');
+	background-repeat: no-repeat;
+}
+
+ol.proto-controls .backward{
+	position: absolute;
+	left: 10px;
+	display: block;
+	background-position: -3px -33px;
+}
+
+ol.proto-controls .forward{
+	position: absolute;
+	right: 10px;
+	height: 30px;
+	width: 30px;
+	display: block;
+	background-position: -3px -1px;
+}
+
+ol.proto-controls .backward:hover{
+	background-position: -37px -33px;
+	cursor: pointer;
+}
+
+ol.proto-controls .forward:hover{
+	background-position: -37px -1px;
+	cursor: pointer;
+}
+
+ol.proto-controls .start-stop{
+display: none;
+}
+
+ol.proto-navigation li a{
+   display: block;
+    height: 13px;
+    overflow: hidden;
+    text-indent: -99999px;
+    width: 13px;
+    border: 0;
+}
+
+
+.protoshow iframe {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    background-color: #000;
+    
+}
+
+.protoshow iframe #player{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+
+

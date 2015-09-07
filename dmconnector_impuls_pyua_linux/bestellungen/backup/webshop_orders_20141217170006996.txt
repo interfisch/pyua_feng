@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000735	20141217						2000565								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Walter Jenner			Gadaunererstrasse 1		AT	5630	Bad Hofgastein	office@valderama.net	+436509258375															1
+ANR	 Walter Jenner			Gadaunererstrasse 1		AT	5630	Bad Hofgastein	office@valderama.net	+436509258375															1
+P			ORDERS								20141217	20141217											EUR	1	4250804719172			1		58,78	27,97928									120															27,97928
+P			ORDERS								20141217	20141217											EUR	2	4250804719370			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141217	20141217											EUR	3	4250804719615			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141217	20141217											EUR	4	4250804719523			1		50,38	23,98088									120															23,98088

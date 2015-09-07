@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000492	20141127						2000348								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Markus Habicht	Sekels GmbH		Dieselstrasse 6		DE	61239	Ober Mörlen	markus.habicht@watervirus.com																1
+ANR	 Markus Habicht	Sekels GmbH		Dieselstrasse 6		DE	61239	Ober Mörlen	markus.habicht@watervirus.com																1
+P			ORDERS								20141127	20141127											EUR	1	4250804714061			1		210,08	249,9952									120															249,9952
+P			ORDERS								20141127	20141127											EUR	2	4250804714368			1		134,46	160,0074									120															160,0074
+P			ORDERS								20141127	20141127											EUR	3	4250804720758			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141127	20141127											EUR	4	4250804714771			1		134,45	159,9955									120															159,9955
+P			ORDERS								20141127	20141127											EUR	5	4250804715013			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141127	20141127											EUR	6	4250804704208			1		42,01	49,9919									120															49,9919

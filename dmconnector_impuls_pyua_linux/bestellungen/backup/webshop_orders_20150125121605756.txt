@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000886	20150125						2000683								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Hans-Peter Ludwig			Marie-Luise-Kaschnitz-Str. 13		DE	81925	München	hans.peter.ludwig@adac.de																1
+ANR	 Hans-Peter Ludwig			Marie-Luise-Kaschnitz-Str. 13		DE	81925	München	hans.peter.ludwig@adac.de																1
+P			ORDERS								20150125	20150125											EUR	1	4250804714306			1		234,45	139,49775									120															139,49775

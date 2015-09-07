@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000327	20141114						2000238								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Lisa Kirmaier			Feldstraﬂe 9		DE	84405	Dorfen 	lisalittle@gmx.de																1
+ANR	 Lisa Kirmaier			Feldstraﬂe 9		DE	84405	Dorfen 	lisalittle@gmx.de																1
+P			ORDERS								20141114	20141114											EUR	1	4250804720895			1		126,03	149,9757									120															149,9757

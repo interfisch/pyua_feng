@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000520	20141128						2000260								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Simone Berchtold			widenstrase 52		DE	6317	oberwil	chrisimo@sunrise.ch	0417104978															4
+ANR	 Simone Berchtold			widenstrase 52		DE	6317	oberwil	chrisimo@sunrise.ch	0417104978															4
+P			ORDERS								20141128	20141128											EUR	1	4250804719424			1		33,61	33,61									120															33,61
+P			ORDERS								20141128	20141128											EUR	2	4250804719523			1		33,61	33,61									120															33,61
+P			ORDERS								20141128	20141128											EUR	3	4250804719073			1		75,59	75,59									120															75,59
+P			ORDERS								20141128	20141128											EUR	4	4250804721120			1		16,81	16,81									120															16,81
+P			ORDERS								20141128	20141128											EUR	5	4250804721090			1		16,81	16,81									120															16,81
+P			ORDERS								20141128	20141128											EUR	6	4250804719288			1		33,61	33,61									120															33,61

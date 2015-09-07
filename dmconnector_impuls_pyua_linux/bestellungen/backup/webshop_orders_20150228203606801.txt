@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001023	20150228						2000779								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Heino Hartmann			Rudolf-Kinau-Str. 22		DE	25548	Kellinghusen	h.hart.kell@t-online.de	+4948226367															1
+ANR	 Heino Hartmann			Rudolf-Kinau-Str. 22		DE	25548	Kellinghusen	h.hart.kell@t-online.de	+4948226367															1
+P			ORDERS								20150228	20150228											EUR	1	4250804713675			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150228	20150228											EUR	2	4250804713484			1		462,15	274,97925									120															274,97925

@@ -1,0 +1,10 @@
+H	Web_Pyua		ORDERS					100000914	20150128						2000702								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christoph Timm			Hauptstrasse 4c		DE	25767	Offenbüttel	christophtimm@gmail.com	048351300															1
+ANR	 Christoph Timm			Hauptstrasse 4c		DE	25767	Offenbüttel	christophtimm@gmail.com	048351300															1
+P			ORDERS								20150128	20150128											EUR	1	4250804713279			1		420,13	249,97735									120															249,97735
+P			ORDERS								20150128	20150128											EUR	2	4250804713613			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150128	20150128											EUR	3	4250804719295			1		50,38	29,9761									120															29,9761
+P			ORDERS								20150128	20150128											EUR	4	4250804719370			1		50,38	29,9761									120															29,9761
+P			ORDERS								20150128	20150128											EUR	5	4250804713811			1		420,12	249,9714									120															249,9714
+P			ORDERS								20150128	20150128											EUR	6	4250804713477			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150128	20150128											EUR	7	4250804713378			1		462,15	274,97925									120															274,97925

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000203	20141102						2000122								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Daniel Plöger			Haakestraße 11		DE	21075	Hamburg	dp.service@posteo.de																1
+ANR	 Daniel Plöger			Haakestraße 11		DE	21075	Hamburg	dp.service@posteo.de																1
+P			ORDERS								20141102	20141102											EUR	1	4250804720567			1		142,82	84,9779									120															84,9779
+P			ORDERS								20141102	20141102											EUR	2	4250804706783			1		83,99	49,97405									120															49,97405

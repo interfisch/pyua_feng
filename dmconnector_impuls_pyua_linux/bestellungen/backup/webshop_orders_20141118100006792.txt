@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000370	20141118						2000275								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Wibke Tillmanns			Wormser Straﬂe 14		DE	60598	Frankfurt	wiebke.tillmanns@gmx.de	0174-2070328															1
+ANR	 Wibke Tillmanns			Wormser Straﬂe 14		DE	60598	Frankfurt	wiebke.tillmanns@gmx.de	0174-2070328															1
+P			ORDERS								20141118	20141118											EUR	1	4250804720222			1		142,82	67,98232									120															67,98232

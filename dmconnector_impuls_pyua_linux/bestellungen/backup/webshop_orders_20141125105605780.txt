@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000454	20141125						2000336								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Oliver Bender			Weiherweg 3		DE	88131	Bodolz	Oliver.d.bender@gmail.com	01604725664															1
+ANR	 Oliver Bender			Weiherweg 3		DE	88131	Bodolz	Oliver.d.bender@gmail.com	01604725664															1
+P			ORDERS								20141125	20141125											EUR	1	4250804706806			1		83,99	39,97924									120															39,97924
+P			ORDERS								20141125	20141125											EUR	2	4250804713477			1		462,14	219,97864									120															219,97864

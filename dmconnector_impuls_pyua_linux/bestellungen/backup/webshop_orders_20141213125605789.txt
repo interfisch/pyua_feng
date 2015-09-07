@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000681	20141213						2000525								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Uwe Groﬂberger			Brombergweg 12		DE	71088	Holzgerlingen	derug712@gmx.com																1
+ANR	 Uwe Groﬂberger			Brombergweg 12		DE	71088	Holzgerlingen	derug712@gmx.com																1
+P			ORDERS								20141213	20141213											EUR	1	4250804714313			1		147,06	175,0014									120															175,0014
+P			ORDERS								20141213	20141213											EUR	2	4250804714061			1		231,09	274,9971									120															274,9971
+P			ORDERS								20141213	20141213											EUR	3	4250804714078			1		231,09	274,9971									120															274,9971

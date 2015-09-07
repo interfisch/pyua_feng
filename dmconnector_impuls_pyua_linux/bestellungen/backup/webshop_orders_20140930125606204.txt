@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000110	20140927						2000265								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Ortwein	Post Nr. 32434843		Packstation 101		DE	36037	Fulda	andreas.ortwein@gmx.de	0661/5008949															1
+ANR	 Andreas Ortwein			Josefstraße 15		DE	36039	Fulda	andreas.ortwein@gmx.de	0661/5004989															1
+P			ORDERS								20140927	20140927											EUR	1	4250804715266			1		210,04	174,96332									120															174,96332
+P			ORDERS								20140927	20140927											EUR	2	4250804715310			1		210,04	174,96332									120															174,96332

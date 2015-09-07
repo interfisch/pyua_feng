@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000338	20141115						2000247								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Anita Schultheiﬂ			Wiclefstrasse 23		DE	10551	Berlin	anitl@hotmail.de																1
+ANR	 Anita Schultheiﬂ			Wiclefstrasse 23		DE	10551	Berlin	anitl@hotmail.de																1
+P			ORDERS								20141115	20141115											EUR	1	4250804720796			1		189,06	224,9814									120															224,9814

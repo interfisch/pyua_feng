@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000281	20141112						2000196								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Daniel Januschkowetz			Ettalstr. 1		DE	81377	München	daniel.januschkowetz@gmail.com	017661248957															1
+ANR	 Daniel Januschkowetz			Ettalstr. 1		DE	81377	München	daniel.januschkowetz@gmail.com	017661248957															1
+P			ORDERS								20141112	20141112											EUR	1	4250804719516			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141112	20141112											EUR	2	4250804719615			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141112	20141112											EUR	3	4250804720314			1		109,2	51,9792									120															51,9792
+P			ORDERS								20141112	20141112											EUR	4	4250804713279			1		420,12	199,97712									120															199,97712
+P			ORDERS								20141112	20141112											EUR	5	4250804713378			1		462,15	219,9834									120															219,9834

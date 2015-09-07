@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000389	20141119						2000292								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Ilka Sille			Sundgauallee 53		DE	79114	Freiburg	ilka.sille@gmx.de																1
+ANR	 Ilka Sille			Sundgauallee 53		DE	79114	Freiburg	ilka.sille@gmx.de																1
+P			ORDERS								20141119	20141119											EUR	1	4250804720161			1		92,39	109,9441									120															109,9441

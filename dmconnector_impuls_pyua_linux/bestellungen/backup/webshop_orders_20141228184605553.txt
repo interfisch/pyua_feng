@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000771	20141228						2000595								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Christian Effert			Kuhbergstrasse 27		DE	34131	Kassel	christian_effert@hotmail.de																1
+ANR	 Christian Effert			Kuhbergstrasse 27		DE	34131	Kassel	christian_effert@hotmail.de																1
+P			ORDERS								20141228	20141228											EUR	1	4250804713484			1		462,14	219,97864									120															219,97864

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001121	20150412						2000847								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael  Aegerter			Templerstraﬂe 9		DE	55116	Mainz	micaegerter@web.de																1
+ANR	 Michael  Aegerter			Templerstraﬂe 9		DE	55116	Mainz	micaegerter@web.de																1
+P			ORDERS								20150412	20150412											EUR	1	4250804715921			1		29,37	15,727635									120															15,727635
+P			ORDERS								20150412	20150412											EUR	2	4250804715723			1		29,37	15,727635									120															15,727635

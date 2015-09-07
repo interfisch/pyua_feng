@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000935	20150201						2000704								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Jonas Wache			Spannwisch 11		DE	22159	Hamburg	jonas.wache@gmx.de																1
+ANR	 Jonas Wache			Spannwisch 11		DE	22159	Hamburg	jonas.wache@gmx.de																1
+P			ORDERS								20150201	20150201											EUR	1	4250804713965			1		301,68	179,4996									120															179,4996
+P			ORDERS								20150201	20150201											EUR	2	4250804713453			1		462,14	274,9733									120															274,9733

@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000249	20141111						2000169								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Hanna Ruppaner			Turnierstr.18		DE	78462	Konstanz	hanna.ruppaner@gmail.com																1
+ANR	 Hanna Ruppaner			Turnierstr.18		DE	78462	Konstanz	hanna.ruppaner@gmail.com																1
+P			ORDERS								20141111	20141111											EUR	1	4250804719615			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141111	20141111											EUR	2	4250804719516			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141111	20141111											EUR	3	4250804706806			1		83,99	39,97924									120															39,97924

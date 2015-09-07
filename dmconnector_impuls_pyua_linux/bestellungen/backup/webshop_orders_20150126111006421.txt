@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000896	20150126						2000690								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 joerg seidenspinner	architekten		reutlinger strasse 5-7		DE	72555	metzingen	mail@seidenspinner.org	07123936930															1
+ANR	 joerg seidenspinner	architekten		reutlinger strasse 5-7		DE	72555	metzingen	mail@seidenspinner.org	07123936930															1
+P			ORDERS								20150126	20150126											EUR	1	4250804713439			1		462,14	549,9466									120															549,9466

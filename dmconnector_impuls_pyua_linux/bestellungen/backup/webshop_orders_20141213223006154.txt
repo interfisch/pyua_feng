@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000695	20141213						2000533								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Sven Hornung			Hasseldieksdammer Weg 46		DE	24116	Kiel	sven-hornung@t-online.de																1
+ANR	 Sven Hornung			Hasseldieksdammer Weg 46		DE	24116	Kiel	sven-hornung@t-online.de																1
+P			ORDERS								20141213	20141213											EUR	1	4250804715044			1		336,09	199,97355									120															199,97355

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000221	20141107						2000143								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Steve Zerla			Dornacherstrasse 150		DE	4053	Baseö	steve.zerla@bluewin.ch																4
+ANR	 Steve Zerla			Dornacherstrasse 150		DE	4053	Baseö	steve.zerla@bluewin.ch																4
+P			ORDERS								20141107	20141107											EUR	1	4250804721090			1		37,77	37,77									120															37,77
+P			ORDERS								20141107	20141107											EUR	2	4250494021975			1		37,77	37,77									120															37,77

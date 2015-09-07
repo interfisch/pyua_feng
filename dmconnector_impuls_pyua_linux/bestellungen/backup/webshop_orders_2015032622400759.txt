@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100001043	20150326						2000796								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ludger Kleyboldt			Holsterbrink 8		DE	48249	Dülmen	ludger@kleyboldt.com																1
+ANR	 Ludger Kleyboldt			Holsterbrink 8		DE	48249	Dülmen	ludger@kleyboldt.com																1
+P			ORDERS								20150326	20150326											EUR	1	4250804720239			1		142,82	169,9558									120															169,9558
+P			ORDERS								20150326	20150326											EUR	2	4250804713446			1		462,14	549,9466									120															549,9466
+P			ORDERS								20150326	20150326											EUR	3	4250804713293			1		420,12	499,9428									120															499,9428

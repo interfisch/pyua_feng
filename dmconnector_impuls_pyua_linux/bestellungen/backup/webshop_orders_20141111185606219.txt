@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000239	20141111						2000159								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 jörn henningsen			harmsstr 76		DE	24114	kiel	kehl_05@web.de																1
+ANR	 jörn henningsen			harmsstr 76		DE	24114	kiel	kehl_05@web.de																1
+P			ORDERS								20141111	20141111											EUR	1	4250494019910			1		21,01	25,0019									120															25,0019

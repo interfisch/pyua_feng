@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000762	20141223						2000586								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Nils  Helbig			Dorfstr.14		DE	15738	Zeuthen	info@helbigmedia.de	033762 940794															1
+ANR	 Nils  Helbig			Dorfstr.14		DE	15738	Zeuthen	info@helbigmedia.de	033762 940794															1
+P			ORDERS								20141223	20141223											EUR	1	4250804718397			1		54,62	64,9978									120															64,9978
+P			ORDERS								20141223	20141223											EUR	2	4250804718540			1		37,82	45,0058									120															45,0058

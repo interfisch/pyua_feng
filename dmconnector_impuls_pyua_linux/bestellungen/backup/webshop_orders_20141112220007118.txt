@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000278	20141112						2000193								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Daniela Bonzheim			Hauptstr. 75		DE	73349	Wiesensteig	Daniela.Bonzheim@web.de	01631761433															1
+ANR	 Daniela Bonzheim			Hauptstr. 75		DE	73349	Wiesensteig	Daniela.Bonzheim@web.de	01631761433															1
+P			ORDERS								20141112	20141112											EUR	1	4250804713569			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141112	20141112											EUR	2	4250804713675			1		462,15	219,9834									120															219,9834
+P			ORDERS								20141112	20141112											EUR	3	4250804717963			1		193,23	91,97748									120															91,97748
+P			ORDERS								20141112	20141112											EUR	4	4250804718977			1		109,2	51,9792									120															51,9792

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000642	20141209						2000495								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Simon Fischer			Wacholderweg 8		DE	22335	Hamburg	aquafisch82@gmx.de																1
+ANR	 Simon Fischer			Wacholderweg 8		DE	22335	Hamburg	aquafisch82@gmx.de																1
+P			ORDERS								20141209	20141209											EUR	1	4250804721137			1		168,07	200,0033									120															200,0033

@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000575	20141130						2000172								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martha Peetz	c/o Hunger		Leopoldstraße 153		DE	80804	München	martha_peetz@web.de																1
+ANR	 Martha Peetz	c/o Hunger		Leopoldstraße 153		DE	80804	München	martha_peetz@web.de																1
+P			ORDERS								20141130	20141130											EUR	1	4250804719431			2		58,78	27,97928									120															27,97928
+P			ORDERS								20141130	20141130											EUR	2	4250804719639			2		50,38	23,98088									120															23,98088
+P			ORDERS								20141130	20141130											EUR	3	4250494013307			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141130	20141130											EUR	4	4250494013253			1		13,84	16,4696									120															16,4696

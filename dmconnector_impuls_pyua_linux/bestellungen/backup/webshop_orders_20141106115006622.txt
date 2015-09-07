@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000214	20141106						2000081								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Pascal Richter			Gerberstr. 18		DE	42105	Wuppertal 	pascalrichter8@aol.com	017620427250															1
+ANR	 Pascal Richter			Gerberstr. 18		DE	42105	Wuppertal 	pascalrichter8@aol.com	017620427250															1
+P			ORDERS								20141106	20141106											EUR	1	4250804715037			1		336,09	399,9471									120															399,9471
+P			ORDERS								20141106	20141106											EUR	2	4250804704222			1		83,99	99,9481									120															99,9481

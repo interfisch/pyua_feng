@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000553	20141128						2000419								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Michael Falk			Feldstr.3		DE	65606	Villmar	trailrunner@vollbio.de																1
+ANR	 Michael Falk			Feldstr.3		DE	65606	Villmar	trailrunner@vollbio.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804713460			1		378,15	449,9985									120															449,9985
+P			ORDERS								20141128	20141128											EUR	2	4250804713316			1		294,12	350,0028									120															350,0028

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000719	20141216						2000552								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Tim Müller			Eppendorfer Landstr. 132		DE	20251	Hamburg	weltraumbeherrscher@gmx.net																1
+ANR	 Tim Müller			Eppendorfer Landstr. 132		DE	20251	Hamburg	weltraumbeherrscher@gmx.net																1
+P			ORDERS								20141216	20141216											EUR	1	4250804718076			1		142,82	67,98232									120															67,98232

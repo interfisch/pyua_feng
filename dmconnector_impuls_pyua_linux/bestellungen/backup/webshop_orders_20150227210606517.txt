@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001017	20150227						2000359								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Markus schöpf			grenzgasse 49		AT	7100	weiden am See	markus.schoepf@hotmail.com																1
+ANR	 Markus schöpf			grenzgasse 49		AT	7100	weiden am See	markus.schoepf@hotmail.com																1
+P			ORDERS								20150227	20150227											EUR	1	4250804720154			1		92,39	37,380994									120															37,380994

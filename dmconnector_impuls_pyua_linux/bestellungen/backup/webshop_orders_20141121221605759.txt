@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000408	20141121						2000299								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Johannes Schnütgen	Schuhmode Schnütgen		Kölner Straße 46		DE	42929	Wermelskirchen	johannes@schuhhaus-schnuetgen.de	021962669															1
+ANR	 Johannes Schnütgen	Schuhmode Schnütgen		Kölner Straße 46		DE	42929	Wermelskirchen	johannes@schuhhaus-schnuetgen.de	021962669															1
+P			ORDERS								20141121	20141121											EUR	1	4250804716416			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141121	20141121											EUR	2	4250804717215			1		210,04	99,97904									120															99,97904

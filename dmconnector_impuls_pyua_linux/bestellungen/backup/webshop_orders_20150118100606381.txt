@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000843	20150118						2000117								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Stephan Vomhoff			Pfarrstrasse 20		DE	73033	Göppingen	info@stephan-vomhoff.de																1
+ANR	 Stephan Vomhoff			Pfarrstrasse 20		DE	73033	Göppingen	info@stephan-vomhoff.de																1
+P			ORDERS								20150118	20150118											EUR	1	4250804721090			1		37,77	44,9463									120															44,9463
+P			ORDERS								20150118	20150118											EUR	2	4250804714047			1		368,91	439,0029									120															439,0029

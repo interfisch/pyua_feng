@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000238	20141111						2000158								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Leon von Elm			Klausdorfer Str. 93		DE	24161	Altenholz	leonvonelm@web.de																1
+ANR	 Leon von Elm			Klausdorfer Str. 93		DE	24161	Altenholz	leonvonelm@web.de																1
+P			ORDERS								20141111	20141111											EUR	1	4250804704208			1		83,99	39,97924									120															39,97924
+P			ORDERS								20141111	20141111											EUR	2	4250804706776			1		83,99	39,97924									120															39,97924

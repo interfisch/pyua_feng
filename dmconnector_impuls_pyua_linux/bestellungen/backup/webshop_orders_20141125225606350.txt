@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000459	20141125						2000340								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marcel Hau			Auf'm Hahnen 10		DE	66540	Neunkirchen	marcelhau@t-online.de																1
+ANR	 Marcel Hau			Auf'm Hahnen 10		DE	66540	Neunkirchen	marcelhau@t-online.de																1
+P			ORDERS								20141125	20141125											EUR	1	4250804719943			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141125	20141125											EUR	2	4250804718366			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141125	20141125											EUR	3	4250804718564			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141125	20141125											EUR	4	4250804718526			1		46,21	54,9899									120															54,9899
+P			ORDERS								20141125	20141125											EUR	5	4250494019927			1		21,01	25,0019									120															25,0019
+P			ORDERS								20141125	20141125											EUR	6	4250804718571			1		46,22	55,0018									120															55,0018

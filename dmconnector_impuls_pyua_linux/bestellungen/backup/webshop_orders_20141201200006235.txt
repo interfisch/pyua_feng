@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000585	20141201						2000448								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Lars-Justus Meiburg	Neptun Apotheke 		Bramfelder Chaussee 291		DE	22177 	Hamburg	larsmeiburg@gmail.com	0178-1365054															1
+ANR	 Lars-Justus Meiburg			Barmbeker Str. 42		DE	22303	Hamburg	larsmeiburg@gmail.com																1
+P			ORDERS								20141201	20141201											EUR	1	4250804714023			1		462,14	219,97864									120															219,97864

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001095	20150404						2000828								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Karola Klatt			Körtestraße 5		DE	10967	Berlin	karola.klatt@grefe-klatt-grefe.de																1
+ANR	 Karola Klatt			Körtestraße 5		DE	10967	Berlin	karola.klatt@grefe-klatt-grefe.de																1
+P			ORDERS								20150404	20150404											EUR	1	4250804714573			1		231,09	274,9971									120															274,9971

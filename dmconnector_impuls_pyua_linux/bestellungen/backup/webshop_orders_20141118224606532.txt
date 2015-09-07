@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000382	20141118						2000286								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Lars Netek			Moorkamp 20		DE	20357	Hamburg	larsnetek@gmx.de																1
+ANR	 Lars Netek			Moorkamp 20		DE	20357	Hamburg	larsnetek@gmx.de																1
+P			ORDERS								20141118	20141118											EUR	1	4250804706776			1		83,99	39,97924									120															39,97924

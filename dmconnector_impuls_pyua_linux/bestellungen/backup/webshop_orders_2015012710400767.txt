@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000901	20150127						2000668								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael Neumann			Wollankstraﬂe 117 2.HH		DE	13187	Berlin	micn@gmx.de																1
+ANR	 Michael Neumann			Wollankstraﬂe 117 2.HH		DE	13187	Berlin	micn@gmx.de																1
+P			ORDERS								20150127	20150127											EUR	1	4250804721151			1		268,07	159,50165									120															159,50165

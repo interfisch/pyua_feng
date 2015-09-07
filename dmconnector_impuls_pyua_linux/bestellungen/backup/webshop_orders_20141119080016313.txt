@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000386	20141119						2000289								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Ralf-Peter  Angstmann	c/o Gaul Ingenieure GmbH		Neuwieder Straße 15		DE	90411	Nürnberg	ralfangstmann@web.de	0172 8620411															1
+ANR	 Ralf-Peter Angstmann			Ullsteinstraße 15		DE	90763	Fürth	ralfangstmann@web.de	0172 8620411															1
+P			ORDERS								20141119	20141119											EUR	1	4250804714368			1		294,08	349,9552									120															349,9552

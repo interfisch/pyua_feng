@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001140	20150520						2000860								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Michaela Stemberger			Klebas 15		AT	9653	Liesing	m.klammer@gmx.net																1
+ANR	 Michaela Stemberger			Klebas 15		AT	9653	Liesing	m.klammer@gmx.net																1
+P			ORDERS								20150520	20150520											EUR	1	4250804723797			1		37,77	44,9463									120															44,9463

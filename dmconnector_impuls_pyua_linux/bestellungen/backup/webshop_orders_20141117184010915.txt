@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000368	20141117						2000273								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Garry Scherl			Badstubengasse 21		DE	72581	Dettingen Erms 	garrytherealg@gmx.de																1
+ANR	 Garry Scherl			Badstubengasse 21		DE	72581	Dettingen Erms 	garrytherealg@gmx.de																1
+P			ORDERS								20141117	20141117											EUR	1	4250804719172			1		58,78	27,97928									120															27,97928
+P			ORDERS								20141117	20141117											EUR	2	4250804704222			1		83,99	39,97924									120															39,97924

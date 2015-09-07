@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000718	20141216						2000551								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Michael Meﬂ			Kellereistraﬂe 14		DE	74722	Buchen	Michael.Mess@alumni.uni-ulm.de																1
+ANR	 Michael Meﬂ			Kellereistraﬂe 14		DE	74722	Buchen	Michael.Mess@alumni.uni-ulm.de																1
+P			ORDERS								20141216	20141216											EUR	1	4250804714030			1		231,09	274,9971									120															274,9971
+P			ORDERS								20141216	20141216											EUR	2	4250494010443			1		24,37	29,0003									120															29,0003
+P			ORDERS								20141216	20141216											EUR	3	4250494021975			1		37,78	44,9582									120															44,9582

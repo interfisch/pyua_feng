@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000283	20141112						2000198								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Susanne Nölling			Eckholz 1		DE	24214	Tüttendorf	noelling@purpurrotesgold.de																1
+ANR	 Susanne Nölling			Eckholz 1		DE	24214	Tüttendorf	noelling@purpurrotesgold.de																1
+P			ORDERS								20141112	20141112											EUR	1	4250804716461			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141112	20141112											EUR	2	4250804721144			1		336,09	159,97884									120															159,97884

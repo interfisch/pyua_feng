@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000683	20141213						2000439								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Diana Pfister			sautalstrasse 10		DE	38723	seesen	stein-welle@web.de																1
+ANR	 Diana Pfister			sautalstrasse 10		DE	38723	seesen	stein-welle@web.de																1
+P			ORDERS								20141213	20141213											EUR	1	4250804720284			1		71,43	85,0017									120															85,0017

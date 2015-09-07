@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000968	20150209						2000747								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martin Straub			Schloﬂweg 14		DE	88279	Amtzell	martin.straub@tridonic.com																1
+ANR	 Martin Straub			Schloﬂweg 14		DE	88279	Amtzell	martin.straub@tridonic.com																1
+P			ORDERS								20150209	20150209											EUR	1	4250494010368			1		24,37	29,0003									120															29,0003

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000753	20141221						2000292								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ilka Sille			Witzlebenstr. 32		DE	14057	Berlin	ilka.sille@gmx.de																1
+ANR	 Ilka Sille			Witzlebenstr. 32		DE	14057	Berlin	ilka.sille@gmx.de																1
+P			ORDERS								20141221	20141221											EUR	1	4250804720161			1		46,22	55,0018									120															55,0018

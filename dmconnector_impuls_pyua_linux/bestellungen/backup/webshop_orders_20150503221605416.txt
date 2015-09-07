@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001136	20150503						2000855								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Heiko Höfer			Leipziger Str. 206		DE	04178	Leipzig	pyua@heikohoefer.de	0172 3731804															1
+ANR	 Heiko Höfer			Leipziger Str. 206		DE	04178	Leipzig	pyua@heikohoefer.de	0172 3731804															1
+P			ORDERS								20150503	20150503											EUR	1	4250804715723			1		29,37	34,9503									120															34,9503
+P			ORDERS								20150503	20150503											EUR	2	4250804715822			1		29,37	34,9503									120															34,9503

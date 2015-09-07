@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000558	20141128						2000425								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Karlheinz Wiesinger	CS Caritas Socialis/ Dept. für Palliative Care/ privat		Oberzellergasse 1		AT	1030	Wien	kh.wiesinger@icloud.com	+431717533510															1
+ANR	 Karlheinz Wiesinger			Klemens- Dorngasse 9/11		AT	1100	Wien	kh.wiesinger@icloud.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804723681			1		16,81	20,0039									120															20,0039
+P			ORDERS								20141128	20141128											EUR	2	4250804706790			1		42,01	49,9919									120															49,9919
+P			ORDERS								20141128	20141128											EUR	3	4250804721090			1		16,81	20,0039									120															20,0039
+P			ORDERS								20141128	20141128											EUR	4	4250494020916			1		12,61	15,0059									120															15,0059
+P			ORDERS								20141128	20141128											EUR	5	4250804717338			1		75,63	89,9997									120															89,9997

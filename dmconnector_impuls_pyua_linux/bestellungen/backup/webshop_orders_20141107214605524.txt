@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000220	20141107						2000013								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Runa Graeper			Schaardieksholt 1		DE	24226	Heikendorf	graeper@media4motion.com	01717130119															1
+ANR	 Nils Karlsson Graeper			Hamburger Landstraﬂe 10		DE	24113	Molfsee	graeper@media4motion.com	01724057649															1
+P			ORDERS								20141107	20141107											EUR	1	4250804716461			1		193,24	114,9778									120															114,9778
+P			ORDERS								20141107	20141107											EUR	2	4250804716423			1		193,23	114,97185									120															114,97185

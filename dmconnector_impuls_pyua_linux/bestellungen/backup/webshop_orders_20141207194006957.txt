@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000622	20141207						2000480								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Harald Hofer			Neuwaldegger Straﬂe 20/1/6		AT	1170	Wien	hc.hofer@gmail.com																1
+ANR	 Harald Hofer			Neuwaldegger Straﬂe 20/1/6		AT	1170	Wien	hc.hofer@gmail.com																1
+P			ORDERS								20141207	20141207											EUR	1	4250804716461			1		96,64	115,0016									120															115,0016

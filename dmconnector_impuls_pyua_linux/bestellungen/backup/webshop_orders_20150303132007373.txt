@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001030	20150303						2000418								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andrea Krenss 			Hauptstr.57		DE	89312	Günzburg 	andreakrenss@gmail.com																1
+ANR	 Andrea Krenss 			Hauptstr.57		DE	89312	Günzburg 	andreakrenss@gmail.com																1
+P			ORDERS								20150303	20150303											EUR	1	4250804718977			1		109,2	44,18232									120															44,18232
+P			ORDERS								20150303	20150303											EUR	2	4250804719073			1		75,59	30,583714									120															30,583714

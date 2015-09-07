@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000132	20141019						2000051								EUR										0										24		OS via pyua_de		0,0000	26			0
+ANL	 Corinne Kaufmann			Burgerstrasse 17		DE	6214	Luzern	corinne.kaufmann@gmail.com	0796389788															4
+ANR	 Corinne Kaufmann			Burgerstrasse 17		DE	6214	Luzern	corinne.kaufmann@gmail.com	0796389788															4
+P			ORDERS								20141019	20141019											EUR	1	4250494013185			1		29,41	29,41									120															29,41
+P			ORDERS								20141019	20141019											EUR	2	4250804719516			1		50,38	50,38									120															50,38
+P			ORDERS								20141019	20141019											EUR	3	4250804719615			1		50,38	50,38									120															50,38
+P			ORDERS								20141019	20141019											EUR	4	2024238000074			1		29,41	29,41									120															29,41

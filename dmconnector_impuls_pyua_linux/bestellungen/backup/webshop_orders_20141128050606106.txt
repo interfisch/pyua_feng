@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000496	20141128						2000370								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 A.C. van den Bosch	Feadship / de Vries Scheepsbouw bv		Oosteinderweg 25-27		DE	1432 AC	Aalsmeer	motorcitythrill@gmail.com																1
+ANR	 A.C. van den Bosch			Koeteburg 37		DE	1435 HK	Rijsenhout	motorcitythrill@gmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804717260			1		75,63	89,9997									120															89,9997

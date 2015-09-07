@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000446	20141124						2000332								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Constanze Schilder	33676296		Packstation 134		DE	12247	Berlin	constanze_schilder@yahoo.de	0160/7376884															1
+ANR	 Constanze Schilder	33676296		Packstation 134		DE	12247	Berlin	constanze_schilder@yahoo.de	0160/7376884															1
+P			ORDERS								20141124	20141124											EUR	1	4250804721151			1		336,09	399,9471									120															399,9471

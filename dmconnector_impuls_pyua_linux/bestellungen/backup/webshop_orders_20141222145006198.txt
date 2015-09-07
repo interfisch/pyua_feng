@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000757	20141222						2000582								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Henrike Dr. Reisacher			Hopfenstrasse 12		DE	87700	Memmingen	drhenrike.reisacher@reisacher.de																1
+ANR	 Henrike Dr. Reisacher			Hopfenstrasse 12		DE	87700	Memmingen	drhenrike.reisacher@reisacher.de																1
+P			ORDERS								20141222	20141222											EUR	1	4250804720734			1		378,11	179,98036									120															179,98036
+P			ORDERS								20141222	20141222											EUR	2	4250804720833			1		252,06	119,98056									120															119,98056
+P			ORDERS								20141222	20141222											EUR	3	4250804720253			1		71,43	85,0017									120															85,0017

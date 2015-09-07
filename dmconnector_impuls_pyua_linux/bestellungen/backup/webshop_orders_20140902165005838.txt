@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000088	20140902						2000213								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Dennis Wilson			S 6, 35		DE	68161	Mannheim	dennis.wilson@suchdialog.de	+49 621 5867 9490															1
+ANR	 Dennis Wilson			S 6, 35		DE	68161	Mannheim	dennis.wilson@suchdialog.de	+49 621 5867 9490															1
+P			ORDERS								20140902	20140902											EUR	1	4250804715020			1		336,09	399,9471									120															399,9471

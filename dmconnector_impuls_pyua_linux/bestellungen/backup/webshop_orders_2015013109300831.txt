@@ -1,0 +1,10 @@
+H	Web_Pyua		ORDERS					100000927	20150131						2000711								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Hendric Fiege			Chausseestrasse 104		DE	10115	Berlin	hendric@fiege.com																1
+ANR	 Hendric Fiege			Chausseestrasse 104		DE	10115	Berlin	hendric@fiege.com																1
+P			ORDERS								20150131	20150131											EUR	1	4250804714313			1		234,45	139,49775									120															139,49775
+P			ORDERS								20150131	20150131											EUR	2	4250494020497			1		24,37	14,50015									120															14,50015
+P			ORDERS								20150131	20150131											EUR	3	4250494009775			1		24,37	14,50015									120															14,50015
+P			ORDERS								20150131	20150131											EUR	4	4250494010221			1		24,37	14,50015									120															14,50015
+P			ORDERS								20150131	20150131											EUR	5	4250494010078			1		24,37	14,50015									120															14,50015
+P			ORDERS								20150131	20150131											EUR	6	4250804719639			1		50,38	29,9761									120															29,9761
+P			ORDERS								20150131	20150131											EUR	7	4250804719448			1		58,78	34,9741									120															34,9741

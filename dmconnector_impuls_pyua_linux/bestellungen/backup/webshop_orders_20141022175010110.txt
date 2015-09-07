@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000150	20141022						2000069								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 zHd Mandy Anacker	hairelements /Friseur		Johannesstraße 150		DE	99084	Erfurt	bjoern.anacker@vodafone.com																1
+ANR	 Björn  Anacker			Brühler Hohlweg 27		DE	99094	Erfurt	bjoern.anacker@vodafone.com	01723555955															1
+P			ORDERS								20141022	20141022											EUR	1	4250804713415			1		462,14	274,9733									120															274,9733

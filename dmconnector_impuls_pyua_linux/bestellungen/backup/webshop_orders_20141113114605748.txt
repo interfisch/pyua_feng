@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000296	20141113						2000211								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Ingo Blodau			Lange Rötterstraße 9		DE	68167	Mannheim	ingobausk@gmx.de																1
+ANR	 Ingo Blodau			Lange Rötterstraße 9		DE	68167	Mannheim	ingobausk@gmx.de																1
+P			ORDERS								20141113	20141113											EUR	1	4250804719288			1		50,38	23,98088									120															23,98088

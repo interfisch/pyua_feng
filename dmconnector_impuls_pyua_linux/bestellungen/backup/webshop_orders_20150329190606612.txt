@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100001064	20150329						2000807								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sophie Erdmann			Belgradstraße 138		DE	80804	München	erdmann.sophie@gmail.com																1
+ANR	 Sophie Erdmann			Belgradstraße 138		DE	80804	München	erdmann.sophie@gmail.com																1
+P			ORDERS								20150329	20150329											EUR	1	4250804721137			1		168,07	200,0033									120															200,0033
+P			ORDERS								20150329	20150329											EUR	2	4250804721144			1		168,06	199,9914									120															199,9914
+P			ORDERS								20150329	20150329											EUR	3	4250804716409			1		96,64	115,0016									120															115,0016
+P			ORDERS								20150329	20150329											EUR	4	4250804717956			1		96,64	115,0016									120															115,0016

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000129	20141018						2000049								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Lennart Schik			Matkowskystraße 2		DE	10245	Berlin	der.lenz@web.de																1
+ANR	 Lennart Schik			Matkowskystraße 2		DE	10245	Berlin	der.lenz@web.de																1
+P			ORDERS								20141018	20141018											EUR	1	4250804714351			1		294,08	244,96864									120															244,96864
+P			ORDERS								20141018	20141018											EUR	2	4250804720550			1		142,81	118,96073									120															118,96073

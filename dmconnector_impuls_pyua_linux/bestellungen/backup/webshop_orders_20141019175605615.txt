@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000131	20141019						2000025								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Mathias Albert	Riebl GU		Landsberger Strasse 368		DE	80687	München	kueblerka@t-online.de	089265907															1
+ANR	 Karin Kübler			Brudermühlstrasse 36		DE	81371	München	kueblerka@t-online.de	089265907															1
+P			ORDERS								20141019	20141019											EUR	1	4250804718366			1		109,2	90,9636									120															90,9636
+P			ORDERS								20141019	20141019											EUR	2	4250804718182			1		100,8	83,9664									120															83,9664
+P			ORDERS								20141019	20141019											EUR	3	4250804720277			1		142,82	118,96906									120															118,96906
+P			ORDERS								20141019	20141019											EUR	4	4250804717826			1		210,04	174,96332									120															174,96332

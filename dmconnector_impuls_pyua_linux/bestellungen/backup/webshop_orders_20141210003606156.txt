@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000646	20141209						2000497								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andrea Wolf	38260666		packstation 107		DE	12437	berlin	andreawolf13@gmail.com	01777455075															1
+ANR	 Andrea Wolf			kiefholzstraﬂe 255		DE	12437	berlin	andreawolf13@gmail.com	01777455075															1
+P			ORDERS								20141209	20141209											EUR	1	4250804721151			1		168,07	200,0033									120															200,0033

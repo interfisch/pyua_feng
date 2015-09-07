@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100001031	20150303						2000786								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Tabea Drees			Böheimstrasse 90		DE	70199	stuttgart	Tabea_Drees@gmx.de																1
+ANR	 Tabea Drees			Böheimstrasse 90		DE	70199	stuttgart	Tabea_Drees@gmx.de																1
+P			ORDERS								20150303	20150303											EUR	1	4250804720185			1		92,39	43,97764									120															43,97764
+P			ORDERS								20150303	20150303											EUR	2	4250804717833			1		210,05	99,9838									120															99,9838
+P			ORDERS								20150303	20150303											EUR	3	4250494022064			1		12,6	5,9976									120															5,9976
+P			ORDERS								20150303	20150303											EUR	4	4250494022071			2		12,61	6,00236									120															6,00236
+P			ORDERS								20150303	20150303											EUR	5	4250804719813			1		12,61	6,00236									120															6,00236

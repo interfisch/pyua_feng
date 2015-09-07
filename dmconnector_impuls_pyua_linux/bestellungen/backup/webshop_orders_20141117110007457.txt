@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000366	20141117						2000271								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ulrike Röger-Offergeld			Schrimpfstr. 7		DE	82131	Gauting	u.roeger@gmx.de																1
+ANR	 Ulrike Röger-Offergeld			Schrimpfstr. 7		DE	82131	Gauting	u.roeger@gmx.de																1
+P			ORDERS								20141117	20141117											EUR	1	4250804713811			1		420,13	499,9547									120															499,9547
+P			ORDERS								20141117	20141117											EUR	2	4250804713828			1		420,12	499,9428									120															499,9428

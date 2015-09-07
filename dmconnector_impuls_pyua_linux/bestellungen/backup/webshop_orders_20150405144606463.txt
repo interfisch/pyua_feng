@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001104	20150405						2000833								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Heike Hipp			Kettelerstraße 17		DE	40593	Düsseldorf	heike_hipp@hotmail.com																1
+ANR	 Heike Hipp			Kettelerstraße 17		DE	40593	Düsseldorf	heike_hipp@hotmail.com																1
+P			ORDERS								20150405	20150405											EUR	1	4250804713569			1		231,09	274,9971									120															274,9971

@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000324	20141114						2000236								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Samuel Hauser			Roessligutstrasse 12		DE	5000	Aarau	hauser.saemi@gmail.com	0041 79 432 89 40															4
+ANR	 Samuel Hauser			Roessligutstrasse 12		DE	5000	Aarau	hauser.saemi@gmail.com	0041 79 432 89 40															4
+P			ORDERS								20141114	20141114											EUR	1	4250804719271			1		50,38	35,266									120															35,266
+P			ORDERS								20141114	20141114											EUR	2	4250804715013			1		336,09	235,263									120															235,263
+P			ORDERS								20141114	20141114											EUR	3	4250804714214			1		126,03	88,221									120															88,221
+P			ORDERS								20141114	20141114											EUR	4	4250804716423			1		193,24	135,268									120															135,268
+P			ORDERS								20141114	20141114											EUR	5	4250494021975			1		37,77	26,439									120															26,439

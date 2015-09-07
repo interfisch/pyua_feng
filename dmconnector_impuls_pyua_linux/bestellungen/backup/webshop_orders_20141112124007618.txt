@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000255	20141112						2000176								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jonas Gaisberg			Rahel-Straus-Straﬂe 13		DE	76137	Karlsruhe	gaisberg.jonas@gmail.com	+491709850262															1
+ANR	 Jonas Gaisberg			Rahel-Straus-Straﬂe 13		DE	76137	Karlsruhe	gaisberg.jonas@gmail.com	+491709850262															1
+P			ORDERS								20141112	20141112											EUR	1	4250804713323			1		420,13	199,98188									120															199,98188
+P			ORDERS								20141112	20141112											EUR	2	4250804717574			1		100,79	47,97604									120															47,97604

@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000889	20150125						2000685								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Volker Staniewski			Hans-Müller-Weg 6		DE	74182	Obersulm	volker.staniewski@web.de																1
+ANR	 Volker Staniewski			Hans-Müller-Weg 6		DE	74182	Obersulm	volker.staniewski@web.de																1
+P			ORDERS								20150125	20150125											EUR	1	4250804714276			1		200,84	119,4998									120															119,4998
+P			ORDERS								20150125	20150125											EUR	2	4250804714221			1		200,84	119,4998									120															119,4998
+P			ORDERS								20150125	20150125											EUR	3	4250804718373			1		74,79	44,50005									120															44,50005
+P			ORDERS								20150125	20150125											EUR	4	4250494020800			1		24,37	14,50015									120															14,50015
+P			ORDERS								20150125	20150125											EUR	5	4250804719943			1		74,79	44,50005									120															44,50005

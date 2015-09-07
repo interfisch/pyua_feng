@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000121	20141016						2000299								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Lydia Schmied			Pernklaustraße 4		AT	4600	Wels	schmiedlydia@gmail.com	00436644523003															1
+ANR	 Lydia Schmied			Pernklaustraße 4		AT	4600	Wels	schmiedlydia@gmail.com	00436644523003															1
+P			ORDERS								20141016	20141016											EUR	1	4250804713347			1		420,13	499,9547									120															499,9547

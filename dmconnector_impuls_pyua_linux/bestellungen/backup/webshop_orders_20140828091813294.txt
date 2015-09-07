@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					74	20140828						200012								EUR										0										35		OS via pyua_de		0,0000	11			0
+ANL	 Daniel Brückner	elkline c/o Pyua Logistik		Holtenauer Straße 207		DE	24106	Kiel	brueckner@elkline.de	04131 2208119															1
+ANR	 Daniel Brückner			Am Kiel Kanaaaal 2		DE	24106	KIEL!!!	brueckner@elkline.de	0431 2208119															1
+P			ORDERS								20140828	20140828											EUR	1	4250804719950			3.0000		109,2	129,948									120															129,948

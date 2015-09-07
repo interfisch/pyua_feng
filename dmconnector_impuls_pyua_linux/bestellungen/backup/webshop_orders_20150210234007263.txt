@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000970	20150210						2000749								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Veronika Dicke			Muhliusstr. 57		DE	24103	Kiel	veronika.dicke@web.de																1
+ANR	 Veronika Dicke			Muhliusstr. 57		DE	24103	Kiel	veronika.dicke@web.de																1
+P			ORDERS								20150210	20150210											EUR	1	4250804721175			1		336,09	399,9471									120															399,9471
+P			ORDERS								20150210	20150210											EUR	2	4250804715099			1		336,09	399,9471									120															399,9471

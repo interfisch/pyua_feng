@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000966	20150208						2000745								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Niklas Strengell			Luis-Zuegg-Straﬂe 8 / 56		AT	6020	Innsbruck	niklas.strengell@gmail.com	+436645669751															1
+ANR	 Niklas Strengell			Luis-Zuegg-Straﬂe 8 / 56		AT	6020	Innsbruck	niklas.strengell@gmail.com	+436645669751															1
+P			ORDERS								20150208	20150208											EUR	1	4250804706868			1		83,99	69,96367									120															69,96367
+P			ORDERS								20150208	20150208											EUR	2	4250804715983			1		37,77	31,46241									120															31,46241

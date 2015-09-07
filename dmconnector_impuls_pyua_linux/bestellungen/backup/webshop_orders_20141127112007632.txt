@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000475	20141127						2000070								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Florentine Müller			Bruckdorf 6		DE	93161	Sinzing	floraydavid@hotmail.com																1
+ANR	 Florentine Müller			Bruckdorf 6		DE	93161	Sinzing	floraydavid@hotmail.com																1
+P			ORDERS								20141127	20141127											EUR	1	4250804718175			1		42,02	50,0038									120															50,0038
+P			ORDERS								20141127	20141127											EUR	2	4250804716478			1		84,03	99,9957									120															99,9957

@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100001015	20150227						2000315								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Rebecca Hoffmann			Schelingstrasse 71a		DE	91052	Erlangen	rebecca.hoffmann@me.com																1
+ANR	 Rebecca Hoffmann			Schelingstrasse 71a		DE	91052	Erlangen	rebecca.hoffmann@me.com																1
+P			ORDERS								20150227	20150227											EUR	1	4250804716423			1		193,24	78,184904									120															78,184904
+P			ORDERS								20150227	20150227											EUR	2	4250804718724			1		92,39	37,380994									120															37,380994
+P			ORDERS								20150227	20150227											EUR	3	4250804719073			1		75,59	30,583714									120															30,583714
+P			ORDERS								20150227	20150227											EUR	4	4250804719080			1		75,59	30,583714									120															30,583714

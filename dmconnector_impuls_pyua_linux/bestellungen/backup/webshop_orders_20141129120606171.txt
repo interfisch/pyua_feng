@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000562	20141129						2000429								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Steffen Senske			Neugasse 1b		AT	8045	Graz	steffen.senske@gmail.com																1
+ANR	 Steffen Senske			Neugasse 1b		AT	8045	Graz	steffen.senske@gmail.com																1
+P			ORDERS								20141129	20141129											EUR	1	4250494020800			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141129	20141129											EUR	2	4250494010238			1		13,84	16,4696									120															16,4696
+P			ORDERS								20141129	20141129											EUR	3	4250494021159			1		11,32	13,4708									120															13,4708
+P			ORDERS								20141129	20141129											EUR	4	4250494010184			1		11,32	13,4708									120															13,4708
+P			ORDERS								20141129	20141129											EUR	5	4250804717475			1		71,41	84,9779									120															84,9779
+P			ORDERS								20141129	20141129											EUR	6	4250804717871			1		96,62	114,9778									120															114,9778

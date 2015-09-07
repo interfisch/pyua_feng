@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000872	20150123						2000662								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Liza  Heilmeyer-Birk	Birk Heilmeyer und Frenzel Architekten		Adlerstr. 31		DE	70199	Stuttgart	l.heilmeyer@bhundf.com	0711 66482211															1
+ANR	 Liza Heilmeyer-Birk			Schloﬂstr. 83		DE	70176	Stuttgart	l.heilmeyer@bhundf.com																1
+P			ORDERS								20150123	20150123											EUR	1	4250804714719			1		234,45	139,49775									120															139,49775
+P			ORDERS								20150123	20150123											EUR	2	4250804720840			1		200,84	119,4998									120															119,4998
+P			ORDERS								20150123	20150123											EUR	3	4250804720901			1		200,84	119,4998									120															119,4998

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000635	20141209						2000490								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Kerstin Göbel			Römerstr.58		DE	51674	Wiehl	kerstin-bach@gmx.net																1
+ANR	 Kerstin Göbel			Römerstr.58		DE	51674	Wiehl	kerstin-bach@gmx.net																1
+P			ORDERS								20141209	20141209											EUR	1	4250804713569			1		462,14	219,97864									120															219,97864

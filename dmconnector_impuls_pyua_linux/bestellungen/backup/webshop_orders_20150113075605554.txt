@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000833	20150113						2000638								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Timo Koster			Holzweg 6		DE	91056	Erlangen	timo_koster@web.de																1
+ANR	 Timo Koster			Holzweg 6		DE	91056	Erlangen	timo_koster@web.de																1
+P			ORDERS								20150113	20150113											EUR	1	4250494021975			1		37,77	26,96778									120															26,96778

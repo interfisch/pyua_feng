@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000554	20141128						2000421								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Kathrin Knochel			Metzstraße 30		DE	81667	München	kathrin.knochel@web.de																1
+ANR	 Kathrin Knochel			Metzstraße 30		DE	81667	München	kathrin.knochel@web.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804721151			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141128	20141128											EUR	2	4250804716379			1		84,03	99,9957									120															99,9957

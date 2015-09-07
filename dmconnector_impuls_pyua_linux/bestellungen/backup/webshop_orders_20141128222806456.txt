@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000552	20141128						2000400								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Timea Kocsor			Julius Raab Straﬂe 10		AT	4040	Linz	timea.kocsor@gmail.com																1
+ANR	 Timea Kocsor			Julius Raab Straﬂe 10		AT	4040	Linz	timea.kocsor@gmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804717963			1		75,63	89,9997									120															89,9997
+P			ORDERS								20141128	20141128											EUR	2	4250494013284			1		12,61	15,0059									120															15,0059
+P			ORDERS								20141128	20141128											EUR	3	4250804719417			1		33,61	39,9959									120															39,9959
+P			ORDERS								20141128	20141128											EUR	4	4250804716461			1		84,03	99,9957									120															99,9957
+P			ORDERS								20141128	20141128											EUR	5	4250494013130			1		12,61	15,0059									120															15,0059
+P			ORDERS								20141128	20141128											EUR	6	4250494020800			1		12,6	14,994									120															14,994

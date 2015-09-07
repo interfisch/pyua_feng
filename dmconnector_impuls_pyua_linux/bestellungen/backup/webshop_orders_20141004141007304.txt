@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000113	20141004						2000025								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Karin Kübler			Brudermühlstrasse 36		DE	81371	München	kueblerka@t-online.de	089265907															1
+ANR	 Karin Kübler			Brudermühlstrasse 36		DE	81371	München	kueblerka@t-online.de	089265907															1
+P			ORDERS								20141004	20141004											EUR	1	4250804713576			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141004	20141004											EUR	2	4250804713774			1		420,13	499,9547									120															499,9547
+P			ORDERS								20141004	20141004											EUR	3	4250804713637			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141004	20141004											EUR	4	4250804713781			1		420,13	499,9547									120															499,9547

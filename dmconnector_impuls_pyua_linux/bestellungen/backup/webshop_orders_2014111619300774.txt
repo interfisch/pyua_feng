@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000355	20141116						2000205								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ole Wilms			Im Waldwinkel 12		DE	24109	Kiel	olewilms@web.de	+41786758062															1
+ANR	 Ole Wilms			Im Waldwinkel 12		DE	24109	Kiel	olewilms@web.de	+41786758062															1
+P			ORDERS								20141116	20141116											EUR	1	4250804719288			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141116	20141116											EUR	2	4250804720277			1		142,81	67,97756									120															67,97756

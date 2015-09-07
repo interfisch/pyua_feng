@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000656	20141210						2000505								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Natalie Salevsky			Schlossbergweg 7		DE	88299	Leutkirch	nasa83@aol.com	07561-915455															1
+ANR	 Natalie Salevsky			Schlossbergweg 7		DE	88299	Leutkirch	nasa83@aol.com	07561-915455															1
+P			ORDERS								20141210	20141210											EUR	1	4250804721151			1		168,07	200,0033									120															200,0033

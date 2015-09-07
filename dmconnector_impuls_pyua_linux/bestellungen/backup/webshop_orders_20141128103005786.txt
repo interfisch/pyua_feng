@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000505	20141128						2000382								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Susanne Harner			Maria-Herbert-Str. 21		DE	93051 	Regensburg	susanne.harner@gmx.net																1
+ANR	 Susanne Harner			Maria-Herbert-Str. 21		DE	93051 	Regensburg	susanne.harner@gmx.net																1
+P			ORDERS								20141128	20141128											EUR	1	4250804721144			1		168,07	200,0033									120															200,0033

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000526	20141128						2000399								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Thomas Bschaiden			Meierhöfenstraße 21/6		AT	8062	Kumberg	thomas.bschaiden@gmx.net																1
+ANR	 Thomas Bschaiden			Meierhöfenstraße 21/6		AT	8062	Kumberg	thomas.bschaiden@gmx.net																1
+P			ORDERS								20141128	20141128											EUR	1	4250804720260			1		63,03	75,0057									120															75,0057

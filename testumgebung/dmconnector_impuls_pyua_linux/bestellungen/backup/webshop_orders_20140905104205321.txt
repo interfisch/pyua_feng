@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000095	20140905						2000231								EUR										0										24		OS via pyua_de		5,4600	11			0
+ANL	 Nele Müller			Langer Segen 8-10		DE	24105	Kiel	nm@pyua.de	01709567411															1
+ANR	 Nele Müller			Langer Segen 8-10		DE	24105	Kiel	nm@pyua.de	01709567411															1
+P			ORDERS								20140905	20140905											EUR	1	4250804704369			1		83,99	99,9481									120															99,9481

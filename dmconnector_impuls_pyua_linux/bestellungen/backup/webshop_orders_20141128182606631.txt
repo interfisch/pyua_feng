@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000534	20141128						2000406								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Bernhard Wohner			Rabensburgerstraﬂe 17/5.OG/62		AT	1020	Wien	bernhard.wohner@gmail.com																1
+ANR	 Bernhard Wohner			Rabensburgerstraﬂe 17/5.OG/62		AT	1020	Wien	bernhard.wohner@gmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804719363			1		25,21	29,9999									120															29,9999

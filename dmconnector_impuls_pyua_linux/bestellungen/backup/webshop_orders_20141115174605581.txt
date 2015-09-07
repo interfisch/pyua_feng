@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000342	20141115						2000251								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christian Beller			Kohlhöfen 19		DE	20355	Hamburg	c.beller1985@googlemail.com																1
+ANR	 Christian Beller			Kohlhöfen 19		DE	20355	Hamburg	c.beller1985@googlemail.com																1
+P			ORDERS								20141115	20141115											EUR	1	4250804721113			1		33,57	27,96381									120															27,96381

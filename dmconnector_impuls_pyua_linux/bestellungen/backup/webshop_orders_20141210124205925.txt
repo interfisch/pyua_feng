@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000648	20141210						2000499								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Herbert Pertl			Aufseﬂstraﬂe 29		DE	91052	Erlangen	hp29@web.de																1
+ANR	 Herbert Pertl			Aufseﬂstraﬂe 29		DE	91052	Erlangen	hp29@web.de																1
+P			ORDERS								20141210	20141210											EUR	1	4250804714214			1		252,06	119,98056									120															119,98056

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000874	20150124						2000674								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Herter			Am Wasen 21		DE	83026	Rosenheim	btherter@web.de	01791300195															1
+ANR	 Thomas Herter			Am Wasen 21		DE	83026	Rosenheim	btherter@web.de	01791300195															1
+P			ORDERS								20150124	20150124											EUR	1	4250804720543			1		100	59,5									120															59,5

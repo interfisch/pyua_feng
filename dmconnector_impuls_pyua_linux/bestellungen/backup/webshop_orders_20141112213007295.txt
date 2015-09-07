@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000272	20141112						2000191								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Julian Hoﬂ			Alter Schlachthof 39		DE	76131	Karlsruhe	julianhoss@gmail.com	+4917655600376															1
+ANR	 Julian Hoﬂ			Alter Schlachthof 39		DE	76131	Karlsruhe	julianhoss@gmail.com	+4917655600376															1
+P			ORDERS								20141112	20141112											EUR	1	4250804720512			1		142,82	67,98232									120															67,98232

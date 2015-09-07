@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000962	20150207						2000743								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Holger Kaboth			Wengenrothstr. 8		DE	61250	Usingen	holger.kaboth@gmail.com																1
+ANR	 Holger Kaboth			Wengenrothstr. 8		DE	61250	Usingen	holger.kaboth@gmail.com																1
+P			ORDERS								20150207	20150207											EUR	1	4250804721090			1		37,77	44,9463									120															44,9463
+P			ORDERS								20150207	20150207											EUR	2	4250804721120			1		29,37	34,9503									120															34,9503

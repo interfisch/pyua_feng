@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000518	20141128						2000393								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Michaela Heger	KURIER		Muthgasse 28		AT	1190	Wien	michaela.hgr@gmail.com																1
+ANR	 Michaela Heger			Rüdigergasse 4/11		AT	1050	Wien	michaela.hgr@gmail.com																1
+P			ORDERS								20141128	20141128											EUR	1	4250804716423			1		84,03	99,9957									120															99,9957

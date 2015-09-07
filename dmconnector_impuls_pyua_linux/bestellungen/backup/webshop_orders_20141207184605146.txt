@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000619	20141207						2000477								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Katja  Hauswald			Am Steinebrück 27a		DE	40589	Düsseldorf	faz-maz@web.de																1
+ANR	 Katja  Hauswald			Am Steinebrück 27a		DE	40589	Düsseldorf	faz-maz@web.de																1
+P			ORDERS								20141207	20141207											EUR	1	4250804721151			1		168,07	200,0033									120															200,0033

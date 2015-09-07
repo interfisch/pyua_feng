@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000543	20141128						2000413								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Hardld Jungbluth			Hanomagstr 22-26		DE	31856	Lauenau	harald.jungbluth@dvag.de	050499876															1
+ANR	 Hardld Jungbluth			Hanomagstr 22-26		DE	31856	Lauenau	harald.jungbluth@dvag.de	050499876															1
+P			ORDERS								20141128	20141128											EUR	1	4250804717499			1		42,02	50,0038									120															50,0038

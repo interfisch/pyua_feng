@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000466	20141126						2000347								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Michael Oberbillig			Wilhelmiterstrasse 8		DE	55131	Mainz	trailboxx@gmail.com																1
+ANR	 Michael Oberbillig			Wilhelmiterstrasse 8		DE	55131	Mainz	trailboxx@gmail.com																1
+P			ORDERS								20141126	20141126											EUR	1	4250804719271			3		50,38	29,9761									120															29,9761
+P			ORDERS								20141126	20141126											EUR	2	4250804719288			1		50,38	29,9761									120															29,9761
+P			ORDERS								20141126	20141126											EUR	3	4250804719363			3		50,38	29,9761									120															29,9761
+P			ORDERS								20141126	20141126											EUR	4	4250804719370			1		50,38	29,9761									120															29,9761
+P			ORDERS								20141126	20141126											EUR	5	4250804719523			2		50,38	29,9761									120															29,9761
+P			ORDERS								20141126	20141126											EUR	6	4250804719622			2		50,38	29,9761									120															29,9761

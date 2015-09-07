@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000162	20141026						2000077								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Baumgärtner			Kaiser-Ludwigstr.10		DE	82031	Grünwald	andreas.baumgaertner.muc@gmail.com	0172/8308414															1
+ANR	 Andreas Baumgärtner			Kaiser-Ludwigstr.10		DE	82031	Grünwald	andreas.baumgaertner.muc@gmail.com	0172/8308414															1
+P			ORDERS								20141026	20141026											EUR	1	4250804720529			1		142,82	118,96906									120															118,96906

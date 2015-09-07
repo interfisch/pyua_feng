@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000630	20141208						2000350								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Christopher Polt			An den Ziegeleien 13		DE	63773	Goldbach	laberfox@gmail.com																1
+ANR	 Christopher Polt			An den Ziegeleien 13		DE	63773	Goldbach	laberfox@gmail.com																1
+P			ORDERS								20141208	20141208											EUR	1	4250804715020			1		168,07	200,0033									120															200,0033

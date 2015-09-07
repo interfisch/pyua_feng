@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100001042	20150326						2000795								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Waltraud Hansen			Fasanenweg 2		DE	24251	Osdorf	wallialff@aol.com	04346 4717															1
+ANR	 Waltraud Hansen			Fasanenweg 2		DE	24251	Osdorf	wallialff@aol.com	04346 4717															1
+P			ORDERS								20150326	20150326											EUR	1	4250494022095			1		12,61	15,0059									120															15,0059
+P			ORDERS								20150326	20150326											EUR	2	4250804719813			1		12,6	14,994									120															14,994
+P			ORDERS								20150326	20150326											EUR	3	4250494022132			1		12,61	15,0059									120															15,0059
+P			ORDERS								20150326	20150326											EUR	4	4250494022071			1		12,6	14,994									120															14,994
+P			ORDERS								20150326	20150326											EUR	5	2024238000104			1		24,37	29,0003									120															29,0003

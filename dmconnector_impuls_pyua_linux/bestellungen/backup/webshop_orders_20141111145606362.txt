@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000233	20141111						2000154								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Björn Homann			Franckestr. 20		DE	24118	Kiel	green-room@gmx.de																1
+ANR	 Björn Homann			Franckestr. 20		DE	24118	Kiel	green-room@gmx.de																1
+P			ORDERS								20141111	20141111											EUR	1	4250494021975			1		37,77	17,97852									120															17,97852
+P			ORDERS								20141111	20141111											EUR	2	4250804715266			1		210,05	99,9838									120															99,9838

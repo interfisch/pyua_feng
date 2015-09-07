@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000847	20150118						2000647								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Gisela Schillinger			Obere-Höfe-Str. 37		DE	79312	Emmendingen	spitzmaus2007@yahoo.de	0764152243															1
+ANR	 Gisela Schillinger			Obere-Höfe-Str. 37		DE	79312	Emmendingen	spitzmaus2007@yahoo.de	0764152243															1
+P			ORDERS								20150118	20150118											EUR	1	4250804716492			1		133,61	158,9959									120															158,9959
+P			ORDERS								20150118	20150118											EUR	2	4250804720291			1		100	119									120															119
+P			ORDERS								20150118	20150118											EUR	3	4250804720529			1		100	119									120															119

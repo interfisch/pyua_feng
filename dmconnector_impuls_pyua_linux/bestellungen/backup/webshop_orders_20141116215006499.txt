@@ -1,0 +1,10 @@
+H	Web_Pyua		ORDERS					100000359	20141116						2000266								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Frank Sattler			Moselstr. 9		DE	68542	Heddesheim	frank.r.sattler@freenet.de																1
+ANR	 Frank Sattler			Moselstr. 9		DE	68542	Heddesheim	frank.r.sattler@freenet.de																1
+P			ORDERS								20141116	20141116											EUR	1	4250804723766			1		37,77	17,97852									120															17,97852
+P			ORDERS								20141116	20141116											EUR	2	4250804719165			1		58,78	27,97928									120															27,97928
+P			ORDERS								20141116	20141116											EUR	3	4250804719363			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141116	20141116											EUR	4	4250804719622			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141116	20141116											EUR	5	4250804714726			1		294,08	139,98208									120															139,98208
+P			ORDERS								20141116	20141116											EUR	6	4250804720857			1		126,03	149,9757									120															149,9757
+P			ORDERS								20141116	20141116											EUR	7	4250804719424			1		58,78	27,97928									120															27,97928

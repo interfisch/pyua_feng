@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000937	20150201						2000719								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael Bernhardt			Schauinslandstr. 28		DE	71134	Aidlingen	baur-bernhardt@gmx.de	+4915114752259															1
+ANR	 Michael Bernhardt			Schauinslandstr. 28		DE	71134	Aidlingen	baur-bernhardt@gmx.de	+4915114752259															1
+P			ORDERS								20150201	20150201											EUR	1	4250804713989			1		301,68	179,4996									120															179,4996

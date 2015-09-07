@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000467	20141126						2000307								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 matthias schimmer			kranichweg 2		DE	23627	groß grönau	matthias.schimmer@gmx.de																1
+ANR	 matthias schimmer			kranichweg 2		DE	23627	groß grönau	matthias.schimmer@gmx.de																1
+P			ORDERS								20141126	20141126											EUR	1	4250804718359			1		46,22	55,0018									120															55,0018

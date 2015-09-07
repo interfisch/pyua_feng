@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000434	20141123						2000321								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Mark Bronsert			repsoldstr. 50		DE	20097	hamburg	mark.bronsert@gmx.de																1
+ANR	 Mark Bronsert			repsoldstr. 50		DE	20097	hamburg	mark.bronsert@gmx.de																1
+P			ORDERS								20141123	20141123											EUR	1	4250804721144			1		336,09	159,97884									120															159,97884

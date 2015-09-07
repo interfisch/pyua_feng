@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000873	20150123						2000673								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Christian  Wressnegger			Goethe-Allee 19		DE	37073	Göttingen	pyua@wressnegger.info																1
+ANR	 Christian  Wressnegger			Goethe-Allee 19		DE	37073	Göttingen	pyua@wressnegger.info																1
+P			ORDERS								20150123	20150123											EUR	1	4250804713415			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150123	20150123											EUR	2	4250804713477			1		462,15	274,97925									120															274,97925
+P			ORDERS								20150123	20150123											EUR	3	4250804713460			1		462,14	274,9733									120															274,9733

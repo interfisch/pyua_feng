@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000282	20141112						2000197								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stephan Bely			Maximilianstraﬂe 41		DE	95444	Bayreuth	stephanbely@aol.com																1
+ANR	 Stephan Bely			Maximilianstraﬂe 41		DE	95444	Bayreuth	stephanbely@aol.com																1
+P			ORDERS								20141112	20141112											EUR	1	4250804713477			1		462,14	219,97864									120															219,97864

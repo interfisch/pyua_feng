@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000312	20141113						2000225								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Agnieszka Hinz			Baderweg 58B		DE	45259 	Essen	a.hinz@versanet.de																1
+ANR	 Agnieszka Hinz			Baderweg 58B		DE	45259 	Essen	a.hinz@versanet.de																1
+P			ORDERS								20141113	20141113											EUR	1	4250804714566			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141113	20141113											EUR	2	4250804720895			1		126,04	149,9876									120															149,9876
+P			ORDERS								20141113	20141113											EUR	3	4250804720741			1		189,06	224,9814									120															224,9814
+P			ORDERS								20141113	20141113											EUR	4	4250804713446			1		462,14	549,9466									120															549,9466

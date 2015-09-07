@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001021	20150228						2000058								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Hans-Peter Schlögl			Ausserweg 90a		AT	6145 	Navis	phnis@hotmail.com																1
+ANR	 Hans-Peter Schlögl			Ausserweg 90a		AT	6145 	Navis	phnis@hotmail.com																1
+P			ORDERS								20150228	20150228											EUR	1	4250804718366			1		109,2	44,18232									120															44,18232

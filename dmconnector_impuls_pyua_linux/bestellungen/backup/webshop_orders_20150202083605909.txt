@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000941	20150202						2000721								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Iris von Bismarck			Rathausstr. 47a		DE	53859	Niederkassel	iris.vonbismarck@gmx.de																1
+ANR	 Iris von Bismarck			Rathausstr. 47a		DE	53859	Niederkassel	iris.vonbismarck@gmx.de																1
+P			ORDERS								20150202	20150202											EUR	1	4250804720246			1		100	119									120															119

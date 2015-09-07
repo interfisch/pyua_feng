@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000174	20141029						2000094								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stefanie Brauer			Zechliner Straße 5a		DE	13359	Berlin	steffi.brauer@gmx.de																1
+ANR	 Stefanie Brauer			Zechliner Straße 5a		DE	13359	Berlin	steffi.brauer@gmx.de																1
+P			ORDERS								20141029	20141029											EUR	1	4250804721151			1		336,09	399,9471									120															399,9471

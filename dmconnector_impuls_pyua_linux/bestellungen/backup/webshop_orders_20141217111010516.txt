@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000729	20141217						2000560								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Döhring	Designliga		Hans-Preißinger-Str. 8		DE	81379	München	doehring@designliga.com																1
+ANR	 Andreas Döhring			Wolfgangstraße 8		DE	81667	München	doehring@designliga.com																1
+P			ORDERS								20141217	20141217											EUR	1	4250804715020			1		336,09	159,97884									120															159,97884

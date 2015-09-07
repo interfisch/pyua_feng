@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100001092	20150404						2000827								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 barbara schneider			kapuzinergasse 34a		AT	6020	innsbruck	barbara.schneider3@gmx.net																1
+ANR	 barbara schneider			kapuzinergasse 34a		AT	6020	innsbruck	barbara.schneider3@gmx.net																1
+P			ORDERS								20150404	20150404											EUR	1	4250804720222			1		71,43	85,0017									120															85,0017
+P			ORDERS								20150404	20150404											EUR	2	4250494021067			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150404	20150404											EUR	3	4250494021470			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150404	20150404											EUR	4	4250804721113			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150404	20150404											EUR	5	4250804716881			1		29,37	34,9503									120															34,9503

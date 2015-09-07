@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000461	20141126						2000342								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Oberndorfer			Kapitän-Dreyer-Weg 27		DE	22587	Hamburg	post@tob-hh.de																1
+ANR	 Thomas Oberndorfer			Kapitän-Dreyer-Weg 27		DE	22587	Hamburg	post@tob-hh.de																1
+P			ORDERS								20141126	20141126											EUR	1	4250804713385			1		462,14	384,96262									120															384,96262

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000804	20150103						2000614								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Matthias Beuge			Walderseestr. 79		DE	22605	Hamburg	matbeug@aol.com	040 82278965															1
+ANR	 Matthias Beuge			Walderseestr. 79		DE	22605	Hamburg	matbeug@aol.com	040 82278965															1
+P			ORDERS								20150103	20150103											EUR	1	4250804717314			1		193,24	114,9778									120															114,9778

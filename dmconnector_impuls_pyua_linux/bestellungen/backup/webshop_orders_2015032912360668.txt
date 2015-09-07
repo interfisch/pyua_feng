@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001062	20150329						2000805								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Thomas Leitgeb	Raiffeisen Centrobank AG		Tegetthoffstrasse 1		AT	1015	Wien	t.leitgeb@chello.at	+4369917555776															1
+ANR	 Thomas Leitgeb			Traunfelsgasse 3/30		AT	1200	Wien	t.leitgeb@chello.at	069917555776															1
+P			ORDERS								20150329	20150329											EUR	1	4250804713378			1		231,09	274,9971									120															274,9971

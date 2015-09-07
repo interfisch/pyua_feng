@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000308	20141113						2000221								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Nicole Hartings	E-Plus Retail GmbH		E-Plus Strasse 1		DE	40472	Düsseldorf	iv.ro@mailbox.org																1
+ANR	 Robert Ivko			Kanzlerstrasse 12b		DE	40472	Düsseldorf	iv.ro@mailbox.org	0177-5551406															1
+P			ORDERS								20141113	20141113											EUR	1	4250804720765			1		189,06	224,9814									120															224,9814
+P			ORDERS								20141113	20141113											EUR	2	4250804720581			1		142,81	169,9439									120															169,9439
+P			ORDERS								20141113	20141113											EUR	3	4250804723780			1		37,78	44,9582									120															44,9582

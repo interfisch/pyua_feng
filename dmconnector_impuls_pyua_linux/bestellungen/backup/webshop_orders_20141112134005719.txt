@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000256	20141112						2000177								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Jan Paul Meinardus			Bendixenstr. 4		DE	24106	Kiel	jpmeinardus@gmail.com	0431331731															1
+ANR	 Jan Paul Meinardus			Am Tannenberg 86		DE	24106	Kiel	jpmeinardus@gmail.com	04312202600															1
+P			ORDERS								20141112	20141112											EUR	1	4250804715075			1		336,09	159,97884									120															159,97884

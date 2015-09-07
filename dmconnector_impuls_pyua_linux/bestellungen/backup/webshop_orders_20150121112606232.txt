@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000862	20150121						2000643								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sigmund Neher			Ulrike-von-Heynitz-Str. 2		DE	37073	Göttingen	siggin@gmail.com																1
+ANR	 Sigmund Neher			Ulrike-von-Heynitz-Str. 2		DE	37073	Göttingen	siggin@gmail.com																1
+P			ORDERS								20150121	20150121											EUR	1	4250804717321			1		146,22	174,0018									120															174,0018

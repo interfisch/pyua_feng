@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					76	20140828						200012								EUR										0										35		OS via pyua_de		7,1400	14			0
+ANL	 Daniel Brückner			Am Kiel Kanal 2		DE	24106	Kiel	brueckner@elkline.de	0431 2208119															4
+ANR	 Daniel Brückner			Am Kiel Kanal 2		DE	24106	Kiel	brueckner@elkline.de	0431 2208119															4
+P			ORDERS								20140828	20140828											EUR	1	4250804704215			1.0000		83,99	83,99									120															83,99

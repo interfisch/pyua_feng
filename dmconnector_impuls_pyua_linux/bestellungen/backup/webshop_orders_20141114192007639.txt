@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000329	20141114						2000240								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Torben Tschechne			Methfesselstrasse 42		DE	20257	Hamburg	torben.tschechne@gmail.com																1
+ANR	 Torben Tschechne			Methfesselstrasse 42		DE	20257	Hamburg	torben.tschechne@gmail.com																1
+P			ORDERS								20141114	20141114											EUR	1	4250804719356			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141114	20141114											EUR	2	4250804719264			1		50,38	23,98088									120															23,98088

@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000929	20150131						2000701								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Silke Ziegler			Kastanienallee 10a		DE	82041	Deisenhofen	silke.ziegler@gmx.com																1
+ANR	 Silke Ziegler			Kastanienallee 10a		DE	82041	Deisenhofen	silke.ziegler@gmx.com																1
+P			ORDERS								20150131	20150131											EUR	1	4250804713750			1		420,13	249,97735									120															249,97735
+P			ORDERS								20150131	20150131											EUR	2	4250804718151			1		74,79	44,50005									120															44,50005
+P			ORDERS								20150131	20150131											EUR	3	4250804719400			1		58,78	34,9741									120															34,9741
+P			ORDERS								20150131	20150131											EUR	4	4250804719608			1		50,38	29,9761									120															29,9761

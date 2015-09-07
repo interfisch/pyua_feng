@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000806	20150103						2000157								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Fabian Denk			Kaiserstr. 26		DE	76133	Karlsruhe	fabian.denk@gmail.com																1
+ANR	 Fabian Denk			Kaiserstr. 26		DE	76133	Karlsruhe	fabian.denk@gmail.com																1
+P			ORDERS								20150103	20150103											EUR	1	4250804715761			1		29,37	17,47515									120															17,47515
+P			ORDERS								20150103	20150103											EUR	2	4250804715914			1		29,37	17,47515									120															17,47515

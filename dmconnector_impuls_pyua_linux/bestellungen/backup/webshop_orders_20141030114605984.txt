@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000177	20141030						2000097								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Denise Weidmann			Wohlwillstraße 29		DE	20359	Hamburg	denize@web.de	040 180 899 25															1
+ANR	 Denise Weidmann			Wohlwillstraße 29		DE	20359	Hamburg	denize@web.de	040 180 899 25															1
+P			ORDERS								20141030	20141030											EUR	1	4250804721144			1		336,09	279,96297									120															279,96297

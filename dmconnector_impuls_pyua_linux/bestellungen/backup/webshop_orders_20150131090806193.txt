@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000926	20150131						2000710								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Peter Weber			St.Lorenzstrasse 42		DE	90522	Oberasbach	drpeterweber@mac.com	01705456381															1
+ANR	 Peter Weber			St.Lorenzstrasse 42		DE	90522	Oberasbach	drpeterweber@mac.com	01705456381															1
+P			ORDERS								20150131	20150131											EUR	1	4250804718533			1		53,78	63,9982									120															63,9982

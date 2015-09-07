@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000179	20141030						2000099								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michaela Wiese			Buttenwegle 10		DE	72108	Rottenburg	wiese.weber@t-online.de																1
+ANR	 Michaela Wiese			Buttenwegle 10		DE	72108	Rottenburg	wiese.weber@t-online.de																1
+P			ORDERS								20141030	20141030											EUR	1	4250804713330			1		420,13	349,96829									120															349,96829

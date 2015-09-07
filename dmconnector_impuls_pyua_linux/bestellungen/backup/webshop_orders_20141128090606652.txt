@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000501	20141128						2000377								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 David Kumpusch			Greith 58		AT	8442	Kitzeck	david.kumpusch@edu.campus02.at																1
+ANR	 David Kumpusch			Greith 58		AT	8442	Kitzeck	david.kumpusch@edu.campus02.at																1
+P			ORDERS								20141128	20141128											EUR	1	4250494021975			1		16,81	20,0039									120															20,0039

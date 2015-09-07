@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000877	20150124						2000677								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Eike Diederich			Gellertstraﬂe 4		DE	24114	Kiel	kundenkonten@xn--behr-7qa.de																1
+ANR	 Eike Diederich			Gellertstraﬂe 4		DE	24114	Kiel	kundenkonten@xn--behr-7qa.de																1
+P			ORDERS								20150124	20150124											EUR	1	4250804718373			1		74,79	89,0001									120															89,0001

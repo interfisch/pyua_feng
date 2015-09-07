@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000995	20150223						2000765								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Stefan Rings			Gartenfeld 5		DE	91088	Bubenreuth	stefan.rings@siemens.com																1
+ANR	 Stefan Rings			Gartenfeld 5		DE	91088	Bubenreuth	stefan.rings@siemens.com																1
+P			ORDERS								20150223	20150223											EUR	1	4250804704215			1		83,99	59,96886									120															59,96886
+P			ORDERS								20150223	20150223											EUR	2	4250804717475			1		83,19	59,39766									120															59,39766
+P			ORDERS								20150223	20150223											EUR	3	4250804715877			1		29,37	20,97018									120															20,97018
+P			ORDERS								20150223	20150223											EUR	4	4250804715921			1		29,37	20,97018									120															20,97018

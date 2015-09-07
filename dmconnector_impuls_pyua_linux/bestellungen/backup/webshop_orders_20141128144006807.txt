@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000523	20141128						2000396								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Julia Meier			Hohlweg 13a		DE	65232	Taunusstein	meierj@gmx.de																1
+ANR	 Julia Meier			Hohlweg 13a		DE	65232	Taunusstein	meierj@gmx.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804721175			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141128	20141128											EUR	2	4250804716393			1		84,03	99,9957									120															99,9957
+P			ORDERS								20141128	20141128											EUR	3	4250804715013			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141128	20141128											EUR	4	4250804715921			1		16,8	19,992									120															19,992
+P			ORDERS								20141128	20141128											EUR	5	4250804723674			1		16,81	20,0039									120															20,0039

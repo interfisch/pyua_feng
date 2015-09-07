@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000918	20150129						2000688								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Susanne Gulla			Keplingergasse 14		AT	1130	Wien	susi@gulla.at																1
+ANR	 Susanne Gulla			Keplingergasse 14		AT	1130	Wien	susi@gulla.at																1
+P			ORDERS								20150129	20150129											EUR	1	4250804713620			1		462,14	549,9466									120															549,9466

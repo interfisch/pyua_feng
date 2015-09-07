@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000849	20150119						2000650								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Eva Marie Engelke			Ophagen 8		DE	20257	Hamburg	Engel.eva@alice-dsl.net	040 8515454															1
+ANR	 Eva Marie Engelke			Ophagen 8		DE	20257	Hamburg	Engel.eva@alice-dsl.net	040 8515454															1
+P			ORDERS								20150119	20150119											EUR	1	4250804720253			1		100	119									120															119

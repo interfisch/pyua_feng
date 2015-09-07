@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000285	20141112						2000200								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Lena  Scheurenbrand 			Plöck 85		DE	69117 	Heidelberg 	lena.scheurenbrand@gmail.com	01703226548															1
+ANR	 Lena  Scheurenbrand 			Plöck 85		DE	69117 	Heidelberg 	lena.scheurenbrand@gmail.com	01703226548															1
+P			ORDERS								20141112	20141112											EUR	1	4250494020060			1		21,01	10,00076									120															10,00076
+P			ORDERS								20141112	20141112											EUR	2	4250494020008			1		21,01	10,00076									120															10,00076

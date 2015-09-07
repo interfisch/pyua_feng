@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000832	20150111						2000637								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Roger Ruff			Erlenweg 2		DE	70597	Stuttgart	r.ruff72@gmx.de	015174632391															1
+ANR	 Roger Ruff			Erlenweg 2		DE	70597	Stuttgart	r.ruff72@gmx.de	015174632391															1
+P			ORDERS								20150111	20150111											EUR	1	4250804713286			1		420,13	249,97735									120															249,97735
+P			ORDERS								20150111	20150111											EUR	2	4250804717321			1		193,23	114,97185									120															114,97185
+P			ORDERS								20150111	20150111											EUR	3	4250804713477			1		462,14	274,9733									120															274,9733

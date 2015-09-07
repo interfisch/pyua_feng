@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000423	20141122						2000245								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martin Beck	802472873		Packstation 137		DE	70569	Stuttgart	martinmichaelbeck@web.de																1
+ANR	 Martin Beck			Silberburgstraﬂe 136		DE	70176	Stuttgart	martinmichaelbeck@web.de																1
+P			ORDERS								20141122	20141122											EUR	1	4250804719158			1		58,78	48,96374									120															48,96374
+P			ORDERS								20141122	20141122											EUR	2	4250804718359			1		46,22	55,0018									120															55,0018

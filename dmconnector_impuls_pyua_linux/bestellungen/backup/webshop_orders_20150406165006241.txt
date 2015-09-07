@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100001111	20150406						2000838								EUR										0										24		OS via pyua_de		0,0000	26			0
+ANL	 Chris Fodermaier			Aebletenweg 40		CH	8706	Meilen	chris.fodermaier@gmx.ch	0041 52 301 28 10															4
+ANR	 Chris Fodermaier			Aebletenweg 40		CH	8706	Meilen	chris.fodermaier@gmx.ch	0041 52 301 28 10															4
+P			ORDERS								20150406	20150406											EUR	1	4250804714566			1		231,09	231,09									120															231,09
+P			ORDERS								20150406	20150406											EUR	2	4250804714719			1		147,06	147,06									120															147,06
+P			ORDERS								20150406	20150406											EUR	3	4250804714061			1		231,09	231,09									120															231,09
+P			ORDERS								20150406	20150406											EUR	4	4250804714368			1		147,06	147,06									120															147,06

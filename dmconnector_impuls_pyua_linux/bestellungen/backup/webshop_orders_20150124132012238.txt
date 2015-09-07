@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000875	20150124						2000675								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Steffi Mattheus	Sophien Apotheke		Lockwitzer Str. 9		DE	01219	Dresden	steffi.mattheus@gmx.de	01632589628															1
+ANR	 Steffi Mattheus			Lockwitzer Str. 9		DE	01219	Dresden	steffi.mattheus@gmx.de																1
+P			ORDERS								20150124	20150124											EUR	1	4250804713576			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150124	20150124											EUR	2	4250804713583			1		462,15	274,97925									120															274,97925
+P			ORDERS								20150124	20150124											EUR	3	4250804713774			1		420,12	249,9714									120															249,9714
+P			ORDERS								20150124	20150124											EUR	4	4250804713781			1		420,13	249,97735									120															249,97735

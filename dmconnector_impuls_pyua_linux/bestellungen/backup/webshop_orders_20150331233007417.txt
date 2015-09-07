@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100001075	20150331						2000812								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stefan Zienert	Zienert gmbh		In den Wassern 2		DE	35764	Sinn	stefan.zienert@zienertgmbh.de																1
+ANR	 Stefan Zienert			Waldschmidtstrasse 10		DE	35576	Wetzlar	stefan.zienert@zienertgmbh.de	01635922312															1
+P			ORDERS								20150331	20150331											EUR	1	4250804714726			1		147,06	175,0014									120															175,0014
+P			ORDERS								20150331	20150331											EUR	2	4250804720901			1		126,05	149,9995									120															149,9995
+P			ORDERS								20150331	20150331											EUR	3	4250804720802			1		189,07	224,9933									120															224,9933
+P			ORDERS								20150331	20150331											EUR	4	4250804713972			1		189,08	225,0052									120															225,0052
+P			ORDERS								20150331	20150331											EUR	5	4250804714221			1		126,05	149,9995									120															149,9995
+P			ORDERS								20150331	20150331											EUR	6	4250804713279			1		210,08	249,9952									120															249,9952

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001117	20150408						2000843								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jürgen Goll			Dessauer Str. 13		DE	72622	Nürtingen	juergengoll@web.de	0151/14658355															1
+ANR	 Jürgen Goll			Dessauer Str. 13		DE	72622	Nürtingen	juergengoll@web.de	0151/14658355															1
+P			ORDERS								20150408	20150408											EUR	1	4250804714375			1		176,47	209,9993									120															209,9993
+P			ORDERS								20150408	20150408											EUR	2	4250804713972			1		226,89	269,9991									120															269,9991

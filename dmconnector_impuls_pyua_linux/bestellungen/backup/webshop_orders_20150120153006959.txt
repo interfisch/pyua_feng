@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000855	20150120						2000656								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Katrin Reschke			Vollhardtstraﬂe 16		DE	04279	Leipzig	reschke.katrin@web.de																1
+ANR	 Katrin Reschke			Vollhardtstraﬂe 16		DE	04279	Leipzig	reschke.katrin@web.de																1
+P			ORDERS								20150120	20150120											EUR	1	4250804719516			1		50,38	23,98088									120															23,98088

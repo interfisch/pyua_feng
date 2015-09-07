@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000339	20141115						2000234								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 André Bastian	Scholz & Friends Düsseldorf		Rathausufer 16-17		DE	40213	Düsseldorf	andre_bastian@web.de																1
+ANR	 André Bastian			Liliencronstr. 15		DE	47057	Duisburg	andre_bastian@web.de																1
+P			ORDERS								20141115	20141115											EUR	1	4250804717307			1		193,24	91,98224									120															91,98224

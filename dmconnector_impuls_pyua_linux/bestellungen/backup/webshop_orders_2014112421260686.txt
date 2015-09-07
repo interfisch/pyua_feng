@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000447	20141124						2000298								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Geiger			Obere Arthurstrasse 7		DE	70565	Stuttgart	andreasgeiger@gmx.de	01522 2938231															1
+ANR	 Andreas Geiger			Obere Arthurstrasse 7		DE	70565	Stuttgart	andreasgeiger@gmx.de	01522 2938231															1
+P			ORDERS								20141124	20141124											EUR	1	4250804713293			1		420,13	249,97735									120															249,97735

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000998	20150223						2000767								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Felix Wiß			Törlenstraße 4		DE	82467	Garmisch-Partenkirchen	felix.wiss@gmail.com	015170154379															1
+ANR	 Felix Wiß			Törlenstraße 4		DE	82467	Garmisch-Partenkirchen	felix.wiss@gmail.com	015170154379															1
+P			ORDERS								20150223	20150223											EUR	1	4250804719615			1		50,38	59,9522									120															59,9522
+P			ORDERS								20150223	20150223											EUR	2	4250804719516			1		50,38	59,9522									120															59,9522

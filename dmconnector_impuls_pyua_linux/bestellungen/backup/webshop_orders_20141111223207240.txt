@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000250	20141111						2000170								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Katharina Benisch			Legienstrasse 28		DE	24103	Kiel	kadda_benisch@yahoo.de	+491788542055															1
+ANR	 Katharina Benisch			Legienstrasse 28		DE	24103	Kiel	kadda_benisch@yahoo.de	+491788542055															1
+P			ORDERS								20141111	20141111											EUR	1	4250804716461			1		193,24	91,98224									120															91,98224
+P			ORDERS								20141111	20141111											EUR	2	4250804716478			1		193,23	91,97748									120															91,97748
+P			ORDERS								20141111	20141111											EUR	3	4250804714573			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141111	20141111											EUR	4	4250804716423			1		193,24	91,98224									120															91,98224

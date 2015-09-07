@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000277	20141112						2000180								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stefanie Gubalke			Albrecht-Dürer-Str. 1		DE	95448	Bayreuth	stewie56@gmx.de																1
+ANR	 Stefanie Gubalke			Albrecht-Dürer-Str. 1		DE	95448	Bayreuth	stewie56@gmx.de																1
+P			ORDERS								20141112	20141112											EUR	1	4250804719622			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141112	20141112											EUR	2	4250804719639			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141112	20141112											EUR	3	4250804719523			1		50,37	23,97612									120															23,97612
+P			ORDERS								20141112	20141112											EUR	4	4250804719530			1		50,38	23,98088									120															23,98088

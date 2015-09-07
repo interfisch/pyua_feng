@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000856	20150120						2000657								EUR										0										24		OS via pyua_de		0,0000	14			0
+ANL	 Sabine Fuchs	Firma Supanz GmbH		Mozartstrasse 4		AT	6300	Wörgl	sabinefux@hotmail.com	05332-74172-25															1
+ANR	 Sabine  Fuchs			Unterwindau 54		AT	6363	Westendorf	sabinefux@hotmail.com	0043 - 664 - 5051251															1
+P			ORDERS								20150120	20150120											EUR	1	4250804720741			1		301,68	358,9992									120															358,9992
+P			ORDERS								20150120	20150120											EUR	2	4250804714702			1		234,45	278,9955									120															278,9955

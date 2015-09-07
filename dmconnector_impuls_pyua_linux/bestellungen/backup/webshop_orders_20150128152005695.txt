@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000912	20150128						2000700								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jens Mitzel	Sportbund Rheinland		Rheinau 11		DE	56075	Koblenz	jensmitzel@outlook.de	01772496284															1
+ANR	 Jens Mitzel			Stresemannallee11		DE	60596	Frankfurt am Main	jensmitzel@outlook.de	0177-2496284															1
+P			ORDERS								20150128	20150128											EUR	1	4250804713477			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150128	20150128											EUR	2	4250804713323			1		420,13	249,97735									120															249,97735
+P			ORDERS								20150128	20150128											EUR	3	4250804717574			1		74,79	44,50005									120															44,50005

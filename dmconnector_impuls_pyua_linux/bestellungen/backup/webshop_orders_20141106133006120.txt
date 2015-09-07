@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000215	20141106						2000134								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Federkiel			Salzburger Str. 13		DE	83071	Stephanskirchen	newsletter@forward-co.de																1
+ANR	 Thomas Federkiel			Salzburger Str. 13		DE	83071	Stephanskirchen	newsletter@forward-co.de																1
+P			ORDERS								20141106	20141106											EUR	1	4250804713262			1		420,13	299,97282									120															299,97282
+P			ORDERS								20141106	20141106											EUR	2	4250804713460			1		462,14	329,96796									120															329,96796
+P			ORDERS								20141106	20141106											EUR	3	4250804715815			1		29,37	20,97018									120															20,97018

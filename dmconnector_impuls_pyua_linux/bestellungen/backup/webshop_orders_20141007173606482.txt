@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000116	20141007						2000281								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Angela Schneider			Hausbergstraße 9		DE	82467	Garmisch	angela.schneider@gaponline.de	08821-72344															1
+ANR	 Angela Schneider			Hausbergstraße 9		DE	82467	Garmisch	angela.schneider@gaponline.de	08821-72344															1
+P			ORDERS								20141007	20141007											EUR	1	4250804714726			1		294,08	349,9552									120															349,9552

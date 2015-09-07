@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000812	20150104						2000619								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael Hecker			Sonnenweg 4		DE	14476	Potsdam	mischah@web.de	01795261315															1
+ANR	 Michael Hecker			Sonnenweg 4		DE	14476	Potsdam	mischah@web.de	01795261315															1
+P			ORDERS								20150104	20150104											EUR	1	4250804720758			1		378,11	224,97545									120															224,97545
+P			ORDERS								20150104	20150104											EUR	2	4250804713729			1		420,13	249,97735									120															249,97735
+P			ORDERS								20150104	20150104											EUR	3	4250804704215			1		83,99	49,97405									120															49,97405
+P			ORDERS								20150104	20150104											EUR	4	4250494009935			1		24,37	29,0003									120															29,0003

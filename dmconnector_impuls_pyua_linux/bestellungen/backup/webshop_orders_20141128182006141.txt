@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000533	20141128						2000404								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Eva Dörner			Thierystraße 26		DE	66482	Zweibrücken	evadoerner@web.de																1
+ANR	 Eva Dörner			Thierystraße 26		DE	66482	Zweibrücken	evadoerner@web.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804721113			2		16,81	20,0039									120															20,0039
+P			ORDERS								20141128	20141128											EUR	2	4250804720895			1		84,04	100,0076									120															100,0076

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000292	20141113						2000206								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Alexander Brohm			Wittumstrasse 40		DE	71120	Grafenau	alexander.brohm@gmx.de																1
+ANR	 Alexander Brohm			Wittumstrasse 40		DE	71120	Grafenau	alexander.brohm@gmx.de																1
+P			ORDERS								20141113	20141113											EUR	1	4250804715020			1		336,09	159,97884									120															159,97884

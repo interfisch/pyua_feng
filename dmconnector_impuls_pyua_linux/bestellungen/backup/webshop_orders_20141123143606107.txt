@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000432	20141123						2000319								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Claudia Minet			Bischofswerder Straﬂe 9		DE	01099	Dresden	claudia.minet@gmx.net																1
+ANR	 Claudia Minet			Bischofswerder Straﬂe 9		DE	01099	Dresden	claudia.minet@gmx.net																1
+P			ORDERS								20141123	20141123											EUR	1	4250804716874			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141123	20141123											EUR	2	4250804706806			1		83,99	39,97924									120															39,97924

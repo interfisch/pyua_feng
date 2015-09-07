@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000959	20150206						2000741								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Natasha Metzger			Tännich 7		DE	96114	Hirschaid	natasha3108@web.de	09543-4178040															1
+ANR	 Natasha Metzger			Tännich 7		DE	96114	Hirschaid	natasha3108@web.de	09543-4178040															1
+P			ORDERS								20150206	20150206											EUR	1	4250804713675			1		462,14	549,9466									120															549,9466
+P			ORDERS								20150206	20150206											EUR	2	4250804713811			1		420,13	499,9547									120															499,9547
+P			ORDERS								20150206	20150206											EUR	3	4250804713569			1		462,14	549,9466									120															549,9466
+P			ORDERS								20150206	20150206											EUR	4	4250804713712			1		420,13	499,9547									120															499,9547

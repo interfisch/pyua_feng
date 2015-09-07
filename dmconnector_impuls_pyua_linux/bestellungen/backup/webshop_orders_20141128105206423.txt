@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000507	20141128						2000384								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Eva Riek-Brand	Christoph Miethke GmbH		Ulanenweg 2		DE	14469	Potsdam	rb.bb@web.de																1
+ANR	 Ralf Brand			Sattlerstr. 27		DE	14469	Potsdam	rb.bb@web.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804719943			1		46,22	55,0018									120															55,0018
+P			ORDERS								20141128	20141128											EUR	2	4250804717963			1		75,63	89,9997									120															89,9997

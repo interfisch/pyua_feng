@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100001000	20150223						2000769								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Leo Groﬂberger			Laienstraﬂe 63		DE	71155	Altdorf	leo.grossberger@gmx.de																1
+ANR	 Leo Groﬂberger			Laienstraﬂe 63		DE	71155	Altdorf	leo.grossberger@gmx.de																1
+P			ORDERS								20150223	20150223											EUR	1	4250804714221			1		252,06	101,983476									120															101,983476
+P			ORDERS								20150223	20150223											EUR	2	4250804714214			1		252,06	101,983476									120															101,983476
+P			ORDERS								20150223	20150223											EUR	3	4250804713972			1		378,11	152,983306									120															152,983306
+P			ORDERS								20150223	20150223											EUR	4	4250804713965			1		378,11	152,983306									120															152,983306

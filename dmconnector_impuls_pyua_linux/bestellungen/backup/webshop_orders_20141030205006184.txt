@@ -1,0 +1,9 @@
+H	Web_Pyua		ORDERS					100000183	20141030						2000102								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jacob Renner			Schillerstraße 21		DE	16225	Eberswalde	jacoob_re@hotmail.com																1
+ANR	 Jacob Renner			Schillerstraße 21		DE	16225	Eberswalde	jacoob_re@hotmail.com																1
+P			ORDERS								20141030	20141030											EUR	1	4250804715013			1		336,09	279,96297									120															279,96297
+P			ORDERS								20141030	20141030											EUR	2	4250494019927			1		21,01	17,50133									120															17,50133
+P			ORDERS								20141030	20141030											EUR	3	4250494020893			1		29,41	24,49853									120															24,49853
+P			ORDERS								20141030	20141030											EUR	4	4250494013185			1		29,41	24,49853									120															24,49853
+P			ORDERS								20141030	20141030											EUR	5	4250804719622			1		50,38	41,96654									120															41,96654
+P			ORDERS								20141030	20141030											EUR	6	4250804719363			1		50,38	41,96654									120															41,96654

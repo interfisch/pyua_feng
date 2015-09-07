@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000993	20150222						2000171								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stefanie Burmester			Ebersmoorweg 4b		DE	22143	Hamburg	steffi.burmester@web.de																1
+ANR	 Stefanie Burmester			Ebersmoorweg 4b		DE	22143	Hamburg	steffi.burmester@web.de																1
+P			ORDERS								20150222	20150222											EUR	1	4250804720918			1		252,06	101,983476									120															101,983476

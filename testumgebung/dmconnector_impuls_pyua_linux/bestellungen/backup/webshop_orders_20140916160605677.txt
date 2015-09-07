@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000105	20140916						2000024								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Jeroen  van Agtmael			Kleiner Schlossplatz 13-15		DE	70173	Stuttgart	jvagtmael@gmail.com	01726369796															1
+ANR	 Jeroen  van Agtmael			Hallimaschweg 9		DE	70599	Stuttgart	jvagtmael@gmail.com	01726369796															1
+P			ORDERS								20140916	20140916											EUR	1	4250804713422			1		462,14	384,96262									120															384,96262

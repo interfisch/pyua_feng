@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000489	20141127						2000365								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael Kaiser			an der dorfeiche 23		DE	32429	Minden	mimakado@yahoo.de																1
+ANR	 Michael Kaiser			an der dorfeiche 23		DE	32429	Minden	mimakado@yahoo.de																1
+P			ORDERS								20141127	20141127											EUR	1	4250804714016			1		210,08	249,9952									120															249,9952

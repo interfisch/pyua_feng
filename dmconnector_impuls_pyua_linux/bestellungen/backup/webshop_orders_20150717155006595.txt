@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001158	20150717						2000873								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Anna Wolke			Hauptstraﬂe 21		DE	06484	Ditfurt	Anna.Wolke@gmx.de																1
+ANR	 Anna Wolke			Hauptstraﬂe 21		DE	06484	Ditfurt	Anna.Wolke@gmx.de																1
+P			ORDERS								20150717	20150717											EUR	1	4250804704307			1		83,99	99,9481									120															99,9481

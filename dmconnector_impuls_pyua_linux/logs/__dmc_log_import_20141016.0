@@ -1,0 +1,251 @@
+Okt 16, 2014 3:38:02 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:38:02 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:38:02 PM  
+STDERR: 883
+Okt 16, 2014 3:38:02 PM  
+STDERR: 885
+Okt 16, 2014 3:38:02 PM  
+STDERR: 901
+Okt 16, 2014 3:38:02 PM  
+STDERR: 906
+Okt 16, 2014 3:38:02 PM  
+STDERR: 911
+Okt 16, 2014 3:38:03 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿0
+Okt 16, 2014 3:38:03 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿0
+Okt 16, 2014 3:38:03 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿0*
+Okt 16, 2014 3:40:01 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:40:01 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:40:01 PM  
+STDERR: 883
+Okt 16, 2014 3:40:01 PM  
+STDERR: 885
+Okt 16, 2014 3:40:01 PM  
+STDERR: 901
+Okt 16, 2014 3:40:01 PM  
+STDERR: 906
+Okt 16, 2014 3:40:01 PM  
+STDERR: 911
+Okt 16, 2014 3:40:02 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿0
+Okt 16, 2014 3:40:02 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿0
+Okt 16, 2014 3:40:02 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿0*
+Okt 16, 2014 3:42:01 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:42:01 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:42:01 PM  
+STDERR: 883
+Okt 16, 2014 3:42:01 PM  
+STDERR: 885
+Okt 16, 2014 3:42:01 PM  
+STDERR: 901
+Okt 16, 2014 3:42:01 PM  
+STDERR: 906
+Okt 16, 2014 3:42:01 PM  
+STDERR: 911
+Okt 16, 2014 3:42:02 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿1
+Okt 16, 2014 3:42:02 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿1
+Okt 16, 2014 3:42:02 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿1*
+Okt 16, 2014 3:42:02 PM  
+STDERR: Warenwirtschaft: lexware
+Okt 16, 2014 3:42:02 PM  
+STDERR: Shopsystem gem. conf.xml: magento
+Okt 16, 2014 3:42:02 PM  
+STDERR: durchlaeufe laut conf.xml: 1
+Okt 16, 2014 3:42:02 PM  
+STDERR: *** From ReadCartridge: ***
+Okt 16, 2014 3:42:02 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:42:02 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:42:02 PM  
+STDERR: 883
+Okt 16, 2014 3:42:02 PM  
+STDERR: 885
+Okt 16, 2014 3:42:02 PM  
+STDERR: 901
+Okt 16, 2014 3:42:02 PM  
+STDERR: 906
+Okt 16, 2014 3:42:02 PM  
+STDERR: 911
+Okt 16, 2014 3:42:02 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿1
+Okt 16, 2014 3:42:02 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿1
+Okt 16, 2014 3:42:02 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿1*
+Okt 16, 2014 3:42:02 PM  
+STDERR: BestellungenImport Anzahl abzurufender Bestellungen: 1 Split 1 durchlaeufe = 1
+Okt 16, 2014 3:42:02 PM  
+STDERR: 888 Einzelbestellabruf mit url=http://www.pyua.de/dmc_mag_2014s/dmconnector_export.php?action=orders_export&user=dmc&password=dmc1308
+Okt 16, 2014 3:42:02 PM  
+STDERR: Durchlauf = 1
+Okt 16, 2014 3:42:04 PM  
+STDERR: xmlFile./temp/temp.xml
+Okt 16, 2014 3:42:04 PM  
+STDERR: xslFile./conf/cartridges/cartridge_import_kunden.xml
+Okt 16, 2014 3:42:04 PM  
+STDERR: writeToXML... alt=./temp/temp.xml trans=./conf/cartridges/magento2temp.xsl zu ./temp/magento_temp.xml
+Okt 16, 2014 3:42:05 PM  
+STDERR: ... transformiert...
+Okt 16, 2014 3:42:05 PM  
+STDERR: 1626./conf/cartridges/order_import_csv.xml
+Okt 16, 2014 3:42:05 PM  
+STDERR: ** Zeile (1)WebShop_K->CUSTOMER_ID->->->BILLINGADDRESS_TITLE->BILLINGADDRESS_NAME4->BILLINGADDRESS_STREET->BILLINGADDRESS_ZIP->BILLINGADDRESS_CITY->BILLINGADDRESS_PHONE->CUSTOMER_TAX_PERCENT->->BILLINGADDRESS_EMAIL->BILLINGADDRESS_COUNTRY_CODE->PAYMENTMETHOD->->->->->->->PAYMENT_METHOD_ID->->
+Okt 16, 2014 3:42:05 PM  
+STDERR: 1968 Anzahl Zeilen in Konfigurationsdatei 1: 1
+Okt 16, 2014 3:42:05 PM  
+STDERR: Datei 122 Spalten parsen
+Okt 16, 2014 3:42:05 PM  
+STDERR: 2011 Anzahl Zeilen in Konfigurationsdatei 2: 1
+Okt 16, 2014 3:42:05 PM  
+STDERR: 2014 Zeile: 01
+Okt 16, 2014 3:42:05 PM  
+STDERR: Keine Position in Zeile Nr. 0: H->Web_Pyua->->ORDERS->->->->->ORDER_CID->ORDERS_YYYYMMDD->->->->->->CUSTOMER_ID->->->->->->->->EUR->->->->->->->->->->0->->->->->->->->->->PAYMENT_METHOD_ID->->OS via pyua_de->->SHIPPING_TOTAL_NET->SHIPPING_METHOD->->->0 .
+Okt 16, 2014 3:42:05 PM  
+STDERR: Datei 2 -> 52 Spalten parsen
+Okt 16, 2014 3:42:05 PM  
+STDERR: 2014 Zeile: 11
+Okt 16, 2014 3:42:05 PM  
+STDERR: Keine Position in Zeile Nr. 1: ANL->SHIPPINGADDRESS_PYUA->SHIPPINGADDRESS_NAME3->->SHIPPINGADDRESS_STREET->->SHIPPINGADDRESS_COUNTRY_CODE->SHIPPINGADDRESS_ZIP->SHIPPINGADDRESS_CITY->SHIPPINGADDRESS_EMAIL->SHIPPINGADDRESS_PHONE->->->->->->->->->->->->->->->CUSTOMER_TAX_ID .
+Okt 16, 2014 3:42:05 PM  
+STDERR: Datei 2 -> 26 Spalten parsen
+Okt 16, 2014 3:42:05 PM  
+STDERR: 2014 Zeile: 21
+Okt 16, 2014 3:42:05 PM  
+STDERR: Keine Position in Zeile Nr. 2: ANR->BILLINGADDRESS_PYUA->BILLINGADDRESS_NAME3->->BILLINGADDRESS_STREET->->SHIPPINGADDRESS_COUNTRY_CODE->BILLINGADDRESS_ZIP->BILLINGADDRESS_CITY->BILLINGADDRESS_EMAIL->BILLINGADDRESS_PHONE->->->->->->->->->->->->->->->CUSTOMER_TAX_ID .
+Okt 16, 2014 3:42:05 PM  
+STDERR: Datei 2 -> 26 Spalten parsen
+Okt 16, 2014 3:42:05 PM  
+STDERR: 2014 Zeile: 31
+Okt 16, 2014 3:42:05 PM  
+STDERR: 2016 ProduktZeile 
+Okt 16, 2014 3:42:05 PM  
+STDERR: 2021 Anzahl Produkte (Datei 2) = 1
+Okt 16, 2014 3:42:05 PM  
+STDERR: 2013 Anzahl Spalten fuer Produkt Nr (0) = 56
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = P
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = ORDERS
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = ORDERS_YYYYMMDD
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = ORDERS_YYYYMMDD
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = EUR
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = PRODUCTS_POS
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = PRODUCTS_MODEL
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = PRODUCTS_QUANTITY
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = PRODUCTS_PRICE_NET
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = PRODUCTS_PRICE_GROS
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = 120
+Okt 16, 2014 3:42:05 PM  
+STDERR: TAGS suchen fuer Spalte  = PRODUCTS_PRICE_GROS
+Okt 16, 2014 3:42:05 PM  
+STDERR: exportAction = ErpDetails -> Mode  bzw. null fuer WaWi =easywinart
+Okt 16, 2014 3:42:05 PM  
+STDERR: getNewestFile - pathToFolder ./csv kennung .csv
+Okt 16, 2014 3:42:05 PM  
+STDERR: Verbindung zur Datenbank wurde hergestellt.
+Okt 16, 2014 3:42:05 PM  
+STDERR: (JDBC) Datenbanktreiber org.relique.jdbc.csv.CsvDriver
+Okt 16, 2014 3:42:05 PM  
+STDERR: Warenwirtschaft: lexware
+Okt 16, 2014 3:42:05 PM  
+STDERR: Shopsystem: ystem=magento
+Okt 16, 2014 3:42:05 PM  
+STDERR: Cartridge: cartridge_csv.xml
+Okt 16, 2014 3:42:05 PM  
+STDERR: Auswahl=50
+Okt 16, 2014 3:42:05 PM  
+STDERR:  SQL Konfigurationsdatei einlesen=./conf/cartridges/cartridge_csv.xml
+Okt 16, 2014 3:42:05 PM  
+STDERR:  SQL Konfigurationsdatei gelesen
+Okt 16, 2014 3:42:05 PM  
+STDERR:  ErpDetails 1275
+Okt 16, 2014 3:42:05 PM  
+STDERR: Statements ermitteln Ende
+Okt 16, 2014 3:42:05 PM  
+STDERR: Statements ausfuehren 
+Okt 16, 2014 3:42:05 PM  
+STDERR: Zeit und Datum : 16.10.2014 15:42:05/
+Okt 16, 2014 3:42:05 PM  
+STDERR: Daten zum Senden vorbereitet action=Status&user=dmc&password=dmc1308&Status=ErpDetails_end
+Okt 16, 2014 3:42:05 PM  
+STDERR: Uebertragung erfolgt an den Shop: http://www.pyua.de/dmc_mag_2014s/dmconnector_magento.php
+Okt 16, 2014 3:42:06 PM  
+STDERR: ﻿﻿
+Okt 16, 2014 3:42:06 PM  
+STDERR: 	
+Okt 16, 2014 3:42:06 PM  
+STDERR: 		
+Okt 16, 2014 3:42:06 PM  
+STDERR: 		
+Okt 16, 2014 3:42:06 PM  
+STDERR: 		
+Okt 16, 2014 3:42:06 PM  
+STDERR: 	﻿	﻿
+Okt 16, 2014 3:42:06 PM  
+STDERR: null
+Okt 16, 2014 3:42:06 PM  
+STDERR: Daten zum Senden vorbereitet action=Status&user=dmc&password=dmc1308&Status=ErpDetails_details_end
+Okt 16, 2014 3:42:06 PM  
+STDERR: Uebertragung erfolgt an den Shop: http://www.pyua.de/dmc_mag_2014s/dmconnector_magento.php
+Okt 16, 2014 3:42:07 PM  
+STDERR: ﻿﻿
+Okt 16, 2014 3:42:07 PM  
+STDERR: 	
+Okt 16, 2014 3:42:07 PM  
+STDERR: 		
+Okt 16, 2014 3:42:07 PM  
+STDERR: 		
+Okt 16, 2014 3:42:07 PM  
+STDERR: 		
+Okt 16, 2014 3:42:07 PM  
+STDERR: 	﻿	﻿
+Okt 16, 2014 3:42:07 PM  
+STDERR: null
+Okt 16, 2014 3:42:07 PM  
+STDERR: ****************
+Uebertragung abgeschlossen.
+Okt 16, 2014 3:42:07 PM  
+STDERR: Vergangene Zeit: 1 Sekunden
+Okt 16, 2014 3:44:01 PM  
+STDERR: 269 Bestellanzahlabfrage Antwort vom Shop:
+Okt 16, 2014 3:44:01 PM  
+STDERR: 863 dataRequest
+Okt 16, 2014 3:44:01 PM  
+STDERR: 883
+Okt 16, 2014 3:44:01 PM  
+STDERR: 885
+Okt 16, 2014 3:44:01 PM  
+STDERR: 901
+Okt 16, 2014 3:44:01 PM  
+STDERR: 906
+Okt 16, 2014 3:44:02 PM  
+STDERR: 911
+Okt 16, 2014 3:44:02 PM  
+STDERR: 940 mit response=﻿﻿								﻿	﻿0
+Okt 16, 2014 3:44:02 PM  
+STDERR: 271 Bestellanzahlabfrage Antwort vom Shop: ﻿﻿								﻿	﻿0
+Okt 16, 2014 3:44:02 PM  
+STDERR: 287 Bereinigt: *﻿﻿								﻿	﻿0*

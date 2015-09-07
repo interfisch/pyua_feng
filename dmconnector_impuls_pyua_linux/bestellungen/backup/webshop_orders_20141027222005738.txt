@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000166	20141027						2000086								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Swantje Becker-Friedrich			Herxheimerstr.1		DE	67273 	Dackenheim	christian-swantje@t-online.de																1
+ANR	 Swantje Becker-Friedrich			Herxheimerstr.1		DE	67273 	Dackenheim	christian-swantje@t-online.de																1
+P			ORDERS								20141027	20141027											EUR	1	4250804713422			1		462,14	549,9466									120															549,9466

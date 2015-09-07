@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000854	20150120						2000655								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Erika Authried			Filosofhaven 3, 2.tv		DK	5000	Odense	erika.authried@yahoo.com																1
+ANR	 Erika Authried			Filosofhaven 3, 2.tv		DK	5000	Odense	erika.authried@yahoo.com																1
+P			ORDERS								20150120	20150120											EUR	1	4250804719523			1		50,38	59,9522									120															59,9522

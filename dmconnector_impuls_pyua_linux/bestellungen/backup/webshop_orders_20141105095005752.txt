@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000211	20141105						2000128								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Alina Höncke	media4motion Werbeagentur GmbH		Hamburger Landstraße 10		DE	24113	Molfsee	hoencke@media4motion.com																1
+ANR	 Alina Höncke			Hamburger Chaussee 15		DE	24114	Kiel	hoencke@media4motion.com	015120723143															1
+P			ORDERS								20141105	20141105											EUR	1	4250804706851			1		83,99	49,97405									120															49,97405

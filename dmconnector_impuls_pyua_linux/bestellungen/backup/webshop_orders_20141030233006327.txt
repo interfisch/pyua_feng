@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000187	20141030						2000056								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sebastian Rossee			Egenolffstraße 19		DE	60316	Frankfurt	s.rossee@me.com																1
+ANR	 Sebastian Rossee			Egenolffstraße 19		DE	60316	Frankfurt	s.rossee@me.com																1
+P			ORDERS								20141030	20141030											EUR	1	4250804714313			1		294,08	174,9776									120															174,9776
+P			ORDERS								20141030	20141030											EUR	2	4250804714320			1		294,07	174,97165									120															174,97165
+P			ORDERS								20141030	20141030											EUR	3	4250804720567			1		142,82	84,9779									120															84,9779

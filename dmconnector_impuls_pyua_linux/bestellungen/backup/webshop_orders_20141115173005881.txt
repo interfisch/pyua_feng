@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000341	20141115						2000250								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Raphael Kammer			Alstertwiete 9		DE	20099	Hamburg	heidemarie.kammer@me.com	015115775176															1
+ANR	 Heidemarie Kammer			Timmermannsredder 19		DE	22175	Hamburg	heidemarie.kammer@me.com	015115775176															1
+P			ORDERS								20141115	20141115											EUR	1	4250804713743			1		420,13	199,98188									120															199,98188
+P			ORDERS								20141115	20141115											EUR	2	4250804713293			1		420,12	199,97712									120															199,97712
+P			ORDERS								20141115	20141115											EUR	3	4250804716478			1		193,24	91,98224									120															91,98224

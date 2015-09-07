@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000481	20141127						2000357								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Florian Harenberg			Am Felsenkeller 8		DE	31848	Bad Münder	flori1896@googlemail.com																1
+ANR	 Florian Harenberg			Am Felsenkeller 8		DE	31848	Bad Münder	flori1896@googlemail.com																1
+P			ORDERS								20141127	20141127											EUR	1	4250804704215			1		42,02	50,0038									120															50,0038
+P			ORDERS								20141127	20141127											EUR	2	4250804704222			1		42,01	49,9919									120															49,9919
+P			ORDERS								20141127	20141127											EUR	3	4250804719783			1		16,81	20,0039									120															20,0039

@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000588	20141201						2000451								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Wulff	Stadtwerke Brunsbüttel		Eddelaker Straße 123d		DE	25541	Brunsbüttel	nadine.nehls@web.de																1
+ANR	 Nadine Nehls			Jungmannstrasse 62		DE	24105	Kiel	nadine.nehls@web.de																1
+P			ORDERS								20141201	20141201											EUR	1	4250804713422			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141201	20141201											EUR	2	4250804720529			1		142,82	67,98232									120															67,98232
+P			ORDERS								20141201	20141201											EUR	3	4250804720215			1		142,81	67,97756									120															67,97756

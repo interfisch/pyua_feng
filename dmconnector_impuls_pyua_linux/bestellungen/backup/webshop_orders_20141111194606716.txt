@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000242	20141111						2000160								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 clemens thalmeier			adenauerring 32		DE	84405	dorfen	clemens_thalmeier@yahoo.de																1
+ANR	 clemens thalmeier			adenauerring 32		DE	84405	dorfen	clemens_thalmeier@yahoo.de																1
+P			ORDERS								20141111	20141111											EUR	1	4250804713262			1		420,13	199,98188									120															199,98188
+P			ORDERS								20141111	20141111											EUR	2	4250804713415			1		462,14	219,97864									120															219,97864

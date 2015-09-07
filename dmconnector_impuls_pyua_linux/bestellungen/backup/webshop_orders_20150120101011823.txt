@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000852	20150120						2000653								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Philipp Zimmermann			Teplitzer Str. 42		DE	09623	Frauenstein	ph_zimmermann@web.de																1
+ANR	 Philipp Zimmermann			Teplitzer Str. 42		DE	09623	Frauenstein	ph_zimmermann@web.de																1
+P			ORDERS								20150120	20150120											EUR	1	4250804717567			1		74,79	89,0001									120															89,0001

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000205	20141103						2000124								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Andreas Wiedemann			Römerstraße 53		DE	69115	Heidelberg	wiedemann.a@gmail.com																1
+ANR	 Andreas Wiedemann			Römerstraße 53		DE	69115	Heidelberg	wiedemann.a@gmail.com																1
+P			ORDERS								20141103	20141103											EUR	1	4250804717239			1		210,04	249,9476									120															249,9476

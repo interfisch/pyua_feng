@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000777	20141230						2000600								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 michael schroeder			langenfelde 100		DE	24159	kiel	mitch28@gmx.net	01713216257															1
+ANR	 michael schroeder			langenfelde 100		DE	24159	kiel	mitch28@gmx.net	01713216257															1
+P			ORDERS								20141230	20141230											EUR	1	4250804713378			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141230	20141230											EUR	2	4250804717321			1		193,24	91,98224									120															91,98224

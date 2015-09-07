@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001035	20150306						2000789								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martin Böneker			Bergholzweg 13		DE	90518	Altdorf	martinboeneker@gmx.de																1
+ANR	 Martin Böneker			Bergholzweg 13		DE	90518	Altdorf	martinboeneker@gmx.de																1
+P			ORDERS								20150306	20150306											EUR	1	4250804719950			1		109,2	44,18232									120															44,18232

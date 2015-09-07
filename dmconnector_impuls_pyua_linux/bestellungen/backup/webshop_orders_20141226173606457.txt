@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000766	20141226						2000591								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marc Dorn			Belchenstr. 28		DE	76275	Ettlingen	Marc.Dorn@live.de																1
+ANR	 Marc Dorn			Belchenstr. 28		DE	76275	Ettlingen	Marc.Dorn@live.de																1
+P			ORDERS								20141226	20141226											EUR	1	4250804715082			1		336,09	399,9471									120															399,9471

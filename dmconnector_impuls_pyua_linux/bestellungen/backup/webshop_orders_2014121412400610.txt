@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000700	20141214						2000538								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Stella Dzanic			Uhlbacher Straﬂe 70/1		DE	70329	Stuttgart	stressline@googlemail.com																1
+ANR	 Stella Dzanic			Uhlbacher Straﬂe 70/1		DE	70329	Stuttgart	stressline@googlemail.com																1
+P			ORDERS								20141214	20141214											EUR	1	4250494010719			1		21,01	25,0019									120															25,0019

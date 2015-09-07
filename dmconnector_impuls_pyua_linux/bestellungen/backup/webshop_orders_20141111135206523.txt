@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000230	20141111						2000151								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ferdinand Reitze	HelliVentures Filmproduktion GmbH		Thalkirchnerstr. 58		DE	80337	München	ferdinand.reitze@gmx.de																1
+ANR	 Ferdinand Reitze			Ludwig-Wilhelm-Str. 12		DE	76131	Karlsruhe	ferdinand.reitze@gmx.de																1
+P			ORDERS								20141111	20141111											EUR	1	4250494021746			1		29,41	13,99916									120															13,99916
+P			ORDERS								20141111	20141111											EUR	2	4250494020909			1		29,41	13,99916									120															13,99916

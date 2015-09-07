@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000204	20141103						2000123								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marie Benna	mgm technology partners GmbH		Frankfurter Ring 105a		DE	80807	München	marie-sohpie.benna@web.de																1
+ANR	 Marie Benna			Schmalkaldener Straße 40		DE	80807	München	marie-sohpie.benna@web.de																1
+P			ORDERS								20141103	20141103											EUR	1	4250804713576			1		462,14	274,9733									120															274,9733
+P			ORDERS								20141103	20141103											EUR	2	4250804716423			1		193,24	114,9778									120															114,9778
+P			ORDERS								20141103	20141103											EUR	3	4250804721090			1		37,77	22,47315									120															22,47315

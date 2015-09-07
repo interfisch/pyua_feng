@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000164	20141027						2000080								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Sandra Rollbühler			Joh.-Heinrich-Priester-Str. 21		DE	74564	Crailsheim	rollsand@gmail.com																1
+ANR	 Sandra Rollbühler			Joh.-Heinrich-Priester-Str. 21		DE	74564	Crailsheim	rollsand@gmail.com																1
+P			ORDERS								20141027	20141027											EUR	1	4250804720987			1		193,24	160,96892									120															160,96892

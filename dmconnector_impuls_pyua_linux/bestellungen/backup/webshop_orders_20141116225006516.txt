@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000364	20141116						2000269								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Stefan Hemming			Humperdinckstraﬂe 6		DE	60598	Frankfurt am Main	stefan.hemming@gmail.com	0171 4202999															1
+ANR	 Stefan Hemming			Humperdinckstraﬂe 6		DE	60598	Frankfurt am Main	stefan.hemming@gmail.com	0171 4202999															1
+P			ORDERS								20141116	20141116											EUR	1	4250804720758			1		189,06	224,9814									120															224,9814
+P			ORDERS								20141116	20141116											EUR	2	4250804720857			1		126,03	149,9757									120															149,9757

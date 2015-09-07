@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000228	20141111						2000149								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Marc Aurel Kiefer			Lachnerstr. 4		DE	76131	Karlsruhe	marcaurelkiefer@gmx.de																1
+ANR	 Marc Aurel Kiefer			Lachnerstr. 4		DE	76131	Karlsruhe	marcaurelkiefer@gmx.de																1
+P			ORDERS								20141111	20141111											EUR	1	4250804720567			1		142,82	67,98232									120															67,98232

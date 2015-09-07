@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100001162	20150819						2000694								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Liesel Löffel			Fusshain 32A		DE	61197	Florstadt	michael.dickenberger@arcor.de	060355148															1
+ANR	 Michael Dickenberger			Wickstädter Str. 58		DE	61197	Florstadt	michael.dickenberger@arcor.de	06035967222															1
+P			ORDERS								20150819	20150819											EUR	1	4250494010085			1		24,37	14,50015									120															14,50015
+P			ORDERS								20150819	20150819											EUR	2	4250494009980			1		24,37	14,50015									120															14,50015
+P			ORDERS								20150819	20150819											EUR	3	4250494009935			1		24,37	14,50015									120															14,50015
+P			ORDERS								20150819	20150819											EUR	4	4250494010184			1		24,37	14,50015									120															14,50015

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000415	20141122						2000310								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 David Wallner			Singoldstraﬂe 6		DE	86165	Augsburg	david.wallner@gmx.de																1
+ANR	 David Wallner			Singoldstraﬂe 6		DE	86165	Augsburg	david.wallner@gmx.de																1
+P			ORDERS								20141122	20141122											EUR	1	4250804718977			1		46,22	55,0018									120															55,0018

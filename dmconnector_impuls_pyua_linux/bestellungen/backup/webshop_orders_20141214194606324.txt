@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000706	20141214						2000312								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Dirk Höwekenmeier			Gleueler Str. 198		DE	50935	Köln	mail@dirk-hoewekenmeier.de	0170 3526280															1
+ANR	 Dirk Höwekenmeier			Gleueler Str. 198		DE	50935	Köln	mail@dirk-hoewekenmeier.de	0170 3526280															1
+P			ORDERS								20141214	20141214											EUR	1	4250804720543			1		71,43	85,0017									120															85,0017
+P			ORDERS								20141214	20141214											EUR	2	4250804720536			1		71,43	85,0017									120															85,0017

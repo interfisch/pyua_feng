@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000908	20150127						2000698								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martin Schlögl (Xumbalu)			Münchner Str. 52-54		DE	85221	Dachau	martinschloegl393@gmail.com																1
+ANR	 Martin Schlögl (Xumbalu)			Münchner Str. 52-54		DE	85221	Dachau	martinschloegl393@gmail.com																1
+P			ORDERS								20150127	20150127											EUR	1	4250494020794			1		24,37	29,0003									120															29,0003

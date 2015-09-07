@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000260	20141112						2000181								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martin Obrecht			Vorholzstraﬂe 14		DE	76137	Karlsruhe	obrecht.martin@gmail.com																1
+ANR	 Martin Obrecht			Vorholzstraﬂe 14		DE	76137	Karlsruhe	obrecht.martin@gmail.com																1
+P			ORDERS								20141112	20141112											EUR	1	4250494020282			1		21,01	10,00076									120															10,00076
+P			ORDERS								20141112	20141112											EUR	2	4250804721120			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141112	20141112											EUR	3	4250804719271			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141112	20141112											EUR	4	4250494021142			1		21	9,996									120															9,996

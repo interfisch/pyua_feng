@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000353	20141116						2000262								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Holger Kohlschmidt			Sonnenhöhe 26		DE	24223	Schwentinental	famkohlschmidt@freenet.de	04307/6766															1
+ANR	 Holger Kohlschmidt			Sonnenhöhe 26		DE	24223	Schwentinental	famkohlschmidt@freenet.de	04307/6766															1
+P			ORDERS								20141116	20141116											EUR	1	4250804714085			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141116	20141116											EUR	2	4250804720581			1		142,82	67,98232									120															67,98232
+P			ORDERS								20141116	20141116											EUR	3	4250804717239			1		210,04	99,97904									120															99,97904

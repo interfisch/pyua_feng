@@ -1,0 +1,1378 @@
+
+***********************************************************************
+******************* dmconnector export 20140826165424 ****
+************************************************************************
+ DEBUGGER=50user authentification Access denied for /dmc#1308 Error=:
+ SoapFault exception: [6] Required parameter is missing, for more details see "exception.log". in /var/www/pyua/dmc_mag_2014s/dmconnector_export.php:110
+Stack trace:
+#0 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(110): SoapClient->__call('login', Array)
+#1 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(110): SoapClient->login(NULL, 'dmc#1308')
+#2 {main} 
+action:  zugriff .
+dmcExport
+***********************************************************************
+******************* dmconnector export 20140826171749 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :b0b8b00925e6d40c7ba25eabeffe5615action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session b0b8b00925e6d40c7ba25eabeffe5615 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=b0b8b00925e6d40c7ba25eabeffe5615
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140826181126 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :9951b413805a87217a457a74a6836b84action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 9951b413805a87217a457a74a6836b84 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=9951b413805a87217a457a74a6836b84
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140826181812 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :4a9d200e3c1bf4a55d46d2975398dc38action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 4a9d200e3c1bf4a55d46d2975398dc38 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=4a9d200e3c1bf4a55d46d2975398dc38
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140826182223 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :5a6048740d3851ebde26513f3b47baddaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 5a6048740d3851ebde26513f3b47badd ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=5a6048740d3851ebde26513f3b47badd
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140826182443 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :b82dc09a74a04b37902c01c4363da039action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session b82dc09a74a04b37902c01c4363da039 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=b82dc09a74a04b37902c01c4363da039
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140826182807 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :9e115acd913373bc69e8ee5f1046f43eaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 9e115acd913373bc69e8ee5f1046f43e ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=9e115acd913373bc69e8ee5f1046f43e
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140826183006 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :296fc0d29052c42aedb276ce4c5f47c4action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 296fc0d29052c42aedb276ce4c5f47c4 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=296fc0d29052c42aedb276ce4c5f47c4
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140826183012 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :092828ce458aeb7bec4ce4c958616780action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 092828ce458aeb7bec4ce4c958616780 ... Anzahl der Bestellungen: *0*
+Anzahl Bestellungen: 0 und abzurufende Bestellungen laut Anfrage:1.
+dmcExport
+***********************************************************************
+******************* dmconnector export 20140826183339 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :e35af9e87666a3fd88b459430a87b5dfaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session e35af9e87666a3fd88b459430a87b5df ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=e35af9e87666a3fd88b459430a87b5df
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140827110007 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :e8019df1d275c38337daf2ed51f54454action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session e8019df1d275c38337daf2ed51f54454 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=e8019df1d275c38337daf2ed51f54454
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140827110807 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :2160b2909550eeea45e5d64091403ae4action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 2160b2909550eeea45e5d64091403ae4 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=2160b2909550eeea45e5d64091403ae4
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140827114207 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :c28bd2f8eff35e4ad8cd07a9fa50a857action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session c28bd2f8eff35e4ad8cd07a9fa50a857 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=c28bd2f8eff35e4ad8cd07a9fa50a857
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140827115006 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :5537f7e44faff2efc89dd34746756c86action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 5537f7e44faff2efc89dd34746756c86 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=5537f7e44faff2efc89dd34746756c86
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140827121006 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :866e1a8b8a0ac5fa9e3a421629d4ab82action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 866e1a8b8a0ac5fa9e3a421629d4ab82 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=866e1a8b8a0ac5fa9e3a421629d4ab82
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000065312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 142 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 143 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 144 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=418
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 145 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140827145806 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :f2742bd8575bff45f3e71dff0eaffd59action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session f2742bd8575bff45f3e71dff0eaffd59 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=f2742bd8575bff45f3e71dff0eaffd59
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000066312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 146 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140827164206 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :e107573c93ba999ff16e4150b0f0329eaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session e107573c93ba999ff16e4150b0f0329e ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=e107573c93ba999ff16e4150b0f0329e
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000067312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 147 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 388 und posende=402
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 377  und posende=26
+*** Zum BESTELLprodukt 148 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 149 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 394 und posende=404
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 150 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140827165408 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :b02d72bb6b5338aa68b6aa9a1721067faction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session b02d72bb6b5338aa68b6aa9a1721067f ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=b02d72bb6b5338aa68b6aa9a1721067f
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000068312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 151 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=417
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 152 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140827172207 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :b7f81bfcc5d5369e685c041e87c854f7action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session b7f81bfcc5d5369e685c041e87c854f7 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=b7f81bfcc5d5369e685c041e87c854f7
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000069312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 153 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 408 und posende=430
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 397  und posende=26
+*** Zum BESTELLprodukt 154 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140828091806 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :2c837a54a08898c7c7ad55019b148af3action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 2c837a54a08898c7c7ad55019b148af3 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=2c837a54a08898c7c7ad55019b148af3
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000069312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 153 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 408 und posende=430
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 397  und posende=26
+*** Zum BESTELLprodukt 154 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829160606 ****
+************************************************************************
+ DEBUGGER=50user authentification Access denied for dmc/dmc#1308 Error=:
+ SoapFault exception: [2] Zugang verweigert. in /var/www/pyua/dmc_mag_2014s/dmconnector_export.php:111
+Stack trace:
+#0 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(111): SoapClient->__call('login', Array)
+#1 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(111): SoapClient->login('dmc', 'dmc#1308')
+#2 {main} 
+action: orders_export zugriff .
+dmcExport
+***********************************************************************
+******************* dmconnector export 20140829160610 ****
+************************************************************************
+ DEBUGGER=50user authentification Access denied for dmc/dmc#1308 Error=:
+ SoapFault exception: [2] Zugang verweigert. in /var/www/pyua/dmc_mag_2014s/dmconnector_export.php:111
+Stack trace:
+#0 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(111): SoapClient->__call('login', Array)
+#1 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(111): SoapClient->login('dmc', 'dmc#1308')
+#2 {main} 
+action: orders_export zugriff .
+dmcExport
+***********************************************************************
+******************* dmconnector export 20140829160802 ****
+************************************************************************
+ DEBUGGER=50user authentification Access denied for dmc/dmc#1308 Error=:
+ SoapFault exception: [2] Zugang verweigert. in /var/www/pyua/dmc_mag_2014s/dmconnector_export.php:111
+Stack trace:
+#0 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(111): SoapClient->__call('login', Array)
+#1 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(111): SoapClient->login('dmc', 'dmc#1308')
+#2 {main} 
+action: orders_export zugriff .
+dmcExport
+***********************************************************************
+******************* dmconnector export 20140829161003 ****
+************************************************************************
+ DEBUGGER=50user authentification Access denied for dmc/dmc#1308 Error=:
+ SoapFault exception: [2] Zugang verweigert. in /var/www/pyua/dmc_mag_2014s/dmconnector_export.php:111
+Stack trace:
+#0 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(111): SoapClient->__call('login', Array)
+#1 /var/www/pyua/dmc_mag_2014s/dmconnector_export.php(111): SoapClient->login('dmc', 'dmc#1308')
+#2 {main} 
+action: orders_export zugriff .
+dmcExport
+***********************************************************************
+******************* dmconnector export 20140829161203 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :2697741f4be38d199f5d90c6ca05ecaaaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 2697741f4be38d199f5d90c6ca05ecaa ... Anzahl der Bestellungen: *12*
+Anzahl Bestellungen: 12 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 2 mit Session=2697741f4be38d199f5d90c6ca05ecaa
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 12
+
+order_list abgerufen mit 12 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000070312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 155 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=425
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 156 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829161403 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :befde5d3e068c4a6a8e37f9a93d4aaacaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session befde5d3e068c4a6a8e37f9a93d4aaac ... Anzahl der Bestellungen: *11*
+Anzahl Bestellungen: 11 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 2 mit Session=befde5d3e068c4a6a8e37f9a93d4aaac
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 11
+
+order_list abgerufen mit 11 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000071312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 157 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 387 und posende=404
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 376  und posende=26
+*** Zum BESTELLprodukt 158 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829161602 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :082b42b415a468221d1cbee40eff28a0action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 082b42b415a468221d1cbee40eff28a0 ... Anzahl der Bestellungen: *10*
+Anzahl Bestellungen: 10 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=082b42b415a468221d1cbee40eff28a0
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 10
+
+order_list abgerufen mit 10 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000072312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 159 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 416 und posende=439
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 405  und posende=26
+*** Zum BESTELLprodukt 160 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829161803 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :23b8ed52f6711508bda237173e848965action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 23b8ed52f6711508bda237173e848965 ... Anzahl der Bestellungen: *9*
+Anzahl Bestellungen: 9 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=23b8ed52f6711508bda237173e848965
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 9
+
+order_list abgerufen mit 9 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000073312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 161 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 416 und posende=445
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 405  und posende=26
+*** Zum BESTELLprodukt 162 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829162003 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :adf54956750e71d4a450a10c95ee790eaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session adf54956750e71d4a450a10c95ee790e ... Anzahl der Bestellungen: *8*
+Anzahl Bestellungen: 8 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=adf54956750e71d4a450a10c95ee790e
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 8
+
+order_list abgerufen mit 8 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000074312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 163 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 416 und posende=439
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 405  und posende=26
+*** Zum BESTELLprodukt 164 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829162203 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :3730f0178345b4689d6a98898aaa5c46action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 3730f0178345b4689d6a98898aaa5c46 ... Anzahl der Bestellungen: *7*
+Anzahl Bestellungen: 7 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=3730f0178345b4689d6a98898aaa5c46
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 7
+
+order_list abgerufen mit 7 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000075312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 165 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 379 und posende=403
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 368  und posende=26
+*** Zum BESTELLprodukt 166 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829162402 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :34af5ead8765a7656844c96806a0ec8daction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 34af5ead8765a7656844c96806a0ec8d ... Anzahl der Bestellungen: *6*
+Anzahl Bestellungen: 6 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=34af5ead8765a7656844c96806a0ec8d
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 6
+
+order_list abgerufen mit 6 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000076312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 167 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 416 und posende=446
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 405  und posende=26
+*** Zum BESTELLprodukt 168 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829162602 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :3fb58e04bd1c466a50cd943f076dcd4caction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 3fb58e04bd1c466a50cd943f076dcd4c ... Anzahl der Bestellungen: *6*
+Anzahl Bestellungen: 6 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=3fb58e04bd1c466a50cd943f076dcd4c
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 6
+
+order_list abgerufen mit 6 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000077312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 169 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 383 und posende=396
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 372  und posende=26
+*** Zum BESTELLprodukt 170 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 171 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 416 und posende=439
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 405  und posende=26
+*** Zum BESTELLprodukt 172 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 173 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 366 und posende=373
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 356  und posende=26
+*** Zum BESTELLprodukt 174 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829162803 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :51ad9c36a7b7bb39be6674050cce559daction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 51ad9c36a7b7bb39be6674050cce559d ... Anzahl der Bestellungen: *5*
+Anzahl Bestellungen: 5 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=51ad9c36a7b7bb39be6674050cce559d
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 5
+
+order_list abgerufen mit 5 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000078312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 175 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 391 und posende=413
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 380  und posende=26
+*** Zum BESTELLprodukt 176 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829163002 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :295b34faa777e2222e9e4155254e73aaaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 295b34faa777e2222e9e4155254e73aa ... Anzahl der Bestellungen: *4*
+Anzahl Bestellungen: 4 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=295b34faa777e2222e9e4155254e73aa
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 4
+
+order_list abgerufen mit 4 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000080312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 179 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 383 und posende=406
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 372  und posende=26
+*** Zum BESTELLprodukt 180 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829163203 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :300a3bfbb2c58adc4c3c30edec9a03f8action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 300a3bfbb2c58adc4c3c30edec9a03f8 ... Anzahl der Bestellungen: *2*
+Anzahl Bestellungen: 2 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=300a3bfbb2c58adc4c3c30edec9a03f8
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 2
+
+order_list abgerufen mit 2 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000081312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 181 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 383 und posende=396
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 372  und posende=26
+*** Zum BESTELLprodukt 182 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140829163403 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :df140083d32f1636297f941ac4b8eda5action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session df140083d32f1636297f941ac4b8eda5 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=df140083d32f1636297f941ac4b8eda5
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000084312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 191 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 408 und posende=428
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 397  und posende=26
+*** Zum BESTELLprodukt 192 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140831163803 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :50d982cf5b55ab3824f74bc6b9740803action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 50d982cf5b55ab3824f74bc6b9740803 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=50d982cf5b55ab3824f74bc6b9740803
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000087312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 221 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 416 und posende=439
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 405  und posende=26
+*** Zum BESTELLprodukt 222 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140902165003 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :a0d7caee89ace29a0731fc719641dc56action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session a0d7caee89ace29a0731fc719641dc56 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=a0d7caee89ace29a0731fc719641dc56
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000088312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 223 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 404 und posende=426
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 393  und posende=26
+*** Zum BESTELLprodukt 224 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140903135203 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :f2548f934d6b0072eea00407f13fcc64action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session f2548f934d6b0072eea00407f13fcc64 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=f2548f934d6b0072eea00407f13fcc64
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000089312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 225 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 367 und posende=380
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 356  und posende=26
+*** Zum BESTELLprodukt 226 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140903144603 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :cebec63c852f44b9975da810a1df7454action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session cebec63c852f44b9975da810a1df7454 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=cebec63c852f44b9975da810a1df7454
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000090312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 227 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 424 und posende=437
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 413  und posende=26
+*** Zum BESTELLprodukt 228 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140903173602 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :67e084eb32cf9b411d06e9900f136c2faction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 67e084eb32cf9b411d06e9900f136c2f ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=67e084eb32cf9b411d06e9900f136c2f
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000091312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 233 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 383 und posende=414
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 372  und posende=26
+*** Zum BESTELLprodukt 234 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140904095602 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :1cbab855c7b45fa8e0f67badd0c63accaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 1cbab855c7b45fa8e0f67badd0c63acc ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=1cbab855c7b45fa8e0f67badd0c63acc
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000092312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 235 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 379 und posende=409
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 368  und posende=26
+*** Zum BESTELLprodukt 236 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140904101402 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :db66c274c46df2730dfacac93ed719deaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session db66c274c46df2730dfacac93ed719de ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=db66c274c46df2730dfacac93ed719de
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000093312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 237 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 379 und posende=406
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 368  und posende=26
+*** Zum BESTELLprodukt 238 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140905104202 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :f3130153454b07460aa63a5a83aebaccaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session f3130153454b07460aa63a5a83aebacc ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=f3130153454b07460aa63a5a83aebacc
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000095312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 241 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 428 und posende=441
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 417  und posende=26
+*** Zum BESTELLprodukt 242 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140905104403 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :450a0064f8b694c5259137230ecf8dbaaction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 450a0064f8b694c5259137230ecf8dba ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=450a0064f8b694c5259137230ecf8dba
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000096312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 247 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 405 und posende=417
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 394  und posende=26
+*** Zum BESTELLprodukt 248 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140905113603 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :86945aa49cffded11b6d80ebf7538d7faction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 86945aa49cffded11b6d80ebf7538d7f ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=86945aa49cffded11b6d80ebf7538d7f
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000097312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 249 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 383 und posende=396
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 372  und posende=26
+*** Zum BESTELLprodukt 250 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140909202603 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :5b55e369d8401aa8e6a57b5200fefc6daction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 5b55e369d8401aa8e6a57b5200fefc6d ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=5b55e369d8401aa8e6a57b5200fefc6d
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000098312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 251 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 391 und posende=420
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 380  und posende=26
+*** Zum BESTELLprodukt 252 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140910134802 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :f8d3d7198f44a784536342cb8fab1da5action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session f8d3d7198f44a784536342cb8fab1da5 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=f8d3d7198f44a784536342cb8fab1da5
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000099312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 253 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 387 und posende=407
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 376  und posende=26
+*** Zum BESTELLprodukt 254 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140910135608 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :eb19e910234ff1792ad1f909823cc471action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session eb19e910234ff1792ad1f909823cc471 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=eb19e910234ff1792ad1f909823cc471
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000100312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 255 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 387 und posende=407
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 376  und posende=26
+*** Zum BESTELLprodukt 256 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140911112802 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :967ad6fdda474e35634261ca7560599baction: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 967ad6fdda474e35634261ca7560599b ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=967ad6fdda474e35634261ca7560599b
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000101312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 257 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=412
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 258 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140911120002 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :45f3c18a5ea4ae4d7dea2f0892e80561action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= pending/pending seit 2014-08-25 00:00:00 mit session 45f3c18a5ea4ae4d7dea2f0892e80561 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=45f3c18a5ea4ae4d7dea2f0892e80561
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='pending') AND store_id = 1 AND created_at > '2014-08-25 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000102312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 259 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 428 und posende=448
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 417  und posende=26
+*** Zum BESTELLprodukt 260 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to processingOrder Status updated to processing
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140911123602 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :5432f23c60aa1df423dee1350cae5478action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= processing/processing seit 2014-09-11 00:00:00 mit session 5432f23c60aa1df423dee1350cae5478 ... Anzahl der Bestellungen: *2*
+Anzahl Bestellungen: 2 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=5432f23c60aa1df423dee1350cae5478
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='processing') AND store_id = 1 AND created_at > '2014-09-11 00:00:00' --------->  Größe OrderList1: 2
+
+order_list abgerufen mit 2 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000101312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 257 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 395 und posende=412
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 384  und posende=26
+*** Zum BESTELLprodukt 258 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to completeOrder Status updated to complete
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140911123802 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :a4621c2639b1796354519aa9e1c29cc0action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= processing/processing seit 2014-09-11 00:00:00 mit session a4621c2639b1796354519aa9e1c29cc0 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=a4621c2639b1796354519aa9e1c29cc0
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='processing') AND store_id = 1 AND created_at > '2014-09-11 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000102312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 259 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 428 und posende=448
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 417  und posende=26
+*** Zum BESTELLprodukt 260 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to completeOrder Status updated to complete
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140916160603 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :94749ba5a19ee72aad508b31cf3496d6action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= processing/processing seit 2014-09-11 00:00:00 mit session 94749ba5a19ee72aad508b31cf3496d6 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=94749ba5a19ee72aad508b31cf3496d6
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='processing') AND store_id = 1 AND created_at > '2014-09-11 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000105312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 265 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 400 und posende=420
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 389  und posende=26
+*** Zum BESTELLprodukt 266 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to completeOrder Status updated to complete
+959 done 
+ dmcExport
+***********************************************************************
+******************* dmconnector export 20140922182003 ****
+************************************************************************
+ DEBUGGER=50api authentification, ->  get session token :61f765604b4ed941d0c05f7e2cede360action: orders_export zugriff 1.
+108
+*** checkOrders ***  mit Status= processing/processing seit 2014-09-11 00:00:00 mit session 61f765604b4ed941d0c05f7e2cede360 ... Anzahl der Bestellungen: *1*
+Anzahl Bestellungen: 1 und abzurufende Bestellungen laut Anfrage:1.
+AnzahlAbruf 1 mit Session=61f765604b4ed941d0c05f7e2cede360
+dmc_sql_select_value-SQL= SELECT * FROM  pyua_onlineshop_2649_sales_flat_order WHERE (status='processing') AND store_id = 1 AND created_at > '2014-09-11 00:00:00' --------->  Größe OrderList1: 1
+
+order_list abgerufen mit 1 Inhalten: 
+BEARBEITET WIRD Bestellung Nummer 0 mit increment_id 100000107312 - ANZAHL RECHNUNGEN/BESTELLUNGEN 1
+** dmc_xml_order **
+*** Zum BESTELLprodukt 269 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 371 und posende=395
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 360  und posende=26
+*** Zum BESTELLprodukt 270 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 271 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 380 und posende=409
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 369  und posende=26
+*** Zum BESTELLprodukt 272 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+*** Zum BESTELLprodukt 273 wurde kein Rechnungsprodukt gefunden.
+349 Aktuelle Position: 380 und posende=403
+362 Aktuelle Position: 9  und posende=26
+375 Aktuelle Position: 9  und posende=26
+ - Allgemeine Produktoptionen ermitteln -> Bez[0]: - id: value :info_buyRequest 
+383 Aktuelle Position: 369  und posende=26
+*** Zum BESTELLprodukt 274 wurde kein Rechnungsprodukt gefunden.
+383 Aktuelle Position:   und posende=26
+948 Update Order Status ? 950 to completeOrder Status updated to complete
+959 done 
+ 

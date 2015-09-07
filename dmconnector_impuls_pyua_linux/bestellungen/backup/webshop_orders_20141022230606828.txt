@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000154	20141022						2000052								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Erbeldinger			Im Rosengarten 22c		DE	64367	Mühltal OT Traisa	er_go@web.de	+49 6151 7805596															1
+ANR	 Thomas Erbeldinger			Im Rosengarten 22c		DE	64367	Mühltal OT Traisa	er_go@web.de	+49 6151 7805596															1
+P			ORDERS								20141022	20141022											EUR	1	4250804720574			1		142,82	118,96906									120															118,96906

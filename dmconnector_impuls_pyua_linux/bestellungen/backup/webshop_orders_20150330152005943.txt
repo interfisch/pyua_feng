@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001068	20150330						2000279								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Katrin  Kuhn	c/o Scholz&Friends		Litfass-Platz 1		DE	10178	Berlin	kjckuhn@gmail.com																1
+ANR	 Katrin Kuhn			Danziger Straﬂe 49		DE	10435	Berlin	kjckuhn@gmail.com	0172/8063691															1
+P			ORDERS								20150330	20150330											EUR	1	4250804721007			1		96,64	115,0016									120															115,0016

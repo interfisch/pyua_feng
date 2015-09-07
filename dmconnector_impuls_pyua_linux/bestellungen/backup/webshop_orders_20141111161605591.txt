@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000234	20141111						2000155								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sina Schmitt			Durlacher Allee 19		DE	76131	Karlsruhe	Sinatschka@gmail.com																1
+ANR	 Sina Schmitt			Durlacher Allee 19		DE	76131	Karlsruhe	Sinatschka@gmail.com																1
+P			ORDERS								20141111	20141111											EUR	1	4250804713569			1		462,14	219,97864									120															219,97864
+P			ORDERS								20141111	20141111											EUR	2	4250804719417			1		58,78	27,97928									120															27,97928
+P			ORDERS								20141111	20141111											EUR	3	4250804713576			1		462,15	219,9834									120															219,9834

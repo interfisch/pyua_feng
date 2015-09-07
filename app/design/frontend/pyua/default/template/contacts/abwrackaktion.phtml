@@ -1,0 +1,506 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     rwd_default
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+
+
+
+<?php 
+    ##
+    # Pruefen ob die Pflichtfelder auch gesetzt sind
+    ##
+    if($_POST['jacke'] > 0 || $_POST['hose'] > 0 || $_POST['midlayer'] > 0 || $_POST['fleece'] > 0){
+        if(isset($_POST['email']) && isset($_POST['name']) && !empty($_POST['email']) && !empty($_POST['name'])){
+            //root_id der einzelnen Elemente (GutscheinID)
+            $Jacke       =   18;
+            $Hose        =   19;
+            $Midlayer    =   20;
+            $Fleece      =   21;
+            $Key_praefix =   "";
+            $Keys        =   "";
+            $Arr         =   "";
+            $Email       =   $_POST['email'];
+
+            $EmailText   =  "
+                <br>wir freuen uns, dass Du an unserer Recycling-Aktion „Abwrackprämie“ teilnimmst.
+                <br>
+                <br>Hier sind Deine Gutscheine*:
+                <ol>
+                    [[CODES]]
+                </ol>
+                <br>Jeder Gutschein ist sofort und zeitlich unbefristet im PYUA Onlineshop für den Erwerb eines Kleidungsstücks derselben Art gültig. Du löst ihn einfach im Warenkorb beim normalen Bestellprozess ein.
+                <br>
+                <br>Sobald Du Dein Paket erhalten hast, schickst Du Deine alten Kleidungsstücke ganz bequem und kostenlos über das mitgelieferte Retourenformular an uns zurück. Dann können wir sie in unserem Closed-Loop-Recycling bestmöglich wiederverwerten.
+                <br>
+                <br>Aus technischen Gründen kann immer nur 1 Gutschein pro Bestellung eingelöst werden. Wir fassen dann natürlich alle Deine Bestellungen zu einer zusammen.
+                <br>Solltest Du noch Fragen zum Ablauf haben, wende Dich gerne an unseren Kundenservice unter 
+                <br>
+                <br>+49 (0)431 5708334-0 oder welcome@pyua.de.
+                <br>
+                <br>Viel Spaß mit Deiner neuen Ausrüstung!
+                <br>Dein PYUA-Team
+                <br>
+                <br>* Die Gutscheine gelten nur in dem PYUA Onlineshop der Sportsman’s Delight GmbH. Sie stellen keinen allgemeinen Warenwertgutschein dar, sondern gelten nur für den Kauf eines neuen PYUA-Kleidungsstücks. Eine Auszahlung des Gutscheinwertes ist ausgeschlossen. Jeder Gutschein für ein eingesandtes Kleidungsstück gilt nur im Zusammenhang mit dem Kauf eines entsprechenden neuen Kleidungsstücks gleicher Art (s. Angaben 1-4). Eine Kombination von mehreren Gutscheinen und/oder mit anderen Rabatt- und/oder Sonderaktionen ist ausgeschlossen. Gutscheine sind nicht übertragbar.
+            ";
+
+            $EmailDesign    = "
+                    <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">
+                    <html xmlns=\"http://www.w3.org/1999/xhtml\">
+                    <head><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\" />
+                    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>
+                    <title>Pyua Ecorrect Outerwear Newsletter Ausgabe #01</title>
+                    <style type=\"text/css\">
+                    html,body{background-color: #666;}
+                    img{border: 0px;border: 0px!important;}
+                    a{border: 0px;border: 0px!important;}
+                    table#wrapper{width: 511px;background-color: #fff;margin: 0 auto;font-family: helvetica;font-size: 11px;color: #666666;line-height: 1.2em;-webkit-border-radius: 50px 50px 0 0;-moz-border-radius: 50px 50px 0 0;border-radius: 50px 50px 0 0;-webkit-box-shadow: 0 0 5px 1px #515151;-moz-box-shadow: 0 0 5px 1px #515151;box-shadow: 0 0 5px 1px #515151;}
+                    hr{background-color: #747474;height: 2px;border-bottom: 1px solid #848484;border-top: 0;border-left: 0;border-right: 0;}
+                    h1{font-weight: bold;font-size: 13px;margin-bottom: 10px;}
+                    h2{font-weight: bold;font-size: 13px;margin-bottom: 10px;}
+                    table#wrapper tr td{padding: 12px;vertical-align: top;}
+                    table#wrapper tr td p{margin: 0;}
+                    table#wrapper tr td table tr td{padding: 0px;}
+                    img.alignleft{padding-right: 10px;}
+                    /*Style 01*/
+                    div.style01{background-color: #eeeeee;border: 1px solid #bbbbbb;padding: 10px;}
+                    div.style01 h1{background-color: #0075af;color: #fff;width: auto;padding: 10px;padding-bottom: 7px;}
+                    /*Style 02*/
+                    div.style02{background-color: #e4eaed;font-size: 9px;}
+                    div.style02 table{padding: 10px;}
+                    table#wrapper div.style02 table tr td.border-right{border-right: 1px solid #9fa3a5;padding-left: 5px;}
+                    table#wrapper div.style02 table tr td{vertical-align: middle;}
+                    table#wrapper div.style02 table tr td.leftpadding{padding-left: 0px!important;}
+                    table#wrapper div.style02 table tr td.leftpadding10{padding-left: 5px;}
+                    table#wrapper div.style02 table tr td.rightpadding{padding-right: 5px;}
+                    table#wrapper div.style02 table tr.darkbg td{background-color: #abb3b6;}
+                    /*Style 03*/
+                    div.style03 table{font-size: 9px;width: 100%;padding: 10px;background-color: #abb3b6;}
+                    a{color: #0075af;text-decoration: none;}
+                    a:hover{text-decoration: underline;}
+                    strong{font-weight: bold;color: #0075af;}
+                    div.header{margin-bottom: 10px;}
+                    table#wrapper div.header table tr div.borderbottom { border-bottom: 1px solid #b2b2b2; padding-bottom: 6px; padding-left: 10px; padding-top: 50px;width: 424px;}
+                    div.header img.paddingright{margin-left: 6px;padding-right: 2px;}
+                    div.header a{border-right: 1px solid #c1c1c1;color: #666666;font-size: 11px;padding-right: 4px;}
+                    div.header a.logo{display: block;padding: 0;border: 0;}
+                    div.header a:hover{text-decoration: none;}
+                     div.header a:hover{text-decoration: none;}
+                    </style>
+                    </head>
+                    <body>
+                    <table id=\"wrapper\">
+                        <tr>
+                            <td>                        
+                    <div class=\"header\">
+                    <table>
+                    <tr>
+                    <td>
+                    <a href=\"http://www.pyua.de\" class=\"logo\"><img src=\"http://www.pyua.de/newsletter/images/pyua-logo.jpg\" alt=\"PYUA Logo\" title=\"PYUA Logo\" /></a>
+                    </td>
+                    <td>
+                    <div class=\"borderbottom\">
+                    <a href=\"http://www.pyua.de/men\"><img src=\"http://www.pyua.de/newsletter/images/pyua-men.jpg\" alt=\"PYUA Men\" title=\"PYUA Men\" class=\"paddingright\" />MEN</a>
+                    <a href=\"http://www.pyua.de/women\"><img src=\"http://www.pyua.de/newsletter/images/pyua-women.jpg\" alt=\"PYUA Women\" title=\"PYUA Women\" class=\"paddingright\" />WOMEN</a>
+                    <a href=\"http://www.pyua.de/kundenservice\"><img src=\"http://www.pyua.de/newsletter/images/pyua-kundenservice.jpg\" alt=\"PYUA Kundenservice\" title=\"PYUA Kundenservice\" class=\"paddingright\" />KUNDENSERVICE</a>
+                    <a href=\"https://de-de.facebook.com/pyua.freeridesportswear\" style=\"padding-right: 0;border-right: 0;\"><img src=\"http://www.pyua.de/newsletter/images/pyua-facebook.jpg\" alt=\"PYUA Facebook\" title=\"PYUA Facebook\" class=\"paddingright\" />FACEBOOK</a>
+                    <div stye=\"clear:both;\"></div></div></td></tr></table>
+                    </div>          
+                    <div>   
+                    <a href=\"http://www.pyua.de/index.php\"><img src=\"http://www.pyua.de/M4M_Modules/img/header.png\" alt=\"PYUA o2 Rabatt Aktion\" width=\"100%\" title=\"PYUA o2 Rabatt Aktion\" /></a><br />
+                    <h1>Hallo ".$_POST['name'].",</h1>
+                    [[TEXT]]
+                    </div>      
+                    <div class=\"style01\">
+                    <div class=\"style02\">
+                    <table>
+                        <tr class=\"fixwidth\">
+                            <td class=\"border-right leftpadding\">Alle Bestellungen sind versandkostenfrei</td>
+                            <td class=\"border-right\">kein Mindestbestellwert &nbsp;</td>
+                            <td class=\"border-right\">Sicheres Bestellen & Bezahlen dank SSL-Verschl&uuml;sselung</td>
+                            <td class=\"leftpadding10\">Kostenfreie R&uuml;cksendung innerhalb von 14 Tagen</td>
+                        </tr>
+                        <tr><td colspan=\"4\"><img src=\"http://www.pyua.de/newsletter/images/linie.gif\" alt=\"Linie\" title=\"Linie\" width=\"489\" height=\"7px\"/></td></tr>
+                    <tr>
+                    <td colspan=\"1\" class=\"border-right leftpadding rightpadding\">
+                    <h2>Kundenservice</h2>
+                    PYUA Fulfillment<br />
+                    (Sportsman's Delight GmbH)<br />
+                    Am Kiel-Kanal 2, 24106 Kiel<br />
+                    </td>
+                    <td colspan=\"3\" class=\"leftpadding10\">
+                    <div class=\"style03\">
+                    Impressum:<br />Sportsman´s Delight GmbH (c/o PYUA)<br />Langer Segen 8-10 | 24105 Kiel<br />Gesch&auml;ftsf&uuml;hrer: Timo Perschke<br />
+                    Sitz der Gesellschaft Kiel | Amtsgericht Kiel, HRB 14571<br />Steuernummer: 99065/08701 | Umst.-ID: DE 815 380 610
+                    </div>
+                    </td>
+                    </tr>
+                    </table>
+                    </div>
+                        </tr>
+                    </table>
+                    </body></html>
+            ";
+
+            $Hinweis['jacke']       =   "<li> Gilt für folgende Modelle: Backyard(-Y), Twist(-Y), Beam(-Y), Barber Hauler(-Y).</li>";
+            $Hinweis['hose']        =   "<li> Gilt für folgende Modelle: Transition(-Y), Melt(-Y), Shine(-Y).</li>";
+            $Hinweis['midlayer']    =   "<li> Gilt für folgende Modelle: Tide(-Y), Sphere(-Y), Spark(-Y), Glow(-Y).</li>";
+            $Hinweis['fleece']      =   "<li> Gilt für folgende Modelle: Escape(-Y), Barrier ST(-Y), Barrier(-Y).</li>";
+
+            // Klasse einlesen    
+            include_once("M4M_Modules/gutscheinGenerate.php");
+            $cls = new GutscheinGenerate();
+
+            // Keys generieren
+            if(isset($_POST['jacke']) && $_POST['jacke'] > 0){
+                $code  =    $cls -> start(1, $Jacke, "NLJAC", "", 1, $_POST['jacke']);
+                $Keys  =    $Keys."<li>€ 100.- für Jacken: <b>".$code."</b> kann <b>".$_POST['jacke']."</b> mal verwendet werden</li>";
+                $Arr  .=    ",jacke";
+            }
+            if(isset($_POST['hose']) && $_POST['hose'] > 0){
+                $code  =    $cls -> start(1, $Hose, "NLHOSE", "", 1, $_POST['hose']);
+                $Keys  =    $Keys."<li>€ 80.- für Hosen: <b>".$code."</b> kann <b>".$_POST['hose']."</b> mal verwendet werden</li>";
+                $Arr  .=    ",hose";
+            }
+            if(isset($_POST['midlayer']) && $_POST['midlayer'] > 0){
+                $code  =    $cls -> start(1, $Midlayer, "NLMID", "", 1, $_POST['midlayer']);
+                $Keys  =    $Keys."<li>€ 50.- für Midlayer: <b>".$code."</b> kann <b>".$_POST['midlayer']."</b> mal verwendet werden</li>";
+                $Arr  .=    ",midlayer";
+            }
+            if(isset($_POST['fleece']) && $_POST['fleece'] > 0){
+                $code  =    $cls -> start(1, $Fleece, "NLFLE", "", 1, $_POST['fleece']);
+                $Keys  =    $Keys."<li>€ 35.- für Fleece: <b>".$code."</b> kann <b>".$_POST['fleece']."</b> mal verwendet werden</li>";
+                $Arr  .=    ",fleece";
+            }
+            // Email zusammenbauen und versenden
+            $EmailText      =   str_replace("[[CODES]]", $Keys, $EmailText);
+            $arrElem        =   explode(",",$Arr);
+            $Hinweistext    =   "<ol>";
+            foreach($arrElem as $k => $v){
+                if($v != ""){
+                    $Hinweistext .= $Hinweis[$v];
+                }
+            }
+            $Hinweistext .=   "</ol>";
+            $EmailDesign  =   str_replace("[[TEXT]]", $EmailText.$Hinweistext, $EmailDesign);
+
+            $cls -> setSendMail($Email, $EmailDesign);
+            // POST entfernen
+            $url = $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+            header("Location:http://".$url."?complete");
+            exit();
+        } else {
+            // POST entfernen
+            $url = $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+            header("Location:http://".$url."?error");
+            exit();
+        }
+    }
+?>
+
+<div id="messages_product_view"><?php echo $this->getMessagesBlock()->getGroupedHtml() ?></div>
+
+<?php if(isset($_GET['complete'])){ ?>
+    <ul class="messages"><li class="success-msg"><ul><li><span>Der Gutschein wurde ihnen per Mail zugesendet.</span></li></ul></li></ul>
+<?php } ?>
+<?php if(isset($_GET['error'])){ ?>
+    <ul class="messages"><li class="error-msg"><ul><li><span>Bitte geben sie Namen und E-Mail-Adresse an.</span></li></ul></li></ul>
+<?php } ?>
+
+<form action="<?php echo $this->getFormAction(); ?>" id="abwrackForm" method="post" class="scaffold-form">
+    <div class="fieldset">
+        <ul class="form-list">
+            <?php //Anzahl der Gutschein JACKE ?>
+            <li>
+                <div class="field intForm">
+                    <label for="jacke"><?php echo Mage::helper('contacts')->__('€ 100,- Jacken-Gutschein*') ?></label>
+                    <span class="hiddenHover">
+                        <strong>Dieser Gutschein gilt für:</strong>
+                        <i class="fa fa-caret-up"></i>
+                        <ul>
+                            <li> Backyard(-Y)</li>
+                            <li> Twist(-Y)</li>
+                            <li> Beam(-Y)</li>
+                            <li> Barber Hauler(-Y)</li>
+                        </ul>
+                    </span>
+                    <span class="label-description">Für deine alte Ski- oder Snowboardjacke </span>
+                    <span class="input-box hose">
+                        <i class="fa fa-minus-square" onclick="minus('jacke')"></i> 
+                        <input name="jacke" id="jackehide" type="hidden" value="0">
+                        <input id="jacke" class="required-entry input-box" type="text" value="0" disabled>
+                        <i class="fa fa-plus-square" onclick="plus('jacke')"></i> 
+                    </span>
+                    <span class="input-description">Anzahl Abwrackjacken </span>
+                </div>
+            </li> 
+            <?php //Anzahl der Gutschein HOSE ?>
+            <li>
+                <div class="field intForm">
+                    <label for="hose"><?php echo Mage::helper('contacts')->__('€ 80,- Hosen-Gutschein*') ?></label>
+                    <span class="hiddenHover">
+                        <strong>Dieser Gutschein gilt für:</strong>
+                        <i class="fa fa-caret-up"></i>
+                        <ul>
+                            <li> Transition(-Y)</li>
+                            <li> Melt(-Y)</li>
+                            <li> Shine(-Y)</li>
+                        </ul>
+                    </span>
+                    <span class="label-description">Für deine alte Ski- oder Snowboardhose </span>
+                    <span class="input-box hose">
+                        <i class="fa fa-minus-square" onclick="minus('hose')"></i> 
+                        <input name="hose" id="hosehide" type="hidden" value="0">
+                        <input id="hose" class="required-entry input-box" type="text" value="0" disabled>
+                        <i class="fa fa-plus-square" onclick="plus('hose')"></i> 
+                    </span>
+                    <span class="input-description">Anzahl Abwrackhosen </span>
+                </div>
+            </li><?php //Anzahl der Gutschein midlayer ?>
+            <li>
+                <div class="field intForm">
+                    <label for="midlayer"><?php echo Mage::helper('contacts')->__('€ 50,- Midlayer-Gutschein*') ?></label>
+                    <span class="hiddenHover">
+                        <strong>Dieser Gutschein gilt für:</strong>
+                        <i class="fa fa-caret-up"></i>
+                        <ul>
+                            <li> Tide(-Y)</li>
+                            <li> Sphere(-Y)</li>
+                            <li> Spark(-Y)</li>
+                            <li> Glow(-Y)</li>
+                        </ul>
+                    </span>
+                    <span class="label-description">Für deinen alten Midlayer </span>
+                    <span class="input-box midlayer">
+                        <i class="fa fa-minus-square" onclick="minus('midlayer')"></i> 
+                        <input name="midlayer" id="midlayerhide" type="hidden" value="0">
+                        <input id="midlayer" class="required-entry input-box" type="text" value="0" disabled>
+                        <i class="fa fa-plus-square" onclick="plus('midlayer')"></i> 
+                    </span>
+                    <span class="input-description">Anzahl Abwrackmidlayer </span>
+                </div>
+            </li> 
+            <?php //Anzahl der Gutschein FLEECE ?>
+            <li>
+                <div class="field intForm">
+                    <label for="fleece"><?php echo Mage::helper('contacts')->__('€ 35,- Fleece-Gutschein*') ?></label>
+                    <span class="hiddenHover">
+                        <strong>Dieser Gutschein gilt für:</strong>
+                        <i class="fa fa-caret-up"></i>
+                        <ul>
+                            <li> Escape(-Y)</li>
+                            <li> Barrier ST(-Y)</li>
+                            <li> Barrier(-Y)</li>
+                        </ul>
+                    </span>
+                    <span class="label-description">Für deinen alten Fleecepulli </span>
+                    <span class="input-box fleece">
+                        <i class="fa fa-minus-square" onclick="minus('fleece')"></i> 
+                        <input name="fleece" id="fleecehide" type="hidden" value="0">
+                        <input id="fleece" class="required-entry input-box" type="text" value="0" disabled>
+                        <i class="fa fa-plus-square" onclick="plus('fleece')"></i> 
+                    </span>
+                    <span class="input-description">Anzahl Abwrackfleece </span>
+                </div>
+            </li>  
+            <?php // EMAIL und NAME ?>
+            <li class="fields">
+                <div class="field">
+                    <label for="name" class="required"><?php echo Mage::helper('contacts')->__('Name') ?></label>
+                    <div class="input-box">
+                        <input name="name" id="name" title="<?php echo Mage::helper('contacts')->__('Name') ?>" value="<?php echo $this->escapeHtml($this->helper('contacts')->getUserName()) ?>" class="input-text required-entry" type="text" />
+                    </div>
+                </div>
+                <div class="field">
+                    <label for="email" class="required"><?php echo Mage::helper('contacts')->__('Email') ?></label>
+                    <div class="input-box">
+                        <input name="email" id="email" title="<?php echo Mage::helper('contacts')->__('Email') ?>" value="<?php echo $this->escapeHtml($this->helper('contacts')->getUserEmail()) ?>" class="input-text required-entry validate-email" type="email" autocapitalize="off" autocorrect="off" spellcheck="false" />
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="buttons-set">
+        <input type="text" name="hideit" id="hideit" value="" style="display:none !important;" />
+        <button type="submit" title="<?php echo Mage::helper('contacts')->__('Submit') ?>" class="button"><span><span><?php echo Mage::helper('contacts')->__('Submit') ?></span></span></button>
+    </div>
+</form>
+<p class="required"><?php echo Mage::helper('contacts')->__('* Die Gutscheine gelten nur im PYUA Onlineshop der Sportsman’s Delight GmbH. Sie stellen keinen allgemeinen Warenwertgutschein dar, sondern gelten nur für den Kauf eines neuen PYUA-Kleidungsstücks. Eine Auszahlung des Gutscheinwertes ist ausgeschlossen. Jeder Gutschein für ein eingesandtes Kleidungsstück gilt nur im Zusammenhang mit dem Kauf eines entsprechenden neuen Kleidungsstücks gleicher Art (s. Angaben 1-4). Eine Kombination von mehreren Gutscheinen und/oder mit anderen Rabatt- und/oder Sonderaktionen ist ausgeschlossen. Gutscheine sind nicht übertragbar.') ?></p>
+
+<script type="text/javascript">
+// hier kommen nachher die funktionen hin, welche ich für die plus/ minus funktion brauche.
+    function plus(target){
+        var value = parseInt(document.getElementById(target).value);
+        document.getElementById(target+"hide").value = value +1;
+        document.getElementById(target).value = value +1;
+    }
+    function minus(target){
+        var value = parseInt(document.getElementById(target).value);
+
+        if(value > 0 ){
+            document.getElementById(target+"hide").value = value -1;
+            document.getElementById(target).value = value -1;
+        }
+    }
+/*MyJQuery Code*/
+    $j(document).ready(function(){
+        /*Fade Elements*/
+        $j(".hiddenHover").css('display', 'block').hide();
+        $j("label[for=jacke], label[for=hose], label[for=midlayer], label[for=fleece]").mouseover(function(event) {
+            $j(this).parent().children(".hiddenHover").stop().fadeIn();
+            console.log("in");
+        }).mouseout(function(event) {
+            $j(this).parent().children(".hiddenHover").stop().fadeOut();
+        });
+    });
+</script>
+
+<style>
+    /*Positionierung Bild und Formular*/
+    #abwrackForm{
+        padding:    0px;
+        width:      400px;
+    }
+    .leftElement{
+        display:    inline-block;
+        float:      left;
+        width:      520px;
+    }
+    .rightElement{
+        display:    inline-block;
+        float:      left;
+        width:      220px;
+    }
+
+    /*Label*/
+    label[for=jacke],
+    label[for=hose],
+    label[for=midlayer],
+    label[for=fleece]{
+        color:          #0077b3;
+        font-size:      20px;
+        font-weight:    normal;
+        width:          290px;  
+        cursor:         pointer;         
+    }
+    span.label-description {
+        position: relative;
+        display: block;
+        float: left;
+        margin-top: -6px;
+        width: 300px;
+    }
+
+    
+
+    /*Auswahlformular*/
+    #jacke,
+    #hose, 
+    #midlayer, 
+    #fleece{
+        width: 24px;
+        height: 23px;
+        padding: 0px;
+        padding-top: 1px;
+        padding-left: 1px;
+        border-radius: 6px;
+        border: 1px solid #CFCFCF;
+        text-align: center;
+    }
+    .jacke,
+    .hose, 
+    .midlayer, 
+    .fleece{
+        position:       relative;
+        display:        inline-block;
+      /*float:          right;
+        margin-top:     -25px;*/
+        float:          left;
+        margin-left:    -29px;
+        margin-top:     -29px;
+    }
+    .jacke i,
+    .hose i, 
+    .midlayer i, 
+    .fleece i{
+        font-size:      25px;
+        /*color:          #0077b3;*/
+        color:          #CFCFCF;
+        vertical-align: middle;
+        cursor:         pointer;
+    }
+
+    span.input-description {
+        position: relative;
+        display: block;
+        float: right;
+        /*margin-top: -6px;
+        margin-right: -52px;*/
+        margin-top: -18px;
+        margin-right: -7px;
+        width: 141px;
+    }
+
+
+    /*Form Fields*/
+    .field.intForm {
+        margin-bottom: 30px !important;
+    }
+    label[for=name],
+    label[for=email]{
+        font-weight:    normal; 
+        
+    }
+    #name,
+    #email{
+        width:          400px !important;
+    }
+
+    /*CSS for hidden Elements*/
+    span.hiddenHover {
+        display:            none;
+        position:           absolute;
+        z-index:            999;
+        background-color:   rgba(255,255,255,0.8);
+        padding:            3px;
+        left:               191px;
+        width:              233px;
+        margin-top:         15px;
+        border-top:         1px solid rgba(0, 119, 179, 1);
+        border-bottom:      1px solid rgba(0, 119, 179, 1);
+    }
+
+    span.hiddenHover i.fa.fa-caret-up {
+        float: right;
+        margin-top: -5px;
+        cursor: pointer;
+        color:  rgba(0, 119, 179, 1);;
+    }
+</style>
+
+<script type="text/javascript">
+//<![CDATA[
+    var contactForm = new VarienForm('contactForm', true);
+//]]>
+</script>

@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000943	20150202						2000722								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 sandra wendorff			holunderflosse 8		DE	34497	korbach	s.wendorff@web.de																1
+ANR	 sandra wendorff			holunderflosse 8		DE	34497	korbach	s.wendorff@web.de																1
+P			ORDERS								20150202	20150202											EUR	1	4250804713774			1		420,13	249,97735									120															249,97735
+P			ORDERS								20150202	20150202											EUR	2	4250804713576			1		462,14	274,9733									120															274,9733

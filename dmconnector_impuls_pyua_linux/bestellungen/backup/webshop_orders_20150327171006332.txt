@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001046	20150327						2000797								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ingmar Jantzen			Schwedter Str. 224		DE	10435	Berlin	ingmar.jantzen@gmail.com																1
+ANR	 Ingmar Jantzen			Schwedter Str. 224		DE	10435	Berlin	ingmar.jantzen@gmail.com																1
+P			ORDERS								20150327	20150327											EUR	1	4250804718564			1		37,82	45,0058									120															45,0058

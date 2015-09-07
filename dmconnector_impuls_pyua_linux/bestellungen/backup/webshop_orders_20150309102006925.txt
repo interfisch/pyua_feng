@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001039	20150309						2000792								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Maria Plegge			Theanolte-Bähnisch-Hof 2		DE	49088	Osnabrück	maria.plegge@gmail.com																1
+ANR	 Maria Plegge			Theanolte-Bähnisch-Hof 2		DE	49088	Osnabrück	maria.plegge@gmail.com																1
+P			ORDERS								20150309	20150309											EUR	1	4250804719844			1		33,57	39,9483									120															39,9483

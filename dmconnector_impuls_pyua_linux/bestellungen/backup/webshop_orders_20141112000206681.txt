@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000253	20141111						2000174								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Anja Sommer			Luisenstraﬂe 85		DE	76137	Karlsruhe	anja-sommer@gmx.net																1
+ANR	 Anja Sommer			Luisenstraﬂe 85		DE	76137	Karlsruhe	anja-sommer@gmx.net																1
+P			ORDERS								20141111	20141111											EUR	1	4250804719172			1		58,78	27,97928									120															27,97928
+P			ORDERS								20141111	20141111											EUR	2	4250804713576			1		462,14	219,97864									120															219,97864

@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000107	20140922						2000259								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Oliver Petters			Comeniusstr. 40		DE	01309	Dresden	iltiz@online.de	03514414623															1
+ANR	 Oliver Petters			Comeniusstr. 40		DE	01309	Dresden	iltiz@online.de	03514414623															1
+P			ORDERS								20140922	20140922											EUR	1	4250804716478			1		193,24	229,9556									120															229,9556
+P			ORDERS								20140922	20140922											EUR	2	4250804719844			1		33,57	39,9483									120															39,9483
+P			ORDERS								20140922	20140922											EUR	3	4250804721113			1		33,57	39,9483									120															39,9483

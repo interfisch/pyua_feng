@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001026	20150301						2000783								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Alexander Mitterer			Wielemansgasse 9/3/2		AT	1180	Wien	mitterer.alex@gmail.com																1
+ANR	 Alexander Mitterer			Wielemansgasse 9/3/2		AT	1180	Wien	mitterer.alex@gmail.com																1
+P			ORDERS								20150301	20150301											EUR	1	4250804721120			1		12,61	15,0059									120															15,0059

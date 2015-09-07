@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000465	20141126						2000346								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Valentina Cordero	CATALPA GmbH & Co. KG		Kleiner Schlossplatz 13-15		DE	70173	Stuttgart	valentina.cordero@email.de	0170-9648916															1
+ANR	 Valentina Cordero			Treiberstrasse 29		DE	70619	Stuttgart	valentina.cordero@email.de	0170-9648916															1
+P			ORDERS								20141126	20141126											EUR	1	4250804715006			1		336,09	199,97355									120															199,97355
+P			ORDERS								20141126	20141126											EUR	2	4250804715037			1		336,09	199,97355									120															199,97355
+P			ORDERS								20141126	20141126											EUR	3	4250804716430			1		193,24	114,9778									120															114,9778

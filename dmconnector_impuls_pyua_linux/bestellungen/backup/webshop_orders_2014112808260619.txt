@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000500	20141128						2000376								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Christian Aeberhard			Breiter Weg 38/2		AT	6800	Feldkirch	aechristian@web.de	+43 650 6446116															1
+ANR	 Christian Aeberhard			Breiter Weg 38/2		AT	6800	Feldkirch	aechristian@web.de	+43 650 6446116															1
+P			ORDERS								20141128	20141128											EUR	1	4250804715273			1		84,03	99,9957									120															99,9957

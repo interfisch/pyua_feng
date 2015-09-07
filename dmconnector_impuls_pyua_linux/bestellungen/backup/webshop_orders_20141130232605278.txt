@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000577	20141130						2000435								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Daniel Wiesen			Grazer Straﬂe 19b		AT	8045	Graz	wiesend91@yahoo.de	00352691790954															1
+ANR	 Daniel Wiesen			Grazer Straﬂe 19b		AT	8045	Graz	wiesend91@yahoo.de	00352691790954															1
+P			ORDERS								20141130	20141130											EUR	1	4250494020794			1		13,84	16,4696									120															16,4696

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000225	20141110						2000146								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Bennet Polenz			Holländischer Brook 2		DE	20457	Hamburg	bennet.polenz@gmx.de																1
+ANR	 Bennet Polenz			Holländischer Brook 2		DE	20457	Hamburg	bennet.polenz@gmx.de																1
+P			ORDERS								20141110	20141110											EUR	1	4250804715013			1		336,09	199,97355									120															199,97355

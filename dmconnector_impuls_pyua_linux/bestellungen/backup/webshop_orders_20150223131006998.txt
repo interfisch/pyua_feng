@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000997	20150223						2000766								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Georg Bayerle			Hedwigstr.9		DE	80636	München	gebaya@web.de	+498972430337															1
+ANR	 Georg Bayerle			Hedwigstr.9		DE	80636	München	gebaya@web.de	+498972430337															1
+P			ORDERS								20150223	20150223											EUR	1	4250804714283			1		252,06	101,983476									120															101,983476

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000219	20141107						2000137								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael Fischer			Obere Dorfstraﬂe 8		DE	93339	Riedenburg	michael82fischer@hotmail.com																1
+ANR	 Michael Fischer			Obere Dorfstraﬂe 8		DE	93339	Riedenburg	michael82fischer@hotmail.com																1
+P			ORDERS								20141107	20141107											EUR	1	4250804717215			1		210,04	249,9476									120															249,9476

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000792	20150102						2000309								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Martina Harsch			Kistelbergstr. 44		DE	89522	Heidenheim	martina.harsch@gmail.com	01739283829															1
+ANR	 Martina Harsch			Kistelbergstr. 44		DE	89522	Heidenheim	martina.harsch@gmail.com	01739283829															1
+P			ORDERS								20150102	20150102											EUR	1	4250804721014			1		193,24	114,9778									120															114,9778

@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000165	20141027						2000071								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Claudia Pocha			Elsa-Brandström-Str. 14		DE	40878	Ratingen	cmpocha@mailbox.org																1
+ANR	 Claudia Pocha			Elsa-Brandström-Str. 14		DE	40878	Ratingen	cmpocha@mailbox.org																1
+P			ORDERS								20141027	20141027											EUR	1	4250494020367			1		37,73	31,42909									120															31,42909
+P			ORDERS								20141027	20141027											EUR	2	4250804716492			1		193,24	160,96892									120															160,96892
+P			ORDERS								20141027	20141027											EUR	3	4250494020428			1		37,73	31,42909									120															31,42909

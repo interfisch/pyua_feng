@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000346	20141115						2000254								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sven Meier			Holländische Reihe 46		DE	22765	Hamburg	svenson.meier@me.com																1
+ANR	 Sven Meier			Holländische Reihe 46		DE	22765	Hamburg	svenson.meier@me.com																1
+P			ORDERS								20141115	20141115											EUR	1	4250804715013			1		336,09	159,97884									120															159,97884
+P			ORDERS								20141115	20141115											EUR	2	4250804716478			1		193,24	91,98224									120															91,98224

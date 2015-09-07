@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000185	20141030						2000103								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Eva Meissner			Triefenbach 4		DE	96170	Lisberg	eva.und.heiner@gmail.com	095495117															1
+ANR	 Eva Meissner			Triefenbach 4		DE	96170	Lisberg	eva.und.heiner@gmail.com	095495117															1
+P			ORDERS								20141030	20141030											EUR	1	4250804716355			1		252,06	299,9514									120															299,9514

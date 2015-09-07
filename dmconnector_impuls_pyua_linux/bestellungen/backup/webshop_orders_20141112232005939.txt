@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000284	20141112						2000199								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Lukas Schneider			Kaiserstr. 16b		DE	76131	Karlsruhe	an.lukas@arcor.de																1
+ANR	 Lukas Schneider			Kaiserstr. 16b		DE	76131	Karlsruhe	an.lukas@arcor.de																1
+P			ORDERS								20141112	20141112											EUR	1	4250804721120			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141112	20141112											EUR	2	4250804715860			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141112	20141112											EUR	3	4250494013024			1		21,01	10,00076									120															10,00076
+P			ORDERS								20141112	20141112											EUR	4	4250494010429			1		29,41	13,99916									120															13,99916

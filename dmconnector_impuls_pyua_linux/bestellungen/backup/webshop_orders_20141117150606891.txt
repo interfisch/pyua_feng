@@ -1,0 +1,10 @@
+H	Web_Pyua		ORDERS					100000367	20141117						2000272								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Benjamin Böhm			Wendelsteinstrasse 16		DE	82166	Gräfelfing	benjamin.boehm@gmx.net																1
+ANR	 Benjamin Böhm			Wendelsteinstrasse 16		DE	82166	Gräfelfing	benjamin.boehm@gmx.net																1
+P			ORDERS								20141117	20141117											EUR	1	4250804713972			1		378,11	224,97545									120															224,97545
+P			ORDERS								20141117	20141117											EUR	2	4250804714221			1		252,06	149,9757									120															149,9757
+P			ORDERS								20141117	20141117											EUR	3	4250804714238			1		252,06	149,9757									120															149,9757
+P			ORDERS								20141117	20141117											EUR	4	4250494021142			1		21,01	25,0019									120															25,0019
+P			ORDERS								20141117	20141117											EUR	5	4250494010023			1		21	24,99									120															24,99
+P			ORDERS								20141117	20141117											EUR	6	4250494009928			1		21,01	25,0019									120															25,0019
+P			ORDERS								20141117	20141117											EUR	7	4250804713965			1		378,11	224,97545									120															224,97545

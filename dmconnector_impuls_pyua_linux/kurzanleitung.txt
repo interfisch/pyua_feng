@@ -1,0 +1,43 @@
+dmConnector - Erste Schritte
+Version CSV
+
+dmConnector starten - dmConnector.bat
+
+Menü - Einstellungen
+- Definition des Shops
+-> Bei Magento entspricht der Benutzername dem Web-User und das Passwort dem API-Schlüssel.
+-> Es muss in Magento daher ein Web-User anleget sein, welcher einer Web-Usergruppe mit möglichst allen Rechten zugeordnet ist.
+- Definition der Warenwirtschaftsdatebank
+
+Mandanteneinstellungen.
+Für den Export von Artikeln, Kunden etc werden SV Tabellen
+verwendet. Auf diese ist über ODBC eine Verknüpfung 
+zu legen.
+ODBC-Administrator (bei 64bit Windows: %windir%\syswow64\odbcad32.exe)
+"Benutzer-DNS"
+- Hinzufügen
+	- Microsoft Text Treiber
+	- "Fertigstellen"
+- Datenquellenname (zB csv) und Beschreibung angeben und 
+Verzeichnis auswählen, in welchem sich die CSV Dateien befinden.
+- "Format definieren", zB hinsichtlich "Spaltennamen in erster Zeile".
+ 
+
+Für den Import der Bestellungen sind in der Datei
+/conf/cartridges/magento2OLevo_db.xml
+die zu beschreibenden Tabellen mit deren Spalten definiert.
+Als Standard dürfte der Mandant 105 eingestellt sein. Dieser 
+ist durch Ihren Mandanten zu ersetzen (Suche und Ersetzen).
+
+Bestellabruf:
+Abgerufen werden die Bestellungen als xml-Datei und in
+/temp/temp.xml geschrieben.
+Mittels der Datei
+/conf/cartridges/magento2temp.xsl werden die Mappings z.B. von
+Versandarten auf Versandartikelnummern, Lieferkonditionen etc
+vom Shop auf die Warenwirtschaft durchgeführt.
+Über die magento2temp.xsl wird aus der temp.xml die Datei 
+/temp/magento_temp.xml generiert.
+In die Datei 
+/conf/cartridges/magento2OLevo_db.xml
+sind daher die TAGS aus der magento_temp.xml zu legen.

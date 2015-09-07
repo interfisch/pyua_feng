@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000688	20141213						2000317								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Katja Piller			Gleueler Strasse 198		DE	50935	Köln	katja.piller@gmx.de	01796608563															1
+ANR	 Katja Piller			Gleueler Strasse 198		DE	50935	Köln	katja.piller@gmx.de	01796608563															1
+P			ORDERS								20141213	20141213											EUR	1	4250804720222			1		71,43	85,0017									120															85,0017
+P			ORDERS								20141213	20141213											EUR	2	4250804714788			1		147,06	175,0014									120															175,0014
+P			ORDERS								20141213	20141213											EUR	3	4250804714795			1		147,06	175,0014									120															175,0014

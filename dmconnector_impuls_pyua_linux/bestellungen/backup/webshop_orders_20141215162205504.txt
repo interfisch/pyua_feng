@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000714	20141215						2000548								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Cornelia Söhlemann-Mangold			Ofengasse 1		DE	73529	Schwäbich Gmünd	conny_soehle@hotmail.com																1
+ANR	 Cornelia Söhlemann-Mangold			Ofengasse 1		DE	73529	Schwäbich Gmünd	conny_soehle@hotmail.com																1
+P			ORDERS								20141215	20141215											EUR	1	4250804713767			1		420,13	499,9547									120															499,9547

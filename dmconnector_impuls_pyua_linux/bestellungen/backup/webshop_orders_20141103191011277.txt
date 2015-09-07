@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000206	20141103						2000125								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Hartmut Asche			Gnesener str 3a		DE	38542	Leiferde	asche-hartmut@t-online.de	053731512															1
+ANR	 Hartmut Asche			Gnesener str 3a		DE	38542	Leiferde	asche-hartmut@t-online.de	053731512															1
+P			ORDERS								20141103	20141103											EUR	1	4250804720536			1		142,82	118,96906									120															118,96906

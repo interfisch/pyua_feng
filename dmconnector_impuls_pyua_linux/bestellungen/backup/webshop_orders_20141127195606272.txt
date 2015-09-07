@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100000482	20141127						2000358								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Isak Eisenberg			Lazaristengasse 10/3		AT	1180	Wien	isak.eisenberg@gmail.com	+436505035003															1
+ANR	 Isak Eisenberg			Lazaristengasse 10/3		AT	1180	Wien	isak.eisenberg@gmail.com	+436505035003															1
+P			ORDERS								20141127	20141127											EUR	1	4250804714573			1		210,08	249,9952									120															249,9952
+P			ORDERS								20141127	20141127											EUR	2	4250804714726			1		134,46	160,0074									120															160,0074
+P			ORDERS								20141127	20141127											EUR	3	4250804720512			1		63,02	74,9938									120															74,9938
+P			ORDERS								20141127	20141127											EUR	4	4250804714016			1		210,09	250,0071									120															250,0071
+P			ORDERS								20141127	20141127											EUR	5	4250804714214			1		84,03	99,9957									120															99,9957

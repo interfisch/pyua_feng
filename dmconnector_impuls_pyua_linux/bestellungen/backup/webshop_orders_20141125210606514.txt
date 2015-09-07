@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000457	20141125						2000338								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Dave Bechelen			Sonnenweg 8a		DE	6340	Baar	bechi@bluewin.ch	041 760 78 02															4
+ANR	 Dave Bechelen			Sonnenweg 8a		DE	6340	Baar	bechi@bluewin.ch	041 760 78 02															4
+P			ORDERS								20141125	20141125											EUR	1	4250804713323			1		420,13	168,052									120															168,052

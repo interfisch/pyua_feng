@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001134	20150503						2000854								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Juliane Volkmann			Im Zich 1		DE	99998	Weinbergen / Grabe	juliane.volkmann@web.de																1
+ANR	 Juliane Volkmann			Im Zich 1		DE	99998	Weinbergen / Grabe	juliane.volkmann@web.de																1
+P			ORDERS								20150503	20150503											EUR	1	4250804715310			1		126,05	149,9995									120															149,9995

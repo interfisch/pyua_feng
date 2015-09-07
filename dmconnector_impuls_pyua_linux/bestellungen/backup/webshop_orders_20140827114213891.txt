@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					70	20140827						200011								EUR										0										35		OS via pyua_de		0,0000	11			0
+ANL	SHIPPINGADDRESS_TITLE SHIPPINGADDRESS_NAME SHIPPINGADDRESS_NAME2	media4motion Werbeagentur		Hamburger Landstraße 10		DE	24113	Kiel	corinna@pniok.de	043152420499
+ANR	BILLINGADDRESS_TITLE BILLINGADDRESS_NAME BILLINGADDRESS_NAME2	media4motion Werbeagentur		Hamburger Landstraße 10		DE	24113	Kiel	corinna@pniok.de	043152420499
+P			ORDERS								20140827	20140827											EUR	1	4250494013147			1.0000		0	0									120															0
+P			ORDERS								20140827	20140827											EUR	2	4250804713811			1.0000		100,84	119,9996									120															119,9996

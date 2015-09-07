@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100001102	20150405						2000073								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Johanna Hössl			Peintenstrasse 22		AT	9800	Spittal/Drau	johanna.hoessl@gmx.at																1
+ANR	 Johanna Hössl			Peintenstrasse 22		AT	9800	Spittal/Drau	johanna.hoessl@gmx.at																1
+P			ORDERS								20150405	20150405											EUR	1	4250804714719			1		147,06	175,0014									120															175,0014
+P			ORDERS								20150405	20150405											EUR	2	4250804720796			1		189,07	224,9933									120															224,9933
+P			ORDERS								20150405	20150405											EUR	3	4250804721113			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150405	20150405											EUR	4	4250804721120			1		12,61	15,0059									120															15,0059

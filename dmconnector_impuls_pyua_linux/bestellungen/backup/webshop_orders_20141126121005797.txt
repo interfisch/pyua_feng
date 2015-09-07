@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000463	20141126						2000344								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Jutta Steck-Stimpfle			Teuremertaslweg 29		DE	70839	Gerlingen	info@stimpfle-stimpfle.de																1
+ANR	 Jutta Steck-Stimpfle			Teuremertaslweg 29		DE	70839	Gerlingen	info@stimpfle-stimpfle.de																1
+P			ORDERS								20141126	20141126											EUR	1	4250804717550			1		100,8	119,952									120															119,952

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001146	20150601						2000838								EUR										0										23		OS via pyua_de		0,0000	26			0
+ANL	 Davorin von Arx	Idee&Bastelbedarf		Hombergstr. 4		DE	79798	Jestetten	chris.fodermaier@gmx.ch	0041 52 301 28 10															1
+ANR	 Chris  Fodermaier			Aebletenweg 40		DE	8706	Meilen 	chris.fodermaier@gmx.ch	0041 52 301 28 10															1
+P			ORDERS								20150601	20150601											EUR	1	4250804714771			1		176,47	176,47									120															176,47

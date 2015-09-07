@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000796	20150102						2000612								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Karin Damaschke			Martin-Hoop-Straﬂe 22		DE	02625	Bautzen	damakarin@yahoo.de	03591679334															1
+ANR	 Karin Damaschke			Martin-Hoop-Straﬂe 22		DE	02625	Bautzen	damakarin@yahoo.de	03591679334															1
+P			ORDERS								20150102	20150102											EUR	1	4250804720260			1		142,82	84,9779									120															84,9779
+P			ORDERS								20150102	20150102											EUR	2	4250804719622			1		50,37	29,97015									120															29,97015
+P			ORDERS								20150102	20150102											EUR	3	4250804721144			1		336,1	199,9795									120															199,9795

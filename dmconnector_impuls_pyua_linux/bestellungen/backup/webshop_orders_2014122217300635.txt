@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000759	20141222						2000584								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Svenja Lösch			Lichtensteinstrasse 13/1		DE	Holzgerlingen	71088	svenja.loesch@googlemail.com																1
+ANR	 Svenja Lösch			Lichtensteinstrasse 13/1		DE	Holzgerlingen	71088	svenja.loesch@googlemail.com																1
+P			ORDERS								20141222	20141222											EUR	1	4250804713613			1		462,14	549,9466									120															549,9466

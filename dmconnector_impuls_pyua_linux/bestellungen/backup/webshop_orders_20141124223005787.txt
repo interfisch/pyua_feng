@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000448	20141124						2000333								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Simon Hoffmann			Alte Döhrener Straße 60		DE	30173	Hannover	simon-hoffmann@web.de																1
+ANR	 Simon Hoffmann			Alte Döhrener Straße 60		DE	30173	Hannover	simon-hoffmann@web.de																1
+P			ORDERS								20141124	20141124											EUR	1	4250804718359			1		46,22	55,0018									120															55,0018

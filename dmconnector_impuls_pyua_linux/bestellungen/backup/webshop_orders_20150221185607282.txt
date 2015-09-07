@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000981	20150221						2000165								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Sascha Zimmermann			Perlgrasweg 23		DE	50129	Bergheim	s.zimmermann@email.de	015233767854															1
+ANR	 Sascha Zimmermann			Perlgrasweg 23		DE	50129	Bergheim	s.zimmermann@email.de	015233767854															1
+P			ORDERS								20150221	20150221											EUR	1	4250804713958			1		378,11	152,983306									120															152,983306
+P			ORDERS								20150221	20150221											EUR	2	4250804714214			1		252,06	101,983476									120															101,983476

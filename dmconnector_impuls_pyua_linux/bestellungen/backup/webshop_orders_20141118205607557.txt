@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000378	20141118						2000283								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Matthias Aegerter			Schillingstraﬂe 2		DE	01159	Dresden	mataeg@gmx.de																1
+ANR	 Matthias Aegerter			Schillingstraﬂe 2		DE	01159	Dresden	mataeg@gmx.de																1
+P			ORDERS								20141118	20141118											EUR	1	4250804720512			1		142,82	67,98232									120															67,98232
+P			ORDERS								20141118	20141118											EUR	2	4250804714016			1		462,14	219,97864									120															219,97864

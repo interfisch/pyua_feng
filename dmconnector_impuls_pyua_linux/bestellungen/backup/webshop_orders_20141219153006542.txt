@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000744	20141219						2000572								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Barbara Brauchli			Wassertorstrasse 2		DE	10969	Berlin	barbara.brauchli@gmail.com																1
+ANR	 Barbara Brauchli			Wassertorstrasse 2		DE	10969	Berlin	barbara.brauchli@gmail.com																1
+P			ORDERS								20141219	20141219											EUR	1	4250804720222			1		71,43	85,0017									120															85,0017

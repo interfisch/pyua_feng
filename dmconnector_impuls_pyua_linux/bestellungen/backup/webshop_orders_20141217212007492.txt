@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000737	20141217						2000567								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sonja Kirchdörfer			Ruhalmstr. 5i		DE	91301	Forchheim	sonja.kirchdoerfer@k-vinci.de																1
+ANR	 Sonja Kirchdörfer			Ruhalmstr. 5i		DE	91301	Forchheim	sonja.kirchdoerfer@k-vinci.de																1
+P			ORDERS								20141217	20141217											EUR	1	4250804719622			1		50,38	35,97132									120															35,97132
+P			ORDERS								20141217	20141217											EUR	2	4250804719530			1		50,38	35,97132									120															35,97132

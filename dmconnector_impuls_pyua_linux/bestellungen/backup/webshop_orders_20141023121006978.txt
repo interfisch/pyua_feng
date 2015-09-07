@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000157	20141023						2000024								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Jeroen  van Agtmael	CATALPA GmbH & Co. KG		Kleiner Schlossplatz 13-15		DE	70173	Stuttgart	jvagtmael@gmail.com	01726369796															1
+ANR	 Jeroen  van Agtmael			Hallimaschweg 9		DE	70599	Stuttgart	jvagtmael@gmail.com	01726369796															1
+P			ORDERS								20141023	20141023											EUR	1	4250804713279			1		420,13	349,96829									120															349,96829

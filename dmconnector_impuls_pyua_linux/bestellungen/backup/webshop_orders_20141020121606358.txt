@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000134	20141020						2000013								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Nils Karlsson Graeper			Hamburger Landstraße 10		DE	24113	Molfsee	graeper@media4motion.com	01724057649															1
+ANR	 Nils Karlsson Graeper			Hamburger Landstraße 10		DE	24113	Molfsee	graeper@media4motion.com	01724057649															1
+P			ORDERS								20141020	20141020											EUR	1	4250804719165			1		58,78	34,9741									120															34,9741

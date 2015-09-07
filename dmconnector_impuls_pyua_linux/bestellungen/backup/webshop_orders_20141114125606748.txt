@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000319	20141114						2000233								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Sven Schrapp			Farmsches Feld 10		DE	31319	Sehnde	derflieger@freenet.de																1
+ANR	 Sven Schrapp			Farmsches Feld 10		DE	31319	Sehnde	derflieger@freenet.de																1
+P			ORDERS								20141114	20141114											EUR	1	4250804713996			1		189,06	224,9814									120															224,9814

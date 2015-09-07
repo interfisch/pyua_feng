@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000371	20141118						2000276								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Doris Zeillinger			Haydngasse 12		AT	3420	Kritzendorf	doris.zeillinger@gmx.at																1
+ANR	 Doris Zeillinger			Haydngasse 12		AT	3420	Kritzendorf	doris.zeillinger@gmx.at																1
+P			ORDERS								20141118	20141118											EUR	1	4250804714573			1		462,14	549,9466									120															549,9466
+P			ORDERS								20141118	20141118											EUR	2	4250804714726			1		294,08	349,9552									120															349,9552
+P			ORDERS								20141118	20141118											EUR	3	4250804720277			1		142,81	169,9439									120															169,9439

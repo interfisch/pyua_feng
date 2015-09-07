@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000598	20141203						2000457								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Bettina Krusche			Am Lockfleth 21		DE	26937	Stadland	bekrusche@yahoo.de																1
+ANR	 Bettina Krusche			Am Lockfleth 21		DE	26937	Stadland	bekrusche@yahoo.de																1
+P			ORDERS								20141203	20141203											EUR	1	4250804717871			1		96,62	114,9778									120															114,9778

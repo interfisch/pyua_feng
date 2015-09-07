@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000654	20141210						2000504								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Sonja Reimer			Kasernenstraﬂe 21		DE	21073	Hamburg	socopo@web.de																1
+ANR	 Sonja Reimer			Kasernenstraﬂe 21		DE	21073	Hamburg	socopo@web.de																1
+P			ORDERS								20141210	20141210											EUR	1	4250804721151			1		168,07	200,0033									120															200,0033

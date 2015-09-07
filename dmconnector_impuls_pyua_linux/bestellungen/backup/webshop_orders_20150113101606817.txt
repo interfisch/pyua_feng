@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000834	20150113						2000639								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Cornelia Neissner			Lohreiglgasse 11		DE	84036	Landshut	conny.nirschl@gmx.de																1
+ANR	 Cornelia Neissner			Lohreiglgasse 11		DE	84036	Landshut	conny.nirschl@gmx.de																1
+P			ORDERS								20150113	20150113											EUR	1	4250804713569			1		462,14	549,9466									120															549,9466

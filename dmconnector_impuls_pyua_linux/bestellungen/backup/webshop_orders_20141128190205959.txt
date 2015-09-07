@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000538	20141128						2000409								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ulla Hugenschmidt			Unterer Buchenacker 4		DE	79692	Kleines wiesental	ullahuge@t-online.de	07629 1563															1
+ANR	 Ulla Hugenschmidt			Unterer Buchenacker 4		DE	79692	Kleines wiesental	ullahuge@t-online.de	07629 1563															1
+P			ORDERS								20141128	20141128											EUR	1	4250804717994			1		75,63	89,9997									120															89,9997

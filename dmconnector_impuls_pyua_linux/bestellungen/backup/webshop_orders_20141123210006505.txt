@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000436	20141123						2000322								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Henrik Oesau			Roﬂbachstr. 4		DE	28201	Bremen	henrik.oesau@gmx.de																1
+ANR	 Henrik Oesau			Roﬂbachstr. 4		DE	28201	Bremen	henrik.oesau@gmx.de																1
+P			ORDERS								20141123	20141123											EUR	1	4250804719509			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141123	20141123											EUR	2	4250804719615			1		50,38	23,98088									120															23,98088
+P			ORDERS								20141123	20141123											EUR	3	4250804719271			2		50,38	23,98088									120															23,98088

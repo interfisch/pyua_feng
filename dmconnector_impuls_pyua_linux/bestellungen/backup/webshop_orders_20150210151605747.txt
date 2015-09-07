@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000969	20150210						2000748								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Karsten Schumacher			Stegener Weg 13		DE	23863	Kayhude, Schleﬂwig Holstein	kasu@kardian.de	+49 4535 297110															1
+ANR	 Karsten Schumacher			Stegener Weg 13		DE	23863	Kayhude, Schleﬂwig Holstein	kasu@kardian.de	+49 4535 297110															1
+P			ORDERS								20150210	20150210											EUR	1	4250804719370			1		50,38	29,9761									120															29,9761
+P			ORDERS								20150210	20150210											EUR	2	4250804713378			1		462,14	274,9733									120															274,9733
+P			ORDERS								20150210	20150210											EUR	3	4250804714221			1		252,06	149,9757									120															149,9757

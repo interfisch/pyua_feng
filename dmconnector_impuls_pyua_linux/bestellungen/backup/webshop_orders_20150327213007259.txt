@@ -1,0 +1,8 @@
+H	Web_Pyua		ORDERS					100001048	20150327						2000045								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Susanne Kurdum			Schulstr. 1		DE	88142	Wasserburg	suse.lipp@gmail.com	0179 7653169															1
+ANR	 Susanne Kurdum			Schulstr. 1		DE	88142	Wasserburg	suse.lipp@gmail.com	0179 7653169															1
+P			ORDERS								20150327	20150327											EUR	1	4250494019842			1		21,01	25,0019									120															25,0019
+P			ORDERS								20150327	20150327											EUR	2	4250494010221			1		24,37	29,0003									120															29,0003
+P			ORDERS								20150327	20150327											EUR	3	4250804718564			1		37,81	44,9939									120															44,9939
+P			ORDERS								20150327	20150327											EUR	4	4250494020022			1		21,01	25,0019									120															25,0019
+P			ORDERS								20150327	20150327											EUR	5	4250494021555			1		24,37	29,0003									120															29,0003

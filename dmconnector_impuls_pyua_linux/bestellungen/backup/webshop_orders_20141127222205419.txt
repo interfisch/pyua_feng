@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000491	20141127						2000367								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Etienne Joppien			Am Brunnen 24		DE	14473	Potsdam	26338@t-link.de	01723061835															1
+ANR	 Etienne Joppien			Am Brunnen 24		DE	14473	Potsdam	26338@t-link.de	01723061835															1
+P			ORDERS								20141127	20141127											EUR	1	4250804715051			1		168,07	200,0033									120															200,0033
+P			ORDERS								20141127	20141127											EUR	2	4250804715068			1		168,06	199,9914									120															199,9914

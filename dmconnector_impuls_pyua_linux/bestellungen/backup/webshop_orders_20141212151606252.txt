@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000671	20141212						2000519								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Alexandra Ebner			Im Sanktwendel 37		DE	64342	Seeheim-Jugenheim	ebner-privat@t-online.de																1
+ANR	 Alexandra Ebner			Im Sanktwendel 37		DE	64342	Seeheim-Jugenheim	ebner-privat@t-online.de																1
+P			ORDERS								20141212	20141212											EUR	1	4250804714764			1		147,06	175,0014									120															175,0014
+P			ORDERS								20141212	20141212											EUR	2	4250804714771			1		147,06	175,0014									120															175,0014
+P			ORDERS								20141212	20141212											EUR	3	4250804720741			1		378,11	449,9509									120															449,9509
+P			ORDERS								20141212	20141212											EUR	4	4250804720758			1		378,11	449,9509									120															449,9509

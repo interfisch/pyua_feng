@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000567	20141129						2000432								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Silvio Klemm			Schanzstraﬂe 11		DE	77652	offenburg	silvio.klemm@googlemail.com																1
+ANR	 Silvio Klemm			Schanzstraﬂe 11		DE	77652	offenburg	silvio.klemm@googlemail.com																1
+P			ORDERS								20141129	20141129											EUR	1	4250804720505			1		142,82	169,9558									120															169,9558

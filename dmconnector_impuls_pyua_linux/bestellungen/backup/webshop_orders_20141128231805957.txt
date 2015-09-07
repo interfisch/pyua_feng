@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000557	20141128						2000424								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Doorke Schneider	22367353		Packstation 146		DE	20146	Hamburg	Dottje@vodafone.de																1
+ANR	 Doorke Schneider			Brockmannsweg 5		DE	20146	Hamburg	Dottje@vodafone.de																1
+P			ORDERS								20141128	20141128											EUR	1	4250804704314			1		42,02	50,0038									120															50,0038

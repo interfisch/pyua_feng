@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000304	20141113						2000219								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Guillem Garro			Georg-Friedrich Str. 19  WG.20		DE	76131	Karlsruhe	guillem.garro@gmail.com																1
+ANR	 Guillem Garro			Georg-Friedrich Str. 19  WG.20		DE	76131	Karlsruhe	guillem.garro@gmail.com																1
+P			ORDERS								20141113	20141113											EUR	1	4250804713477			1		462,14	219,97864									120															219,97864

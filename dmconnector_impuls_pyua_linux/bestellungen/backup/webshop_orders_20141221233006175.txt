@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000754	20141221						2000580								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Thomas Prey			Siegelsdorf 8		DE	92540	Altendorf	Thomas_Prey@live.de																1
+ANR	 Thomas Prey			Siegelsdorf 8		DE	92540	Altendorf	Thomas_Prey@live.de																1
+P			ORDERS								20141221	20141221											EUR	1	4250804720512			1		71,43	85,0017									120															85,0017

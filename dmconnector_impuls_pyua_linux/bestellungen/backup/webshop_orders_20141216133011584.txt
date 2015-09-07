@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000720	20141216						2000098								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Ralf Klichta			Gartenstrasse 22		DE	57258	Freudenberg	ralf.klichta@klichta.de																1
+ANR	 Ralf Klichta			Gartenstrasse 22		DE	57258	Freudenberg	ralf.klichta@klichta.de																1
+P			ORDERS								20141216	20141216											EUR	1	4250804720550			1		71,43	85,0017									120															85,0017
+P			ORDERS								20141216	20141216											EUR	2	4250804721113			1		33,57	39,9483									120															39,9483
+P			ORDERS								20141216	20141216											EUR	3	4250804719356			1		50,38	59,9522									120															59,9522
+P			ORDERS								20141216	20141216											EUR	4	4250804719158			1		58,78	69,9482									120															69,9482

@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000647	20141210						2000498								EUR										0										23		OS via pyua_de		0,0000	14			0
+ANL	 Gerti Grünwald			Lindauerstraße 71		AT	6912	Hörbranz	gertraud.gruenwald@gmail.com																1
+ANR	 Gerti Grünwald			Lindauerstraße 71		AT	6912	Hörbranz	gertraud.gruenwald@gmail.com																1
+P			ORDERS								20141210	20141210											EUR	1	4250804721144			1		168,07	200,0033									120															200,0033

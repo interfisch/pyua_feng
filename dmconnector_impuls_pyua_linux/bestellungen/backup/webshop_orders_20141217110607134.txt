@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000727	20141217						2000558								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Stephan Achhammer			Zur Kirchenburg 12		DE	91090	Effeltrich	stephan.achhammer@siemens.com																1
+ANR	 Stephan Achhammer			Zur Kirchenburg 12		DE	91090	Effeltrich	stephan.achhammer@siemens.com																1
+P			ORDERS								20141217	20141217											EUR	1	4250804715297			1		210,04	149,96856									120															149,96856

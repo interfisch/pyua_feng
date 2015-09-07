@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000479	20141127						2000352								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Lutz Neugebauer			Rudolfstr.4		DE	59556	Lippstadt	Neugebauer_lutz@gmx.de																1
+ANR	 Lutz Neugebauer			Rudolfstr.4		DE	59556	Lippstadt	Neugebauer_lutz@gmx.de																1
+P			ORDERS								20141127	20141127											EUR	1	4250804715013			1		168,07	200,0033									120															200,0033

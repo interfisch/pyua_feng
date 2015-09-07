@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000627	20141208						2000486								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Cathrin Jaeschke			Im Brühl 4		DE	61476	Kronberg	cathrin.jaeschke@gmx.de	061739898962															1
+ANR	 Cathrin Jaeschke			Im Brühl 4		DE	61476	Kronberg	cathrin.jaeschke@gmx.de	061739898962															1
+P			ORDERS								20141208	20141208											EUR	1	4250804721144			1		168,07	200,0033									120															200,0033

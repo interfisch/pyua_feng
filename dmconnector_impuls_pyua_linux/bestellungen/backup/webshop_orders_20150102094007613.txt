@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000785	20150102						2000609								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Niklas Sondermann			Weberstraﬂe 49		DE	53113	Bonn	niklas.sondermann@gmx.de	02282279452															1
+ANR	 Niklas Sondermann			Weberstraﬂe 49		DE	53113	Bonn	niklas.sondermann@gmx.de	02282279452															1
+P			ORDERS								20150102	20150102											EUR	1	4250804713477			1		462,14	274,9733									120															274,9733

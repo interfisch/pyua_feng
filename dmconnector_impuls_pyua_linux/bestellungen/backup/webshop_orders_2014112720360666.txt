@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000486	20141127						2000362								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Michael Baumann			Tulpenweg 14		DE	35435	Wettenberg	mbaumann2106@gmail.com	0641 2501460															1
+ANR	 Michael Baumann			Tulpenweg 14		DE	35435	Wettenberg	mbaumann2106@gmail.com	0641 2501460															1
+P			ORDERS								20141127	20141127											EUR	1	4250804719967			1		46,22	55,0018									120															55,0018

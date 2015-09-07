@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000921	20150129						2000707								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Anja Barysch			Luise-Riegger-Str. 30		DE	76137	Karlsruhe	anjabarysch@gmail.com	+4972117029357															1
+ANR	 Anja Barysch			Luise-Riegger-Str. 30		DE	76137	Karlsruhe	anjabarysch@gmail.com	+4972117029357															1
+P			ORDERS								20150129	20150129											EUR	1	4250804714528			1		368,91	219,50145									120															219,50145

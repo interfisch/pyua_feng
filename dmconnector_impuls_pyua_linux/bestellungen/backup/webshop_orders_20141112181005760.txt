@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000262	20141112						2000182								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Moritz Marschke			Düvelsbeker Weg 57		DE	24106	Kiel	moritz@marschke-online.de																1
+ANR	 Moritz Marschke			Düvelsbeker Weg 57		DE	24106	Kiel	moritz@marschke-online.de																1
+P			ORDERS								20141112	20141112											EUR	1	4250804715716			1		29,37	13,98012									120															13,98012
+P			ORDERS								20141112	20141112											EUR	2	4250804715761			1		29,37	13,98012									120															13,98012

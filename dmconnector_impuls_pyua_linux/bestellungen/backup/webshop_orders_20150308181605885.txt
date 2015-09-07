@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100001038	20150308						2000791								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Sarah Beck			Bielenbergstr. 4		DE	24143	Kiel 	sarah_petersdorf@gmx.de																1
+ANR	 Sarah Beck			Bielenbergstr. 4		DE	24143	Kiel 	sarah_petersdorf@gmx.de																1
+P			ORDERS								20150308	20150308											EUR	1	4250494020305			1		21,01	25,0019									120															25,0019
+P			ORDERS								20150308	20150308											EUR	2	4250494020237			1		21,01	25,0019									120															25,0019

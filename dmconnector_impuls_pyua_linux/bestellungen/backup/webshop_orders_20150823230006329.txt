@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001163	20150823						2000877								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Michael Rupflin			Hagstolz 26		DE	71720	Oberstenfeld	bernd.rupflin@googlemail.com																1
+ANR	 Bernd Rupflin			Lessingstraﬂe 13		DE	74321	Bietigheim-Bissingen	bernd.rupflin@googlemail.com																1
+P			ORDERS								20150823	20150823											EUR	1	4250804715761			1		29,37	34,9503									120															34,9503

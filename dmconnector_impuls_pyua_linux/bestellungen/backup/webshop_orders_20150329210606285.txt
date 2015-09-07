@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100001065	20150329						2000808								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Jens Cz‰czine			Pornitzstraﬂe 5		DE	09112	Chemnitz	jennse@web.de	015159212998															1
+ANR	 Jens Cz‰czine			Pornitzstraﬂe 5		DE	09112	Chemnitz	jennse@web.de	015159212998															1
+P			ORDERS								20150329	20150329											EUR	1	4250804715259			1		105,04	124,9976									120															124,9976

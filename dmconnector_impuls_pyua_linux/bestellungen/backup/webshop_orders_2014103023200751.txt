@@ -1,0 +1,4 @@
+H	Web_Pyua		ORDERS					100000186	20141030						2000104								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Bernhard Wöhl	37984809		Packstation 102		DE	78464	Konstanz	einkaufen11@gmail.com																1
+ANR	 Bernhard Wöhl			Kappelersgutweg 2B		DE	78462	Konstanz	einkaufen11@gmail.com																1
+P			ORDERS								20141030	20141030											EUR	1	4250804715839			1		29,37	24,46521									120															24,46521

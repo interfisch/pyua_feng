@@ -1,0 +1,7 @@
+H	Web_Pyua		ORDERS					100000569	20141130						2000433								EUR										0										23		OS via pyua_de		0,0000	11			0
+ANL	 Bengt Riese	medac GmbH		Theaterstraﬂe 6		DE	22880	Wedel	bengt.riese@gmail.com																1
+ANR	 Bengt Riese			Stresemannstr. 142		DE	22769	Hamburg	bengt.riese@gmail.com																1
+P			ORDERS								20141130	20141130											EUR	1	4250804713279			1		420,13	499,9547									120															499,9547
+P			ORDERS								20141130	20141130											EUR	2	4250804715211			1		252,05	299,9395									120															299,9395
+P			ORDERS								20141130	20141130											EUR	3	4250804719370			1		50,38	59,9522									120															59,9522
+P			ORDERS								20141130	20141130											EUR	4	4250804714061			1		462,15	549,9585									120															549,9585

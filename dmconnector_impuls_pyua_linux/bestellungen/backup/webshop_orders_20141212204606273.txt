@@ -1,0 +1,5 @@
+H	Web_Pyua		ORDERS					100000674	20141212						2000521								EUR										0										24		OS via pyua_de		0,0000	11			0
+ANL	 Toni Obermair			Breitenbergweg 1		DE	83126	Flintsbach	mail@toni-obermair.de																1
+ANR	 Toni Obermair			Breitenbergweg 1		DE	83126	Flintsbach	mail@toni-obermair.de																1
+P			ORDERS								20141212	20141212											EUR	1	4250804720574			1		71,43	34,00068									120															34,00068
+P			ORDERS								20141212	20141212											EUR	2	4250804715822			1		29,37	13,98012									120															13,98012

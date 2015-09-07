@@ -1,0 +1,6 @@
+H	Web_Pyua		ORDERS					100000784	20150102						2000608								EUR										0										24		OS via pyua_de		0,0000	26			0
+ANL	 J. Wolf			Albert-Kleinheinzstrasse 2		DE	71696	Möglingen	juergen@phileo.ch																1
+ANR	 Jürgen Wolf			Breitwies 22		DE	5420	Ehrendingen	juergen@phileo.ch																1
+P			ORDERS								20150102	20150102											EUR	1	4250494020503			3		24,37	12,185									120															12,185
+P			ORDERS								20150102	20150102											EUR	2	4250494021319			1		24,37	12,185									120															12,185
+P			ORDERS								20150102	20150102											EUR	3	4250494021388			1		24,37	12,185									120															12,185
