@@ -29,18 +29,15 @@
  Copyright entfernt siehe auch Backend -> System -> Konfoguration -> Gestaltng -> Footer */
  
 ?>
-<div class="footer-container">
-
-
-    
-    <div class="footer">
 <div class="firstrow"><div class="p25"><?php echo $this->getChildHtml('footer_company_details') ?></div></div>
-<div class="secondrow"><div class="p25">
-
-<?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('footer-second-row')->toHTML();?>
-
-<?php //echo $this->getLayout()->createBlock('newsletter/subscribe')->setTemplate('newsletter/subscribe.phtml')->toHtml(); ?></div></div>
-
+<div class="footer-container">
+    <div class="footer">
+        <div class="secondrow">
+            <div class="p25">
+                <?php echo  $this->getLayout()->createBlock('cms/block')->setBlockId('footer-second-row')->toHTML();?>
+                <?php //echo $this->getLayout()->createBlock('newsletter/subscribe')->setTemplate('newsletter/subscribe.phtml')->toHtml(); ?>
+            </div>
+        </div>
         <?php // echo $this->getChildHtml() ?>
        <!-- <address class="copyright"><?php echo $this->getCopyright() ?></address>-->
     </div>

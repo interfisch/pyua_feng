@@ -127,33 +127,5 @@ if(isset($_GET['utm_campaign'])){
 }
 ?>
 <?php $Landingpage =  Mage::getSingleton('core/session')->getLandingPage(); ?>
-<?php if($Landingpage != ""){ ?>
-<?php/*
-      *   MID SEASON SALE 
-      */?>
-    <?php if($Landingpage == "Mid Season SALE"){?>
-        <div id="red_box" class="top_right">
-            <span class="h3">50% auf ALLES <br> mit dem Code</span>
-            <span class="h1">SALE2015</span>
-        </div>    
-    <?php } else {
-         /*
-          *  ABWRACKPRAEMIE
-          */?>
-        <a href="http://www.pyua.de/index.php/catalog/category/view/s/abwrackpraemie/id/78/" id="blue_box" class="top_right">
-            <span class="h3">sichere Dir Deine</span>
-            <span class="h1">100€</span>
-        </a>
-    <?php } ?>
-<?php } else {?>
-<?php/*
-      *  ABWRACKPRAEMIE
-      */?>
-    <a href="http://www.pyua.de/index.php/catalog/category/view/s/abwrackpraemie/id/78/" id="blue_box" class="top_right">
-        <span class="h3">sichere Dir Deine</span>
-        <span class="h1">100€</span>
-    </a>
-<?php } ?>
-
 
 <?php echo $this->getChildHtml('topContainer'); ?>

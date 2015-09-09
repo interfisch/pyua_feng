@@ -5,10 +5,10 @@
 .protoshow,
 .protoshow .show {
 	position: relative;
-	margin: 0;
+	margin: 0 0 0 -28px;
 	padding: 0;
 	list-style: none;
-	width: 930px;
+	width: 1018px;
 	height: 295px;
 	overflow: hidden;
 }
@@ -74,10 +74,9 @@
 .proto-navigation {
     float: right;
     position: absolute;
-    right: 13%;
-    top: 0;
+    right: 50%;
     z-index: 120;
-    top: 5px;
+    bottom: 5px;
 }
 
 .proto-navigation li {
@@ -116,8 +115,6 @@
 	margin: 0;
 	padding: 0;
 	position: relative;
-	border-radius: 10px;
-	border: 1px solid #b2b2b2;
 }
 
 
@@ -194,14 +191,14 @@ ol.proto-controls li {
 
 ol.proto-controls .backward{
 	position: absolute;
-	left: 10px;
+	left: 35px;
 	display: block;
 	background-position: -3px -33px;
 }
 
 ol.proto-controls .forward{
 	position: absolute;
-	right: 10px;
+	right: 60px;
 	height: 30px;
 	width: 30px;
 	display: block;

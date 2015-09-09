@@ -35,7 +35,7 @@
    $_productCollection=$this->getLoadedProductCollection();
       // $_product=$this->getLoadedProduct();
     $_helper = $this->helper('catalog/output');
-    
+
 
 ?>
 <?php if(!$_productCollection->count()): ?>
@@ -49,10 +49,15 @@
     <?php endif ?>
         <td>
         <a href="<?php echo $_product->getProductUrl() ?>" title="<?php echo $this->htmlEscape($_product->getName()) ?>">
-            <p class="product-image">
-            	<img src="<?php echo $this->helper('catalog/image')->init($_product, 'small_image')->resize(135, 135); ?>" width="135" height="135" alt="<?php echo $this->htmlEscape($_product->getName()) ?>" />
-            </p>
-            <?php echo $this->htmlEscape($_product->getName()) ?>
+            <span class="product-image">
+            	<img src="<?php echo $this->helper('catalog/image')->init($_product, 'small_image')->resize(299, 281); ?>" width="299" height="281" alt="<?php echo $this->htmlEscape($_product->getName()) ?>" />
+            </span>
+            <span class="name">
+                <?php echo $this->htmlEscape($_product->getName()) ?>
+            </span>
+            <span class="description">
+                <?php echo $this->htmlEscape($_product->getShortDescription()) ?>
+            </span>
             <?php echo $this->getPriceHtml($_product, true) ?>
             
            <!-- <?php if($_product->isSaleable()): ?>

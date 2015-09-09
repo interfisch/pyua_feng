@@ -1507,13 +1507,6 @@ color: #636363;
   display: table;
   clear: both;
 }
-
-
-  .main-container,
-  .footer-container {
-    padding: 15px 30px 15px 30px;
-    
-  }
   
 .cms-home .main-container{
     padding: 15px 30px 15px 30px;
@@ -1521,8 +1514,8 @@ color: #636363;
   }
 
 .footer-container {
-  padding-top: 0px;
   background-color: #e4e9ec;
+  padding: 0 0 35px;
 }
 
 
@@ -1552,7 +1545,7 @@ color: #636363;
 .col-left,
 .col-right,
 .col-main {
-  padding: 0 10px;
+  padding: 0;
 }
 
 .col-left {
@@ -1641,7 +1634,6 @@ width: 150px;
 }
 
 .col2-left-layout .col-main {
-  border-left: 1px solid #b2b2b2;
     float: right;
   /*  margin-top: 20px;*/
     padding-right: 0;
@@ -3055,10 +3047,6 @@ form .form-instructions {
   
   
 .category-image{
-	border: 1px solid #c0c0c0;
-	border-radius: 6px;
-	-webkit-border-radius: 6px;
-	-moz-border-radius: 6px;
 	overflow: hidden;
 }
   
@@ -3532,7 +3520,6 @@ a.skip-link {
   #header-nav {
     display: block;
     /* Force visibility */
-    border-bottom: 1px solid #b2b2b2;
   }
 }
 /* ============================================ *
@@ -3565,7 +3552,6 @@ a.skip-link {
   font-family: Blender-Book, "Helvetica Neue", Verdana, Arial, sans-serif;
 }
 .nav-primary li {
-  position: relative;
   margin-bottom: 1px;
 }
 .nav-primary li.level1 a {
@@ -3756,7 +3742,7 @@ a.skip-link {
 
 
 #account-pyua{
-    border-left: 3px solid #bfbfbf;
+    border-left: 1px solid #bfbfbf;
     left: 71px;
     padding-left: 12px;
     position: absolute;
@@ -10277,10 +10263,6 @@ and (max-device-width : 1024px) {
  
  .page{
  	background-color: #fff;
- 	-moz-border-radius: 100px 100px 0 0;
- 	-webkit-border-radius: 100px 100px 0 0;
-	border-radius: 100px 100px 0 0;
-	
 	-moz-box-shadow: 0 0 10px 0 #000;
 	-webkit-box-shadow: 0 0 10px 0 #000;
 	box-shadow: 0 0 10px 0 #000;
@@ -10306,7 +10288,7 @@ and (max-device-width : 1024px) {
  
 #header-nav{
    float: left;
-    left: 170px;
+    left: 182px;
     position: absolute;
     top: 110px;
     width: 770px;
@@ -10461,7 +10443,7 @@ body{
 #header-nav .nav-primary > li.level0 > ul {
     background-color: #efefef;
     position: absolute;
-    left: 6px;
+    left: 3px;
     top: 42px;
     /* Height of ".nav-primary a.level0" */
     z-index: 10;
@@ -10515,17 +10497,21 @@ body{
     font-size: 20px;
   /*  border-left: 3px solid #c0c0c0;*/
     padding-left: 3px;
-    background-image: url('../images/template/trenner-nav-bg.png');
     background-position: left top;
     background-repeat: repeat-y;
    height: 30px;
 }
 
-#header-nav .nav-primary > li > a {
-    margin-left: 3px;
-    margin-right: 3px;
-    padding-left: 40px;
-    padding-right: 20px;
+#header-nav .nav-primary > li.first > a{
+    padding-left: 33px;
+}
+
+
+  #header-nav .nav-primary > li > a {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 #header-nav .nav-primary > li > ul > li{
@@ -10544,16 +10530,6 @@ body{
 	padding-bottom: 12px;
 }
 
-
-#header-nav .nav-primary > li:hover > a{
-	/*background-color: #efefef;*/
-		background-image: url("../images/template/icons-sprite-hover.png");
-	-webkit-border-radius: 4px 4px 0 0;
-	border-radius: 4px 4px 0 0;
-	
-	
-} 
-
 #header-nav .nav-primary > li.parent:hover > a{
 	background-color: #efefef;
 } 
@@ -10569,11 +10545,7 @@ body{
 #header-nav .nav-primary > li.parent a{
 	-webkit-border-radius: 4px 4px 0 0;
 	border-radius: 4px 4px 0 0;
-}  
-
-#header-nav .nav-primary > li.active > a{
-	background-image: url("../images/template/icons-sprite-hover.png");
-}  
+}
 
 #header-nav .nav-primary li.level0 ul li.level1{
 	margin-right: 10px;
@@ -10582,7 +10554,6 @@ body{
 } 
 
 #header-nav .nav-primary > li.level0 > ul > li.level1 > a{
-	border-bottom: 1px solid #cdcdcd;
 	cursor: default;
 } 
 
@@ -10629,8 +10600,7 @@ body{
 
 #header-nav .nav-primary li.level0 ul li.level1{
 	float: left;
-	border-right: 1px solid #a7a7a7;
-}  
+}
 
 #header-nav .nav-primary li.level0 ul li.last{
 	border-right: 0px;
@@ -10644,12 +10614,7 @@ body{
 
 
 
- /* ICONS festlegen ----------------------------------------------------- */ 
-
-#header-nav .nav-primary > li > a{
-	background-image: url("../images/template/icons-sprite.png");
-    background-repeat: no-repeat;
-}
+ /* ICONS festlegen ----------------------------------------------------- */
 
 #header-nav .nav-primary > li.nav-1 > a{background-position: 15px 2px;}
 #header-nav .nav-primary > li.nav-2 > a{background-position: 15px -71px;}
@@ -10725,29 +10690,32 @@ table.pyua_produkttabelle tr td{
 table.pyua_produkttabelle tr td.last{
 	border: 0;
 }
- 
+
+.firstrow {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.firstrow .p25{
+  padding-left: 45px;
+  padding-right: 30px;
+}
+
 .firstrow ul.pyua_footer_liste{
  	display: table;
- 	font-family: Blender-Book;
- 	font-weight: bold;
+ 	font-family: Blender;
  }
  
 .firstrow ul.pyua_footer_liste li{
-   border-right: 1px solid #9fa3a5;
     display: inline-block;
     float: left;
-    font-size: 12px;
+    font-size: 15px;
     height: 22px;
     line-height: 22px;
     /*margin-right: 40px;*/
-    padding-right: 20px;
-    padding-left: 20px;
     padding: 0;
     margin: 0;
     width: auto;
-    padding-right: 10px;
-    padding-left: 10px;
- 	
  }
  
  
@@ -10766,21 +10734,9 @@ table.pyua_produkttabelle tr td.last{
 	clear: both;
 	padding-top: 13px;
 	margin-top: 6px;
-	background-image: url("../images/template/footer-trenner.png");
     background-position: center top;
     background-repeat: repeat-x;
 }
-
-.secondrow{
-	display: block;
-	clear: both;
-	padding-top: 13px;
-	margin-top: 6px;
-	background-image: url("../images/template/footer-trenner.png");
-    background-position: center top;
-    background-repeat: repeat-x;
-}
-
 
 .secondrow li#facebooklink{
 	padding-right: 30px;
@@ -10806,18 +10762,12 @@ table.pyua_produkttabelle tr td.last{
 	float: left;
 }
 
-.footer-container{
-	padding-left: 0;
-	padding-right: 0;
-}
-
 .footer-container .p25{
 	padding-left: 20px;
 	padding-right: 30px;
 }
 
 .pyua_nl button{
-	background-color: #0078b4;
 	border-radius: 0 6px 6px 0;
 	-webkit-border-radius: 0 6px 6px 0;
 	-moz-border-radius: 0 6px 6px 0;
@@ -10825,8 +10775,7 @@ table.pyua_produkttabelle tr td.last{
     width: 24px;
     border: none;
     color: #fff;
-    background-image: url("../images/template/newsletter-icon.png");
-    background-position: 5px 4px;
+    background-image: url("../images/template/newsletter-icon.jpg");
     background-repeat: no-repeat;
 }
 
@@ -10835,7 +10784,11 @@ table.pyua_produkttabelle tr td.last{
 }
 
  /* Navigation LEFT Subcategories ----------------------------------------------------- */ 
- 
+
+#leftmenu{
+    padding-left: 15px;
+}
+
  #leftmenu ol.nav-primary{
 
  }
@@ -10852,10 +10805,6 @@ table.pyua_produkttabelle tr td.last{
  
 #leftmenu ol.nav-primary li.active{
  display: block;
- }
- 
-#leftmenu ol.nav-primary li a{
-	padding-left: 25px;
  }
  
 #leftmenu ol.nav-primary li ul li a{
@@ -10976,12 +10925,7 @@ table.pyua_produkttabelle tr td.last{
 
  
  
-  /* ICONS festlegen LEFT BAR----------------------------------------------------- */ 
-
- #leftmenu .nav-primary > li > a{
-	background-image: url("../images/template/icons-sprite-hover.png");
-    background-repeat: no-repeat;
-}
+  /* ICONS festlegen LEFT BAR----------------------------------------------------- */
 
 #leftmenu .nav-primary > li.nav-1 > a{background-position: 0px 2px;}
 #leftmenu .nav-primary > li.nav-2 > a{background-position: 0px -71px;}
@@ -11001,7 +10945,7 @@ table.pyua_produkttabelle tr td.last{
     min-height: 20px;
     min-width: 208px;
     position: absolute;
-    right: 103px;
+    right: -20px;
     top: 52px;
     width: auto !important;
 }
@@ -11012,7 +10956,7 @@ table.pyua_produkttabelle tr td.last{
     
     
 .header-minicart .skip-cart{
-	border-left: 3px solid #bfbfbf;
+	border-left: 1px solid #bfbfbf;
 	background-image: url("../images/template/icons-sprite.png");
     background-repeat: no-repeat;
 	background-position: 7px -367px;
@@ -11358,9 +11302,8 @@ hr{
 }
 
 .cms-home table#product-list-table tr td{
-	width: 153px;
+	width: 33%;
 	display: inline-block;
-	text-align: center;
 }
 
 
@@ -11368,6 +11311,22 @@ hr{
 	margin: 0;
 }
 
+.cms-home table#product-list-table tr td .name{
+  float:left;
+  width: 100%;
+  color: #666;
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.cms-home table#product-list-table tr td .description{
+  float:left;
+  width: 100%;
+  line-height: 1.2;
+  font-size: 16px;
+}
 
 .cms-home table#product-list-table tr td a{
 	padding: 5px;
@@ -11400,9 +11359,13 @@ hr{
 
 
 .cms-home table#product-list-table tr td .price-box{
-	line-height: 14px;
+    line-height: 1.2;
 }
 
+.cms-home table#product-list-table tr td .price-box .price{
+    color: #0077B3;
+    font-size: 16px;
+}
 
 .cms-home table#product-list-table tr
 
@@ -11443,6 +11406,7 @@ div.minicart-wrapper .empty{
 }
 
 .secondrow ul li.last{
+    margin-left: 20px;
 	margin-right: 0px;
     border-right: 0px;
 	
@@ -11499,7 +11463,6 @@ div#dropdown img{
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
-	margin-right: 10px;
 }
 
 div.pyua-news .entry{
@@ -11523,8 +11486,34 @@ div#dropdown h1{
 	display: block;
 	font-size: 14px;
 	color: #666;
-	padding: 5px;
+	padding: 15px 0;
 	cursor: pointer;
+    text-align: center;
+}
+
+div#dropdown h1 span{
+    display: block;
+    width: 100%;
+    color: #0077B3;
+    font-family: Blender,"Helvetica Neue",Verdana,Arial,sans-serif;
+}
+
+div#dropdown h1 span.title{
+  font-size: 27px;
+}
+
+div#dropdown h1 span.sub-title{
+  font-size: 17px;
+}
+
+div#dropdown h1.odd{
+    width: 49%;
+    float:left;
+}
+
+div#dropdown h1.even{
+    width: 49%;
+    float: right;
 }
 
 div#dropdown h1:hover{
@@ -11541,7 +11530,20 @@ div#dropdown p{
 }
 
 div#dropdown .dropdown_content{
-	margin-bottom: 20px;
+    float:left;
+    width: 100%;
+}
+
+div#dropdown .dropdown_content table{
+    width: 100%;
+}
+
+div#dropdown .dropdown_content table tbody tr td{
+    padding-left: 3px;
+}
+
+div#dropdown .dropdown_content table tbody tr td:last-child{
+    float: right;
 }
 
 body.cms-home .main-container {
