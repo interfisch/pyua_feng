@@ -92,7 +92,7 @@ class CJM_ColorSelectorPlus_Block_Listswatch extends Mage_Core_Block_Template
  				//$html .= '<div class="swatch-category-container" style="clear:both;" id="ul-attribute'.$attrid.'-'.$productId.'">';
  				$html .= '<div class="swatch-category-container '.$_attribute['attribute_code'].'" style="clear:both;" id="ul-attribute'.$attrid.'-'.$productId.'">';
  				$html .= '<form><input type="hidden" id="hidden-the-'.$productId.'" value="'.$_attribute['attribute_code'].'" /></form>';
-						
+
 				foreach($_attribute['values'] as $value):
         			
         			$theId = $value['value_index'];
@@ -100,7 +100,7 @@ class CJM_ColorSelectorPlus_Block_Listswatch extends Mage_Core_Block_Template
 					$adminLabel = $_option_vals[$value['value_index']]['internal_label'];
 			
 					preg_match_all('/((#?[A-Za-z0-9]+))/', $adminLabel, $matches);
-				
+
 					if (count($matches[0]) > 0):
 						
 						$color_value = $matches[1][count($matches[0])-1];

@@ -1636,10 +1636,9 @@ width: 150px;
 .col2-left-layout .col-main {
     float: right;
   /*  margin-top: 20px;*/
-    padding-right: 0;
+    padding-right: 15px;
   /* Remove the 15px padding */
 }
-
 
 .col2-right-layout .col-main {
   padding-left: 0;
@@ -10315,6 +10314,7 @@ display: none;
 /* BREADCURUMB ----------------------------------------------------- */ 
 
 .breadcrumbs {
+  display: none;
   position: absolute;
   top: 95px;
   font-size: 14px;
@@ -10479,6 +10479,9 @@ body{
 #header-nav .nav-primary li.level0 li.parent > a {
     position: relative;
   }
+  #header-nav .nav-primary li.level0.active > a {
+    color: #0077B3;
+  }
 #header-nav .nav-primary li.level0 li.parent > a:after {
     content: '';
     width: 0;
@@ -10637,8 +10640,8 @@ body{
 }
   
  /*Breite je Navigationspunkt anlegen!*/ 
-#header-nav .nav-primary li.nav-1 > ul {width: 665px;height:auto;}
-#header-nav .nav-primary li.nav-2 > ul {width: 665px;height:auto;}
+#header-nav .nav-primary li.nav-1 > ul {width: 770px;height:auto;}
+#header-nav .nav-primary li.nav-2 > ul {width: 770px;height:auto;}
 
 #header-nav .nav-primary li.nav-3:hover > ul {display: none;}
 #header-nav .nav-primary li.nav-4:hover > ul {display: none;}
@@ -10806,7 +10809,11 @@ table.pyua_produkttabelle tr td.last{
 #leftmenu ol.nav-primary li.active{
  display: block;
  }
- 
+
+#leftmenu ol.nav-primary li.level0.active >a{
+  color: #0077B3;
+}
+
 #leftmenu ol.nav-primary li ul li a{
 	padding-left: 0px;
  }
@@ -11317,7 +11324,7 @@ hr{
 
 .cms-home #product-list-table .list-product .name{
     float:left;
-    min-width: 50%;
+    width: 100%;
     color: #666;
     font-size: 19px;
     font-weight: 600;
@@ -11327,7 +11334,7 @@ hr{
 
 .cms-home #product-list-table .list-product .description{
     float:left;
-    min-width: 50%;
+    width: 100%;
     line-height: 1.2;
     font-size: 16px;
 }
@@ -11365,7 +11372,7 @@ hr{
 .cms-home #product-list-table .price-box{
     line-height: 1.2;
     float: left;
-    min-width: 50%;
+    width: 100%;
 }
 
 .cms-home #product-list-table .list-product .price-box .price{
