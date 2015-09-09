@@ -8,7 +8,7 @@
 	margin: 0 0 0 -28px;
 	padding: 0;
 	list-style: none;
-	width: 1018px;
+	width: 990px;
 	height: 295px;
 	overflow: hidden;
 }
@@ -89,7 +89,6 @@
 
 .proto-navigation a {
 	background-color: #fff;
-  	background-color: rgba(0,0,0,.2);
     height: 8px;
     text-decoration: none;
   	 width: 8px;
@@ -177,42 +176,70 @@ div.col-main .show strong{
 	text-decoration: none;
 }
 
-
-ol.proto-controls li {
+.protoshow .center{
 	position: absolute;
-	bottom: 135px;
-	width: 30px;
-	height: 30px;
+	width: 100%;
+	top: 125px;
+}
+
+.protoshow .center a{
+	width: 36px;
+	height: 35px;
 	z-index: 9999;
 	display: block;
-	background-image: url('../m4mcode/buttons-slider.png');
+	background-image: url('../custom_sprites.png');
 	background-repeat: no-repeat;
 }
 
-ol.proto-controls .backward{
+.protoshow .center a#prev{
 	position: absolute;
 	left: 35px;
 	display: block;
-	background-position: -3px -33px;
+	background-position: -68px 0px;
 }
 
-ol.proto-controls .forward{
+.protoshow .center a#next{
 	position: absolute;
 	right: 60px;
-	height: 30px;
-	width: 30px;
 	display: block;
-	background-position: -3px -1px;
+	background-position: -36px -65px;
 }
 
-ol.proto-controls .backward:hover{
-	background-position: -37px -33px;
+.protoshow .center a#prev:hover{
+	background-position: 0px -65px;
 	cursor: pointer;
 }
 
-ol.proto-controls .forward:hover{
-	background-position: -37px -1px;
+.protoshow .center a#next:hover{
+	background-position: -104px 0px;
 	cursor: pointer;
+}
+
+.protoshow .cycle-pager {
+	position: absolute;
+	bottom: 10px;
+	width: 100%;
+	text-align: center;
+}
+
+.protoshow .cycle-pager span{
+	background-color: #fff;
+	height: 15px;
+	text-decoration: none;
+	width: 15px;
+	-moz-border-radius:30px;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	-moz-box-shadow:    inset 0 1px 0 1px rgba(0,0,0,.1);
+	-webkit-box-shadow:    inset 0 1px 0 1px rgba(0,0,0,.1);
+	box-shadow:    inset 0 1px 0 1px rgba(0,0,0,.1);
+	display: inline-block;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+.protoshow .cycle-pager span.cycle-pager-active{
+	background-color: #0379b4;
 }
 
 ol.proto-controls .start-stop{
@@ -221,10 +248,10 @@ display: none;
 
 ol.proto-navigation li a{
    display: block;
-    height: 13px;
+    height: 15px;
     overflow: hidden;
     text-indent: -99999px;
-    width: 13px;
+    width: 15px;
     border: 0;
 }
 

@@ -94,7 +94,9 @@ package.xml
 sitemap.xml
 modman/
 .modman/
-skin/frontend/abd/kennzeichen/scss/.sass-cache/
-skin/frontend/abd/kennzeichen/node_modules/
+skin/frontend/pyua/default/css/.sass-cache/
+skin/frontend/pyua/default/css/node_modules/
+skin/frontend/pyua/default/css/Gruntfile.js
+skin/frontend/pyua/default/css/package.json
 back/
 /soap_test.php

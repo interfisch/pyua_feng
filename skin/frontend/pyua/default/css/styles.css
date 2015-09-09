@@ -11291,44 +11291,48 @@ hr{
 
 
 /*Starsteite Produkte*/
-.cms-home table#product-list-table{
-	min-width: 935px;
+.cms-home #product-list-table{
+	max-width: 935px;
 	margin-top: 10px;
 }
 
-.cms-home table#product-list-table .tax-details,
-.cms-home table#product-list-table .shippinglink{
+.cms-home #product-list-table .slide-product{
+  width: 930px;
+}
+
+.cms-home #product-list-table .tax-details,
+.cms-home #product-list-table .shippinglink{
 	display: none;
 }
 
-.cms-home table#product-list-table tr td{
+.cms-home #product-list-table .list-product{
 	width: 33%;
 	display: inline-block;
 }
 
 
-.cms-home table#product-list-table tr td .product-image{
+.cms-home #product-list-table .list-product .product-image{
 	margin: 0;
 }
 
-.cms-home table#product-list-table tr td .name{
-  float:left;
-  width: 100%;
-  color: #666;
-  font-size: 19px;
-  font-weight: 600;
-  line-height: 1.2;
-  text-transform: uppercase;
+.cms-home #product-list-table .list-product .name{
+    float:left;
+    min-width: 50%;
+    color: #666;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 1.2;
+    text-transform: uppercase;
 }
 
-.cms-home table#product-list-table tr td .description{
-  float:left;
-  width: 100%;
-  line-height: 1.2;
-  font-size: 16px;
+.cms-home #product-list-table .list-product .description{
+    float:left;
+    min-width: 50%;
+    line-height: 1.2;
+    font-size: 16px;
 }
 
-.cms-home table#product-list-table tr td a{
+.cms-home #product-list-table a{
 	padding: 5px;
 	border: 1px solid #fff;
     display: block;
@@ -11340,35 +11344,34 @@ hr{
 	-moz-border-radius: 5px;
 }
 
-.cms-home table#product-list-table tr td a:hover{
+.cms-home #product-list-table a:hover{
 	border: 1px solid #b2b2b2;
 }
 
 
 
-.cms-home table#product-list-table tr td .product-image a{
+.cms-home #product-list-table .product-image a{
 	margin: 0 auto;
 }
 
 
-.cms-home table#product-list-table tr td a{
+.cms-home #product-list-table a{
 	color: #666666;
 	text-decoration: none;
 	font-weight: regular;
 }
 
 
-.cms-home table#product-list-table tr td .price-box{
+.cms-home #product-list-table .price-box{
     line-height: 1.2;
+    float: left;
+    min-width: 50%;
 }
 
-.cms-home table#product-list-table tr td .price-box .price{
+.cms-home #product-list-table .list-product .price-box .price{
     color: #0077B3;
     font-size: 16px;
 }
-
-.cms-home table#product-list-table tr
-
 
 div.minicart-wrapper .empty{
 	padding: 5px 23px;

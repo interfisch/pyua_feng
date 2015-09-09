@@ -1,0 +1,59 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<!-- `display: block` sprite -->
+<div class="icon-home"></div>
+
+<!-- `display: inline-block` sprite -->
+<img class="icon-home" />
+```
+*/
+.icon-buttons-slider {
+  background-image: url(custom_sprites.png);
+  background-position: 0px 0px;
+  width: 68px;
+  height: 65px;
+}
+.icon-dot_aktive {
+  background-image: url(custom_sprites.png);
+  background-position: -124px -35px;
+  width: 15px;
+  height: 15px;
+}
+.icon-dot_inaktive {
+  background-image: url(custom_sprites.png);
+  background-position: -104px -55px;
+  width: 15px;
+  height: 15px;
+}
+.icon-pfeil_links {
+  background-image: url(custom_sprites.png);
+  background-position: -68px 0px;
+  width: 36px;
+  height: 35px;
+}
+.icon-pfeil_links_active {
+  background-image: url(custom_sprites.png);
+  background-position: 0px -65px;
+  width: 36px;
+  height: 35px;
+}
+.icon-pfeil_rechts {
+  background-image: url(custom_sprites.png);
+  background-position: -36px -65px;
+  width: 36px;
+  height: 35px;
+}
+.icon-pfeil_rechts_active {
+  background-image: url(custom_sprites.png);
+  background-position: -104px 0px;
+  width: 36px;
+  height: 35px;
+}
+.icon-white-oparc-70 {
+  background-image: url(custom_sprites.png);
+  background-position: -104px -35px;
+  width: 20px;
+  height: 20px;
+}
