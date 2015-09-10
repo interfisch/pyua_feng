@@ -88,6 +88,7 @@ html {
   /* 2 */
   -ms-text-size-adjust: 100%;
   /* 2 */
+  letter-spacing: 0.5px;
 }
 
 /*
@@ -95,6 +96,7 @@ html {
  */
 body {
   margin: 0;
+  letter-spacing: 0.5px;
 }
 
 /* ==========================================================================
@@ -2427,6 +2429,30 @@ ul.list li{
 	margin-left: 30px;
 }
 
+.toolbar .limiter .new-select{
+    float: right;
+    width: 55px;
+    height: 18px;
+    overflow: hidden;
+    background: url(../images/template/select_arrow.png) no-repeat right #fff;
+    border: 1px solid rgb(166, 166, 166);
+    border-radius: 4px;
+    margin: 2px 0 5px 3px;
+}
+
+.toolbar .limiter .new-select select{
+    background: transparent;
+    width: 70px;
+    padding: 0 5px;
+    border: 0;
+    border-radius: 0;
+    outline: none;
+    height: 18px;
+    -webkit-appearance: none;
+    margin-top: -7px;
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+}
 
 /* ============================================ *
  * Tax - Full Tax Summary
@@ -4302,7 +4328,8 @@ p.product-name a:hover {
 }
 .products-grid .product-name a,
 .products-list .product-name a {
-  font-weight: 500;
+  font-weight: 600;
+  font-size: 19px;
 }
 
 /* ============================================ *
@@ -5614,7 +5641,7 @@ display: none;
     border-radius: 5px;
     -webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
-    left: 79px;
+    left: 30px;
     padding-top: 45px;
     position: absolute;
     top: -5px;
@@ -7862,7 +7889,7 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 
 .configurable-swatch-box .validation-advice {
   margin: 0 0 5px;
-  background: #D91A00;
+  background-color: #D91A00;
   padding: 2px 5px !important;
   font-weight: bold;
   color: #fff !important;
@@ -10712,7 +10739,7 @@ table.pyua_produkttabelle tr td.last{
 .firstrow ul.pyua_footer_liste li{
     display: inline-block;
     float: left;
-    font-size: 15px;
+    font-size: 14px;
     height: 22px;
     line-height: 22px;
     /*margin-right: 40px;*/
@@ -10952,7 +10979,7 @@ table.pyua_produkttabelle tr td.last{
     min-height: 20px;
     min-width: 208px;
     position: absolute;
-    right: -20px;
+    right: 0px;
     top: 52px;
     width: auto !important;
 }
@@ -11065,21 +11092,22 @@ outline: 0 none!important;
 
 
 .products-grid .short-description{
-	font-size: 11px;
+	font-size: 16px;
 	font-weight: lighter;
 }
 
 
 
 .products-grid .price-box{
-	border-top: 1px solid #b2b2b2;
-	border-bottom: 1px solid #b2b2b2;
+	border-top: 2px solid #b2b2b2;
 	color: #555;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: bold;
-
 }
 
+.products-grid .price-box{
+    color: #0077B3;
+}
 
 .delivery-time{
 	display: none;
@@ -11096,37 +11124,22 @@ outline: 0 none!important;
 .cms-page-view .page-title h1{
     color:      #0077b3;
 }
-.catalog-category-view .page-title,
+.catalog-category-view .page-title.category-title,
 .cms-page-view .page-title{
     display:    block;
     position:   absolute;
     top:        80px;
-    left:       450px;
+    left:       235px;
     color:      #0077b3;
 }
-.category-women .page-title.category-title{    
-    left:       450px;
+
+.catalog-category-view .page-title.category-title h1{
+    font-size: 36px;
 }
 
-.category-men .page-title.category-title,
-.category-ubersicht-sale .page-title.category-title,
-.categorypath-men-ubersicht-sale-produktubersicht .page-title.category-title,
-.categorypath-men-ubersicht-sale-new-arrivals .page-title.category-title,
-.categorypath-men-produkte .page-title.category-title,
-.categorypath-men-produkte-jacken .page-title.category-title,
-.categorypath-men-produkte-hosen .page-title.category-title,
-.categorypath-men-produkte-pullover-zip-pullover .page-title.category-title,
-.categorypath-men-produkte-shirts .page-title.category-title,
-.categorypath-men-produkte-baselayer .page-title.category-title,
-.categorypath-men-produkte-accessoires .page-title.category-title,
-.categorypath-men-ubersicht-sale-men-outlet .page-title.category-title,
-.categorypath-men-funktionale-kategorien-functional-active-wear .page-title.category-title,
-.categorypath-men-funktionale-kategorien-functional-casual-wear-crosstown .page-title.category-title,
-.categorypath-men-funktionale-kategorien-2-lagen-produkte .page-title.category-title,
-.categorypath-men-funktionale-kategorien-3-lagen-produkte .page-title.category-title,
-.categorypath-men-funktionale-kategorien-insulated-midlayer .page-title.category-title,
-.categorypath-men-funktionale-kategorien-midlayer .page-title.category-title{
-    left:       700px;    
+
+.category-women .page-title.category-title{    
+    left:       450px;
 }
 
 .category-ramsau-am-dachstein .page-title.category-title,

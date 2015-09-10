@@ -187,7 +187,7 @@ Category default layout
                     <action method="addColumnCountLayoutDepend"><layout>three_columns</layout><count>3</count></action>
                     <action method="setToolbarBlockName"><name>product_list_toolbar</name></action>
                     <!-- Since the addColumnCountLayoutDepend does not work, we are manually setting the max columns -->
-                    <action method="setColumnCount"><count>4</count></action>
+                    <action method="setColumnCount"><count>3</count></action>
                 </block>
             </block>
         </reference>
@@ -234,7 +234,7 @@ Category layered navigation layout
                     <action method="addColumnCountLayoutDepend"><layout>three_columns</layout><count>3</count></action>
                     <action method="setToolbarBlockName"><name>product_list_toolbar</name></action>
                     <!-- Since the addColumnCountLayoutDepend does not work, we are manually setting the max columns -->
-                    <action method="setColumnCount"><count>4</count></action>
+                    <action method="setColumnCount"><count>3</count></action>
                 </block>
             </block>
         </reference>
