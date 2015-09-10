@@ -35,7 +35,8 @@
             	<rewrite>
             		<layer_filter_attribute>CJM_ColorSelectorPlus_Block_Catalog_Layer_Filter_Attribute</layer_filter_attribute>
             		<layer_state>CJM_ColorSelectorPlus_Block_Catalog_Layer_State</layer_state>
-            	</rewrite>
+					<product_list>CJM_ColorSelectorPlus_Block_Catalog_Product_List</product_list>
+				</rewrite>
             </catalog>
             <catalogsearch>
             	<rewrite>
