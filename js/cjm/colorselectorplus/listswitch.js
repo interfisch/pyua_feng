@@ -23,7 +23,7 @@ document.observe("dom:loaded", function() {
 });
 
 function listSwitcher(a, id, src, lk) {
-	
+
 	//Set base image
 	if (src) { $$('#the-' + id + ' a.product-image img').first().setAttribute("src", src); }
 	
