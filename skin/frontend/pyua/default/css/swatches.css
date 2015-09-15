@@ -39,9 +39,7 @@
 	float:left;
 	margin-bottom:4px;
 	margin-right:8px;
-	border:2px solid #c0c0c0;
-
-	border-radius: 8px;}
+}
 	
 	.swatch:hover{
 	border:2px solid #0076b6;
