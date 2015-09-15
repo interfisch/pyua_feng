@@ -5163,7 +5163,7 @@ table.info-wrapper tr{
   border: 0;
 }
 .product-view .product-shop {
-  width: 46%;
+  width: 52%;
   float: right;
 }
 .product-view .product-shop .product-name {
@@ -5261,6 +5261,26 @@ table.info-wrapper tr{
 .product-view .product-shop .price-box .price-including-tax .price {
   font-size: 20px;
 }
+.product-view .product-shop .quick-info {
+  margin-top: 10px;
+}
+.product-view .product-shop .quick-info h2{
+  font-size: 13px;
+  font-family: Blender-Book, "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+  font-weight: 600;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  color: #636363;
+}
+.product-view .product-shop .quick-info .quick-info-detail {
+    background-color: #EFEFEF;
+    color: #0075B5;
+    border-radius: 8px;
+    padding: 10px;
+}
 .product-view .old-price .price-label {
   display: none;
 }
@@ -5326,7 +5346,7 @@ table.info-wrapper tr{
 
 
 .product-img-box {
-  width: 50%;
+  width: 48%;
   float: left;
 }
 
@@ -5494,6 +5514,18 @@ table.info-wrapper tr{
     width: 100%;
 }
 
+.product-view .attr_produktbeschreibung h2{
+    font-size: 13px;
+    font-family: Blender-Book, "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+    font-weight: 600;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    color: #636363;
+}
+
 #qty{
 	margin-left: 15px;
 }
@@ -5502,7 +5534,24 @@ table.info-wrapper tr{
 
 
 .more-views{
+    margin-top:8px;
+}
 
+.more-views #moreviews-title{
+    display: inline-block;
+    font-size: 13px;
+    font-family: Blender-Book, "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+    font-weight: 600;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    color: #636363;
+}
+
+.more-views #ul-moreviews {
+    margin-top: 7px;
 }
 
 .more-views ul li{
@@ -10690,11 +10739,15 @@ body{
 table.pyua_produkttabelle h1,
 table.pyua_produkttabelle h2,
  table.pyua_produkttabelle h3{
-    color: #0076b5;
-}
-
-table.pyua_produkttabelle h2{
-	font-size: 17px;
+  font-size: 13px;
+  font-family: Blender-Book, "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+  font-weight: 600;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  color: #636363;
 }
 
 table.pyua_produkttabelle{
@@ -10707,6 +10760,7 @@ table.pyua_produkttabelle{
     padding-bottom: 15px;
     width: 100%;
     line-height: 1.2em;
+    margin-top: 15px;
 }
 
 table.pyua_produkttabelle tr td{

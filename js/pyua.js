@@ -37,6 +37,186 @@
         }        
     }
 
+    /*
+     * Description:     Diese Funktion generiert die Begriffserklärung in einem Produkt
+     * Variablen:       t1 = Table1 class
+     *                  t2 = Table2 class
+     *                  t3 = Table3 class
+     */
+    // Suchworte generieren
+    var SWord   =   [];
+    function SgenerateDescription(t1, t2, t3){
+        var Table1 = $j(t1 + " div").html();
+        var Table2 = $j(t2 + " div").html();
+        var Table3 = $j(t3 + " div").html();
+
+        if(Table1 !== "" && Table2 !== ""){
+            // Wort suchen
+            var c = 0;
+            for(key = 0; key < SWord[0].length; key++) {
+                if(Table1 !== ""){
+                    // gefunden in Table 1
+                    Table1 = Table1.replace(""+SWord[0][key]+"", "<span class=\"sword p"+key+" t1\"><strong>"+SWord[0][key]+"</strong></span>");
+                }
+                if(Table2 !== ""){
+                    // gefunden in Table 2
+                    Table2 = Table2.replace(""+SWord[0][key]+"", "<span class=\"sword p"+key+" t2\"><strong>"+SWord[0][key]+"</strong></span>");
+                }
+                if(Table3 !== ""){
+                    // gefunden in Table 3
+                    Table3 = Table3.replace(""+SWord[0][key]+"", "<span class=\"sword p"+key+" t3\"><strong>"+SWord[0][key]+"</strong></span>");
+                }
+            }
+            Table1 = Table1 + "<div class=\"t1_SText\">";
+            Table2 = Table2 + "<div class=\"t2_SText\">";
+            Table3 = Table3 + "<div class=\"t3_SText\">";
+
+            /* Table 1 */ $j(t1 + " div").html(Table1);
+            /* Table 2 */ $j(t2 + " div").html(Table2);
+            /* Table 3 */ $j(t3 + " div").html(Table3);
+        }
+
+
+        /*
+         * Description:     bei Hover über ein sword class span wird die Funktion SshowDescription ausgeführt
+         */
+        $j('span.sword').mouseover(function(){
+            SshowDescription(this);
+        }).mouseout(function(){
+            $j('.t1_SText').fadeOut().html("");
+            $j('.t2_SText').fadeOut().html("");
+            $j('.t3_SText').fadeOut().html("");
+        });
+        ;
+
+    }
+    /*
+     *  Description: Generiert das Array mit den jeweiligen Begriffen und Texten
+     *  Variablen:   Filter - 0 = Es wird nichts gefiltert
+     *                        1 = Klammern werden im Begriff herausgefiltert
+     */
+    function SgenerateArray(Filter, t1, t2, t3){
+        var Teil1   = [];
+        var Teil2   = [];
+        var Teil3   = [];
+
+        var request = $j.ajax({
+            type:       "POST",
+            url:        "http://localhost/pyua/index.php/kundenservice/begriffserlaeuterungen",
+            data:       "",
+            dataType:   "html"
+        });
+
+        request.done(function(msg){
+            var Content = $j(".col-main", msg).html();
+            var temp    = "";
+            $j('td h5', Content).each(function() {
+                temp    = "";
+                if($j(this).html() != "&nbsp;"){
+                    if(Filter === 1){
+                        temp = $j(this).html();
+                        temp = temp.substr(0, temp.indexOf(' ('));
+                    } else {
+                        temp = $j(this).html();
+                    }
+                    Teil1.push(temp);
+                }
+            });
+            $j('td p', Content).each(function() {
+                temp    = "";
+                if($j(this).html() != "&nbsp;"){
+                    Teil2.push($j(this).html());
+                }
+            });
+            $j('td img', Content).each(function() {
+                temp    = "";
+                if($j(this).html() != "&nbsp;"){
+                    Teil3.push($j(this));
+                }
+            });
+            SWord.push(Teil1);
+            SWord.push(Teil2);
+            SWord.push(Teil3);
+            SgenerateDescription(t1, t2, t3);
+        }).fail(function(msg){
+            console.log(msg);
+        });
+    }
+    function SshowCSS(){
+        var head    = document.head || document.getElementsByTagName('head')[0];
+        var style   = document.createElement('style');
+        var height  = $j("table.pyua_produkttabelle").height() + 31;
+
+        var CSS = ""
+            +".t1_SText,"
+            +".t2_SText,"
+            +".t3_SText {"
+            +"    color:              #ffffff;"
+            +"    background-color:   #0076b5;"
+            +"    position:           absolute;"
+            +"    padding:            15px;"
+            +"    display:            none;"
+            +"}"
+            +".t1_SText{"
+            +"    height:             "+height+"px;"
+            +"    width:              382px;"
+            +"    margin-left:        -16px;"
+            +"    bottom:             21px;"
+            +"    border-radius:      5px 0 0 5px;"
+            +"}"
+            +".t2_SText{"
+            +"    height:             "+height+"px;"
+            +"    width:              382px;"
+            +"    margin-left:        -16px;"
+            +"    bottom:             21px;"
+            +"}"
+            +".t3_SText{"
+            +"    height:             "+height+"px;"
+            +"    width:              382px;"
+            +"    margin-left:        -16px;"
+            +"    bottom:             21px;"
+            +"    border-radius:      0 5px 5px 0;"
+            +"}"
+            +".t1_SText,"
+            +".t2_SText,"
+            +".t3_SText .img{"
+            +"    float:              left;"
+            +"    width:              100px;"
+            +"}"
+            +"";
+        style.type = 'text/css';
+        if (style.styleSheet){
+            style.styleSheet.cssText = CSS;
+        } else {
+            style.appendChild(document.createTextNode(CSS));
+        }
+        head.appendChild(style);
+    }
+
+    function SshowDescription(dies){
+        var Class = $j(dies).attr('class');
+        Class = Class.split(" ", 3);
+        Class[1] = Class[1].substr(1);
+
+        var Target = "";
+        switch(Class[2]){
+            case 't1':
+                Target = ".t2_SText";
+                break;
+            case 't2':
+                Target = ".t3_SText";
+                break;
+            case 't3':
+                Target = ".t2_SText";
+                break;
+        }
+        Content = SWord[2][Class[1]];
+        $j(Target).stop().html( "<span class='img'></span>" );
+        $j(Target).stop().find('.img').html(Content);
+        $j(Target).stop().append("<span class='text'>"+SWord[1][Class[1]]+"</span>");
+        $j(Target).stop().fadeIn();
+    }
+
     $j(document).ready(function(){
         /* NUR INDEX - STARTSEITE */
         if($j("body").hasClass('cms-index-index')){

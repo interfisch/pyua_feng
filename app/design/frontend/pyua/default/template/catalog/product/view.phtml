@@ -109,6 +109,15 @@ m4m Doku
                     ?>
                 <?php endif;?>
 
+                <?php if ($_product->getDescription()):?>
+                    <div class="quick-info">
+                        <h2><?php echo $this->__('Quick Info') ?></h2>
+                        <div class="quick-info-detail">
+                            <?php echo $_helper->productAttribute($_product, nl2br($_product->getDescription()), 'description') ?>
+                        </div>
+                    </div>
+                <?php endif;?>
+
             </div>
 
             <div class="add-to-cart-wrapper">
@@ -207,43 +216,41 @@ m4m Doku
     
     
     
-       <?php  /*Pyua Attribut Produktbeschreibung */ ?>
+   <?php  /*Pyua Attribut Produktbeschreibung */ ?>
+
+    <?php if ($_product->getproduktbeschreibung()):?>
+        <div class="attr_produktbeschreibung">
+            <div>
+                <h2>Produktbeschreibung</h2>
+                <?php echo $_helper->productAttribute($_product, nl2br($_product->getproduktbeschreibung()), 'produktbeschreibung') ?>
+                </div>
+        </div>
+    <?php endif;?>
        
-       
-       <?php if (($_product->getproduktbeschreibung()) || ($_product->getproduktinfos()) || ($_product->getproduktfeatures())) :?>
-       <table class="pyua_produkttabelle">
-       <tr>
-       
-                <?php if ($_product->getproduktbeschreibung()):?>
-                <td>
-                    <div class="attr_produktbeschreibung">
-                        <div><h2>Produktbeschreibung</h2><?php echo $_helper->productAttribute($_product, nl2br($_product->getproduktbeschreibung()), 'produktbeschreibung') ?></div>
-                    </div>
-                    </td>
-                <?php endif;?>
-        
-        
-                <?php if ($_product->getproduktinfos()):?>
-                <td>
-                    <div class="attr_produktinfos">
-                        <div><h2>Produktinfos</h2><?php echo $_helper->productAttribute($_product, nl2br($_product->getproduktinfos()), 'produktinfos') ?></div>
-                    </div>
-                    </td>
-                <?php endif;?>
-        
-        
-        
-        		<?php if ($_product->getproduktfeatures()):?>
-        		<td class="last">
-                    <div class="attr_produktfeatures">
-                        <div><h2>Produktfeatures</h2><?php echo $_helper->productAttribute($_product, nl2br($_product->getproduktfeatures()), 'produktfeatures') ?></div>
-                    </div>
+   <?php if (($_product->getproduktinfos()) || ($_product->getproduktfeatures())) :?>
+   <table class="pyua_produkttabelle">
+   <tr>
+            <?php if ($_product->getproduktinfos()):?>
+            <td>
+                <div class="attr_produktinfos">
+                    <div><h2>Produktinfos</h2><?php echo $_helper->productAttribute($_product, nl2br($_product->getproduktinfos()), 'produktinfos') ?></div>
+                </div>
                 </td>
-                <?php endif;?>
-        
-                <tr>
-        </table>
-        <?php endif;?>          
+            <?php endif;?>
+
+
+
+            <?php if ($_product->getproduktfeatures()):?>
+            <td class="last">
+                <div class="attr_produktfeatures">
+                    <div><h2>Produktfeatures</h2><?php echo $_helper->productAttribute($_product, nl2br($_product->getproduktfeatures()), 'produktfeatures') ?></div>
+                </div>
+            </td>
+            <?php endif;?>
+
+            <tr>
+    </table>
+    <?php endif;?>
          
      
                 
@@ -270,3 +277,8 @@ m4m Doku
     <?php echo $this->getChildHtml('product_additional_data') ?>
 
 </div>
+<script type="text/javascript">
+    /*Hier kommt nun die Begrifferklärung*/
+    SgenerateArray(1, '', '.attr_produktinfos', '.attr_produktfeatures');
+    SshowCSS();
+</script>

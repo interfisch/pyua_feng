@@ -16,6 +16,22 @@ $j(document).ready(function(){
             $j(".checkout-onepage-index #opc-billing").removeClass("active");
         }
     });
+    $j('.nicetry.item').each(function(){
+        var orderId = $j(this).attr('data-order');
+        var new_swatch_orderId = $j(this).find('.swatch-category-container').attr('id')+'-'+orderId;
+        $j(this).find('.swatch-category-container').attr('id', new_swatch_orderId)
+        var new_img_orderId = $j(this).find('.swatch-category').attr('id')+'-'+orderId;
+        $j(this).find('.swatch-category').attr('id', new_img_orderId);
+        $j(this).find('.swatch-category').each(function(){
+            var attr_onclick = $j(this).attr('onclick');
+            var onlick_str = attr_onclick.split(",");
+            var onlick_str_id = onlick_str[1].substring(1, onlick_str[1].length-1);
+            var onlick_str_new_id = "'"+onlick_str_id + "-" + orderId + "'";
+            var new_str_onclick = onlick_str[0]+","+onlick_str_new_id+","+onlick_str[2]+","+onlick_str[3];
+            $j(this).attr('onclick', new_str_onclick);
+        });
+
+    });
 });
 
 /*
