@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <M4M_Super>
+            <active>true</active>
+            <codepool>local</codepool>
+            <depends>
+                <Mage_Catalog />
+            </depends>
+        </M4M_Super>
+    </modules>
+</config>

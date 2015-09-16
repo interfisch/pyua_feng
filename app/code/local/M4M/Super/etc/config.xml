@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <M4M_Super>
+            <version>1.0.1</version>
+        </M4M_Super>
+    </modules>
+    <global>
+        <models>
+            <catalog>
+                <rewrite>
+                    <Product_Attribute_Api_V2>M4M_Super_Model_Product_Attribute_Api_V2</Product_Attribute_Api_V2>
+                </rewrite>
+            </catalog>
+        </models>
+    </global>
+</config>
