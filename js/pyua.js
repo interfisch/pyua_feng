@@ -161,6 +161,7 @@
             +"    width:              382px;"
             +"    margin-left:        -16px;"
             +"    bottom:             21px;"
+            +"    border-radius:      5px 0 0 5px;"
             +"}"
             +".t3_SText{"
             +"    height:             "+height+"px;"
@@ -207,6 +208,17 @@
         $j(Target).stop().find('.img').html(Content);
         $j(Target).stop().append("<span class='text'>"+SWord[1][Class[1]]+"</span>");
         $j(Target).stop().fadeIn();
+    }
+
+    function Quickinfo(){
+        var quick_text = $j('.quick-info-detail').html();
+        var lines = quick_text.split('<br>');
+        var output = '';
+        $j.each(lines, function(key, line) {
+            var parts = line.split(':');
+            output += '<div style="float:left; width: 125px;">' + parts[0] + ':' + '</div><div>' + parts[1] + '</div>';
+        });
+        $j('.quick-info-detail').html(output);
     }
 
     $j(document).ready(function(){
