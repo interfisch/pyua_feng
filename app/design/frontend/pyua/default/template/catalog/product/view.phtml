@@ -109,7 +109,7 @@ m4m Doku
                     ?>
                 <?php endif;?>
 
-                <?php if ($_product->getDescription()):?>
+                <?php if ($_product->getDescription() && $_helper->productAttribute($_product, nl2br($_product->getDescription()), 'description') != "&nbsp;"):?>
                     <div class="quick-info">
                         <h2><?php echo $this->__('Quick Info') ?></h2>
                         <div class="quick-info-detail">
