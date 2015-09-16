@@ -45,19 +45,14 @@
      */
     // Suchworte generieren
     var SWord   =   [];
-    function SgenerateDescription(t1, t2, t3){
-        var Table1 = $j(t1 + " div").html();
+    function SgenerateDescription(t2, t3){
         var Table2 = $j(t2 + " div").html();
         var Table3 = $j(t3 + " div").html();
 
-        if(Table1 !== "" && Table2 !== ""){
+        if(Table2 !== ""){
             // Wort suchen
             var c = 0;
             for(key = 0; key < SWord[0].length; key++) {
-                if(Table1 !== ""){
-                    // gefunden in Table 1
-                    Table1 = Table1.replace(""+SWord[0][key]+"", "<span class=\"sword p"+key+" t1\"><strong>"+SWord[0][key]+"</strong></span>");
-                }
                 if(Table2 !== ""){
                     // gefunden in Table 2
                     Table2 = Table2.replace(""+SWord[0][key]+"", "<span class=\"sword p"+key+" t2\"><strong>"+SWord[0][key]+"</strong></span>");
@@ -67,11 +62,9 @@
                     Table3 = Table3.replace(""+SWord[0][key]+"", "<span class=\"sword p"+key+" t3\"><strong>"+SWord[0][key]+"</strong></span>");
                 }
             }
-            Table1 = Table1 + "<div class=\"t1_SText\">";
             Table2 = Table2 + "<div class=\"t2_SText\">";
             Table3 = Table3 + "<div class=\"t3_SText\">";
 
-            /* Table 1 */ $j(t1 + " div").html(Table1);
             /* Table 2 */ $j(t2 + " div").html(Table2);
             /* Table 3 */ $j(t3 + " div").html(Table3);
         }
@@ -87,7 +80,6 @@
             $j('.t2_SText').fadeOut().html("");
             $j('.t3_SText').fadeOut().html("");
         });
-        ;
 
     }
     /*
@@ -95,7 +87,7 @@
      *  Variablen:   Filter - 0 = Es wird nichts gefiltert
      *                        1 = Klammern werden im Begriff herausgefiltert
      */
-    function SgenerateArray(Filter, t1, t2, t3){
+    function SgenerateArray(Filter, t2, t3){
         var Teil1   = [];
         var Teil2   = [];
         var Teil3   = [];
@@ -137,7 +129,7 @@
             SWord.push(Teil1);
             SWord.push(Teil2);
             SWord.push(Teil3);
-            SgenerateDescription(t1, t2, t3);
+            SgenerateDescription(t2, t3);
         }).fail(function(msg){
             console.log(msg);
         });
@@ -177,8 +169,8 @@
             +"    bottom:             21px;"
             +"    border-radius:      0 5px 5px 0;"
             +"}"
-            +".t1_SText,"
-            +".t2_SText,"
+            +".t1_SText .img,"
+            +".t2_SText .img,"
             +".t3_SText .img{"
             +"    float:              left;"
             +"    width:              100px;"
