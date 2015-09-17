@@ -44,7 +44,15 @@
     if (isset($ids[2])){
         $topParent = Mage::getModel('catalog/category')->setStoreId(Mage::app()->getStore()->getId())->load($ids[2]);
         if ($topParent){
-            $cate_name = $topParent->getName()." | ";
+            $cate_name = $topParent->getName() . " | ";
+        /*    if (isset($ids[3])) {
+                $Parent = Mage::getModel('catalog/category')->setStoreId(Mage::app()->getStore()->getId())->load($ids[3]);
+                if($Parent->getName() == "Produkte")
+                {
+                    $cate_name = $topParent->getName() . " | ";
+                }
+            }
+        */
         }
     }
     else{
