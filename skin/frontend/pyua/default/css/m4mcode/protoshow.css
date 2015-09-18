@@ -193,14 +193,14 @@ div.col-main .show strong{
 
 .protoshow .center a#prev{
 	position: absolute;
-	left: 35px;
+	left: 40px;
 	display: block;
 	background-position: -68px 0px;
 }
 
 .protoshow .center a#next{
 	position: absolute;
-	right: 60px;
+	right: 40px;
 	display: block;
 	background-position: -36px -65px;
 }
