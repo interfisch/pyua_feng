@@ -42,11 +42,11 @@
 }
 	
 	.swatch:hover{
-	border:2px solid #0076b6;
-	border-radius: 8px;
+	border:3px solid #0076b6;
+	border-radius: 20px;
 	color: #636363;}
 
-.swatchSelected { border:2px solid #0076b6 !important;}
+.swatchSelected { border:3px solid #0076b6 !important;	border-radius: 20px;}
 
 #ul-attribute140 .swatch{
 	border:2px solid #C0C0C0;
