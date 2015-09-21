@@ -402,6 +402,7 @@ body {
 
   color: #000000;
   line-height: 1;
+  position: relative;
 }
 
 html,
@@ -10848,6 +10849,19 @@ table.pyua_produkttabelle tr td.last{
 .footer-container .p25{
 	padding-left: 20px;
 	padding-right: 30px;
+}
+
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -25px;
+    background-color: rgba(0, 0, 0, 0.75);
+    z-index: 1000000000000000000;
+}
+
+.overlay img{
+  margin: 250px auto 0;
 }
 
 .pyua_nl button{
