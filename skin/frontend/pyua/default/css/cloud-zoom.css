@@ -5,6 +5,16 @@
     margin:-4px;	/* Set this to minus the border thickness. */
     background-color:#fff;
     cursor:move;
+    position: relative;
+}
+
+.cloud-zoom-lens span{
+    color: #636363;
+    font-size: 12px;
+    position: absolute;
+    bottom: -20px;
+    left: -50px;
+    width: 300px;
 }
 
 /* This is for the title text. */
