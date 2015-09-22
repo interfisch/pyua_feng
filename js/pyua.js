@@ -277,11 +277,18 @@
 
         });
 
-        var url_name = ["index.php/impressum","index.php/datenschutz","index.php/agb","kundenservice/kundenservice-kontakt","index.php/about-pyua","index.php/friends","index.php/kundenservice"];
+        var url_name = ["/impressum","/datenschutz","/agb","kundenservice/kundenservice-kontakt","/about-pyua","/friends","/kundenservice"];
         var url_current = $j(location).attr('href');
         $j.each( url_name, function( i, val ) {
             if(url_current.indexOf(val) >= 0){
                 $j('.overlay').css("display","none");
             }
+        });
+        $j(".overlay-newsletter").on("click", function( e ) {
+            e.preventDefault();
+            $j("body, html").animate({
+                scrollTop: $j('.footer-container').offset().top
+            }, 600);
+            $j( "#newsletter" ).focus();
         });
     });
