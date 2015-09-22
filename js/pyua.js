@@ -175,6 +175,7 @@
             +".t3_SText .img{"
             +"    float:              left;"
             +"    width:              100px;"
+            +"    height:             100px;"
             +"}"
             +"";
         style.type = 'text/css';

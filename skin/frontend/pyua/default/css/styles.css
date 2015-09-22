@@ -5164,7 +5164,7 @@ table.info-wrapper tr{
   border: 0;
 }
 .product-view .product-shop {
-  width: 52%;
+  width: 50%;
   float: right;
 }
 .product-view .product-shop .product-name {
@@ -5280,7 +5280,7 @@ table.info-wrapper tr{
     background-color: #EFEFEF;
     color: #0075B5;
     border-radius: 8px;
-    padding: 10px;
+    padding: 10px 0 10px 10px;
 }
 .product-view .old-price .price-label {
   display: none;
@@ -5347,7 +5347,7 @@ table.info-wrapper tr{
 
 
 .product-img-box {
-  width: 48%;
+  width: 50%;
   float: left;
 }
 
@@ -5406,16 +5406,17 @@ table.info-wrapper tr{
   border: 1px solid transparent;
 }
 
+.product-view .product-shop{
+  padding-left:10px;
+}
 
-
-.product-view .product-shop,
 .product-view .add-to-cart-wrapper,
 .product-view .block-related {
   padding-left: 15px;
 }
 
 .product-img-box {
-  padding-right: 15px;
+  padding-right: 0px;
 }
 
 
@@ -10775,6 +10776,35 @@ table.pyua_produkttabelle tr td.last{
 	border: 0;
 }
 
+table.pyua_produkttabelle .attr_produktfeatures .sword, table.pyua_produkttabelle .attr_produktinfos .sword{
+    cursor: pointer;
+}
+
+table.pyua_produkttabelle .attr_produktinfos .sword:hover::before {
+    background-color: #0076B5;
+    content: " ";
+    display: block;
+    height: 19px;
+    position: absolute;
+    left: 20px;
+    transform: rotate(205deg) skew(-35deg);
+    width: 20px;
+    left: 570px;
+    margin-top:5px;
+}
+
+table.pyua_produkttabelle .attr_produktfeatures .sword:hover::before {
+    background-color: #0076B5;
+    content: " ";
+    display: block;
+    height: 19px;
+    position: absolute;
+    right: 408px;
+    transform: rotate(205deg) skew(-35deg);
+    width: 20px;
+}
+
+
 .firstrow {
   margin-top: 10px;
   margin-bottom: 20px;
@@ -10859,6 +10889,7 @@ table.pyua_produkttabelle tr td.last{
     background-color: rgba(0, 0, 0, 0.9);
     z-index: 100000000;
     text-align: center;
+    display: none;
 }
 
 .overlay img{
@@ -11493,9 +11524,9 @@ div.minicart-wrapper .empty{
     font-size: 12px;
     height: 22px;
     line-height: 12px;
-    margin-right: 16px;
+    margin-right: 15px;
     padding-bottom: 5px;
-    padding-right: 17px;
+    padding-right: 16px;
     padding-top: 5px;
 	
 }
