@@ -10906,6 +10906,62 @@ table.pyua_produkttabelle .attr_produktfeatures .sword:hover::before {
     margin-left: -375px;
 }
 
+.overlay-gallery{
+  position: absolute;
+  width: 100%;
+  top: -25px;
+  bottom: 0px;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 100000000;
+  text-align: center;
+  display: none;
+}
+
+.overlay-gallery-img{
+  margin: 200px auto 0;
+  width: 456px;
+  text-align: center;
+  position: relative;
+}
+
+.overlay-gallery-img .gallery-close{
+  height:30px;
+  background: #ffffff url("../images/closelabel.gif") no-repeat right center;
+  cursor: pointer;
+}
+
+.overlay-gallery-img .gallery-prev{
+  position:absolute;
+  cursor: pointer;
+  bottom: 320px;
+  left:0;
+  width: 36px;
+  height: 34px;
+  z-index: 9999;
+  display: block;
+  background-image: url("custom_sprites.png");
+  background-position: 2px -31px;
+  background-repeat: no-repeat;
+
+}
+
+.overlay-gallery-img .gallery-next{
+  position:absolute;
+  cursor: pointer;
+  bottom: 320px;
+  right: 0;
+  width: 36px;
+  height: 34px;
+  z-index: 9999;
+  display: block;
+  background-image: url("custom_sprites.png");
+  background-repeat: no-repeat;
+}
+
+.overlay-gallery-img img{
+  margin: 0 auto;
+}
+
 .pyua_nl button{
 	border-radius: 0 6px 6px 0;
 	-webkit-border-radius: 0 6px 6px 0;

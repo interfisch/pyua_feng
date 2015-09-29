@@ -12,7 +12,6 @@
 	</PRODUCT_TYPE_configurable>
 	<catalog_product_view translate="label">
 		<reference name="head">
-	    	<action method="addItem"><type>skin_css</type><name>css/lightbox.css</name><params/></action>
 			<action method="addItem"><type>skin_css</type><name>css/swatches.css</name><params/></action>
 			<action method="addCss"><stylesheet helper="colorselectorplus/data/canShowCloudCSS" /></action>
 	    	<action method="addJs"><script helper="colorselectorplus/data/canShowjQuery" /></action>
