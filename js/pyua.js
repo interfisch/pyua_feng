@@ -75,10 +75,15 @@
          */
         $j('span.sword').mouseover(function(){
             SshowDescription(this);
+            $j(this).delay(400).queue(function(next) {
+                $j(this).addClass("active");
+                next();
+            });
         }).mouseout(function(){
             $j('.t1_SText').fadeOut().html("");
             $j('.t2_SText').fadeOut().html("");
             $j('.t3_SText').fadeOut().html("");
+            $j(this).removeClass("active");
         });
 
     }
@@ -208,7 +213,7 @@
         $j(Target).stop().html( "<span class='img'></span>" );
         $j(Target).stop().find('.img').html(Content);
         $j(Target).stop().append("<span class='text'>"+SWord[1][Class[1]]+"</span>");
-        $j(Target).stop().fadeIn();
+        $j(Target).stop().fadeIn(300);
     }
 
     function Quickinfo(){

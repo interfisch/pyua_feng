@@ -13,7 +13,7 @@ class CJM_ColorSelectorPlus_Helper_Data extends Mage_Core_Helper_Abstract
 	public function canShowCloudZoom()
 	{
 	    if(Mage::getStoreConfig('color_selector_plus/zoom/enabled') == true && Mage::getStoreConfig('color_selector_plus/zoom/zoomexists') == false) {
-	    	return 'cjm/colorselectorplus/cloud-zoom.1.0.2.min.js';
+	    	return 'cjm/colorselectorplus/cloud-zoom.1.0.2.js';
 	    }
 	}
 	

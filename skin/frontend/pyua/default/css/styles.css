@@ -10780,7 +10780,7 @@ table.pyua_produkttabelle .attr_produktfeatures .sword, table.pyua_produkttabell
     cursor: pointer;
 }
 
-table.pyua_produkttabelle .attr_produktinfos .sword:hover::before {
+table.pyua_produkttabelle .attr_produktinfos .sword.active:hover::before {
     background-color: #0076B5;
     content: " ";
     display: block;
@@ -10793,7 +10793,7 @@ table.pyua_produkttabelle .attr_produktinfos .sword:hover::before {
     margin-top:5px;
 }
 
-table.pyua_produkttabelle .attr_produktfeatures .sword:hover::before {
+table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
     background-color: #0076B5;
     content: " ";
     display: block;

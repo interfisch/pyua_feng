@@ -99,18 +99,18 @@
                             i = new Array;
                         $("#ul-moreviews li:visible a").each(function() {
                             i.push($(this).attr("href"))
-                        }), $(".overlay-gallery-img img").remove(), $(".overlay-gallery").css("display", "block"), $(".overlay-gallery-img").append(o), $(".overlay-gallery-img .gallery-close").click(function() {
+                        }), $(".overlay-gallery-img img").remove(), $(".overlay-gallery").css("display", "block"), $(".overlay-gallery-img").append(o).hide().fadeIn(300), $(".overlay-gallery-img .gallery-close").click(function() {
                             $(".overlay-gallery").css("display", "none");
                         }), $(".gallery-prev").unbind("click").bind("click",function() {
                             for (var t = 0; t < i.length; t++)
                                 if (i[t] == $(".overlay-gallery-img img").attr("src")) {
-                                    $(".overlay-gallery-img img").remove(), $(".overlay-gallery-img").append(0 == t ? "<img width=456 height=622 src='" + i[i.length - 1] + "'>" : "<img width=456 height=622 src='" + i[t - 1] + "'>");
+                                    $(".overlay-gallery-img img").remove(), $(".overlay-gallery-img").append(0 == t ? "<img width=456 height=622 src='" + i[i.length - 1] + "'>" : "<img width=456 height=622 src='" + i[t - 1] + "'>").hide().fadeIn(300);
                                     break
                                 }
                         }), $(".gallery-next").unbind("click").bind("click",function() {
                             for (var t = 0; t < i.length; t++)
                                 if (i[t] == $(".overlay-gallery-img img").attr("src")) {
-                                    $(".overlay-gallery-img img").remove(), $(".overlay-gallery-img").append(t == i.length - 1 ? "<img width=456 height=622 src='" + i[0] + "'>" : "<img width=456 height=622 src='" + i[t + 1] + "'>");
+                                    $(".overlay-gallery-img img").remove(), $(".overlay-gallery-img").append(t == i.length - 1 ? "<img width=456 height=622 src='" + i[0] + "'>" : "<img width=456 height=622 src='" + i[t + 1] + "'>").hide().fadeIn(300);
                                     break
                                 }
                         });
