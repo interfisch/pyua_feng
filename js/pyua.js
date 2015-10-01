@@ -75,7 +75,7 @@
          */
         $j('span.sword').mouseover(function(){
             SshowDescription(this);
-            $j(this).delay(400).queue(function(next) {
+            $j(this).delay(600).queue(function(next) {
                 $j(this).addClass("active");
                 next();
             });
