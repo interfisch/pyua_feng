@@ -180,7 +180,8 @@
             +".t3_SText .img{"
             +"    float:              left;"
             +"    width:              100px;"
-            +"    height:             100px;"
+            +"    min-height:         90px;"
+            +"    margin-bottom:      10px;"
             +"}"
             +"";
         style.type = 'text/css';
