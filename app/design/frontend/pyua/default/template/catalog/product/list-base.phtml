@@ -44,6 +44,7 @@
 
 <ul class="generic-product-grid cycle-slideshow for-stop" id="product-list-table"  class="cycle-slideshow" data-cycle-slides=">li" data-cycle-fx=carousel data-cycle-timeout=5000 data-cycle-pause-on-hover=".for-stop" data-cycle-carousel-visible=1 data-cycle-next="#next" data-cycle-prev="#prev" data-cycle-pager="#pager" data-cycle-pager-template="">
     <?php $i=0; foreach ($_productCollection as $_product): ?>
+    <?php if($_product->isConfigurable()): ?>
     <?php if ($i++%3==0): ?>
     <li class="slide-product">
     <?php endif ?>
@@ -68,6 +69,7 @@
         </a>
     <?php if ($i%3==0): ?>
     </li>
+    <?php endif ?>
     <?php endif ?>
     <?php endforeach ?>
   </ul>
