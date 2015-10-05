@@ -12438,7 +12438,7 @@ p.back-link{
 #leftmenu #nav .nav-primary li.level0.nav-2 li.level1.nav-2-1 a.level1,
 #leftmenu #nav .nav-primary li.level0.nav-2 li.level1.nav-2-2 a.level1,
 #leftmenu #nav .nav-primary li.level0.nav-2 li.level1.nav-2-3 a.level1{
-    cursor: default;
+    cursor: pointer;
 }
 #header-nav #nav .nav-primary li.level0.nav-1 a.level0:hover,
 #header-nav #nav .nav-primary li.level0.nav-1 li.level1.nav-1-1 a.level1:hover,
@@ -12456,6 +12456,6 @@ p.back-link{
 #leftmenu #nav .nav-primary li.level0.nav-2 li.level1.nav-2-1 a.level1:hover,
 #leftmenu #nav .nav-primary li.level0.nav-2 li.level1.nav-2-2 a.level1:hover,
 #leftmenu #nav .nav-primary li.level0.nav-2 li.level1.nav-2-3 a.level1:hover{
-    cursor: default;
+    cursor: pointer;
     color:  #636363;
 }

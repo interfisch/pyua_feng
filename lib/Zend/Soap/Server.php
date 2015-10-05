@@ -24,6 +24,12 @@
  */
 #require_once 'Zend/Server/Interface.php';
 
+/** @see Zend_Xml_Security */
+#require_once 'Zend/Xml/Security.php';
+
+/** @see Zend_Xml_Exception */
+#require_once 'Zend/Xml/Exception.php';
+
 /**
  * Zend_Soap_Server
  *
@@ -88,11 +94,11 @@ class Zend_Soap_Server implements Zend_Server_Interface
 
     /**
      * WS-I compliant
-     * 
-     * @var boolean 
+     *
+     * @var boolean
      */
     protected $_wsiCompliant;
-    
+
     /**
      * Registered fault exceptions
      * @var array
@@ -273,14 +279,14 @@ class Zend_Soap_Server implements Zend_Server_Interface
         if (null !== $this->_wsiCompliant) {
             $options['wsi_compliant'] = $this->_wsiCompliant;
         }
-        
+
         return $options;
     }
     /**
      * Set WS-I compliant
-     * 
+     *
      * @param  boolean $value
-     * @return Zend_Soap_Server 
+     * @return Zend_Soap_Server
      */
     public function setWsiCompliant($value)
     {
@@ -291,10 +297,10 @@ class Zend_Soap_Server implements Zend_Server_Interface
     }
     /**
      * Gt WS-I compliant
-     * 
+     *
      * @return boolean
      */
-    public function getWsiCompliant() 
+    public function getWsiCompliant()
     {
         return $this->_wsiCompliant;
     }
@@ -634,7 +640,7 @@ class Zend_Soap_Server implements Zend_Server_Interface
             $this->_object = new Zend_Soap_Server_Proxy($object);
         } else {
             $this->_object = $object;
-        }    
+        }
 
         return $this;
     }
@@ -729,21 +735,18 @@ class Zend_Soap_Server implements Zend_Server_Interface
                 $xml = $request;
             }
 
-            libxml_disable_entity_loader(true);
             $dom = new DOMDocument();
-            if(strlen($xml) == 0 || !$dom->loadXML($xml)) {
-                #require_once 'Zend/Soap/Server/Exception.php';
-                throw new Zend_Soap_Server_Exception('Invalid XML');
-            }
-            foreach ($dom->childNodes as $child) {
-                if ($child->nodeType === XML_DOCUMENT_TYPE_NODE) {
+            try {
+                if(strlen($xml) == 0 || (!$dom = Zend_Xml_Security::scan($xml, $dom))) {
                     #require_once 'Zend/Soap/Server/Exception.php';
-                    throw new Zend_Soap_Server_Exception(
-                        'Invalid XML: Detected use of illegal DOCTYPE'
-                    );
+                    throw new Zend_Soap_Server_Exception('Invalid XML');
                 }
+            } catch (Zend_Xml_Exception $e) {
+                #require_once 'Zend/Soap/Server/Exception.php';
+                throw new Zend_Soap_Server_Exception(
+                    $e->getMessage()
+                );
             }
-            libxml_disable_entity_loader(false);
         }
         $this->_request = $xml;
         return $this;
@@ -820,7 +823,7 @@ class Zend_Soap_Server implements Zend_Server_Interface
             if ($this->_wsiCompliant) {
                 #require_once 'Zend/Soap/Server/Proxy.php';
                 array_unshift($args, 'Zend_Soap_Server_Proxy');
-            } 
+            }
             call_user_func_array(array($server, 'setClass'), $args);
         }
 
@@ -873,7 +876,7 @@ class Zend_Soap_Server implements Zend_Server_Interface
         } catch (Zend_Soap_Server_Exception $e) {
             $setRequestException = $e;
         }
-        
+
         $soap = $this->_getSoap();
 
         $fault = false;
