@@ -1,0 +1,139 @@
+@media (min-width: 771px) and (max-width: 989px) {
+  .pyua_header_options {
+    right: 235px;
+  }
+
+  #header-nav {
+    left: 170px;
+  }
+}
+@media (min-width: 0) and (max-width: 770px) {
+  .page {
+    width: inherit;
+  }
+
+  .logo {
+    width: inherit;
+    min-width: inherit;
+    top: inherit;
+  }
+
+  .logo .large {
+    height: 55px;
+    width: 50px;
+  }
+
+  #header-nav {
+    float: left;
+    left: inherit;
+    position: inherit;
+    top: inherit;
+    width: inherit;
+  }
+
+  .skip-content {
+    display: none;
+  }
+
+  .skip-link .label {
+    display: block;
+  }
+
+  .skip-cart.no-count .count {
+    display: block;
+  }
+
+  #header-account {
+    display: none;
+  }
+
+  .pyua_header_options {
+    float: right;
+    top: inherit;
+    width: inherit;
+    min-width: inherit;
+    min-height: inherit;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 10px;
+    display: inline-block;
+  }
+
+  .pyua_header_options a {
+    float: left;
+    min-width: 60px;
+  }
+
+  header span.goToCheckout {
+    display: inline-block;
+    margin-left: 5px;
+    padding-left: 5px;
+    border-left: 1px solid #BFBFBF;
+  }
+
+  #account-pyua {
+    background-position: 41px 4px;
+    padding-left: 7.5px;
+    margin-left: 7.5px;
+    border-left: 1px solid #BFBFBF;
+  }
+
+  .header-minicart {
+    display: block;
+    float: left;
+    width: 100px;
+  }
+
+  .header-minicart .skip-cart {
+    padding-left: 30px;
+    position: relative;
+    min-width: 200px;
+    left: inherit;
+    top: inherit;
+  }
+
+  .header-minicart .subtotal-pyua {
+    float: left;
+  }
+
+  .header-minicart .pyua-count {
+    float: left;
+    margin-left: 5px;
+    font-weight: bold;
+  }
+}
+@media (min-width: 0) and (max-width: 479px) {
+  .pyua_header_options {
+    width: 200px !important;
+    margin-top: 0;
+  }
+
+  .pyua_header_options a {
+    float: right;
+  }
+
+  #login-pyua {
+    padding-left: 9px;
+    border-left: 1px solid #BFBFBF;
+  }
+
+  #account-pyua {
+    margin-left: 0;
+    width: 100px;
+    padding-left: 0;
+    border-left: 0px;
+  }
+
+  header span.goToCheckout {
+    float: right;
+    margin-left: 0;
+    padding-left: 0;
+    width: 85px;
+  }
+
+  .header-minicart .skip-cart {
+    min-width: inherit;
+    width: 100px;
+    border-left: 0px;
+  }
+}
