@@ -1,5 +1,5 @@
 <div id="myshow1" class="protoshow for-stop">
-	<ul class="cycle-slideshow" data-cycle-slides=".slide" data-cycle-fx=carousel data-cycle-timeout=5000 data-cycle-pause-on-hover=".for-stop" data-cycle-carousel-visible=1 data-cycle-next="#next" data-cycle-prev="#prev" data-cycle-pager="#pager" data-cycle-pager-template="<span></span>">
+	<ul class="cycle-slideshow" data-cycle-slides=".slide" data-cycle-fx=carousel data-cycle-timeout=0 data-cycle-pause-on-hover=".for-stop" data-cycle-carousel-visible=1 data-cycle-next="#next" data-cycle-prev="#prev" data-cycle-pager="#pager" data-cycle-pager-template="<span></span>">
 		<?php
 		$staticBlockSlide01 = Mage::getModel('cms/block')->load('slide1');
 		if($staticBlockSlide01->getIsActive() == 1) { ?>
@@ -67,4 +67,3 @@
 
 	<div class="cycle-pager" id="pager"></div>
 </div>
-		

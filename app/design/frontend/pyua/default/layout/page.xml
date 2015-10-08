@@ -49,8 +49,8 @@ Default layout, loads most of the pages
                 <action method="addJs"><script>varien/form.js</script></action>
                 <action method="addJs"><script>varien/menu.js</script></action>
                 <action method="addJs"><script>mage/translate.js</script></action>
-                <action method="addJs"><script>mage/cookies.js</script></action>        
-                
+                <action method="addJs"><script>mage/cookies.js</script></action>
+                <action method="addItem"><type>skin_js</type><name>js/app.js</name></action>
                 <!-- JQuery einbinden -->   <action method="addJs"><script>jquery.js</script></action>
                 <!-- Font Awesome Icons --> <action method="addCss"><stylesheet>css/font-awesome.min.css</stylesheet></action>  
                 <!-- Meine Global JS -->    <action method="addJs"><script>pyua.js</script></action>
