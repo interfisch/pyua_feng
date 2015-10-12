@@ -345,6 +345,15 @@
   .header-minicart #header-cart {
     left: -10px;
     top: 60px;
+    padding-top: 25px;
+  }
+
+  .mini-products-list .product-details .product-name {
+    display: inline-block;
+  }
+
+  .minicart a.my-minicart-button {
+    width: 100%;
   }
 
   .cms-home #product-list-table .slide-product {

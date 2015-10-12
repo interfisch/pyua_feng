@@ -298,4 +298,8 @@
             }, 600);
             $j( "#newsletter" ).focus();
         });
+        if($j('body').attr("class").indexOf("categorypath-men") >= 0)
+        {
+            $j(".catalog-category-view .page-title.category-title").css({"right":"105px","left":"inherit"});
+        }
     });
