@@ -41,8 +41,8 @@ Actions (Warenkorb, Wunschliste, Vergleich entfernt)
 <?php
     $_productCollection=$this->getLoadedProductCollection();
     $_helper = $this->helper('catalog/output');
+    $categoryId = $this->getLayer()->getCurrentCategory()->getId();
 ?>
-
 <?php if(!$_productCollection->count()): ?>
 <p class="note-msg"><?php echo $this->__('There are no products matching the selection.') ?></p>
 <?php else: ?>
@@ -159,11 +159,14 @@ Actions (Warenkorb, Wunschliste, Vergleich entfernt)
                             <a href="<?php echo $_product->getProductUrl() ?>" title="<?php echo $this->stripTags($this->getImageLabel($_product, 'small_image'), null, true) ?>" class="product-image">
                                 <!-- Check if is out of Stock -->
                                 <?php if ($_product->isAvailable()): ?>
+                                    <?php if ($this->isProductNew($_product)): ?>
+                                        <div class="neu-box"></div>
+                                    <?php endif; ?>
+                                    <?php if ($categoryId == 14 || $categoryId == 24): ?>
+                                        <div class="neu-box"></div>
+                                    <?php endif; ?>
                                 <?php else: ?>
                                     <div class="sold-out-box"></div>
-                                <?php endif; ?>
-                                <?php if ($this->isProductNew($_product)): ?>
-                                    <div class="neu-box"></div>
                                 <?php endif; ?>
                                 <?php $productsImage = $this->getListSwatchProductImage($_attributes,$_product->getId(), $i-1); ?>
                                 <img src="<?php echo $productsImage; ?>" width="275" height="275" alt="<?php echo $this->stripTags($this->getImageLabel($_product, 'small_image'), null, true) ?>" /></a>
