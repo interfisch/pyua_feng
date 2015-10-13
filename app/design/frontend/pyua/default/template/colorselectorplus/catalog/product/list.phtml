@@ -162,6 +162,9 @@ Actions (Warenkorb, Wunschliste, Vergleich entfernt)
                                 <?php else: ?>
                                     <div class="sold-out-box"></div>
                                 <?php endif; ?>
+                                <?php if ($this->isProductNew($_product)): ?>
+                                    <div class="neu-box"></div>
+                                <?php endif; ?>
                                 <?php $productsImage = $this->getListSwatchProductImage($_attributes,$_product->getId(), $i-1); ?>
                                 <img src="<?php echo $productsImage; ?>" width="275" height="275" alt="<?php echo $this->stripTags($this->getImageLabel($_product, 'small_image'), null, true) ?>" /></a>
                             <div class="product-info">

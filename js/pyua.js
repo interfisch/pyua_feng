@@ -218,14 +218,16 @@
     }
 
     function Quickinfo(){
-        var quick_text = $j('.quick-info-detail').html();
-        var lines = quick_text.split('<br>');
-        var output = '';
-        $j.each(lines, function(key, line) {
-            var parts = line.split(':');
-            output += '<div style="float:left; width: 125px;">' + parts[0] + ':' + '</div><div>' + parts[1] + '</div>';
-        });
-        $j('.quick-info-detail').html(output);
+        if($j('.quick-info-detail').html()) {
+            var quick_text = $j('.quick-info-detail').html();
+            var lines = quick_text.split('<br>');
+            var output = '';
+            $j.each(lines, function (key, line) {
+                var parts = line.split(':');
+                output += '<div style="float:left; width: 125px;">' + parts[0] + ':' + '</div><div>' + parts[1] + '</div>';
+            });
+            $j('.quick-info-detail').html(output);
+        }
     }
 
     $j(document).ready(function(){

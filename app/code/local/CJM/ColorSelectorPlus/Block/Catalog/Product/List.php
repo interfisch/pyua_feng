@@ -93,4 +93,14 @@ class CJM_ColorSelectorPlus_Block_Catalog_Product_List extends Mage_Catalog_Bloc
 
         return $product_image[$i];
     }
+    function isProductNew(Mage_Catalog_Model_Product $product)
+    {
+        $newsFromDate = $product->getNewsFromDate();
+        $newsToDate   = $product->getNewsToDate();
+        if (!$newsFromDate && !$newsToDate) {
+            return false;
+        }
+        return Mage::app()->getLocale()
+            ->isStoreDateInInterval($product->getStoreId(), $newsFromDate, $newsToDate);
+    }
 }

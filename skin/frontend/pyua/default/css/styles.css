@@ -2441,20 +2441,6 @@ ul.list li{
     margin: 2px 0 5px 3px;
 }
 
-.toolbar .limiter .new-select select{
-    background: transparent;
-    width: 70px;
-    padding: 0 5px;
-    border: 0;
-    border-radius: 0;
-    outline: none;
-    height: 18px;
-    -webkit-appearance: none;
-    margin-top: -7px;
-    color: transparent;
-    text-shadow: 0 0 0 #000;
-}
-
 /* ============================================ *
  * Tax - Full Tax Summary
  * ============================================ */
@@ -4469,10 +4455,19 @@ p.product-name a:hover {
     width: 66px;
 }
 
-
-
-
-
+.neu-box{
+  background-image: url("../images/template/new.png");
+  background-position: left top;
+  background-repeat: no-repeat;
+  display: block;
+  height: 66px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 66px;
+  color: #636363;
+  font-size: 16px;
+}
 
 @media only screen and (min-width: 480px) {
   /* Config: Three columns + flexible gutter */
@@ -11955,7 +11950,22 @@ li.fields{
     font-family: fontawesome;
     margin-right: 5px;
   }
-
+/*Rechnung*/
+label[for=p_method_payone_invoice]:before{
+  content: "\f0e0";
+  color: #000 !important;
+  font-size: 15px;
+  font-family: fontawesome;
+  margin-right: 5px;
+}
+/*Safe Rechnung*/
+label[for=p_method_payone_safe_invoice]:before{
+  content: "\f023";
+  color: #000 !important;
+  font-size: 15px;
+  font-family: fontawesome;
+  margin-right: 5px;
+}
 /*Zur Kasse*/
 header span.goToCheckout {
   font-size: 16px;
