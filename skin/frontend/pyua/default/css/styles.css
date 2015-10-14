@@ -2404,8 +2404,8 @@ ul.list li{
 	background-repeat: no-repeat;
 }
 
-.toolbar .sorter{
-     display: none;
+.toolbar .pager{
+  display: inline-block;
 }
 
 .toolbar .pages{
