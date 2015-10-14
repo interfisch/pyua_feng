@@ -21,6 +21,12 @@
 	height: 100%;
 }
 
+.slide p{
+	height: 296px;
+	width: 990px;
+	background-size: cover;
+}
+
 .active-slide {
 	z-index: 100;
 }
