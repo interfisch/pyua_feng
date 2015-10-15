@@ -36,6 +36,7 @@
             		<layer_filter_attribute>CJM_ColorSelectorPlus_Block_Catalog_Layer_Filter_Attribute</layer_filter_attribute>
             		<layer_state>CJM_ColorSelectorPlus_Block_Catalog_Layer_State</layer_state>
 					<product_list>CJM_ColorSelectorPlus_Block_Catalog_Product_List</product_list>
+					<product_list_toolbar>CJM_ColorSelectorPlus_Block_Catalog_Product_List_Toolbar</product_list_toolbar>
 				</rewrite>
             </catalog>
             <catalogsearch>

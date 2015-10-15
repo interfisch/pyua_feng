@@ -32,6 +32,19 @@
  */
 ?>
 <?php if($this->getCollection()->getSize()): ?>
+<?php
+    $sort = array();
+    foreach($this->getAvailableOrders() as $_key=>$_order){
+        if($_key == "price"){
+            $sort[$_key]["Höchster Preis"] = "desc";
+            $sort[$_key]["Niedrigster Preis"] = "asc";
+        }else if($_key == "created_at"){
+            $sort[$_key]["Neuheiten"] = "asc";
+        }else{
+            $sort[$_key][$_order] = "asc";
+        }
+    }
+?>
     <div class="toolbar">
         <?php if( $this->isExpanded() ): ?>
             <div class="sorter">
@@ -53,33 +66,20 @@
 
                 <div class="sort-by">
                     <label><?php echo $this->__('Sort By') ?></label>
-                    <select onchange="setLocation(this.value)" title="<?php echo $this->__('Sort By') ?>">
-                        <?php foreach($this->getAvailableOrders() as $_key=>$_order): ?>
-                            <option value="<?php echo $this->getOrderUrl($_key, 'asc') ?>"<?php if($this->isOrderCurrent($_key)): ?> selected="selected"<?php endif; ?>>
-                                <?php echo $this->__($_order) ?>
-                            </option>
+                    <select id="select-custom" onchange="setLocation(this.value)" title="<?php echo $this->__('Sort By') ?>">
+                        <?php foreach($sort as $_key=>$_order): ?>
+                            <?php foreach($_order as $name=>$order_right): ?>
+                                    <option value="<?php echo $this->getOrderUrl($_key, $order_right) ?>"<?php if($this->isOrderCurrent($_key, $order_right)): ?> selected="selected"<?php endif; ?>>
+                                        <?php echo $this->__($name) ?>
+                                    </option>
+                            <?php endforeach; ?>
                         <?php endforeach; ?>
                     </select>
-                    <?php if($this->getCurrentDirection() == 'desc'): ?>
-                        <a href="<?php echo $this->getOrderUrl(null, 'asc') ?>" class="sort-by-switcher sort-by-switcher--desc" title="<?php echo $this->__('Set Ascending Direction') ?>"><?php echo $this->__('Set Ascending Direction') ?></a>
-                    <?php else: ?>
-                        <a href="<?php echo $this->getOrderUrl(null, 'desc') ?>" class="sort-by-switcher sort-by-switcher--asc" title="<?php echo $this->__('Set Descending Direction') ?>"><?php echo $this->__('Set Descending Direction') ?></a>
-                    <?php endif; ?>
                 </div>
             </div>
         <?php endif; ?>
         <div class="pager">
             <div class="count-container">
-                <?php if($this->getLastPageNum()>1): ?>
-                    <p class="amount amount--has-pages">
-                        <?php echo $this->__('%s-%s of %s', $this->getFirstNum(), $this->getLastNum(), $this->getTotalNum()) ?>
-                    </p>
-                <?php else: ?>
-                    <p class="amount amount--no-pages">
-                        <strong><?php echo $this->__('%s Item(s)', $this->getTotalNum()) ?></strong>
-                    </p>
-                <?php endif; ?>
-
                 <div class="limiter">
                     <label><?php echo $this->__('Show') ?></label>
                     <select onchange="setLocation(this.value)" title="<?php echo $this->__('Results per page'); ?>">

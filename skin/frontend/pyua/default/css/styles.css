@@ -2360,6 +2360,12 @@ ul.list li{
   padding: 0 10px;
   padding-top: 3px;
   clear: both;
+  display: inline-block;
+  width: 100%;
+}
+
+.toolbar .sorter {
+  float:left;
 }
 
 .toolbar .pages {
@@ -2406,11 +2412,12 @@ ul.list li{
 
 .toolbar .pager{
   display: inline-block;
+  float: right;
 }
 
 .toolbar .pages{
      float: right;
-     min-width: 400px;
+     min-width: 200px;
 }
 
 .toolbar .pages strong{
