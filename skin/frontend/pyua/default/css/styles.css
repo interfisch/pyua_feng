@@ -5259,6 +5259,8 @@ table.info-wrapper tr{
 }
 .product-view .product-shop .quick-info {
   margin-top: 10px;
+  width: 100%;
+  display: inline-block;
 }
 .product-view .product-shop .quick-info h2{
   font-size: 13px;
