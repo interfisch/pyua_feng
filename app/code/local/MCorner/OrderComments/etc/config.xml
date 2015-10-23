@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MCorner_Ordercomments>
+            <version>0.1.0</version>
+        </MCorner_Ordercomments>
+    </modules>
+    <frontend>
+        <events>
+            <checkout_type_onepage_save_order>
+                <observers>
+                    <MCorner_Ordercomments_Onepage>
+                        <type>singleton</type>
+                        <class>MCorner_Ordercomments_Model_Observer</class>
+                        <method>saveOrder</method>
+                    </MCorner_Ordercomments_Onepage>
+                </observers>
+            </checkout_type_onepage_save_order>
+        </events>
+    </frontend>
+</config>
