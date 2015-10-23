@@ -304,4 +304,11 @@
         {
             $j(".catalog-category-view .page-title.category-title").css({"right":"105px","left":"inherit"});
         }
+        $j( "li.nicetry" ).each(function( index ) {
+            if($j(this).find(".product-info .product-name a").html() == "Backyard-Y"){
+                if($j(this).attr("data-order") != 4) {
+                    $j(this).find(".neu-box").css("display", "none");
+                }
+            }
+        });
     });
