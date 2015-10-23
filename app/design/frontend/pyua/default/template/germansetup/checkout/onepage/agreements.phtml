@@ -44,6 +44,10 @@ $agreements = $this->getAgreements();
 <?php if (!$agreements) return; ?>
 
 <form action="" id="checkout-agreements" onsubmit="return false;">
+    <div class="checkout-comments">
+        <label for="orderComment"><?php echo $this->__('Ihre persönliche Nachricht:'); ?></label>
+        <textarea name="orderComment" id="orderComment" rows="3" cols="60"></textarea>
+    </div>
 <ol class="checkout-agreements">
 <?php foreach ($agreements as $agreement): ?>
     <li>
