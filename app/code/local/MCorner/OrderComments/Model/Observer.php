@@ -20,7 +20,7 @@ class MCorner_Ordercomments_Model_Observer extends Varien_Object
         $_comments = strip_tags($_request->getParam('orderComment'));
 
         if(!empty($_comments)){
-            $_comments = 'Additional Order Comments: ' . $_comments;
+            $_comments = 'Wie hast Du uns gefunden: ' . $_comments;
             $_order->setCustomerNote($_comments);
         }
 
