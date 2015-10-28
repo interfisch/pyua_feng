@@ -10907,6 +10907,65 @@ table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
     margin-left: -375px;
 }
 
+.startseite-overlay{
+  position: absolute;
+  width: 100%;
+  top: -25px;
+  bottom: 0px;
+  background-color: rgba(0, 0, 0, 0.9);
+  z-index: 100000000;
+  text-align: center;
+}
+
+.startseite-overlay img{
+  margin: 250px auto 0;
+}
+
+.startseite-overlay .overlay-newsletter{
+  display: inline-block;
+  cursor: pointer;
+  width: 450px;
+  height: 40px;
+  position: absolute;
+  margin-top: -270px;
+  margin-left: -375px;
+}
+
+.startseite-overlay .overlay-newsletter-close{
+  position: absolute;
+  margin-top: -425px;
+  margin-left: 420px;
+  color: #000;
+  font-size: 40px;
+  width: 40px;
+  height: 40px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.startseite-overlay form {
+  position: absolute;
+  margin-top: -180px;
+  margin-left: 505px;
+}
+
+.startseite-overlay form .input-box, .startseite-overlay form .actions{
+  float:left;
+}
+
+.startseite-overlay form .actions{
+  margin-top:2px;
+}
+
+.startseite-overlay form .actions button{
+  padding: 5px 15px;
+}
+
+.startseite-overlay form input#newsletter-startseite{
+  width: 245px;
+  height: 30px;
+}
+
 .overlay-gallery{
   position: absolute;
   width: 100%;

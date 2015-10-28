@@ -300,6 +300,13 @@
             }, 600);
             $j( "#newsletter" ).focus();
         });
+        $j(".overlay-newsletter-close").on("click", function( e ) {
+            e.preventDefault();
+            $j(".startseite-overlay").fadeOut(300);
+        });
+        if($j(".success-msg li span").html() == "Bestätigungs-Anfrage wurde gesendet."){
+            $j(".startseite-overlay").fadeOut(300);
+        }
         if($j('body').attr("class").indexOf("categorypath-men") >= 0)
         {
             $j(".catalog-category-view .page-title.category-title").css({"right":"105px","left":"inherit"});

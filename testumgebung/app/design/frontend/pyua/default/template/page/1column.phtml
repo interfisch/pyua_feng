@@ -71,6 +71,28 @@
     </div>
 </div>
 <?php echo $this->getAbsoluteFooter() ?>
+<?php $is_homepage = Mage::getBlockSingleton('page/html_header')->getIsHomePage();?>
+<?php if($is_homepage):?>
+    <div class="startseite-overlay">
+        <img src="<?php echo $this->getSkinUrl('images/template/15W_Overlay.jpg')?>">
+        <span class="overlay-newsletter-close">×</span>
+        <form action="http://localhost/pyua/index.php/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail-startseite">
+            <div class="block-content">
+                <div class="input-box">
+                    <input type="text" name="email" id="newsletter-startseite" title="<?php echo $this->__('Sign up for our newsletter') ?>" class="input-text required-entry validate-email" />
+                </div>
+                <div class="actions">
+                    <button type="submit" title="<?php echo $this->__('Subscribe') ?>" class="button"><span><span><?php echo $this->__('Subscribe') ?></span></span></button>
+                </div>
+            </div>
+        </form>
+        <script type="text/javascript">
+            //<![CDATA[
+            var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail-startseite');
+            //]]>
+        </script>
+    </div>
+<?php endif; ?>
 </body>
 </html>
 
