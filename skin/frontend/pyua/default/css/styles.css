@@ -1925,6 +1925,11 @@ color: #636363;
   border-right: none;
 }
 
+.messages .success-msg li span{
+  font-size: 18px;
+  color: #ff0000;
+}
+
 @media only screen and (min-width: 915px) {
   .order-list-grid .col-1 {
     width: 30%;
@@ -10946,7 +10951,11 @@ table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
 .startseite-overlay form {
   position: absolute;
   margin-top: -180px;
-  margin-left: 505px;
+  width: 100%;
+}
+
+.startseite-overlay form .block-content{
+  margin: 0px auto;
 }
 
 .startseite-overlay form .input-box, .startseite-overlay form .actions{
@@ -10964,6 +10973,7 @@ table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
 .startseite-overlay form input#newsletter-startseite{
   width: 245px;
   height: 30px;
+  margin-left: 50px;
 }
 
 .overlay-gallery{
@@ -12226,7 +12236,23 @@ header span.goToCheckout:hover > a {
 }
 .checkout-onepage-index #opc-review .step-title {
   left: 687px;
-} 
+}
+
+.checkout-onepage-index #opc-review #orderCommentSelect{
+  margin-bottom: 10px;
+}
+
+.checkout-onepage-index #opc-review .checkout-comments-text{
+  margin-bottom: 10px;
+}
+
+.checkout-onepage-index #opc-review .checkout-comments-text label{
+  width: 130px;
+}
+
+.checkout-onepage-index #opc-review .checkout-comments-text input{
+  width: 230px;
+}
 
 .checkout-onepage-index .col-right.sidebar {
   display: none;

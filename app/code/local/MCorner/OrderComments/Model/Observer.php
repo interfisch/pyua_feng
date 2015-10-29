@@ -17,10 +17,10 @@ class MCorner_Ordercomments_Model_Observer extends Varien_Object
         $_order   = $evt->getOrder();
         $_request = Mage::app()->getRequest();
 
-        $_comments = strip_tags($_request->getParam('orderComment'));
+        $_comments = strip_tags($_request->getParam('oderCommentsSelect').$_request->getParam('Magazin').$_request->getParam('Handel').$_request->getParam('Andere'));
 
         if(!empty($_comments)){
-            $_comments = 'Wie hast Du uns gefunden: ' . $_comments;
+            $_comments = 'Wie bist Du auf uns aufmerksam geworden: ' . $_comments;
             $_order->setCustomerNote($_comments);
         }
 

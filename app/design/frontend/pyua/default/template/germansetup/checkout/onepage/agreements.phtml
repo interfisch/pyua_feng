@@ -45,8 +45,25 @@ $agreements = $this->getAgreements();
 
 <form action="" id="checkout-agreements" onsubmit="return false;">
     <div class="checkout-comments">
-        <label for="orderComment"><?php echo $this->__('Wie hast Du uns gefunden:'); ?></label>
-        <textarea name="orderComment" id="orderComment" rows="3" cols="60"></textarea>
+        <div for="orderComment"><?php echo $this->__('Wie bist Du auf uns aufmerksam geworden:'); ?></div>
+        <select id="orderCommentSelect" name="oderCommentsSelect">
+            <option value=""></option>
+            <option value="Facebook">Facebook</option>
+            <option value="Google Suche">Google Suche</option>
+            <option value="Freunde">Freunde</option>
+        </select>
+        <div class="checkout-comments-text">
+            <label for="Magazin"><?php echo $this->__('Magazin:'); ?></label>
+            <input name="Magazin" id="Magazin">
+        </div>
+        <div class="checkout-comments-text">
+            <label for="Handel"><?php echo $this->__(' Im Handel gesehen:'); ?></label>
+            <input name="Handel" id="Handel">
+        </div>
+        <div class="checkout-comments-text">
+            <label for="Andere"><?php echo $this->__('Andere:'); ?></label>
+            <input name="Andere" id="Andere">
+        </div>
     </div>
 <ol class="checkout-agreements">
 <?php foreach ($agreements as $agreement): ?>
