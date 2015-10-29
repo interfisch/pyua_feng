@@ -640,6 +640,16 @@ td {
     vertical-align: middle;
 }
 
+.col-main .landing strong{
+  font-family: Blender-Book;
+  font-weight: bold;
+  color: #636363;
+}
+
+.col-main .landing h1{
+  font-size: 22px;
+  margin: 40px 0 30px;
+}
 
 .col-main #haendlersuche td{
     vertical-align: top;
