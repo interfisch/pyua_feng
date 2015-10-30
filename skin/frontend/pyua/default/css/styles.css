@@ -12248,6 +12248,12 @@ header span.goToCheckout:hover > a {
   left: 687px;
 }
 
+.checkout-onepage-index #opc-review .orderComment{
+  font-size: 16px;
+  font-family: Blender-Book,"Raleway","Helvetica Neue",Verdana,Arial,sans-serif;
+  font-weight: 600;
+}
+
 .checkout-onepage-index #opc-review #orderCommentSelect{
   margin-bottom: 10px;
 }
