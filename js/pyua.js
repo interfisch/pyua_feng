@@ -307,11 +307,18 @@
         if($j(".success-msg li span").html() == "Bestätigungs-Anfrage wurde gesendet."){
             $j(".startseite-overlay").fadeOut(300);
         }
+        if($j(".error-msg li span").html() == 'Der Gutscheincode "SCHAURIG-SCHOEN-ZU-HALLOWEEN" ist nicht auf bereits reduzierte Produkte anwendbar.'){
+            $j(this).html('Der Gutscheincode "SCHAURIG-SCHOEN-ZU-HALLOWEEN" ist nur in Kombination von Skijacke + Spark/Spark-Y oder Skijacke+Glow/Glow-Y+T-Shirt anwendbar.');
+        }
         if($j('body').attr("class").indexOf("categorypath-men") >= 0)
         {
             $j(".catalog-category-view .page-title.category-title").css({"right":"105px","left":"inherit"});
         }
         if($j('body').attr("class").indexOf("category-saison-opening") >= 0)
+        {
+            $j(".catalog-category-view .page-title.category-title").css("display","none");
+        }
+        if($j('body').attr("class").indexOf("category-halloween") >= 0)
         {
             $j(".catalog-category-view .page-title.category-title").css("display","none");
         }
