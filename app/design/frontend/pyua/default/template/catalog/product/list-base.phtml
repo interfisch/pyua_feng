@@ -32,7 +32,12 @@
  */
 ?>
 <?php
-   $_productCollection=$this->getLoadedProductCollection();
+    $categoryid = 26;
+
+    $category = new Mage_Catalog_Model_Category();
+    $category->load($categoryid);
+    $_productCollection = $category->getProductCollection();
+    $_productCollection->addAttributeToSelect('*');
       // $_product=$this->getLoadedProduct();
     $_helper = $this->helper('catalog/output');
 
