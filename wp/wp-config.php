@@ -1,12 +1,12 @@
 <?php
 /**
- * In dieser Datei werden die Grundeinstellungen für WordPress vorgenommen.
+ * In dieser Datei werden die Grundeinstellungen fï¿½r WordPress vorgenommen.
  *
- * Zu diesen Einstellungen gehören: MySQL-Zugangsdaten, Tabellenpräfix,
+ * Zu diesen Einstellungen gehï¿½ren: MySQL-Zugangsdaten, Tabellenprï¿½fix,
  * Secret-Keys, Sprache und ABSPATH. Mehr Informationen zur wp-config.php gibt es auf der {@link http://codex.wordpress.org/Editing_wp-config.php
- * wp-config.php editieren} Seite im Codex. Die Informationen für die MySQL-Datenbank bekommst du von deinem Webhoster.
+ * wp-config.php editieren} Seite im Codex. Die Informationen fï¿½r die MySQL-Datenbank bekommst du von deinem Webhoster.
  *
- * Diese Datei wird von der wp-config.php-Erzeugungsroutine verwendet. Sie wird ausgeführt, wenn noch keine wp-config.php (aber eine wp-config-sample.php) vorhanden ist,
+ * Diese Datei wird von der wp-config.php-Erzeugungsroutine verwendet. Sie wird ausgefï¿½hrt, wenn noch keine wp-config.php (aber eine wp-config-sample.php) vorhanden ist,
  * und die Installationsroutine (/wp-admin/install.php) aufgerufen wird.
  * Man kann aber auch direkt in dieser Datei alle Eingaben vornehmen und sie von wp-config-sample.php in wp-config.php umbenennen und die Installation starten.
  *
@@ -14,14 +14,14 @@
  */
 
 /**  MySQL Einstellungen - diese Angaben bekommst du von deinem Webhoster. */
-/**  Ersetze database_name_here mit dem Namen der Datenbank, die du verwenden möchtest. */
-define('DB_NAME', 'pyuashop');
+/**  Ersetze database_name_here mit dem Namen der Datenbank, die du verwenden mï¿½chtest. */
+define('DB_NAME', 'pyua');
 
 /** Ersetze username_here mit deinem MySQL-Datenbank-Benutzernamen */
 define('DB_USER', 'root');
 
 /** Ersetze password_here mit deinem MySQL-Passwort */
-define('DB_PASSWORD', 'eeW1Roo?th');
+define('DB_PASSWORD', '');
 
 /** Ersetze localhost mit der MySQL-Serveradresse */
 define('DB_HOST', 'localhost');
@@ -29,15 +29,15 @@ define('DB_HOST', 'localhost');
 /** Der Datenbankzeichensatz der beim Erstellen der Datenbanktabellen verwendet werden soll */
 define('DB_CHARSET', 'utf8');
 
-/** Der collate type sollte nicht geändert werden */
+/** Der collate type sollte nicht geï¿½ndert werden */
 define('DB_COLLATE', '');
 
 /**#@+
- * Sicherheitsschlüssel
+ * Sicherheitsschlï¿½ssel
  *
- * Ändere jeden KEY in eine beliebige, möglichst einzigartige Phrase. 
+ * ï¿½ndere jeden KEY in eine beliebige, mï¿½glichst einzigartige Phrase. 
  * Auf der Seite {@link https://api.wordpress.org/secret-key/1.1/salt/ WordPress.org secret-key service} kannst du dir alle KEYS generieren lassen.
- * Bitte trage für jeden KEY eine eigene Phrase ein. Du kannst die Schlüssel jederzeit wieder ändern, alle angemeldeten Benutzer müssen sich danach erneut anmelden.
+ * Bitte trage fï¿½r jeden KEY eine eigene Phrase ein. Du kannst die Schlï¿½ssel jederzeit wieder ï¿½ndern, alle angemeldeten Benutzer mï¿½ssen sich danach erneut anmelden.
  *
  * @seit 2.6.0
  */
@@ -53,9 +53,9 @@ define('NONCE_SALT',       'J#7ykeB9^;/M^6EC|vtOjJ_Ru;vm|+G8k?H.YpkQ>X@?>i`O4ZuS
 /**#@-*/
 
 /**
- * WordPress Datenbanktabellen-Präfix
+ * WordPress Datenbanktabellen-Prï¿½fix
  *
- *  Wenn du verschiedene Präfixe benutzt, kannst du innerhalb einer Datenbank
+ *  Wenn du verschiedene Prï¿½fixe benutzt, kannst du innerhalb einer Datenbank
  *  verschiedene WordPress-Installationen betreiben. Nur Zahlen, Buchstaben und Unterstriche bitte!
  */
 $table_prefix  = 'pyua_onlineshop_2649_';
@@ -65,7 +65,7 @@ $table_prefix  = 'pyua_onlineshop_2649_';
  *
  * Hier kannst du einstellen, welche Sprachdatei benutzt werden soll. Die entsprechende
  * Sprachdatei muss im Ordner wp-content/languages vorhanden sein, beispielsweise de_DE.mo
- * Wenn du nichts einträgst, wird Englisch genommen.
+ * Wenn du nichts eintrï¿½gst, wird Englisch genommen.
  */
 define('WPLANG', 'de_DE');
 

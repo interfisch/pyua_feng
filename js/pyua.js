@@ -310,6 +310,12 @@
         if($j(".error-msg li span").html() == 'Der Gutscheincode "SCHAURIG-SCHOEN-ZU-HALLOWEEN" ist nicht auf bereits reduzierte Produkte anwendbar.'){
             $j(this).html('Der Gutscheincode "SCHAURIG-SCHOEN-ZU-HALLOWEEN" ist nur in Kombination von Skijacke + Spark/Spark-Y oder Skijacke+Glow/Glow-Y+T-Shirt anwendbar.');
         }
+        if($j(".success-msg li span").html() == 'Der Gutscheincode "abwrack_skijacke" wurde eingelöst. ACHTUNG: Der Code ist nicht auf bereits reduzierte Produkte bzw. Aktions-Artikel anwendbar.'){
+            $j(this).html('Der Gutscheincode "abwrack_skijacke" wurde eingelöst. ACHTUNG: Es ist technisch bedingt nur ein Code pro Bestellung einlösbar. Bitte für das Einlösen weiterer Codes einfach eine neue Bestellung aufgeben.');
+        }
+        if($j(".success-msg li span").html() == 'Der Gutscheincode "abwrack_skihose" wurde eingelöst. ACHTUNG: Der Code ist nicht auf bereits reduzierte Produkte bzw. Aktions-Artikel anwendbar.'){
+            $j(this).html('Der Gutscheincode "abwrack_skihose" wurde eingelöst. ACHTUNG: Es ist technisch bedingt nur ein Code pro Bestellung einlösbar. Bitte für das Einlösen weiterer Codes einfach eine neue Bestellung aufgeben.');
+        }
         if($j('body').attr("class").indexOf("categorypath-men") >= 0)
         {
             $j(".catalog-category-view .page-title.category-title").css({"right":"105px","left":"inherit"});
