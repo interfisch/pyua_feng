@@ -56,7 +56,7 @@ $variableDataOutput = number_format($variableData['grand_total'],2,",",",");
 
 <span class="pyua_linkwraepper">
 <a href="<?php Mage::helper('core/url')->getHomeUrl()?>/index.php/checkout/cart/" class="skip-link skip-cart <?php if($_cartQty <= 0): ?> no-count<?php endif; ?>">
-    <span class="label"><?php echo $this->__('Cart'); ?></span>
+    <span class="label"><?php echo $this->__('Cart'); ?><span class="small-show">(<?php echo $_cartQty; ?>)</span></span>
  
    
 <span class="subtotal-pyua book"><?php echo $variableDataOutput; ?></span>

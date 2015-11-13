@@ -85,6 +85,9 @@ Default layout, loads most of the pages
 
            
         <!-- Mage_Catalog -->
+        <reference name="head">
+            <action method="addItem"><type>skin_css</type><name>css/category.css</name></action>
+        </reference>
         <reference name="left">
         
         

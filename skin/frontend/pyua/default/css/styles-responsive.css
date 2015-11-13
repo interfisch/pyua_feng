@@ -1,3 +1,7 @@
+.small-show {
+  display: none;
+}
+
 @media (min-width: 771px) and (max-width: 989px) {
   #header-nav {
     left: 170px;
@@ -336,6 +340,14 @@
     min-width: inherit;
     width: 100px;
     border-left: 0px;
+  }
+  .header-minicart .skip-cart span.book {
+    display: none;
+  }
+  .header-minicart .skip-cart .small-show {
+    display: inline;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 
   .header-minicart .pyua-count {
