@@ -80,10 +80,10 @@
                 next();
             });
         }).mouseout(function(){
-            $j('.t1_SText').fadeOut().html("");
+        /*    $j('.t1_SText').fadeOut().html("");
             $j('.t2_SText').fadeOut().html("");
             $j('.t3_SText').fadeOut().html("");
-            $j(this).removeClass("active");
+            $j(this).removeClass("active");     */
         });
 
     }

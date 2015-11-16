@@ -1,3 +1,10 @@
+.product-options dt label {
+  width: 100%;
+}
+.product-options dt label a.sizeTableLink {
+  margin-right: 0px;
+}
+
 @media (min-width: 771px) and (max-width: 989px) {
   .catalog-category-view .col-main {
     width: 78%;
@@ -13,6 +20,11 @@
     font-size: 30px;
   }
 
+  .catalog-product-view .col2-left-layout .col-main {
+    padding-left: 30px;
+    padding-right: 0;
+    width: 100%;
+  }
   .catalog-product-view .col-left {
     width: 100%;
   }
@@ -22,6 +34,24 @@
 
   .toolbar .pages {
     min-width: 130px;
+  }
+
+  table.pyua_produkttabelle .attr_produktfeatures .t3_SText {
+    bottom: 276px;
+  }
+  table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
+    display: none;
+  }
+  table.pyua_produkttabelle .attr_produktinfos .t2_SText {
+    bottom: 276px;
+  }
+  table.pyua_produkttabelle .attr_produktinfos .sword.active:hover::before {
+    display: none;
+  }
+}
+@media (min-width: 771px) and (max-width: 820px) {
+  .catalog-product-view .col2-left-layout .col-main {
+    width: 770px;
   }
 }
 @media (min-width: 0) and (max-width: 770px) {
@@ -47,6 +77,22 @@
   }
   .catalog-product-view #wrap {
     overflow: hidden;
+  }
+  .catalog-product-view .cloud-zoom-big {
+    display: none !important;
+  }
+
+  table.pyua_produkttabelle .attr_produktfeatures .t3_SText {
+    bottom: 276px;
+  }
+  table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
+    display: none;
+  }
+  table.pyua_produkttabelle .attr_produktinfos .t2_SText {
+    bottom: 276px;
+  }
+  table.pyua_produkttabelle .attr_produktinfos .sword.active:hover::before {
+    display: none;
   }
 
   .toolbar .sorter {
@@ -74,11 +120,10 @@
   .catalog-product-view #wrap .cloud-zoom img {
     width: 100%;
   }
-  .catalog-product-view .product-options dt label {
+
+  .overlay-gallery-img {
+    margin: 50px auto 0;
     width: 100%;
-  }
-  .catalog-product-view .product-options dt label a.sizeTableLink {
-    margin-right: 0px;
   }
 
   .toolbar .pages {

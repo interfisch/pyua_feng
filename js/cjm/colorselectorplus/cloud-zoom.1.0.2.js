@@ -94,8 +94,18 @@
                 }).insertBefore(c)), c.fadeIn(500), h && (h.remove(), h = null), r = u.outerWidth() / a.width * parseInt(c.css("width")), s = u.outerHeight() / a.height * c.height(), h = t.append(format("<div class = 'cloud-zoom-lens' style='display:none;z-index:98;position:absolute;width:%0px;height:%1px;'></div>", r, s)).find(":last"), p.css("cursor", h.css("cursor")), p.unbind("click").bind("click", function() {
                     var t = $(this).prev("a").attr("gallery");
                     if ("" != t) {
+                        var cWidth = $(window).width();
+                        var mWidth = "";
+                        var mHeight = "";
+                        if(cWidth >= 480){
+                            mWidth = 456;
+                            mHeight = 622;
+                        }else{
+                            mWidth = cWidth;
+                            mHeight = mWidth*622/456;
+                        }
                         var e = $(this).prev("a").attr("href"),
-                            o = "<img width=456 height=622 src='" + e + "'>",
+                            o = "<img width="+mWidth+" height="+mHeight+" src='" + e + "'>",
                             i = new Array;
                         $("#ul-moreviews li:visible a").each(function() {
                             i.push($(this).attr("href"))
@@ -108,13 +118,13 @@
                         }),$(".gallery-prev").unbind("click").bind("click",function() {
                             for (var t = 0; t < i.length; t++)
                                 if (i[t] == $(".overlay-gallery-img img").attr("src")) {
-                                    $(".overlay-gallery-img img").remove(), $(".overlay-gallery-img").append(0 == t ? "<img width=456 height=622 src='" + i[i.length - 1] + "'>" : "<img width=456 height=622 src='" + i[t - 1] + "'>").hide().fadeIn(300);
+                                    $(".overlay-gallery-img img").remove(), $(".overlay-gallery-img").append(0 == t ? "<img width="+mWidth+" height="+mHeight+" src='" + i[i.length - 1] + "'>" : "<img width="+mWidth+" height="+mHeight+" src='" + i[t - 1] + "'>").hide().fadeIn(300);
                                     break
                                 }
                         }), $(".gallery-next").unbind("click").bind("click",function() {
                             for (var t = 0; t < i.length; t++)
                                 if (i[t] == $(".overlay-gallery-img img").attr("src")) {
-                                    $(".overlay-gallery-img img").remove(), $(".overlay-gallery-img").append(t == i.length - 1 ? "<img width=456 height=622 src='" + i[0] + "'>" : "<img width=456 height=622 src='" + i[t + 1] + "'>").hide().fadeIn(300);
+                                    $(".overlay-gallery-img img").remove(), $(".overlay-gallery-img").append(t == i.length - 1 ? "<img width="+mWidth+" height="+mHeight+" src='" + i[0] + "'>" : "<img width="+mWidth+" height="+mHeight+" src='" + i[t + 1] + "'>").hide().fadeIn(300);
                                     break
                                 }
                         });
