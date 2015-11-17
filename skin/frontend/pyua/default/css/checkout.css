@@ -6,6 +6,9 @@
   .checkout-onepage-index .form-list .control label {
     padding: 6px 10px 6px 20px;
   }
+  .checkout-onepage-index .col-main {
+    padding-bottom: 30px;
+  }
 }
 @media (min-width: 0) and (max-width: 479px) {
   .checkout-onepage-index #checkout-step-billing .field, .checkout-onepage-index #checkout-step-shipping .field {
@@ -16,5 +19,12 @@
   }
   .checkout-onepage-index #checkout-step-review li p.agree label {
     display: block;
+  }
+  .checkout-onepage-index #checkout-review-table.data-table td {
+    float: left;
+    text-align: left;
+  }
+  .checkout-onepage-index .opc .buttons-set button.button {
+    margin-right: 0px;
   }
 }
