@@ -34,6 +34,10 @@ Default layout, loads most of the pages
 
     <default>
         <!-- Mage_Checkout -->
+        <reference name="head">
+            <action method="addItem"><type>skin_css</type><name>css/warenkorb.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/checkout.css</name></action>
+        </reference>
         <reference name="top.links">
             <block type="checkout/links" name="checkout_cart_link">
                 <action method="addCartLink"></action>

@@ -187,6 +187,10 @@
     font-weight: bold;
   }
 
+  .minicart a.my-minicart-button {
+    width: 100%;
+  }
+
   .cms-home .main-container {
     padding: 15px 0;
     overflow: hidden;
