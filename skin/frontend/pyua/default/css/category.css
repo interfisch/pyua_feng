@@ -83,13 +83,24 @@
   }
 
   table.pyua_produkttabelle .attr_produktfeatures .t3_SText {
-    bottom: 276px;
+    bottom: 246px;
+    height: inherit;
+    width: inherit;
+    margin-left: -50%;
+    border-radius: 5px;
+    margin-right: 15px;
+    z-index: 1000;
   }
   table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
     display: none;
   }
   table.pyua_produkttabelle .attr_produktinfos .t2_SText {
-    bottom: 276px;
+    bottom: 246px;
+    height: inherit;
+    width: inherit;
+    margin-right: 15px;
+    border-radius: 5px;
+    z-index: 1000;
   }
   table.pyua_produkttabelle .attr_produktinfos .sword.active:hover::before {
     display: none;
@@ -119,6 +130,16 @@
 
   .catalog-product-view #wrap .cloud-zoom img {
     width: 100%;
+  }
+
+  table.pyua_produkttabelle .attr_produktfeatures .t3_SText {
+    bottom: 386px;
+  }
+  table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
+    display: none;
+  }
+  table.pyua_produkttabelle .attr_produktinfos .t2_SText {
+    bottom: 386px;
   }
 
   .overlay-gallery-img {
