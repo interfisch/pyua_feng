@@ -1,0 +1,36 @@
+@media (min-width: 0) and (max-width: 770px) {
+  .customer-account-login .col2-set .col-1, .customer-account-login .col2-set .col-2 {
+    margin-top: 0px;
+  }
+
+  .customer-account-create .col-main {
+    float: left;
+    width: 100% !important;
+  }
+  .customer-account-create li.fields {
+    display: inline-block;
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .customer-account-create li.fields .name-firstname {
+    width: 100%;
+  }
+  .customer-account-create li.fields .name-lastname {
+    margin-left: 0px;
+    width: 100%;
+  }
+}
+@media (min-width: 0) and (max-width: 479px) {
+  .customer-account-login .col2-set .col-1, .customer-account-login .col2-set .col-2 {
+    padding-top: 20px;
+  }
+  .customer-account-login .col2-set .col-1 .buttons-set .button, .customer-account-login .col2-set .col-2 .buttons-set .button {
+    width: 100%;
+  }
+  .customer-account-login .col2-set .col-2 .buttons-set {
+    margin-bottom: -20px;
+  }
+  .customer-account-login .account-login .col-1, .customer-account-login .account-login .col-2 {
+    width: 100%;
+  }
+}

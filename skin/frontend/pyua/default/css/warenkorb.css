@@ -1,0 +1,85 @@
+@media (min-width: 771px) and (max-width: 989px) {
+  .checkout-cart-index .cart-collaterals-01 {
+    width: 100%;
+  }
+  .checkout-cart-index .cart-collaterals-01 .cart-table {
+    width: 100%;
+  }
+  .checkout-cart-index .cart-collaterals {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .checkout-cart-index .cart-collaterals .col2-set {
+    width: 50%;
+    float: left;
+  }
+  .checkout-cart-index .cart-collaterals .totals {
+    width: 50%;
+    float: left;
+  }
+  .checkout-cart-index #shopping-cart-totals-table {
+    width: 100%;
+  }
+}
+@media (min-width: 0) and (max-width: 770px) {
+  .checkout-cart-index .cart-collaterals-01 {
+    width: 100%;
+  }
+  .checkout-cart-index .cart-collaterals-01 .cart-table {
+    width: 100%;
+  }
+  .checkout-cart-index .cart-collaterals-01 .cart-table tbody td {
+    padding: 5px;
+  }
+  .checkout-cart-index .cart-collaterals {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .checkout-cart-index .cart-collaterals .col2-set {
+    width: 50%;
+    float: left;
+  }
+  .checkout-cart-index .cart-collaterals .col2-set .col-2 {
+    padding: 0px;
+  }
+  .checkout-cart-index .cart-collaterals .totals {
+    width: 50%;
+    float: left;
+  }
+  .checkout-cart-index #shopping-cart-totals-table {
+    width: 100%;
+  }
+}
+@media (min-width: 0) and (max-width: 599px) {
+  .checkout-cart-index .cart-collaterals-01 {
+    width: 100%;
+  }
+  .checkout-cart-index .cart-collaterals-01 .cart-table tbody td {
+    float: left;
+  }
+}
+@media (min-width: 0) and (max-width: 479px) {
+  .checkout-cart-index .cart-collaterals-01 {
+    width: 100%;
+  }
+  .checkout-cart-index .cart-collaterals-01 .cart-table td {
+    padding: 7px 0px;
+  }
+  .checkout-cart-index .cart-collaterals {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .checkout-cart-index .cart-collaterals .col2-set {
+    width: 100%;
+  }
+  .checkout-cart-index .cart-collaterals .totals {
+    width: 100%;
+  }
+  .checkout-cart-index #shopping-cart-table .pyua-icon {
+    float: left;
+  }
+  .checkout-cart-index #shopping-cart-table .pyua-edit {
+    margin-top: 0;
+    margin-left: 5px;
+  }
+}

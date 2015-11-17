@@ -1,0 +1,20 @@
+@media (min-width: 0) and (max-width: 770px) {
+  .checkout-onepage-index #checkout-step-billing li.control {
+    width: 100%;
+    height: inherit;
+  }
+  .checkout-onepage-index .form-list .control label {
+    padding: 6px 10px 6px 20px;
+  }
+}
+@media (min-width: 0) and (max-width: 479px) {
+  .checkout-onepage-index #checkout-step-billing .field, .checkout-onepage-index #checkout-step-shipping .field {
+    width: 100%;
+  }
+  .checkout-onepage-index .opc select {
+    width: 245px;
+  }
+  .checkout-onepage-index #checkout-step-review li p.agree label {
+    display: block;
+  }
+}
