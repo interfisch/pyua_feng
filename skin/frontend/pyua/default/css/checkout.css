@@ -1,13 +1,43 @@
+@media (min-width: 771px) and (max-width: 989px) {
+  .checkout-onepage-index .step-title {
+    width: 175px !important;
+  }
+  .checkout-onepage-index #opc-shipping_method .step-title {
+    left: 179px;
+  }
+  .checkout-onepage-index #opc-payment .step-title {
+    left: 358px;
+  }
+  .checkout-onepage-index #opc-review .step-title {
+    left: 537px;
+  }
+}
 @media (min-width: 0) and (max-width: 770px) {
   .checkout-onepage-index #checkout-step-billing li.control {
     width: 100%;
     height: inherit;
+  }
+  .checkout-onepage-index #checkout-step-shipping li.control {
+    height: inherit;
+    margin-top: 0;
   }
   .checkout-onepage-index .form-list .control label {
     padding: 6px 10px 6px 20px;
   }
   .checkout-onepage-index .col-main {
     padding-bottom: 30px;
+  }
+  .checkout-onepage-index .step-title {
+    width: 103px !important;
+  }
+  .checkout-onepage-index #opc-shipping_method .step-title {
+    left: 108px;
+  }
+  .checkout-onepage-index #opc-payment .step-title {
+    left: 216px;
+  }
+  .checkout-onepage-index #opc-review .step-title {
+    left: 324px;
   }
 }
 @media (min-width: 0) and (max-width: 479px) {
@@ -26,5 +56,23 @@
   }
   .checkout-onepage-index .opc .buttons-set button.button {
     margin-right: 0px;
+  }
+  .checkout-onepage-index input[type="email"], .checkout-onepage-index input[type="search"], .checkout-onepage-index input[type="number"], .checkout-onepage-index input[type="password"], .checkout-onepage-index input[type="tel"], .checkout-onepage-index input[type="text"] {
+    width: 100%;
+  }
+  .checkout-onepage-index .checkbox + label {
+    max-width: 100%;
+  }
+  .checkout-onepage-index .step-title {
+    width: 65px !important;
+  }
+  .checkout-onepage-index #opc-shipping_method .step-title {
+    left: 70px;
+  }
+  .checkout-onepage-index #opc-payment .step-title {
+    left: 140px;
+  }
+  .checkout-onepage-index #opc-review .step-title {
+    left: 210px;
   }
 }
