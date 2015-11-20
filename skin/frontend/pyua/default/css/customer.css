@@ -1,3 +1,15 @@
+@media (min-width: 771px) and (max-width: 989px) {
+  .customer-account-index .col-left {
+    width: 25%;
+  }
+  .customer-account-index .col-left #leftmenu {
+    padding-left: 0px;
+  }
+  .customer-account-index .col-main {
+    width: 75%;
+    padding-right: 0;
+  }
+}
 @media (min-width: 0) and (max-width: 770px) {
   .customer-account-login .col2-set .col-1, .customer-account-login .col2-set .col-2 {
     margin-top: 0px;
