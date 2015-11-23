@@ -309,4 +309,8 @@
   .sales-order-history .col-left #leftmenu p.product-name {
     display: inherit;
   }
+  .sales-order-history .pager-no-toolbar .pages ol li {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 }
