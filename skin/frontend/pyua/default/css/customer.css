@@ -1,11 +1,105 @@
+.block .actions .button {
+  float: left;
+}
+
+.customer-account-edit .col-main ul.form-list li {
+  display: inline-block;
+}
+.customer-account-edit .col-main ul.form-list li.control {
+  width: 100%;
+}
+
+.sales-order-history .data-table td, .sales-order-history .data-table th {
+  padding: 10px 2px;
+}
+.sales-order-history .pager-no-toolbar .pages {
+  float: left;
+  width: 100%;
+}
+.sales-order-history .pager-no-toolbar .pages strong {
+  float: left;
+}
+.sales-order-history .pager-no-toolbar .pages ol li {
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 @media (min-width: 771px) and (max-width: 989px) {
   .customer-account-index .col-left {
     width: 25%;
   }
   .customer-account-index .col-left #leftmenu {
     padding-left: 0px;
+    padding-right: 15px;
   }
   .customer-account-index .col-main {
+    width: 75%;
+    padding-right: 0;
+  }
+  .customer-account-index .col-main #my-orders-table.data-table td, .customer-account-index .col-main #my-orders-table.data-table th {
+    padding: 10px 2px;
+  }
+
+  .customer-account-edit .col-left {
+    width: 25%;
+  }
+  .customer-account-edit .col-left #leftmenu {
+    padding-left: 0px;
+    padding-right: 15px;
+  }
+  .customer-account-edit .col-main {
+    width: 75%;
+    padding-right: 0;
+  }
+
+  .customer-address-index .col-left {
+    width: 25%;
+  }
+  .customer-address-index .col-left #leftmenu {
+    padding-left: 0px;
+    padding-right: 15px;
+  }
+  .customer-address-index .col-main {
+    width: 75%;
+    padding-right: 0;
+  }
+
+  .customer-address-form .col-left {
+    width: 25%;
+  }
+  .customer-address-form .col-left #leftmenu {
+    padding-left: 0px;
+    padding-right: 15px;
+  }
+  .customer-address-form .col-main {
+    width: 75%;
+    padding-right: 0;
+  }
+  .customer-address-form .col-main ul.form-list li.fields {
+    display: inline-block;
+  }
+
+  .sales-billing-agreement-index .col-left, .sales-recurring-profile-index .col-left, .review-customer-index .col-left, .wishlist-index-index .col-left, .oauth-customer-token-index .col-left, .newsletter-manage-index .col-left, .downloadable-customer-products .col-left {
+    width: 25%;
+  }
+  .sales-billing-agreement-index .col-left #leftmenu, .sales-recurring-profile-index .col-left #leftmenu, .review-customer-index .col-left #leftmenu, .wishlist-index-index .col-left #leftmenu, .oauth-customer-token-index .col-left #leftmenu, .newsletter-manage-index .col-left #leftmenu, .downloadable-customer-products .col-left #leftmenu {
+    padding-left: 0px;
+    padding-right: 15px;
+  }
+  .sales-billing-agreement-index .col-main, .sales-recurring-profile-index .col-main, .review-customer-index .col-main, .wishlist-index-index .col-main, .oauth-customer-token-index .col-main, .newsletter-manage-index .col-main, .downloadable-customer-products .col-main {
+    width: 75%;
+    padding-right: 0;
+  }
+
+  .sales-order-history .col-left {
+    width: 25%;
+  }
+  .sales-order-history .col-left #leftmenu {
+    padding-left: 0px;
+    padding-right: 15px;
+  }
+  .sales-order-history .col-main {
     width: 75%;
     padding-right: 0;
   }
@@ -31,6 +125,108 @@
     margin-left: 0px;
     width: 100%;
   }
+
+  .customer-account-index .col-left #leftmenu {
+    padding-left: 0px;
+  }
+  .customer-account-index .col-left #leftmenu p {
+    float: left;
+  }
+  .customer-account-index .col-left #leftmenu hr {
+    display: none;
+  }
+  .customer-account-index .col-left #leftmenu .block-cart {
+    display: inline-block;
+    margin-top: 15px;
+  }
+  .customer-account-index .col-main {
+    padding-right: 0;
+  }
+
+  .customer-address-index .col-left #leftmenu {
+    padding-left: 0px;
+  }
+  .customer-address-index .col-left #leftmenu p {
+    float: left;
+  }
+  .customer-address-index .col-left #leftmenu hr {
+    display: none;
+  }
+  .customer-address-index .col-left #leftmenu .block-cart {
+    display: inline-block;
+    margin-top: 15px;
+  }
+  .customer-address-index .col-main {
+    padding-right: 0;
+  }
+
+  .block .actions .button {
+    float: right;
+  }
+
+  .data-table thead th.date, .data-table tbody td.date {
+    display: none;
+  }
+
+  .customer-account-edit .col-left #leftmenu {
+    padding-left: 0px;
+  }
+  .customer-account-edit .col-left #leftmenu p {
+    float: left;
+  }
+  .customer-account-edit .col-left #leftmenu hr {
+    display: none;
+  }
+  .customer-account-edit .col-left #leftmenu .block-cart {
+    display: inline-block;
+    margin-top: 15px;
+  }
+
+  .customer-address-form .col-left #leftmenu {
+    padding-left: 0px;
+    padding-right: 15px;
+  }
+  .customer-address-form .col-left #leftmenu p {
+    float: left;
+  }
+  .customer-address-form .col-left #leftmenu hr {
+    display: none;
+  }
+  .customer-address-form .col-left #leftmenu .block-cart {
+    display: inline-block;
+    margin-top: 15px;
+  }
+  .customer-address-form .col-main ul.form-list li.fields {
+    display: inline-block;
+  }
+
+  .sales-billing-agreement-index .col-left #leftmenu, .sales-recurring-profile-index .col-left #leftmenu, .review-customer-index .col-left #leftmenu, .wishlist-index-index .col-left #leftmenu, .oauth-customer-token-index .col-left #leftmenu, .newsletter-manage-index .col-left #leftmenu, .downloadable-customer-products .col-left #leftmenu {
+    padding-left: 0px;
+  }
+  .sales-billing-agreement-index .col-left #leftmenu p, .sales-recurring-profile-index .col-left #leftmenu p, .review-customer-index .col-left #leftmenu p, .wishlist-index-index .col-left #leftmenu p, .oauth-customer-token-index .col-left #leftmenu p, .newsletter-manage-index .col-left #leftmenu p, .downloadable-customer-products .col-left #leftmenu p {
+    float: left;
+  }
+  .sales-billing-agreement-index .col-left #leftmenu hr, .sales-recurring-profile-index .col-left #leftmenu hr, .review-customer-index .col-left #leftmenu hr, .wishlist-index-index .col-left #leftmenu hr, .oauth-customer-token-index .col-left #leftmenu hr, .newsletter-manage-index .col-left #leftmenu hr, .downloadable-customer-products .col-left #leftmenu hr {
+    display: none;
+  }
+  .sales-billing-agreement-index .col-left #leftmenu .block-cart, .sales-recurring-profile-index .col-left #leftmenu .block-cart, .review-customer-index .col-left #leftmenu .block-cart, .wishlist-index-index .col-left #leftmenu .block-cart, .oauth-customer-token-index .col-left #leftmenu .block-cart, .newsletter-manage-index .col-left #leftmenu .block-cart, .downloadable-customer-products .col-left #leftmenu .block-cart {
+    display: inline-block;
+    margin-top: 15px;
+  }
+
+  .sales-order-history .col-left #leftmenu {
+    padding-left: 0px;
+  }
+  .sales-order-history .col-left #leftmenu p {
+    float: left;
+  }
+  .sales-order-history .col-left #leftmenu hr {
+    display: none;
+  }
+  .sales-order-history .col-left #leftmenu .block-cart {
+    display: inline-block;
+    margin-top: 15px;
+  }
 }
 @media (min-width: 0) and (max-width: 479px) {
   .customer-account-login .col2-set .col-1, .customer-account-login .col2-set .col-2 {
@@ -44,5 +240,73 @@
   }
   .customer-account-login .account-login .col-1, .customer-account-login .account-login .col-2 {
     width: 100%;
+  }
+
+  .customer-account-index .col-left #leftmenu p {
+    display: none;
+  }
+  .customer-account-index .col-left #leftmenu p.product-name {
+    display: inherit;
+  }
+
+  .data-table thead th.ship, .data-table thead th.total, .data-table tbody td.ship, .data-table tbody td.total {
+    display: none;
+  }
+
+  .customer-account-edit .col-left #leftmenu p {
+    display: none;
+  }
+  .customer-account-edit .col-left #leftmenu p.product-name {
+    display: inherit;
+  }
+  .customer-account-edit .col-main ul.form-list li.fields {
+    margin-bottom: 0;
+  }
+  .customer-account-edit .col-main ul.form-list li.fields .customer-name .field {
+    display: inline-block;
+    width: 100%;
+    margin-left: 0px;
+  }
+  .customer-account-edit .col-main input[type="email"], .customer-account-edit .col-main input[type="search"], .customer-account-edit .col-main input[type="number"], .customer-account-edit .col-main input[type="password"], .customer-account-edit .col-main input[type="tel"], .customer-account-edit .col-main input[type="text"] {
+    width: 275px;
+  }
+
+  .customer-address-index .col-left #leftmenu p {
+    display: none;
+  }
+  .customer-address-index .col-left #leftmenu p.product-name {
+    display: inherit;
+  }
+
+  .customer-address-form .col-left #leftmenu p {
+    display: none;
+  }
+  .customer-address-form .col-left #leftmenu p.product-name {
+    display: inherit;
+  }
+  .customer-address-form .col-main ul.form-list li.fields {
+    margin-bottom: 0;
+  }
+  .customer-address-form .col-main ul.form-list li.fields .customer-name .field {
+    display: inline-block;
+    width: 100%;
+    margin-left: 0px;
+  }
+  .customer-address-form .col-main input[type="email"], .customer-address-form .col-main input[type="search"], .customer-address-form .col-main input[type="number"], .customer-address-form .col-main input[type="password"], .customer-address-form .col-main input[type="tel"], .customer-address-form .col-main input[type="text"], .customer-address-form .col-main select {
+    width: 275px;
+  }
+
+  .sales-billing-agreement-index .col-left #leftmenu p, .sales-recurring-profile-index .col-left #leftmenu p, .review-customer-index .col-left #leftmenu p, .wishlist-index-index .col-left #leftmenu p, .oauth-customer-token-index .col-left #leftmenu p, .newsletter-manage-index .col-left #leftmenu p, .downloadable-customer-products .col-left #leftmenu p {
+    display: none;
+  }
+  .sales-billing-agreement-index .col-left #leftmenu p.product-name, .sales-recurring-profile-index .col-left #leftmenu p.product-name, .review-customer-index .col-left #leftmenu p.product-name, .wishlist-index-index .col-left #leftmenu p.product-name, .oauth-customer-token-index .col-left #leftmenu p.product-name, .newsletter-manage-index .col-left #leftmenu p.product-name, .downloadable-customer-products .col-left #leftmenu p.product-name {
+    display: inherit;
+  }
+
+  .sales-order-history .col-left #leftmenu p {
+    display: none;
+  }
+  .sales-order-history .col-left #leftmenu p.product-name {
+    display: inherit;
   }
 }
