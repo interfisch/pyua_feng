@@ -26,21 +26,21 @@
 /**
  * @var Mage_Page_Block_Html_Header $this
  */
- 
+
     /*
  m4m Doku
  Breadcrumb hinzugefügt siehe auch page.xml | Dort wurde der gesamte Block in den Header verschoben.
  */
- 
+
 ?>
-<header id="header" class="page-header">    
+<header id="header" class="page-header">
     <div class="page-header-container">
         <a class="logo" href="<?php echo $this->getUrl('') ?>">
             <img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" class="large" />
         </a>
 
         <?php // In order for the language switcher to display next to logo on smaller viewports, it will be moved here.
-              // See app.js for details ?>      
+              // See app.js for details ?>
 
         <!-- Skip Links -->
         <div class="pyua_header_options">
@@ -51,7 +51,7 @@
             <!--<a href="#header-account" class="skip-link skip-account">
                 <span class="label"><?php echo $this->__('Account'); ?></span>
             </a>-->
-            
+
 			<?php if ($this->helper('customer')->isLoggedIn() ) {?>
 				<a href="<?php Mage::getBaseUrl();?>/index.php/customer/account/logout/" id="logout-pyua">
 					<span class="label">Abmelden</span>
@@ -61,19 +61,19 @@
 		    		<span class="label">Anmelden</span>
 				</a>
 			<?php } ?>
-        
+
            <a href="<?php Mage::getBaseUrl();?>/index.php/customer/account/login/" id="account-pyua">
                 <span class="label"><?php echo $this->__('Account'); ?></span>
-            </a>     
-            
-            <!-- 
+            </a>
+
+            <!--
             http://www.media4motion.com/pyua/index.php/customer/account/
             http://www.media4motion.com/pyua/index.php/checkout/cart/
             http://www.media4motion.com/pyua/index.php/checkout/
             http://www.media4motion.com/pyua/index.php/customer/account/logout/
             http://www.media4motion.com/pyua/index.php/blog/
             -->
-            
+
             <!-- Flemming | M4M | Checkout Link-->
             <span class="goToCheckout"><a href="http://www.pyua.de/index.php/checkout/cart/">zur Kasse</a> <i class="fa fa-gift"></i></span>
             <!-- Cart -->

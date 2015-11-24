@@ -305,6 +305,11 @@
     margin-left: 0px;
   }
 }
+@media (min-width: 740px) and (max-width: 770px) {
+  .cms-home #product-list-table .slide-product {
+    max-height: 295px;
+  }
+}
 @media (min-width: 0) and (max-width: 600px) {
   .cms-home #product-list-table .slide-product {
     width: 100%;
