@@ -328,6 +328,10 @@
         {
             $j(".catalog-category-view .page-title.category-title").css("display","none");
         }
+        if($j('body').attr("class").indexOf("category-1advent") >= 0)
+        {
+            $j(".catalog-category-view .page-title.category-title").css("display","none");
+        }
         $j( "li.nicetry" ).each(function( index ) {
             if($j(this).find(".product-info .product-name a").html() == "Backyard-Y"){
                 if($j(this).attr("data-order") != 4) {
@@ -335,4 +339,20 @@
                 }
             }
         });
+        $j('#advent1-form').submit(function(){
+            $j.post($j(this).attr('action'), $j(this).serialize(), function(response){
+            },'json');
+            if(isEmail($j("#form_EMAIL").val())) {
+                $j('.catalog-category-view .landing .success-info').css("display", "block");
+                $j('.catalog-category-view .landing .error-info').css("display", "none");
+            }else{
+                $j('.catalog-category-view .landing .success-info').css("display", "none");
+                $j('.catalog-category-view .landing .error-info').css("display", "block");
+            }
+            return false;
+        });
+        function isEmail(email) {
+            var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            return regex.test(email);
+        }
     });

@@ -640,6 +640,10 @@ td {
     vertical-align: middle;
 }
 
+.col-main .landing a {
+  text-decoration: underline;
+}
+
 .col-main .landing .landing-h1 {
   font-family: Blender-Book;
   font-weight: bold;
@@ -657,6 +661,19 @@ td {
 .col-main .landing h1{
   font-size: 22px;
   margin: 40px 0 30px;
+}
+
+.col-main .landing .purple {
+  font-size:18px;
+  color: #00008B;
+  font-weight: bold;
+}
+
+.col-main .landing .purple a{
+  font-size:18px;
+  color: #00008B;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 .col-main #haendlersuche td{
@@ -11393,6 +11410,18 @@ outline: 0 none!important;
 
 .category-women .page-title.category-title{    
     left:       450px;
+}
+
+.catalog-category-view .landing .success-info{
+    margin: 0 0 20px;
+    color: #0077B3;
+    display: none;
+}
+
+.catalog-category-view .landing .error-info{
+    margin: 0 0 20px;
+    color: #ff0000;
+    display: none;
 }
 
 .category-ramsau-am-dachstein .page-title.category-title,
