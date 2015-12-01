@@ -332,6 +332,10 @@
         {
             $j(".catalog-category-view .page-title.category-title").css("display","none");
         }
+        if($j('body').attr("class").indexOf("category-adventszeit") >= 0)
+        {
+            $j(".catalog-category-view .page-title.category-title").css("display","none");
+        }
         $j( "li.nicetry" ).each(function( index ) {
             if($j(this).find(".product-info .product-name a").html() == "Backyard-Y"){
                 if($j(this).attr("data-order") != 4) {
