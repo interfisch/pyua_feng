@@ -147,7 +147,7 @@ Actions (Warenkorb, Wunschliste, Vergleich entfernt)
     <?php $_collectionSize = $_productCollection->count() ?>
     <?php $_columnCount = $this->getColumnCount(); ?>
     <ul class="products-grid products-grid--max-<?php echo $_columnCount; ?>-col">
-        <?php if ($categoryId == 49): ?>
+        <?php if ($categoryId == 49 || $categoryId == 23 || $categoryId == 13): ?>
             <?php if($date >=  201511282300 && $date <  201512052300):?>
                 <li class="nicetry item first" id="the-1-advent" data-order="1">
                     <a href="http://www.pyua.de/1advent" title="1. ADVENT. I CARE." class="product-image">
