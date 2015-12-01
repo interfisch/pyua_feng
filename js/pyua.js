@@ -332,6 +332,10 @@
         {
             $j(".catalog-category-view .page-title.category-title").css("display","none");
         }
+        if($j('body').attr("class").indexOf("category-2advent") >= 0)
+        {
+            $j(".catalog-category-view .page-title.category-title").css("display","none");
+        }
         if($j('body').attr("class").indexOf("category-adventszeit") >= 0)
         {
             $j(".catalog-category-view .page-title.category-title").css("display","none");

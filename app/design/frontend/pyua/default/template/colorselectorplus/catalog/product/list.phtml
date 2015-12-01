@@ -163,6 +163,21 @@ Actions (Warenkorb, Wunschliste, Vergleich entfernt)
                     </div>
                 </li>
             <?php endif; ?>
+            <?php if($date >=  201512060000 && $date <  201512122300):?>
+                <li class="nicetry item first" id="the-1-advent" data-order="1">
+                    <a href="http://www.pyua.de/2advent" title="2. ADVENT. I CARE." class="product-image">
+                        <img src="http://www.pyua.de/skin/frontend/pyua/default/images/template/1advent.jpg" alt="Das große Gewinnspiel" height="275" width="202"></a>
+                    <div class="product-info">
+                        <h2 class="product-name"><a href="http://www.pyua.de/2advent" title="2. ADVENT. I CARE.">2. ADVENT. I CARE.</a></h2>
+                        <div class="short-description">Das große Gewinnspiel</div>
+                        <div class="price-box">
+                        <span class="regular-price" id="product-price-34">
+                            <span class="price">1.500&nbsp;€</span>
+                        </span>
+                        </div>
+                    </div>
+                </li>
+            <?php endif; ?>
         <?php endif; ?>
         <?php foreach ($_productCollection as $_product): ?>
             <?php /*if ($i++%$_columnCount==0): ?>
