@@ -57,6 +57,7 @@
 @media (min-width: 0) and (max-width: 770px) {
   .catalog-category-view .col-main {
     width: 100%;
+    overflow: hidden;
   }
   .catalog-category-view .col-left {
     display: none;

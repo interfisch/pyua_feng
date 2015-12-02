@@ -363,4 +363,18 @@
             var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
             return regex.test(email);
         }
+        $j('li.level0').click(function(){
+            if($j(this).hasClass('menu-active')){
+                $j(this).find(">ul").css("display","block");
+            }else{
+                $j(this).find(">ul").css("display","none");
+            }
+        });
+        $j('li.level1').click(function(){
+            if($j(this).hasClass('menu-active')){
+                $j(this).find(">ul").css("display","block");
+            }else{
+                $j(this).find(">ul").css("display","none");
+            }
+        });
     });

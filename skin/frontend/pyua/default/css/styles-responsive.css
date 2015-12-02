@@ -102,6 +102,9 @@
     top: inherit;
     width: inherit;
   }
+  #header-nav nav#nav .nav-primary > li > a {
+    padding-left: 25px;
+  }
 
   .skip-link .label {
     display: block;
