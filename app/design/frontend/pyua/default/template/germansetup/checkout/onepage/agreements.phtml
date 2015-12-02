@@ -49,16 +49,17 @@ $agreements = $this->getAgreements();
         <select id="orderCommentSelect" name="oderCommentsSelect">
             <option value=""></option>
             <option value="Facebook">Facebook</option>
-            <option value="Google Suche">Google Suche</option>
             <option value="Freunde">Freunde</option>
+            <option value="bergfex">bergfex.de</option>
+            <option value="schneehoehen">schneehoehen.de</option>
         </select>
+        <div class="checkout-comments-text">
+            <input type="radio" id="google" name="googlesuchen" value="Google Suche mit Suchwort "><label for="googlesuchen" class="google-suche"> Google Suche & Suchwort</label>
+            <input name="google-so" id="google-so">
+        </div>
         <div class="checkout-comments-text">
             <label for="Magazin"><?php echo $this->__('Magazin:'); ?></label>
             <input name="Magazin" id="Magazin">
-        </div>
-        <div class="checkout-comments-text">
-            <label for="Handel"><?php echo $this->__(' Im Handel gesehen:'); ?></label>
-            <input name="Handel" id="Handel">
         </div>
         <div class="checkout-comments-text">
             <label for="Andere"><?php echo $this->__('Andere:'); ?></label>

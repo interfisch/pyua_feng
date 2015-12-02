@@ -12300,11 +12300,22 @@ header span.goToCheckout:hover > a {
 }
 
 .checkout-onepage-index #opc-review .checkout-comments-text label{
-  width: 130px;
+  width: 180px;
 }
 
 .checkout-onepage-index #opc-review .checkout-comments-text input{
   width: 230px;
+}
+
+.checkout-onepage-index #opc-review .checkout-comments-text label.google-suche{
+  width: inherit;
+  margin-left: 8px;
+  margin-right: 5px;
+}
+
+.checkout-onepage-index #opc-review .checkout-comments-text input#google {
+  width: inherit;
+  margin-top: -3px;
 }
 
 .checkout-onepage-index .col-right.sidebar {
