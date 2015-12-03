@@ -353,6 +353,9 @@
             if(isEmail($j("#form_EMAIL").val())) {
                 $j('.catalog-category-view .landing .success-info').css("display", "block");
                 $j('.catalog-category-view .landing .error-info').css("display", "none");
+                $j('#advent1-form').css("display","none");
+                $j('.h1-hidden').css("display","none");
+                $j('.p-hidden').css("display","none");
             }else{
                 $j('.catalog-category-view .landing .success-info').css("display", "none");
                 $j('.catalog-category-view .landing .error-info').css("display", "block");
