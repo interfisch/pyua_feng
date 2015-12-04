@@ -78,6 +78,7 @@
 @media (min-width: 0) and (max-width: 770px) {
   #header {
     min-height: inherit;
+    padding-right: 13px;
   }
 
   .page {
@@ -105,9 +106,19 @@
   #header-nav nav#nav .nav-primary > li > a {
     padding-left: 25px;
   }
+  #header-nav nav#nav .nav-primary li {
+    border-bottom: 1px solid #C0C0C0;
+  }
+  #header-nav nav#nav .nav-primary li:last-child {
+    border-bottom: none;
+  }
 
   .skip-link .label {
     display: block;
+  }
+
+  .skip-link.skip-active, .skip-content.skip-active {
+    background: none;
   }
 
   .skip-links {

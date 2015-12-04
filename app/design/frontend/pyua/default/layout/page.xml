@@ -51,13 +51,13 @@ Default layout, loads most of the pages
                 <action method="addJs"><script>mage/translate.js</script></action>
                 <action method="addJs"><script>mage/cookies.js</script></action>
                 <!-- Font Awesome Icons --> <action method="addCss"><stylesheet>css/font-awesome.min.css</stylesheet></action>
-                <action method="addItem"><type>skin_js</type><name>js/lib/jquery-1.10.2.min.js</name></action>
+                <action method="addJs"><script>jquery-1.10.2.min.js</script></action>
+                <action method="addJs"><script>pyua.js</script></action>
                 <action method="addItem"><type>skin_js</type><name>js/lib/modernizr.custom.min.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/lib/selectivizr.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/lib/matchMedia.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/lib/matchMedia.addListener.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/lib/enquire.js</name></action>
-                <action method="addItem"><type>skin_js</type><name>js/pyua.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/jquery.cycle2.min.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/jquery.cycle2.carousel.min.js</name></action>
 
