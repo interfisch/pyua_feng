@@ -424,6 +424,16 @@
     margin-right: 10px;
     padding-right: 10px;
   }
+
+  #abwrackForm {
+    width: 100% !important;
+    margin-top: 20px;
+  }
+  #abwrackForm .field.intForm label, #abwrackForm .field.intForm span {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+  }
 }
 @media (min-width: 0) and (max-width: 380px) {
   .cms-home #product-list-table .slide-product {
