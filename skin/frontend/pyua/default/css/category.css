@@ -67,7 +67,7 @@
     left: 20px;
   }
   .catalog-category-view .page-title.category-title h1 {
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .catalog-product-view .col-left {
@@ -126,7 +126,7 @@
     left: 25px;
   }
   .catalog-category-view .page-title.category-title h1 {
-    font-size: 24px;
+    display: none;
   }
 
   .catalog-product-view #wrap .cloud-zoom img {
