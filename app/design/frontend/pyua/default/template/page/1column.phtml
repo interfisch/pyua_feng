@@ -86,15 +86,15 @@
 <!-- ENDE  :: Retargeting Markierung -->
 <?php $is_homepage = Mage::getBlockSingleton('page/html_header')->getIsHomePage();?>
 <?php if($is_homepage):?>
-    <?php if($date <  201512060000): ?>
-        <div class="startseite-overlay">
-            <a href="<?php echo Mage::getUrl('adventszeit');?>"><img src="<?php echo $this->getSkinUrl('images/template/Overlay_1.Advent_2.jpg')?>"></a>
-            <span class="overlay-newsletter-close">×</span>
-        </div>
-    <?php endif ; ?>
-    <?php if($date >=  201512060000):?>
+    <?php if($date <  201512130000):?>
         <div class="startseite-overlay">
             <a href="<?php echo Mage::getUrl('adventszeit');?>"><img src="<?php echo $this->getSkinUrl('images/template/Overlay_2.Advent_.jpg')?>"></a>
+            <span class="overlay-newsletter-close">×</span>
+        </div>
+    <?php endif; ?>
+    <?php if($date >=  201512130000):?>
+        <div class="startseite-overlay">
+            <a href="<?php echo Mage::getUrl('adventszeit');?>"><img src="<?php echo $this->getSkinUrl('images/template/Overlay_3.Advent_.jpg')?>"></a>
             <span class="overlay-newsletter-close">×</span>
         </div>
     <?php endif; ?>
