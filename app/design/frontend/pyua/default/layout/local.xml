@@ -36,13 +36,4 @@
             <block type="page/html_breadcrumbs" name="breadcrumbs" as="breadcrumbs"/>
         </reference>
     </default>
-    <catalog_product_view>
-        <reference name="before_body_end">
-            <block type="catalog/product_view" name="media4motion.remarketing">
-                <action method="setTemplate">
-                    <template>media4motion/remarketing/code.phtml</template>
-                </action>
-            </block>
-        </reference>
-    </catalog_product_view>
 </layout>
