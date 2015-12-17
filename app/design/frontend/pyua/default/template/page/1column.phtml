@@ -77,7 +77,6 @@
         <?php echo $this->getChildHtml('footer_before') ?>
         <?php echo $this->getChildHtml('footer') ?>
         <?php echo $this->getChildHtml('global_cookie_notice') ?>
-        <?php echo $this->getChildHtml('before_body_end') ?>
     </div>
 </div>
 <?php echo $this->getAbsoluteFooter() ?>
@@ -96,6 +95,7 @@
         </div>
     <?php endif; ?>
 <?php endif; ?>
+<?php echo $this->getChildHtml('before_body_end') ?>
 </body>
 </html>
 
