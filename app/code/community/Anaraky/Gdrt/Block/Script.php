@@ -222,7 +222,7 @@ class Anaraky_Gdrt_Block_Script extends Mage_Core_Block_Abstract {
             'var google_tag_params = {' . $this->paramsToJS($gcParams) . '};' . PHP_EOL .
             'var google_conversion_id = ' . $gcId . ';' . PHP_EOL .
             (!empty($gcLabel) ? 'var google_conversion_label = "' . $gcLabel . '";' . PHP_EOL : '') .
-            'var google_custom_params = google_tag_params;' . PHP_EOL .
+            'var google_custom_params = window.google_tag_params;' . PHP_EOL .
             'var google_remarketing_only = true;' . PHP_EOL .
             '/* ]]> */' . PHP_EOL .
             '</script>' . PHP_EOL .
