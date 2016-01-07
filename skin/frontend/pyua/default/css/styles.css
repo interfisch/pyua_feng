@@ -10985,7 +10985,7 @@ table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
 
 .startseite-overlay form {
   position: absolute;
-  margin-top: -120px;
+  margin-top: -240px;
   width: 100%;
 }
 
@@ -11003,12 +11003,44 @@ table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
 
 .startseite-overlay form .actions button{
   padding: 5px 15px;
+  margin-left: 8px;
+  height: 53px;
+  width: 120px;
+  margin-top: -3px;
+  border-radius: 0;
+  background: none;
 }
 
 .startseite-overlay form input#newsletter-startseite{
-  width: 245px;
-  height: 30px;
-  margin-left: 50px;
+  width: 355px;
+  height: 50px;
+  margin-left: 112px;
+  color: #000;
+  font-size: 20px;
+  margin-top: 2px;
+}
+
+.startseite-overlay form input#newsletter-startseite::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color:    #000000;
+  font-size: 16px;
+}
+.startseite-overlay form input#newsletter-startseite:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color:    #000000;
+  opacity:  1;
+  font-size: 20px;
+}
+.startseite-overlay form input#newsletter-startseite::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color:    #000000;
+  opacity:  1;
+  font-size: 20px;
+}
+.startseite-overlay form input#newsletter-startseite:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color:    #000000;
+  font-size: 20px;
+}
+.startseite-overlay form input#newsletter-startseite:placeholder-shown { /* Standard (https://drafts.csswg.org/selectors-4/#placeholder) */
+  color:    #000000;
+  font-size: 20px;
 }
 
 .overlay-gallery{
