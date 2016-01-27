@@ -36,7 +36,7 @@
             <block type="page/html_breadcrumbs" name="breadcrumbs" as="breadcrumbs"/>
         </reference>
     </default>
-    <checkout_onepage_index>
+    <checkout_onepage_success>
         <reference name="head">
             <block type="core/text" name="some_name" as="some_name">
                 <action method="setText">
@@ -50,14 +50,13 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','//connect.facebook.net/en_US/fbevents.js');
 
 fbq('init', '342542455870036');
-fbq('track', 'AddPaymentInfo');
-</script>
-<noscript>
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=342542455870036&ev=PageView&noscript=1"/>
-</noscript>
+fbq('track', 'Purchase', {value: '1.00', currency: 'USD'});</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=342542455870036&ev=PageView&noscript=1"
+/></noscript>
 <!-- End Facebook Pixel Code -->]]></text>
                 </action>
             </block>
         </reference>
-    </checkout_onepage_index>
+    </checkout_onepage_success>
 </layout>

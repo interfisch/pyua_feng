@@ -380,4 +380,20 @@
                 $j(this).find(">ul").css("display","none");
             }
         });
+        if($j(".success-msg li span").html() == 'Vielen Dank, dass Du unseren Newsletter abonniert hast. Bitte bestätige Deine Emailadresse über den Link, den wir Dir geschickt haben.'){
+            var text = "<!-- Facebook Pixel Code -->"+"<br/>"
+                +"<script>"+"<br/>"
+                +"!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? "+"<br/>"
+                +"n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n; "+"<br/>"
+                +"n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; "+"<br/>"
+                +"t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, "+"<br/>"
+                +"document,'script','//connect.facebook.net/en_US/fbevents.js');"+"<br/>"
+                +"fbq('init', '342542455870036');"+"<br/>"
+                +"fbq('track', 'CompleteRegistration');</script>"+"<br/>"
+                +"<noscript>"+"<br/>"
+                +'<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=342542455870036&ev=PageView&noscript=1" />'+"<br/>"
+                +"</noscript>"+"<br/>"
+                +"<!-- End Facebook Pixel Code -->";
+            $j('head').append(text);
+        }
     });
