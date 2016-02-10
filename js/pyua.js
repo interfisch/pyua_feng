@@ -250,7 +250,6 @@
             });
         }
         
-        /* LINKS AUF ALLEN SEITEN DEAKTIVIEREN
         $j("#header-nav #nav .nav-primary li.level0.nav-1 a.level0").click(function(e){e.preventDefault();});
         $j("#header-nav #nav .nav-primary li.level0.nav-1 li.level1.nav-1-1 a.level1").click(function(e){e.preventDefault();});
         $j("#header-nav #nav .nav-primary li.level0.nav-1 li.level1.nav-1-2 a.level1").click(function(e){e.preventDefault();});
@@ -267,7 +266,7 @@
         $j("#leftmenu #nav .nav-primary li.level0.nav-2 a.level0").click(function(e){e.preventDefault();});
         $j("#leftmenu .nav-primary li.level0.nav-2 li.level1.nav-2-1 a.level1").click(function(e){e.preventDefault();});
         $j("#leftmenu .nav-primary li.level0.nav-2 li.level1.nav-2-2 a.level1").click(function(e){e.preventDefault();});
-        $j("#leftmenu .nav-primary li.level0.nav-2 li.level1.nav-2-3 a.level1").click(function(e){e.preventDefault();});    */
+        $j("#leftmenu .nav-primary li.level0.nav-2 li.level1.nav-2-3 a.level1").click(function(e){e.preventDefault();});
 
         $j('.nicetry.item').each(function(){
             var orderId = $j(this).attr('data-order');
@@ -375,20 +374,23 @@
             var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
             return regex.test(email);
         }
-        $j('li.level0').click(function(){
-            if($j(this).hasClass('menu-active')){
-                $j(this).find(">ul").css("display","block");
-            }else{
-                $j(this).find(">ul").css("display","none");
-            }
-        });
-        $j('li.level1').click(function(){
-            if($j(this).hasClass('menu-active')){
-                $j(this).find(">ul").css("display","block");
-            }else{
-                $j(this).find(">ul").css("display","none");
-            }
-        });
+        var windowWidth = $j(window).width();
+        if(windowWidth <= 768) {
+            $j('li.level0').click(function () {
+                if ($j(this).hasClass('menu-active')) {
+                    $j(this).find(">ul").css("display", "block");
+                } else {
+                    $j(this).find(">ul").css("display", "none");
+                }
+            });
+            $j('li.level1').click(function () {
+                if ($j(this).hasClass('menu-active')) {
+                    $j(this).find(">ul").css("display", "block");
+                } else {
+                    $j(this).find(">ul").css("display", "none");
+                }
+            });
+        }
         if($j(".success-msg li span").html() == 'Vielen Dank, dass Du unseren Newsletter abonniert hast. Bitte bestätige Deine Emailadresse über den Link, den wir Dir geschickt haben.'){
             var text = "<!-- Facebook Pixel Code -->"+"<br/>"
                 +"<script>"+"<br/>"
