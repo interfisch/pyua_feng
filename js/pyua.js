@@ -304,6 +304,15 @@
             e.preventDefault();
             $j(".startseite-overlay").fadeOut(300);
         });
+
+        $j('body').click(function(evt){
+            if((evt.target.id != "newsletter-startseite") && (evt.target.id != "newsletter-startseite-subscribe"))
+            {
+                $j(".startseite-overlay").fadeOut(300);
+            }
+
+        });
+
         if($j(".success-msg li span").html() == "Bestätigungs-Anfrage wurde gesendet."){
             $j(".startseite-overlay").fadeOut(300);
         }
