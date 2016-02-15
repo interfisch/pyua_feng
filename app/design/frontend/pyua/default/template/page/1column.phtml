@@ -82,27 +82,13 @@
 <?php echo $this->getAbsoluteFooter() ?>
 <?php $is_homepage = Mage::getBlockSingleton('page/html_header')->getIsHomePage();?>
 <?php if($is_homepage):?>
+    <?php if($date >  201602210000): ?>
     <div class="startseite-overlay">
-        <img src="<?php echo $this->getSkinUrl('images/template/15W_250-fuer-NL_Overlay.jpg')?>">
+        <img src="<?php echo $this->getSkinUrl('images/template/15W_160209_Overlay_Wintersale.png')?>">
         <span class="overlay-newsletter-close">×</span>
-        <form action="http://localhost/pyua/index.php/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail-startseite">
-            <div class="block-content">
-                <div class="input-box">
-                    <input type="text" name="email" id="newsletter-startseite" placeholder="<?php echo $this->__('E-Mail Adresse eingeben') ?>" title="<?php echo $this->__('Sign up for our newsletter') ?>" class="input-text required-entry validate-email" />
-                </div>
-                <div class="actions">
-                    <button type="submit" id="newsletter-startseite-subscribe" title="<?php echo $this->__('Subscribe') ?>" class="button"><span><span><?php echo $this->__('') ?></span></span></button>
-                </div>
-            </div>
-        </form>
-        <script type="text/javascript">
-            //<![CDATA[
-            var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail-startseite');
-            //]]>
-        </script>
     </div>
+    <?php endif; ?>
 <?php endif; ?>
-
 <?php echo $this->getChildHtml('before_body_end') ?>
 </body>
 </html>
