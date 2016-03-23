@@ -348,6 +348,10 @@
         {
             $j(".catalog-category-view .page-title.category-title").css("display","none");
         }
+        if($j('body').attr("class").indexOf("category-b2b") >= 0)
+        {
+            $j(".catalog-category-view .page-title.category-title").css("display","none");
+        }
         $j( "li.nicetry" ).each(function( index ) {
             if($j(this).find(".product-info .product-name a").html() == "Backyard-Y"){
                 if($j(this).attr("data-order") != 4) {
@@ -407,4 +411,53 @@
                 +"<!-- End Facebook Pixel Code -->";
             $j('head').append(text);
         }
+
+        var formB2B = '<form id="b2b_form" action=""><input id="b2b_benutzer" type="text" name="benutzer" placeholder="Benutzername"><input id="b2b_pass" type="password" name="passwort" placeholder="Passwort"><input id="b2b_submit" value="Bestätigen" type="submit"></form>'
+
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        }
+
+        $j("#header-nav #nav .nav-primary > li a").on("click", function(event){
+            if($j(this).html() == "B2B"){
+                var cookie_form= readCookie('cookie_name');
+                if(cookie_form == "loginsuccessed"){
+
+                }else{
+                    $j("#header-nav").append(formB2B);
+                    // process the form
+                    $j('#b2b_form').submit(function(event) {
+                        var formData = {
+                            'benutzer'              : $j('input[name=benutzer]').val(),
+                            'passwort'             : $j('input[name=passwort]').val()
+                        };
+
+                        $j.ajax({
+                            type        : 'POST', // define the type of HTTP verb we want to use (POST for our form)
+                            url         : '../process.php', // the url where we want to POST
+                            data        : formData, // our data object
+                            dataType    : 'json' // what type of data do we expect back from the server
+                        })
+                            // using the done promise callback
+                            .done(function(data) {
+                                if (!data.success) {
+                                    alert('Bitte geben Sie Ihre Benutzername oder Passwort ein!'); // for now we'll just alert the user
+                                }else{
+                                    $j("#b2b_form").remove();
+                                    window.location.href = "http://localhost/pyua/b2b";
+                                }
+                            });
+                        event.preventDefault();
+                    });
+                    event.preventDefault();
+                }
+            }
+        });
     });
