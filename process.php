@@ -26,7 +26,7 @@ if (!empty($errors)) {
     // if there are items in our errors array, return those errors
     $data['success'] = false;
     $data['errors']  = $errors;
-} else if($_POST['benutzer'] == "pyuab2b" || $_POST['passwort'] == "pyuab2b"){
+} else if($_POST['benutzer'] == "pyuab2b" && $_POST['passwort'] == "pyuab2b"){
     // if there are no errors process our form, then return a message
 
     // DO ALL YOUR FORM PROCESSING HERE

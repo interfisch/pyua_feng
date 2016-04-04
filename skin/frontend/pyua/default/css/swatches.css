@@ -39,6 +39,7 @@
 	float:left;
 	margin-bottom:4px;
 	margin-right:8px;
+	border-radius: 20px;
 }
 	
 	.swatch:hover{
@@ -78,7 +79,9 @@
     float: left;
     margin-right: 4px;
     margin-bottom: 0px;
-    padding: 0px; }
+    padding: 0px;
+	border-radius: 20px;
+}
     
 .swatch-category:hover{   
 	border-color: #0076b5;

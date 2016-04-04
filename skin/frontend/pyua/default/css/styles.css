@@ -10985,7 +10985,7 @@ table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
 
 .startseite-overlay form {
   position: absolute;
-  margin-top: -247px;
+  margin-top: -277px;
   width: 100%;
 }
 
@@ -11012,35 +11012,36 @@ table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
 }
 
 .startseite-overlay form input#newsletter-startseite{
-  width: 355px;
-  height: 40px;
-  line-height: 40px;
+  width: 313px;
+  height: 36px;
+  line-height: 36px;
   margin-left: 110px;
   color: #000;
   font-size: 20px;
-  margin-top: 2px;
+  margin-top: 3px;
+  opacity: 0.55;
 }
 
 .startseite-overlay form input#newsletter-startseite::-webkit-input-placeholder { /* WebKit, Blink, Edge */
-  color:    #000000;
+  color:    #2D5A2D;
   font-size: 16px;
 }
 .startseite-overlay form input#newsletter-startseite:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-  color:    #000000;
+  color:    #2D5A2D;
   opacity:  1;
   font-size: 20px;
 }
 .startseite-overlay form input#newsletter-startseite::-moz-placeholder { /* Mozilla Firefox 19+ */
-  color:    #000000;
+  color:    #2D5A2D;
   opacity:  1;
   font-size: 20px;
 }
 .startseite-overlay form input#newsletter-startseite:-ms-input-placeholder { /* Internet Explorer 10-11 */
-  color:    #000000;
+  color:    #2D5A2D;
   font-size: 20px;
 }
 .startseite-overlay form input#newsletter-startseite:placeholder-shown { /* Standard (https://drafts.csswg.org/selectors-4/#placeholder) */
-  color:    #000000;
+  color:    #2D5A2D;
   font-size: 20px;
 }
 
@@ -11434,6 +11435,10 @@ outline: 0 none!important;
     top:        80px;
     left:       235px;
     color:      #0077b3;
+}
+
+.catalog-category-view.categorypath-women-ubersicht-sale-sommer .page-title.category-title h1, .catalog-category-view.categorypath-men-ubersicht-sale-sommer .page-title.category-title h1{
+  color:      #ffffff;
 }
 
 .catalog-category-view .page-title.category-title h1{

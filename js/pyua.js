@@ -424,10 +424,17 @@
             }
             return null;
         }
+        var cookie_form= readCookie('cookie_name');
+
+        if (window.location.href.indexOf("b2b") > -1) {
+            if(cookie_form != "loginsuccessed"){
+                $j("#download-area").css("display","none");
+                window.location.href = "http://localhost/pyua";
+            }
+        }
 
         $j("#header-nav #nav .nav-primary > li a").on("click", function(event){
             if($j(this).html() == "B2B"){
-                var cookie_form= readCookie('cookie_name');
                 if(cookie_form == "loginsuccessed"){
 
                 }else{
