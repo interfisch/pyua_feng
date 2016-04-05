@@ -1658,7 +1658,7 @@ color: #636363;
 .news-block .post-entry img{
 	border: 0px solid #b2b2b2;
 	-webkit-border-radius: 0px;
-	border-radius: 0px;
+	border-radius: 7px;
 	-moz-border-radius: 0px;
 }
 
@@ -10354,7 +10354,7 @@ div.calendar table td.button {
  	/*background-image: url('../images/template/pyua-background.jpg');*/
  	background-position: center top;
  	background-repeat: no-repeat;
- 	background-size: auto;
+ 	background-size: 100%;
  	background-attachment: fixed;
  }
  
@@ -10364,8 +10364,8 @@ div.calendar table td.button {
 and (min-width : 1030px) {
  html{
  	background-image: url('../images/template/pyua-background.jpg');
- 	background-position: center top;
  	background-repeat: no-repeat;
+    background-position: center;
  }
 }
 
@@ -11597,9 +11597,9 @@ hr{
 .cms-home div.block-content{width: 950px;}
 
 .cms-home div.featured-image{
-	border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
 	overflow: hidden;
 	border: 1px solid #b2b2b2;
 	height: 200px;
