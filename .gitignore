@@ -100,3 +100,4 @@ skin/frontend/pyua/default/css/Gruntfile.js
 skin/frontend/pyua/default/css/package.json
 back/
 /soap_test.php
+process.php
