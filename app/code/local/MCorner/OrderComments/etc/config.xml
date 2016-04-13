@@ -5,6 +5,21 @@
             <version>0.1.0</version>
         </MCorner_Ordercomments>
     </modules>
+    <adminhtml>
+        <cms>
+            <browser>
+                <extensions>
+                    <allowed>
+                        <jpg>1</jpg>
+                        <jpeg>1</jpeg>
+                        <png>1</png>
+                        <gif>1</gif>
+                        <pdf>1</pdf>
+                    </allowed>
+                </extensions>
+            </browser>
+        </cms>
+    </adminhtml>
     <frontend>
         <events>
             <checkout_type_onepage_save_order>

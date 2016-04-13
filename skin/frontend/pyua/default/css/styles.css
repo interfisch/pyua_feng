@@ -8340,6 +8340,13 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
   margin-bottom: 45px;
 }
 
+.dashboard .box-account .icon-pdf a{
+  background: url('../images/template/icon_pdf.png') no-repeat top left;
+  padding-left: 30px;
+  display:block;
+  height: 25px;
+  line-height: 25px;
+}
 
 .dashboard .box-account p,
 .dashboard .box-account address {
