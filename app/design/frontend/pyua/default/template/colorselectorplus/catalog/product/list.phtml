@@ -147,40 +147,6 @@ Actions (Warenkorb, Wunschliste, Vergleich entfernt)
     <?php $_collectionSize = $_productCollection->count() ?>
     <?php $_columnCount = $this->getColumnCount(); ?>
     <ul class="products-grid products-grid--max-<?php echo $_columnCount; ?>-col">
-        <?php if ($categoryId == 24 || $categoryId == 51 || $categoryId == 17 || $categoryId == 14): ?>
-            <?php if($date >=  201512130000 && $date <  201512192300):?>
-                <li class="nicetry item first" id="the-1-advent" data-order="1">
-                    <a href="http://www.pyua.de/3advent" title="3. ADVENT. I CARE." class="product-image">
-                        <img src="http://www.pyua.de/skin/frontend/pyua/default/images/template/3advent.jpg" alt="Das große Gewinnspiel" height="275" width="202"></a>
-                    <div class="product-info">
-                        <h2 class="product-name"><a href="http://www.pyua.de/3advent" title="1. ADVENT. I CARE.">3. ADVENT. I CARE.</a></h2>
-                        <div class="short-description">Das große Gewinnspiel</div>
-                        <div class="price-box">
-                        <span class="regular-price" id="product-price-34">
-                            <span class="price">1.500&nbsp;€</span>
-                        </span>
-                        </div>
-                    </div>
-                </li>
-            <?php endif; ?>
-        <?php endif; ?>
-        <?php if ($categoryId == 52 || $categoryId == 50 || $categoryId == 18 || $categoryId == 61): ?>
-            <?php if($date >=  201512200000):?>
-                <li class="nicetry item first" id="the-2-advent" data-order="1">
-                    <a href="http://www.pyua.de/4advent" title="2. ADVENT. I CARE." class="product-image">
-                        <img src="http://www.pyua.de/skin/frontend/pyua/default/images/template/4advent.jpg" alt="Das große Gewinnspiel" height="275" width="202"></a>
-                    <div class="product-info">
-                        <h2 class="product-name"><a href="http://www.pyua.de/4advent" title="4. ADVENT. I CARE.">4. ADVENT. I CARE.</a></h2>
-                        <div class="short-description">Das große Gewinnspiel</div>
-                        <div class="price-box">
-                        <span class="regular-price" id="product-price-34">
-                            <span class="price">1.500&nbsp;€</span>
-                        </span>
-                        </div>
-                    </div>
-                </li>
-            <?php endif; ?>
-        <?php endif; ?>
         <?php foreach ($_productCollection as $_product): ?>
             <?php /*if ($i++%$_columnCount==0): ?>
             <?php endif*/ ?>

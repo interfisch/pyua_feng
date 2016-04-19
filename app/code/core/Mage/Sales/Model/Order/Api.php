@@ -157,7 +157,6 @@ class Mage_Sales_Model_Order_Api extends Mage_Sales_Model_Api_Resource
         foreach ($order->getAllStatusHistory() as $history) {
             $result['status_history'][] = $this->_getAttributes($history, 'order_status_history');
         }
-
         return $result;
     }
 
