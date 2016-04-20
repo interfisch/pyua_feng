@@ -105,6 +105,23 @@
   }
 }
 @media (min-width: 0) and (max-width: 770px) {
+  .my-account .addresses-list .col-1 h3 {
+    font-size: 16px;
+  }
+  .my-account .addresses-list .col-2 h3 {
+    font-size: 16px;
+  }
+
+  .col-left #leftmenu p {
+    display: none;
+  }
+  .col-left #leftmenu .block {
+    margin-bottom: 0px;
+  }
+  .col-left #leftmenu .block-title {
+    margin-bottom: 0;
+  }
+
   .customer-account-login .col2-set .col-1, .customer-account-login .col2-set .col-2 {
     margin-top: 0px;
   }
@@ -137,7 +154,9 @@
   }
   .customer-account-index .col-left #leftmenu .block-cart {
     display: inline-block;
-    margin-top: 15px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    width: 100%;
   }
   .customer-account-index .col-main {
     padding-right: 0;
@@ -154,7 +173,9 @@
   }
   .customer-address-index .col-left #leftmenu .block-cart {
     display: inline-block;
-    margin-top: 15px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    width: 100%;
   }
   .customer-address-index .col-main {
     padding-right: 0;
@@ -179,7 +200,9 @@
   }
   .customer-account-edit .col-left #leftmenu .block-cart {
     display: inline-block;
-    margin-top: 15px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    width: 100%;
   }
 
   .customer-address-form .col-left #leftmenu {
@@ -194,7 +217,9 @@
   }
   .customer-address-form .col-left #leftmenu .block-cart {
     display: inline-block;
-    margin-top: 15px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    width: 100%;
   }
   .customer-address-form .col-main ul.form-list li.fields {
     display: inline-block;
@@ -211,7 +236,9 @@
   }
   .sales-billing-agreement-index .col-left #leftmenu .block-cart, .sales-recurring-profile-index .col-left #leftmenu .block-cart, .review-customer-index .col-left #leftmenu .block-cart, .wishlist-index-index .col-left #leftmenu .block-cart, .oauth-customer-token-index .col-left #leftmenu .block-cart, .newsletter-manage-index .col-left #leftmenu .block-cart, .downloadable-customer-products .col-left #leftmenu .block-cart {
     display: inline-block;
-    margin-top: 15px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    width: 100%;
   }
 
   .sales-order-history .col-left #leftmenu {
@@ -225,7 +252,9 @@
   }
   .sales-order-history .col-left #leftmenu .block-cart {
     display: inline-block;
-    margin-top: 15px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    width: 100%;
   }
 }
 @media (min-width: 0) and (max-width: 479px) {

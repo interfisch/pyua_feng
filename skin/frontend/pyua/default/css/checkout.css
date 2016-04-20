@@ -13,6 +13,12 @@
   }
 }
 @media (min-width: 0) and (max-width: 770px) {
+  #checkout-step-login .col-2, #checkout-step-login .col-1 {
+    height: 350px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
   .checkout-onepage-index #checkout-step-billing li.control {
     width: 100%;
     height: inherit;
@@ -41,6 +47,11 @@
   }
 }
 @media (min-width: 0) and (max-width: 479px) {
+  #checkout-step-login .col-2, #checkout-step-login .col-1 {
+    width: 100%;
+    margin-left: 0;
+  }
+
   .checkout-onepage-index #checkout-step-billing .field, .checkout-onepage-index #checkout-step-shipping .field {
     width: 100%;
   }

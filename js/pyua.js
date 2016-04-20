@@ -74,18 +74,49 @@
          * Description:     bei Hover über ein sword class span wird die Funktion SshowDescription ausgeführt
          */
         $j('span.sword').mouseover(function(){
-            SshowDescription(this);
-            $j(this).delay(600).queue(function(next) {
-                $j(this).addClass("active");
-                next();
-            });
+            var windowWidth = $j(window).width();
+            if(windowWidth >= 990) {
+                SshowDescription(this);
+                $j(this).delay(600).queue(function (next) {
+                    $j(this).addClass("active");
+                    next();
+                });
+            }
         }).mouseout(function(){
-            $j('.t1_SText').fadeOut().html("");
-            $j('.t2_SText').fadeOut().html("");
-            $j('.t3_SText').fadeOut().html("");
-            $j(this).removeClass("active");
+            var windowWidth = $j(window).width();
+            if(windowWidth >= 990) {
+                $j('.t1_SText').fadeOut().html("");
+                $j('.t2_SText').fadeOut().html("");
+                $j('.t3_SText').fadeOut().html("");
+                $j(this).removeClass("active");
+            }
         });
 
+        $j('span.sword').click(function(){
+            var windowWidth = $j(window).width();
+            if(windowWidth < 990) {
+                $j('.t1_SText').fadeOut().html("");
+                $j('.t2_SText').fadeOut().html("");
+                $j('.t3_SText').fadeOut().html("");
+                $j(".pyua_produkttabelle span").removeClass("active");
+                SshowDescription(this);
+                $j(this).queue(function (next) {
+                    $j(this).addClass("active");
+                    next();
+                });
+            }
+        })
+        $(document).click(function(event) {
+            if (!$(event.target).closest(".pyua_produkttabelle").length) {
+                var windowWidth = $j(window).width();
+                if(windowWidth < 990) {
+                    $j('.t1_SText').fadeOut().html("");
+                    $j('.t2_SText').fadeOut().html("");
+                    $j('.t3_SText').fadeOut().html("");
+                    $j(".pyua_produkttabelle span").removeClass("active");
+                }
+            }
+        });
     }
     /*
      *  Description: Generiert das Array mit den jeweiligen Begriffen und Texten

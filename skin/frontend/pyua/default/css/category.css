@@ -39,11 +39,17 @@
   table.pyua_produkttabelle .attr_produktfeatures .t3_SText {
     bottom: 276px;
   }
+  table.pyua_produkttabelle .attr_produktfeatures .sword.active strong {
+    color: #5dc8fe;
+  }
   table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
     display: none;
   }
   table.pyua_produkttabelle .attr_produktinfos .t2_SText {
     bottom: 276px;
+  }
+  table.pyua_produkttabelle .attr_produktinfos .sword.active strong {
+    color: #5dc8fe;
   }
   table.pyua_produkttabelle .attr_produktinfos .sword.active:hover::before {
     display: none;
@@ -55,6 +61,9 @@
   }
 }
 @media (min-width: 0) and (max-width: 770px) {
+  .catalog-category-view #leftmenu {
+    display: none;
+  }
   .catalog-category-view .col-main {
     width: 100%;
     overflow: hidden;
@@ -92,6 +101,9 @@
     margin-right: 15px;
     z-index: 1000;
   }
+  table.pyua_produkttabelle .attr_produktfeatures .sword.active strong {
+    color: #5dc8fe;
+  }
   table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
     display: none;
   }
@@ -102,6 +114,9 @@
     margin-right: 15px;
     border-radius: 5px;
     z-index: 1000;
+  }
+  table.pyua_produkttabelle .attr_produktinfos .sword.active strong {
+    color: #5dc8fe;
   }
   table.pyua_produkttabelle .attr_produktinfos .sword.active:hover::before {
     display: none;
@@ -134,13 +149,13 @@
   }
 
   table.pyua_produkttabelle .attr_produktfeatures .t3_SText {
-    bottom: 386px;
+    bottom: 536px;
   }
   table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
     display: none;
   }
   table.pyua_produkttabelle .attr_produktinfos .t2_SText {
-    bottom: 386px;
+    bottom: 536px;
   }
 
   .overlay-gallery-img {
