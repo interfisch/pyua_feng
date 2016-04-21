@@ -92,6 +92,11 @@
   }
 }
 @media (min-width: 0) and (max-width: 770px) {
+  .wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   #header {
     min-height: inherit;
     padding-right: 13px;
@@ -99,6 +104,7 @@
 
   .page {
     width: inherit;
+    margin: 0;
   }
 
   .logo {
@@ -124,9 +130,17 @@
   }
   #header-nav nav#nav .nav-primary li {
     border-bottom: 1px solid #C0C0C0;
+    display: block;
+    width: 100%;
+    line-height: 35px;
   }
   #header-nav nav#nav .nav-primary li:last-child {
     border-bottom: none;
+  }
+  #header-nav nav#nav .nav-primary li a {
+    display: block;
+    width: 100%;
+    height: 100%;
   }
 
   .skip-link .label {
@@ -415,10 +429,6 @@
   .header-minicart .skip-cart span.book {
     display: none;
   }
-  .header-minicart .skip-cart span.book.count {
-    display: block;
-    margin-top: -20px;
-  }
   .header-minicart .skip-cart .small-show {
     display: inline;
     margin-left: 5px;
@@ -431,7 +441,7 @@
 
   .header-minicart #header-cart {
     left: -10px;
-    top: 60px;
+    top: 40px;
     padding-top: 25px;
   }
 

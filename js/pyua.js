@@ -280,7 +280,7 @@
                 }
             });
         }
-        
+
         $j("#header-nav #nav .nav-primary li.level0.nav-1 a.level0").click(function(e){e.preventDefault();});
         $j("#header-nav #nav .nav-primary li.level0.nav-1 li.level1.nav-1-1 a.level1").click(function(e){e.preventDefault();});
         $j("#header-nav #nav .nav-primary li.level0.nav-1 li.level1.nav-1-2 a.level1").click(function(e){e.preventDefault();});
@@ -410,7 +410,7 @@
             return regex.test(email);
         }
         var windowWidth = $j(window).width();
-        if(windowWidth <= 768) {
+        if(windowWidth <= 770) {
             $j('li.level0').click(function () {
                 if ($j(this).hasClass('menu-active')) {
                     $j(this).find(">ul").css("display", "block");
