@@ -1,17 +1,18 @@
 <?xml version="1.0"?>
 <config>
-<modules>
-    <MCorner_Sales>
-        <version>0.1.0</version>
-    </MCorner_Sales>
-</modules>
-<global>
-    <models>
-        <sales>
-            <rewrite>
-                <order>MCorner_Sales_Model_Order</order>
-            </rewrite>
-        </sales>
-    </models>
-</global>
+    <modules>
+        <MCorner_Sales>
+            <version>0.1.0</version>
+        </MCorner_Sales>
+    </modules>
+    <global>
+        <models>
+            <sales>
+                <rewrite>
+                    <order>MCorner_Sales_Model_Order</order>
+                    <order_api>MCorner_Sales_Model_Order_Api</order_api>
+                </rewrite>
+            </sales>
+        </models>
+    </global>
 </config>
