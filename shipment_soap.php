@@ -5,7 +5,7 @@ $proxyUrl = 'http://localhost/pyua/index.php/api/v2_soap/?wsdl'; // TODO : chang
 $proxy = new SoapClient($proxyUrl);
 $sessionId = $proxy->login('feng', '556656');
 
-$result = $proxy->salesOrderInfo($sessionId, '100001163');
-print_r($result);
+$result = $proxy->salesOrderInfo($sessionId, '100001159');
+print_r($result->items);
 ?>
 
