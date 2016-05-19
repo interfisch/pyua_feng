@@ -106,17 +106,6 @@
                 });
             }
         })
-        $(document).click(function(event) {
-            if (!$(event.target).closest(".pyua_produkttabelle").length) {
-                var windowWidth = $j(window).width();
-                if(windowWidth < 990) {
-                    $j('.t1_SText').fadeOut().html("");
-                    $j('.t2_SText').fadeOut().html("");
-                    $j('.t3_SText').fadeOut().html("");
-                    $j(".pyua_produkttabelle span").removeClass("active");
-                }
-            }
-        });
     }
     /*
      *  Description: Generiert das Array mit den jeweiligen Begriffen und Texten
@@ -245,6 +234,16 @@
         $j(Target).stop().html( "<span class='img'></span>" );
         $j(Target).stop().find('.img').html(Content);
         $j(Target).stop().append("<span class='text'>"+SWord[1][Class[1]]+"</span>");
+        var windowWidth = $j(window).width();
+        if(windowWidth < 990) {
+            $j(Target).stop().append('<span class="sword-close">×</span>');
+            $j('.sword-close').click(function() {
+                $j('.t1_SText').fadeOut().html("");
+                $j('.t2_SText').fadeOut().html("");
+                $j('.t3_SText').fadeOut().html("");
+                $j(".pyua_produkttabelle span").removeClass("active");
+            });
+        }
         $j(Target).stop().fadeIn(300);
     }
 

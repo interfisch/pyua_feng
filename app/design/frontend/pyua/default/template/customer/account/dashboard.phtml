@@ -32,6 +32,11 @@
     <?php echo $this->getChildHtml('hello') ?>
     <?php echo $this->getChildHtml('top') ?>
     <div class="box-account box-info">
+        <div class="icon-pdf">
+            <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('retourenschein')->toHtml() ?>
+        </div>
+    </div>
+    <div class="box-account box-info">
         <div class="box-head">
             <h2><?php echo $this->__('Account Information') ?></h2>
         </div>
@@ -42,9 +47,4 @@
     <?php echo $this->getChildHtml('address') ?>
     <?php echo $this->getChildHtml('info1') ?>
     <?php echo $this->getChildHtml('info2') ?>
-    <div class="box-account box-info">
-        <div class="icon-pdf">
-            <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('retourenschein')->toHtml() ?>
-        </div>
-    </div>
 </div>

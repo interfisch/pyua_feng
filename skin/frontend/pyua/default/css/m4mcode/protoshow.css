@@ -5,11 +5,11 @@
 .protoshow,
 .protoshow .show {
 	position: relative;
-	margin: 0 0 0 -28px;
+	margin: 0 0 0 -30px;
 	padding: 0;
 	list-style: none;
 	width: 990px;
-	height: 295px;
+	height: auto;
 	overflow: hidden;
 }
 
@@ -18,13 +18,19 @@
 	top: 0;
 	left: 0;
 	z-index: 90;
-	height: 100%;
+	width: 100%;
 }
 
-.slide p{
-	height: 296px;
-	width: 990px;
+.slide img{
+	height: auto;
+	width: 100%;
 	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+
+.slide .hidden-lg{
+	display: none;
 }
 
 .active-slide {
@@ -142,7 +148,6 @@ min-width: 100%;
 
 #myshow1{
 	position: relative;
-	left: -2px;
 	z-index: 1;
 }
 
@@ -226,6 +231,7 @@ div.col-main .show strong{
 	bottom: 10px;
 	width: 100%;
 	text-align: center;
+	z-index: 1000;
 }
 
 .protoshow .cycle-pager span{

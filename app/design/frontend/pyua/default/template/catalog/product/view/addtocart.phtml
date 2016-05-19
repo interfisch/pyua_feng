@@ -32,6 +32,11 @@
         <div class="qty-wrapper">
             <label for="qty"><?php echo $this->__('Qty:') ?></label>
             <input type="text" pattern="\d*" name="qty" id="qty" maxlength="12" value="<?php echo max($this->getProductDefaultQty() * 1, 1) ?>" title="<?php echo $this->__('Qty') ?>" class="input-text qty" />
+            <div class="price-info">
+                <?php echo $this->getPriceHtml($_product); ?>
+                <?php echo $this->getChildHtml('bundle_prices') ?>
+                <?php echo $this->getTierPriceHtml() ?>
+            </div>
         </div>
         <?php endif; ?>
         <div class="add-to-cart-buttons">

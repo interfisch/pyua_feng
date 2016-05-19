@@ -11018,7 +11018,7 @@ table.pyua_produkttabelle .attr_produktfeatures .sword.active:hover::before {
   color: #000;
   font-size: 20px;
   margin-top: 3px;
-  opacity: 0.55;
+  opacity: 0.7;
 }
 
 .startseite-overlay form input#newsletter-startseite::-webkit-input-placeholder { /* WebKit, Blink, Edge */
