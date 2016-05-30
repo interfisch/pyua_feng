@@ -139,8 +139,8 @@ class Mage_Sales_Model_Order_Api extends Mage_Sales_Model_Api_Resource
         $result['shipping_address'] = $this->_getAttributes($order->getShippingAddress(), 'order_address');
         $result['billing_address']  = $this->_getAttributes($order->getBillingAddress(), 'order_address');
         $result['items'] = array();
-
-        foreach ($order->getAllItems() as $item) {
+        $cunt = 0;
+        foreach ($order->getAllVisibleItems() as $item) {
             if ($item->getGiftMessageId() > 0) {
                 $item->setGiftMessage(
                     Mage::getSingleton('giftmessage/message')->load($item->getGiftMessageId())->getMessage()
@@ -148,6 +148,9 @@ class Mage_Sales_Model_Order_Api extends Mage_Sales_Model_Api_Resource
             }
 
             $result['items'][] = $this->_getAttributes($item, 'order_item');
+            $resultSimpleName = $order->getAllInVisibleItems();
+            $result['items'][$cunt]["name"] = $resultSimpleName[$cunt]->getProduct()->getName();
+            $cunt++;
         }
 
         $result['payment'] = $this->_getAttributes($order->getPayment(), 'order_payment');

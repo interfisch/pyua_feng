@@ -60,7 +60,7 @@ Default layout, loads most of the pages
                 <action method="addItem"><type>skin_js</type><name>js/lib/enquire.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/jquery.cycle2.min.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/jquery.cycle2.carousel.min.js</name></action>
-
+                <action method="addItem"><type>skin_js</type><name>js/app.js</name></action>
 
                 <block type="page/js_cookie" name="js_cookies" template="page/js/cookie.phtml"/>
 
@@ -160,7 +160,7 @@ Default layout, loads most of the pages
         <label>All Pages (Print Version)</label>
         <!-- Mage_Page -->
         <block type="page/html" name="root" output="toHtml" template="page/print.phtml">
-
+            <block type="page/html_header" name="header" as="header"/>
             <block type="page/html_head" name="head" as="head">
                 <action method="addJs"><script>prototype/prototype.js</script></action>
                 <action method="addJs"><script>mage/translate.js</script></action>

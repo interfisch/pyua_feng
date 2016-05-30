@@ -3990,6 +3990,7 @@ padding-left: 4px;
 
 div.pyua-news{
   position: relative;
+  padding-left: 10px;
 }
 
 a#news-archiv-link{
@@ -8340,6 +8341,14 @@ body.customer-account .sidebar .block-reorder ol#cart-sidebar-reorder p.product-
   margin-bottom: 45px;
 }
 
+.dashboard .box-account .icon-pdf a {
+  background: url('../images/template/icon_pdf.png') no-repeat top left;
+  padding-left: 30px;
+  display: block;
+  height: 25px;
+  line-height: 25px;
+}
+
 
 .dashboard .box-account p,
 .dashboard .box-account address {
@@ -8658,7 +8667,11 @@ ol#cart-sidebar-reorder p.product-name {
   }
   .dashboard .box-account {
     padding-bottom: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
+  }
+  .dashboard .box-account .icon-pdf a {
+    height: inherit;
+    line-height: inherit;
   }
   .dashboard .col2-set .col-1,
   .dashboard .col2-set .col-2 {
@@ -8736,7 +8749,7 @@ ol#cart-sidebar-reorder p.product-name {
   .dashboard .col2-set .col-1 .box-title a,
   .dashboard .col2-set .col-2 .box-title a {
     position: absolute;
-    padding: 10px;
+    padding: 0px;
   }
 
   .order-info-box {
@@ -11427,8 +11440,7 @@ outline: 0 none!important;
 .cms-page-view .page-title h1{
     color:      #0077b3;
 }
-.catalog-category-view .page-title.category-title,
-.cms-page-view .page-title{
+.catalog-category-view .page-title.category-title{
     display:    block;
     position:   absolute;
     top:        80px;
@@ -11637,6 +11649,8 @@ hr{
 
 .cms-home #product-list-table .slide-product{
   width: 930px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .cms-home #product-list-table .tax-details,
@@ -11797,6 +11811,7 @@ div.minicart-wrapper .empty{
 div#dropdown{
 
   clear: both;
+  padding: 0 10px;
 }
 
 
@@ -11822,7 +11837,7 @@ div.pyua-news .entry{
 
 div#dropdown h1{
   background-color: #e3e6e7;
-  border-radius: 5px;
+  border-radius: 0px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   display: block;

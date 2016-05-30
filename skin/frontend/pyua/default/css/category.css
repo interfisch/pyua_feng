@@ -5,6 +5,17 @@
   margin-right: 0px;
 }
 
+.catalog-category-view .cms-left, .catalog-category-view .cms-right {
+  width: 50%;
+  float: left;
+}
+.catalog-category-view .cms-left img, .catalog-category-view .cms-right img {
+  max-width: 100%;
+}
+.catalog-category-view .cms-right {
+  margin-top: 30px;
+}
+
 @media (min-width: 771px) and (max-width: 989px) {
   .catalog-category-view .col-main {
     width: 78%;
@@ -20,15 +31,9 @@
     font-size: 30px;
   }
   .catalog-category-view table {
-    width: 100%;
     height: inherit;
-    display: block;
   }
   .catalog-category-view table tbody {
-    width: 100%;
-    display: block;
-  }
-  .catalog-category-view table tbody tr {
     width: 100%;
     display: block;
   }
@@ -120,17 +125,18 @@
   }
   .catalog-category-view .page-title.category-title h1 {
     font-size: 20px;
+    color: #0077b3 !important;
   }
   .catalog-category-view .category-products .toolbar:last-child {
     display: none;
   }
   .catalog-category-view img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
   }
   .catalog-category-view img.swatch-category {
-    width: 35px;
-    height: 35px;
+    width: 25px;
+    height: 25px;
   }
   .catalog-category-view .closed-loop-table tr td {
     padding-right: 5px;
@@ -145,10 +151,6 @@
   .catalog-category-view #haendlersuche .mod_cataloglist {
     margin-left: 0;
     margin-top: 20px;
-  }
-  .catalog-category-view #haendlersuche .mod_cataloglist .layout_singleitem td {
-    min-width: 80px;
-    width: inherit;
   }
   .catalog-category-view .category-description.std {
     padding-left: 0;
@@ -188,22 +190,40 @@
     width: 100%;
     display: inline-block;
   }
-  .catalog-category-view .groessen-tabelle {
+  .catalog-category-view .rahmen img {
+    float: left !important;
+    margin-top: 0 !important;
+  }
+  .catalog-category-view .groessen-tabelle, .catalog-category-view .layout_simpletable {
     width: 100%;
     display: block;
     overflow-y: auto;
   }
-  .catalog-category-view .groessen-tabelle tbody {
+  .catalog-category-view .groessen-tabelle tbody, .catalog-category-view .layout_simpletable tbody {
     width: 100%;
     display: block;
   }
-  .catalog-category-view .groessen-tabelle tbody tr {
+  .catalog-category-view .mod_cataloglist .layout_singleitem tr {
     width: 100%;
-    display: block;
+    display: inline-block;
+  }
+  .catalog-category-view .mod_cataloglist .layout_singleitem tr td {
+    width: 33.3%;
+    float: left;
   }
   .catalog-category-view iframe {
     width: 100% !important;
     height: 300px;
+  }
+  .catalog-category-view .rightElement img {
+    width: auto;
+    margin: 0 auto;
+  }
+  .catalog-category-view .cms-left, .catalog-category-view .cms-right {
+    height: inherit;
+  }
+  .catalog-category-view .cms-left img, .catalog-category-view .cms-right img {
+    margin-top: 30px;
   }
 
   .catalog-product-view .col-left {
@@ -303,18 +323,20 @@
   .toolbar .pager .pages {
     min-width: 130px;
   }
+
+  table.tablealigntop img {
+    max-width: inherit;
+    width: 45px;
+  }
+  table.tablealigntop tr td:first-child {
+    padding-right: 10px;
+  }
 }
 @media (min-width: 0) and (max-width: 479px) {
   .catalog-category-view .page-title.category-title {
-    top: 40px;
-    left: 25px;
-  }
-  .catalog-category-view .page-title.category-title h1 {
-    display: none;
-  }
-  .catalog-category-view #haendlersuche .mod_cataloglist .layout_singleitem {
-    height: auto;
-    overflow: visible;
+    top: inherit;
+    left: inherit;
+    position: inherit;
   }
   .catalog-category-view .closed-loop-table img {
     width: 40px;
@@ -354,8 +376,20 @@
   .catalog-category-view iframe {
     height: 240px;
   }
+  .catalog-category-view .cms-left, .catalog-category-view .cms-right {
+    width: 100%;
+  }
 
   .catalog-product-view #wrap .cloud-zoom img {
+    width: 100%;
+  }
+  .catalog-product-view .box-collateral ul#upsell-product-table li {
+    width: 50%;
+  }
+  .catalog-product-view .box-collateral ul#upsell-product-table li a {
+    width: 100%;
+  }
+  .catalog-product-view .box-collateral ul#upsell-product-table li a img {
     width: 100%;
   }
 
@@ -383,6 +417,18 @@
 }
 @media (min-width: 0) and (max-width: 360px) {
   .products-grid > li {
+    width: 100%;
+  }
+  .products-grid > li img.swatch-category {
+    width: 35px;
+    height: 35px;
+  }
+
+  .catalog-category-view .mod_cataloglist .layout_singleitem {
+    height: inherit;
+    overflow: inherit;
+  }
+  .catalog-category-view .mod_cataloglist .layout_singleitem tr td {
     width: 100%;
   }
 }

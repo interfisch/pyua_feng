@@ -2,9 +2,13 @@
   display: none;
 }
 
+.hidden-lg {
+  display: none;
+}
+
 @media (min-width: 771px) and (max-width: 989px) {
   .startseite-overlay .overlay-newsletter-close {
-    margin-left: 340px;
+    margin-left: 44%;
   }
 
   #header-nav {
@@ -103,6 +107,10 @@
     height: auto;
     overflow: hidden;
   }
+  .protoshow .hidden-xs.link,
+  .protoshow .show .hidden-xs.link {
+    bottom: 40px !important;
+  }
 }
 @media (min-width: 0) and (max-width: 770px) {
   .wrapper {
@@ -178,6 +186,10 @@
 
   .skip-cart.no-count .count {
     display: block;
+    float: left;
+    width: 60px;
+    margin-top: -20px;
+    margin-left: 30px;
   }
 
   #header-account {
@@ -233,7 +245,8 @@
   .header-minicart .skip-cart {
     padding-left: 30px;
     position: relative;
-    min-width: 200px;
+    min-width: 105px;
+    width: inherit;
     left: inherit;
     top: inherit;
   }
@@ -244,8 +257,10 @@
 
   .header-minicart .pyua-count {
     float: left;
-    margin-left: 5px;
+    margin-left: 45px;
     font-weight: bold;
+    margin-top: -20px;
+    width: 55px;
   }
 
   .minicart a.my-minicart-button {
@@ -365,6 +380,7 @@
 
   .secondrow ul li.newsletter {
     border-right: 0;
+    width: 500px;
   }
 
   .secondrow ul li.impress {
@@ -376,6 +392,52 @@
   }
 
   .startseite-overlay {
+    display: none;
+  }
+
+  .protoshow .hidden-xs.link,
+  .protoshow .show .hidden-xs.link {
+    bottom: 30px !important;
+  }
+  .protoshow .hidden-xs.link.left,
+  .protoshow .show .hidden-xs.link.left {
+    margin-left: 205px !important;
+  }
+  .protoshow .hidden-xs.link.right,
+  .protoshow .show .hidden-xs.link.right {
+    margin-left: 30px !important;
+  }
+
+  .wordpress-post-view .post-entry-with-image {
+    display: inline-block;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+  .wordpress-post-view .post-entry-with-image .featured-image {
+    width: 100%;
+    margin: 0 0 20px;
+  }
+  .wordpress-post-view .post-entry-with-image p {
+    width: 100%;
+    float: left;
+    margin-bottom: 0;
+  }
+  .wordpress-post-view #leftmenu {
+    cursor: pointer;
+    padding-left: 10px;
+  }
+  .wordpress-post-view #leftmenu nav {
+    display: none;
+  }
+  .wordpress-post-view #leftmenu hr {
+    display: none;
+  }
+
+  #dropdown.hidden-lg {
+    display: block;
+  }
+
+  #dropdown.hidden-xs {
     display: none;
   }
 }
@@ -517,15 +579,22 @@
     margin: 0 auto;
   }
 
-  .slide .hidden-xs {
+  .hidden-xs {
     display: none;
   }
 
-  .slide .hidden-lg {
+  .hidden-lg {
     display: block;
   }
 
   .protoshow .center {
     top: 45%;
+  }
+
+  .wordpress-post-view .post-entry-with-image .featured-image img {
+    max-width: 100%;
+  }
+  .wordpress-post-view #leftmenu {
+    padding-left: 0px;
   }
 }
