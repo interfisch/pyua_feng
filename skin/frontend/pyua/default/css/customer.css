@@ -1,6 +1,11 @@
 .block .actions .button {
   float: left;
 }
+.block .actions .button.btn-cart {
+  display: inline-block;
+  width: 140px;
+  white-space: normal;
+}
 
 .customer-account-edit .col-main ul.form-list li {
   display: inline-block;

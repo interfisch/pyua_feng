@@ -5,7 +5,7 @@
 <?php $timeOut = 5000; ?>
 <?php endif; ?>
 <div id="myshow1" class="protoshow for-stop">
-	<ul class="cycle-slideshow" data-cycle-slides=".slide" data-cycle-fx=scrollHorz data-cycle-timeout=<?php echo $timeOut; ?> data-cycle-pause-on-hover=".for-stop" data-cycle-carousel-visible=1 data-cycle-next="#next" data-cycle-prev="#prev" data-cycle-pager="#pager" data-cycle-pager-template="<span></span>">
+	<ul class="cycle-slideshow" data-cycle-slides=".slide" data-cycle-fx=scrollHorz data-cycle-timeout=<?php echo 0; ?> data-cycle-pause-on-hover=".for-stop" data-cycle-carousel-visible=1 data-cycle-next="#next" data-cycle-prev="#prev" data-cycle-pager="#pager" data-cycle-pager-template="<span></span>">
 		<?php
 		$staticBlockSlide01 = Mage::getModel('cms/block')->load('slide1');
 		if($staticBlockSlide01->getIsActive() == 1) { ?>

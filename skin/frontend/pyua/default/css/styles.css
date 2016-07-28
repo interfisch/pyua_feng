@@ -8179,8 +8179,10 @@ body:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section#opc-l
 
 
 .my-account #my-orders-table{
-text-transform: none!important;
-font-size: 12px;
+  text-transform: none!important;
+  font-size: 12px;
+  display: block;
+  overflow-y: auto;
 }
 
 body.customer-account #my-orders-table td a {
